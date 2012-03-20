@@ -2674,3 +2674,39 @@
 [18:18:44] <member68> just changed it to read only
 [18:19:00] <anyonethinkingab> thanks, i was a bit waiting for that
 [18:19:58] <member68> i cleaned up the sidebar. removed all the voting stuff
+[18:20:54] <veeti> oh, right
+[18:20:55] <veeti> member68: can you add me to the project in redmine
+[18:21:03] <veeti> same username as in irc.
+[18:22:12] <member68> done
+[18:22:32] <veeti> thanks
+[18:23:10] <member68> alright guys, that's it for me, I'm going to bed
+[18:23:25] <veeti> bye
+[18:23:32] <member68> anything urgent that has to be done now? everything else will be done in 8-9 hours
+[18:23:38] ### Homermon has quit the server. (Ping timeout: 240 seconds)
+[18:23:56] <veeti> well
+[18:23:59] <veeti> https://docs.google.com/spreadsheet/viewform?formkey=dGxpZ21UUTlvSHdPM3U5VWNUb1V3Vmc6MQ
+[18:24:02] <veeti> should people fill this out?
+[18:24:14] <member68> yes
+[18:24:33] <member68> that's why i put it in the news bar on Reddit
+[18:25:02] <veeti> oh, didn't notice
+[18:25:02] <veeti> ok
+[18:25:07] <Hayes> just casted my two votes. ready and able for UI mockup/graphic design
+[18:25:26] <veeti> hmmmmmmmm
+[18:25:37] <veeti> maybe the form should have a field asking what skills you can provide
+[18:25:41] <veeti> development/graphics/whatever
+[18:26:02] <Hayes> oh most definitely
+[18:27:34] <anyonethinkingab> that was already asked, i believe
+[18:27:47] <anyonethinkingab> but ill add it
+[18:27:55] <anyonethinkingab> wouldn't that mess up the data?
+[18:28:17] <veeti> i don't think it does
+[18:28:19] <RAWR> Then we'd have to submit again? So yeah
+[18:28:22] <veeti> we added some fields to that first form
+[18:28:24] <veeti> and it didn't mess up anything
+[18:28:33] <anyonethinkingab> it's gonna be checkboxes: give me the boxes;
+[18:28:38] <anyonethinkingab> - coding
+[18:28:44] <anyonethinkingab> - graphics
+[18:28:50] <anyonethinkingab> - interface design
+[18:29:07] <veeti> that's all i can think of
+[18:29:07] <anyonethinkingab> working with APIs maybe?
+[18:29:18] <Sanit> Hayes: what did you vote for?
+[18:29:54] <deliwien> database stuff if we need a database for a project? or do we count it as coding?
