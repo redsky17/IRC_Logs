@@ -29,3 +29,36 @@
 [20:13:06] <Hogofwar> would it be allowed to post the source of the Log bot on the git?
 [20:13:11] <Hogofwar> in it's own git repo
 [20:13:21] ### Homermon has quit the server. (Quit: Page closed)
+[20:13:39] <anyonethinkingab> I'm finishing a big game-concept post, I'll keep you updated
+[20:13:45] <tmoskowite> Lil
+[20:13:49] <Lilday> yo
+[20:14:21] <Lilday> @hogofwar should be Okay I guess.
+[20:14:25] <red_sky> hogofwar, check the git: https://github.com/RedditAndroidDev/IRC_Logs
+[20:14:28] <red_sky> .looks to be working
+[20:14:31] ### aesptux has quit the server. (Quit: Saliendo)
+[20:14:39] ### Homermon has joined ##reddit-android-developers
+[20:14:49] ### Homermon is now known as homermon2
+[20:15:04] <Hogofwar> red_sky, I should filter out some of the notices
+[20:15:07] ### _mike_ has joined ##reddit-android-developers
+[20:15:30] ### homermon2 is now known as HomermonMobile
+[20:15:43] <red_sky> perhaps
+[20:16:31] <adamell> what's the purpose of the redditandroiddev.github.com repo?
+[20:17:16] <ballpointcarrot> if you put html in it, it will host it at that endpoint
+[20:17:57] <Lilday> I'm off to bed guys
+[20:18:03] <red_sky> night
+[20:18:05] <Lilday> have fun :D speak to you tomorrow
+[20:18:23] ### Lilday has quit the server. (Quit: Page closed)
+[20:18:23] ### blaise| has joined ##reddit-android-developers
+[20:18:23] ### blaise| has quit the server. (Client Quit)
+[20:19:21] <Hogofwar> Gonna go too
+[20:19:24] <Hogofwar> Seeya guys
+[20:19:32] <Hogofwar> red_sky, hopefully the bot won't crash
+[20:20:05] <red_sky> hopefully not
+[20:20:08] ### HomermonMobile has quit the server. (Ping timeout: 240 seconds)
+[20:20:54] <red_sky> safd
+[20:21:24] ### ballpointcarrot has quit the server. (Quit: Well, I'm done.)
+[20:23:33] ### fringebenefits60 has quit the server. (Quit: Leaving)
+[20:23:50] ### Homermon has joined ##reddit-android-developers
+[20:25:05] ### Hogofwar has quit the server. (Ping timeout: 246 seconds)
+[20:28:29] ### RadLogii has joined ##reddit-android-developers
+[20:28:41] <anjoyed> guess it would depend on the project
