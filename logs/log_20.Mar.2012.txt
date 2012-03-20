@@ -2591,3 +2591,56 @@
 [17:58:35] <anjoyed> !hogs
 [17:58:44] <anjoyed> easter egg check :/
 [17:58:50] <member68> I'll go to bed in a few minutes. what needs to be done though is this: we need to find some motivated people who can pick 1 or 2 apps they want to work on (picked from the list of course). after that we set up repositories, let people apply for the projects and get started
+[18:00:20] <Grillon> I think biggest challenge so far is PMs
+[18:00:42] <Hogofwar> Yeah we need people to actually start the groundwork for apps
+[18:00:48] <Hogofwar> I would do it but I have no time
+[18:01:10] <Hogofwar> I would much rather support already WIP stuff
+[18:01:11] <ThatPlayer> I have time but I've got no android experience
+[18:01:24] <Grillon> im right in the middle
+[18:01:26] <Ramuh> then just play around with it
+[18:01:27] <blaise__> OK…can we get a link (I'm sure it's been posted before) to the doc with the list of apps we are considering?
+[18:01:31] <Grillon> some experience, some time
+[18:01:34] <member68> blaise__, Grillon, tmoskowite, deliwien seemed to know how to write apps. i'd love to see them contribute if they want to
+[18:01:40] <deliwien> https://docs.google.com/spreadsheet/ccc?key=0AvlQFVsQUJEidFF3VHY1TUZpdk00Vjdhbl9lbUI0Wnc#gid=0
+[18:01:48] <veeti> don't forget me
+[18:02:13] <blaise__> deliwien: thanks…Just found it too.
+[18:02:53] <deliwien> i'm interested in being a project manager for the picture hunt project if i can get an another experienced developer to help me with it. i wrote about it here earlier, but i'll copy/paste it again, just a sec
+[18:03:11] <deliwien> The basic idea is that the user gets a subject and he has to take a picture of it within a time limit. People can upvote/downvote the pics depending on how good the pic is, or how well it is related to the subject.
+[18:03:13] <deliwien> . The subjects can be something wacky such as “Take a picture of a narwhal who’s eating bacon” or something that’s related to current events or something such as planking, owling and so on. There can be categories for the subjects and the difficulty of the subject can vary.
+[18:03:21] <deliwien> Achievements, commenting and stuff like that to make it fun. Anybody interested about the idea? I could work as a project manager for it.
+[18:03:52] <Hogofwar> Also, what is the accepted way of adding/fixing stuff to the main repo
+[18:04:01] <Hogofwar> Do we branch it, add it and merge it
+[18:04:14] <Hogofwar> or add it striaght to the code
+[18:04:14] <Grillon> id say have pm approve
+[18:04:15] <Ramuh> well its git
+[18:04:17] <Ramuh> so branch
+[18:04:25] ### red_sky has quit the server. (Ping timeout: 265 seconds)
+[18:04:38] <Hogofwar> I have a felling the main branch should nearly never be directly touched, always branched and marged into
+[18:04:41] <Hogofwar> *felling
+[18:04:42] <blaise__> I've got to take off….I'm definitely interested in helping with coding, *possibly* leading.  As with everyone, it's a matter of time.
+[18:05:03] <blaise__> Let me take a look at the apps and I can let you know any I'm interested in working on.
+[18:05:09] <member68> branches: yes. but not everybody can commit code. we'll select people to check the code first
+[18:05:26] <Grillon> member68 agreed, that sounds logical
+[18:05:27] <blaise__> If they are picked before I can see them, I'll pick one to start contributing to (if there's room).
+[18:05:38] ### blaise__ is now known as blaise_|away
+[18:05:46] <veeti> perhaps it should be up to the project manager to decide how new code is accepted like Grillon said
+[18:05:50] <veeti> blaise_|away: bye
+[18:05:58] <Grillon> later blaise
+[18:06:13] <anjoyed> deliwien, Need to list out what's needed (server for serving up photos for voting etc.), then have 1 or 2 people decide on overall architecture, design/components etc.. Then decide which parts peple work on
+[18:06:18] <jaimeh> Separated projects on different repositories on the project account?
+[18:06:26] <Ramuh> yea maybe, but the regular git workflow is quite ok, so no need to do something different
+[18:06:45] <veeti> each project has their own repository, of course
+[18:07:03] <veeti> deliwien's idea sounds like it has potential but it's also pretty complex and big
+[18:07:47] <anjoyed> i like it, but don't have much time to contribute
+[18:07:51] <deliwien> yeah, the server is probably the biggest issue, pictures can take a lot of space and bandwidth.
+[18:08:01] ### Sanit has joined ##reddit-android-developers
+[18:08:03] <anjoyed> aye, was thinking that
+[18:08:07] <jaimeh> Use imgur
+[18:08:07] <member68> it's not too hard if you have a few people on it
+[18:08:21] <anjoyed> mebbe integrate it with an image host?
+[18:08:31] <jaimeh> They have an API no?
+[18:08:40] <anjoyed> yep
+[18:08:42] <Sanit> imgur do, afaik
+[18:09:00] <sam_> I'm up for this idea, but personally I believe it would be easier to create a more basic, productivity app.
+[18:09:14] <sam_> I was really for the Google Tasks client idea.
+[18:09:19] <jaimeh> It would Sam_
