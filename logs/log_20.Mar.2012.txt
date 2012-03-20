@@ -2710,3 +2710,20 @@
 [18:29:07] <anyonethinkingab> working with APIs maybe?
 [18:29:18] <Sanit> Hayes: what did you vote for?
 [18:29:54] <deliwien> database stuff if we need a database for a project? or do we count it as coding?
+[18:30:24] <RAWR> - creating polls
+[18:30:24] <anyonethinkingab> i'll just make a new one
+[18:30:28] <deliwien> :D
+[18:30:34] <anyonethinkingab> haha nice
+[18:31:55] <veeti> api and database counts as development
+[18:32:15] <member68> please add the submitting person's name. i'd like to be able to contact them later on
+[18:32:48] <anyonethinkingab> done
+[18:33:45] <member68> thanks
+[18:34:02] <member68> alright guys. time for bed, later
+[18:34:11] <RAWR> See ya
+[18:34:15] <veeti> bye
+[18:34:18] <deliwien> night night
+[18:34:34] <Sanit> later
+[18:34:34] ### member68 has quit the server. ()
+[18:38:02] <anjoyed> don't think that form asked name when i submitted
+[18:38:14] <anjoyed> that or i just missed it
+[18:39:33] <anyonethinkingab> i'm updating it
