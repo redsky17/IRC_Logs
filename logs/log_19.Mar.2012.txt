@@ -1,0 +1,22 @@
+[20:04:53] ### LogiiBot has joined ##reddit-android-developers
+[20:04:56] <Lilday> I'll put it online
+[20:05:02] <Hogofwar> Sure
+[20:05:08] <Lilday> suitable deadline? 8 hours?
+[20:05:11] <Lilday> 12 hours?
+[20:05:14] <Hogofwar> 12
+[20:06:52] ### NOTICE: <NickServ> This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+[20:06:56] ### RadLogii has joined ##reddit-android-developers
+[20:06:56] ### NOTICE: <NickServ> You are now identified for red_sky.
+[20:07:11] <ballpointcarrot> not that I didn't want to before, but now I have a good reason. :)
+[20:07:12] <red_sky> does this work...?
+[20:07:25] <red_sky> looks like I can be authed on the same account as another name on my accont, cool
+[20:07:42] <Hogofwar> red_sky, does it work to upload?
+[20:08:05] <red_sky> I'm checking
+[20:08:14] <Hogofwar> You should change the readme to something else in the git as well
+[20:08:21] <Hogofwar> Be a bit more informative
+[20:08:27] <Hogofwar> :P
+[20:08:38] <red_sky> yeah
+[20:08:42] <red_sky> I just did a touch README
+[20:09:12] <malik> Have you made it so people can't vote more than once?
+[20:09:24] <Hogofwar> :/
+[20:09:29] <Hogofwar> unfortunate lingering issue
