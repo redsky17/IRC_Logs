@@ -2557,3 +2557,37 @@
 [17:55:20] <red_sky> okay, thanks
 [17:55:25] <red_sky> member68, can you try !upload?
 [17:55:41] <member68> !upload
+[17:55:51] <red_sky> fantastic
+[17:55:54] <red_sky> that worked
+[17:55:55] <RAWR> Yeah still applies, names shouldn't be priority #1, but if there's nothing else to do then..
+[17:55:56] <anyonethinkingab> brilliant
+[17:55:59] <anyonethinkingab> yop
+[17:56:25] <Grillon> confirmation would be nice?
+[17:56:25] <red_sky> !logs
+[17:56:28] <red_sky> go there
+[17:56:29] <sam_> Logs are working.
+[17:56:30] <red_sky> confirmation enough
+[17:56:50] <anyonethinkingab> if you just say !upl0ad will it also update with the current buffer?
+[17:56:57] <RAWR> Damn hate typing from my phone, before my message is done,  you have already changed subject.
+[17:57:06] <red_sky> only OPs can upload
+[17:57:07] <Grillon> awesome
+[17:57:13] <red_sky> but yes
+[17:57:16] <Grillon> guess if it works, it works
+[17:57:25] <red_sky> I have to get to class.  Good work, Hogofwar
+[17:57:29] <Hogofwar> Seeya
+[17:57:30] <Grillon> so if someone comes in asking for a history, just !upload and !logs
+[17:57:31] <red_sky> I'll talk to you guys later
+[17:57:43] <red_sky> Grillon, only OPs can use !upload
+[17:57:52] <red_sky> that way it prevents abuse
+[17:57:56] <Grillon> red_sky it was implied
+[17:57:57] ### JakobekS has quit the server. (Quit: Uciekam)
+[17:58:01] <Hogofwar> !logs is good enough
+[17:58:04] <Hogofwar> heh
+[17:58:05] <red_sky> ah, sorry
+[17:58:13] <Grillon> lol
+[17:58:20] <red_sky> anyway, ttyl
+[17:58:27] <Grillon> :)
+[17:58:32] <veeti> bye
+[17:58:35] <anjoyed> !hogs
+[17:58:44] <anjoyed> easter egg check :/
+[17:58:50] <member68> I'll go to bed in a few minutes. what needs to be done though is this: we need to find some motivated people who can pick 1 or 2 apps they want to work on (picked from the list of course). after that we set up repositories, let people apply for the projects and get started
