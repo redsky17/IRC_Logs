@@ -746,3 +746,45 @@
 [09:28:41] <matt-ice> anyonethinkingab: I think its a great idea. being a developer and being a project manager can be two very different things
 [09:29:28] <Raion> Could one of us check in a simple calculator app so that people who are learning can build on it (in their own env)? Learning by practice is always easier. And it really wouldn't take much more than a couple of minutes to get that done
 [09:29:46] <deliwien> member68, i'm gonna tell people that if they want to edit the wiki, they should come to irc and ask for the permissions? or what should i say to them?
+[09:30:53] <member68> tell them to send me a message, either on reddit or at irc. irc would be the fastest though
+[09:31:25] <deliwien> alright, thanks
+[09:31:57] <anyonethinkingab> Raion I think that people who want to learn develop for Android should check the New Boston tutorials - I'm in  video's (of 5 mins each), and I think I can make a simple calculator if I put my mind on it
+[09:32:28] <TheNumb> anyonethinkingab: new boston android tutorials?
+[09:32:37] <TheNumb> They're great! <:
+[09:32:43] <anyonethinkingab> yup :D
+[09:32:46] <Raion> Yea if you have java background android is real easy
+[09:33:07] <TheNumb> Raion: Well, I had no java background ;p
+[09:33:13] <TheNumb> Only C/C++/D
+[09:33:24] <anyonethinkingab> I only had a Imperative Java background and I begin to understand that objective shit
+[09:33:46] <TheNumb> anyonethinkingab: imperative java?
+[09:33:53] <TheNumb> Is that possible?
+[09:33:54] <TheNumb> oO
+[09:34:19] <anyonethinkingab> yeah it's wierd right, now I know the objective things...
+[09:34:37] <anyonethinkingab> you only have 1 class, implement nothing, everything goes through the command line
+[09:35:13] ### Raionic- has joined ##reddit-android-developers
+[09:35:31] <anyonethinkingab> It's much easier than the imperative programming in C i had the last 3 months...
+[09:37:21] ### Raion has quit the server. (Ping timeout: 272 seconds)
+[09:37:31] ### Raionic- is now known as Raion
+[09:38:01] ### Sanit has quit the server. (Ping timeout: 246 seconds)
+[09:41:05] <aesptux> TheNumb: I will check those videos, I neither have much java experience... Seems pretty good
+[09:42:10] <anyonethinkingab> pro-tip: download them all with Jdownloader
+[09:42:37] <aesptux> jdownloader supports playlist download? Or just one by one?
+[09:43:24] <anyonethinkingab> argh how did i do that
+[09:43:32] ### JakobekS has joined ##reddit-android-developers
+[09:43:38] <anyonethinkingab> I believe the playlist view
+[09:43:47] <anyonethinkingab> that link
+[09:44:05] <anyonethinkingab> then i had to only select the 1080 links
+[09:44:38] <aesptux> Im gonna try
+[09:45:22] <anyonethinkingab> awesome moment when I downloaded these at my university: 15 hours of 1080p video downloaded in about an hour
+[09:47:18] <member68> universities are great for downloading. i downloaded 85 GB in about 1,5 hours. my harddisk almost melted ;)
+[09:47:42] ### AuthorityAction has joined ##reddit-android-developers
+[09:47:59] ### AuthorityAction has parted (left) the channel.
+[09:48:09] ### AuthorityAction has joined ##reddit-android-developers
+[09:50:53] ### matt-ice has quit the server. (Quit: I miss the rains down in Aaaafricaaaa)
+[09:51:01] <danopia> HAI GUIZ
+[09:51:04] ### adamell has joined ##reddit-android-developers
+[09:51:27] <danopia> i run full-blown sites from my uni connection. it's rather nice
+[09:51:45] <TheNumb> danopia: HAI
+[09:52:03] <TheNumb> GUISE
+[09:53:40] <danopia> OHEY
+[09:59:52] ### garychencool has joined ##reddit-android-developers
