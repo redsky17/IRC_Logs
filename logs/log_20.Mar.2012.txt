@@ -788,3 +788,1685 @@
 [09:52:03] <TheNumb> GUISE
 [09:53:40] <danopia> OHEY
 [09:59:52] ### garychencool has joined ##reddit-android-developers
+[10:01:28] <aesptux> anyonethinkingab: with jdownloader is there a way to only select one quality? Its a pain in the ass to remove one by one those with low quality
+[10:02:30] <Grillon> good morning
+[10:05:51] <adamell> yes it is
+[10:07:24] <aesptux> and how?
+[10:08:52] ### alextsc has quit the server. (Quit: Quit)
+[10:10:22] ### justatest has joined ##reddit-android-developers
+[10:10:33] <zubsani>  let's start coding guys!, i don't know why we need to vote so many things.
+[10:11:21] <artico> who doesn't like voting for things?
+[10:12:04] <garychencool> we should start coordinating who does what making small groups by making a proving ground by making simple apps
+[10:12:13] ### bogenfreund has joined ##reddit-android-developers
+[10:12:16] <JakobekS> we should know what we are going to code
+[10:14:34] ### justatest has quit the server. (Client Quit)
+[10:15:05] <member68> we're currently setting up a system for user interaction. later, we'll add projects that people can sign up for. we need a few tutorials first though. we're working on that as well ;)
+[10:15:32] <artico> guess it's about time for me to install the sdk
+[10:17:57] ### wjoe has quit the server. (Ping timeout: 245 seconds)
+[10:18:52] <Raion> I have to say great job by the admins you guys are getting everything up and running in record time
+[10:19:06] <garychencool> member68: would the system allow user voting towards projects?
+[10:19:40] ### vonhippier has joined ##reddit-android-developers
+[10:22:32] ### vonhippier has quit the server. (Client Quit)
+[10:22:57] <member68> no, but people can sign up for any project they want
+[10:23:32] <member68> voting will take place in the subreddit. it's easier that way
+[10:24:09] <garychencool> member68: okay, that makes sense
+[10:25:39] <member68> i guess we'll start adding projects in a few hours. not all projects will be collaborative though (a simple calculator doesen't need a github repo)
+[10:26:20] <Grillon>  i guess we'll start adding        │ deliwien
+[10:26:22] <Grillon>                           | projects in a few hours. not all  │ DLog
+[10:26:24] <Grillon>                           | projects will be collaborative    │ Esge
+[10:26:26] <Grillon>                           | though (a simple calculator       │ fenrir_
+[10:26:56] <member68> we'll pose a few app ideas that people can do to familiarize themselves with the sdk and the software. after that we introduce everyone to working together via github and redmine.
+[10:27:38] <Grillon> crap...
+[10:27:56] <artico> oh no, what have you done?!
+[10:27:59] <Grillon> lol
+[10:28:24] <garychencool> oh wow lol
+[10:28:29] <member68> i think he took the red pill
+[10:28:33] ### wjoe has joined ##reddit-android-developers
+[10:33:36] ### adamell has quit the server. (Remote host closed the connection)
+[10:38:27] <wjoe> apparently I disconnected :/ I blame freenode
+[10:39:00] <garychencool> wjoe: you using a browser for this or an IRC client?
+[10:39:51] <danopia> he's using a bouncer
+[10:39:55] <danopia> with like 3 clients :P
+[10:40:06] <wjoe> clearly danopia is psychic. yes, that :p
+[10:40:21] <danopia> CLI, GUI, and android
+[10:40:23] ### jaimeh has joined ##reddit-android-developers
+[10:40:39] <garychencool> oh wow, nice
+[10:40:39] <wjoe> indeed. irssi on my server, xchat at home, andchat on my phone
+[10:40:56] <garychencool> so like what is a great IRC client app for Android?
+[10:40:59] <garychencool> AndroIRC?
+[10:41:11] <wjoe> I use AndChat myself, AndroIRC is fine too
+[10:41:27] <danopia> the one we're going to make
+[10:41:58] <wjoe> hehe
+[10:44:08] <danopia> man, emacs + GUI is pretty nice
+[10:44:16] <danopia> i'm using the uni linux cluster
+[10:44:27] <danopia> so many CPU cores...
+[10:45:01] <danopia> you can use it just like gedit, except once you learn stuff you stop using menus :P
+[10:45:10] <danopia> i've always tried CLI emacs before
+[10:45:11] <member68> danopia: imagine the admin of seti@HOME ;)
+[10:45:23] <danopia> member68, heh yea
+[10:45:30] <danopia> i mean, each node only has 32 cores
+[10:45:37] <danopia> but there's 4 nodes
+[10:47:07] <danopia> http://cs.drexel.edu/~djl75
+[10:47:11] <danopia> just wrote that out
+[10:48:37] <anyonethinkingab> wickeeed!
+[10:48:42] <anyonethinkingab> :[
+[10:48:46] <anyonethinkingab> :p *
+[10:49:07] <member68> you need 128 cpu cores to create that page? :p
+[10:49:23] <member68> i can do that on my Android ;)
+[10:49:25] <artico> anyone ever had their sd card's ext and swap partitions just disappear?
+[10:49:56] <member68> have you tried turning it off and on again?
+[10:50:03] <danopia> i'm just messing with emacs now
+[10:50:08] <artico> yep, the partitions just aren't there anymore
+[10:51:00] <wjoe> I could never get used to emacs. keyboard shortcuts are so different :(
+[10:51:23] <artico> well, just the ext and swap, fat32 is still there
+[10:51:31] <member68> remove the sd card, put it in a card reader, mount it on linux. see if the partitions show up. if yes, backup all data, format, repartition and restore data; if no, there's not much you can do
+[10:51:31] <garychencool> danopia: well done!
+[10:51:46] <garychencool> Anyways AndChat is fre and I think it does not have ads, while AndroIRC does...
+[10:51:58] ### bogenfreund_ has joined ##reddit-android-developers
+[10:52:50] <wjoe> custom roms tend to block ads automatically
+[10:53:12] <member68> Not so loud, danopia.
+[10:53:27] <Raion> There are app blockers for android?
+[10:53:33] <Raion> Ad
+[10:53:38] <artico> i feel like this happened yesterday too, not sure what causes it
+[10:53:40] <RAWR> "adaway" is one of them
+[10:53:43] <RAWR> Requires root
+[10:53:45] <danopia> i use adfree
+[10:53:50] <danopia> they probably all require root
+[10:53:53] <Raion> Ah no root here
+[10:53:54] <RAWR> Yeah they do
+[10:53:59] <RAWR> Because they alter the hosts file
+[10:54:12] <danopia> interesting, the linux cluster has firefox
+[10:54:13] <Raion> Figured
+[10:54:18] ### bogenfreund has quit the server. (Ping timeout: 260 seconds)
+[10:54:18] ### bogenfreund_ is now known as bogenfreund
+[10:54:22] <danopia> and it's as responsive as local firefox
+[10:54:33] ### bogenfreund has quit the server. (Client Quit)
+[10:54:37] <danopia> but uses the server's 66GB of RAM instead of my 1.7GB
+[10:54:45] <danopia> i'll probably end up using it for reddit :P
+[10:54:58] ### Dillon[ca] has joined ##reddit-android-developers
+[10:55:32] <artico> danopia: that's probably inevitable
+[10:55:43] <danopia> i just set up sync
+[10:56:15] <danopia> :( sync doesn't cover a lot of stuff...
+[10:56:25] ### vcarl has joined ##reddit-android-developers
+[10:56:39] <garychencool> I want an ad blocker for android that doesnt require root!
+[10:56:54] <artico> it'd probably be pretty hard to find one
+[10:57:33] <danopia> idk if it's possible
+[10:57:43] <danopia> you'd need to install it on your router and use wifi :P
+[10:58:36] <danopia> wow
+[10:58:39] <danopia> you konw the super-fill-up ad?
+[10:58:43] <danopia> on reddit
+[10:59:02] <danopia> i just found myself playing
+[10:59:12] ### Dillon[ca] has quit the server. (Ping timeout: 246 seconds)
+[10:59:13] <danopia> and hten after like 5 minutes realized i was playing it through X forwarding
+[10:59:18] <danopia> on the cluster
+[10:59:23] <danopia> and it didn't even lag at all
+[10:59:30] <artico> ah, technology!
+[10:59:45] <Grillon>  i guess we'll start adding        │ deliwien
+[10:59:46] <Grillon>                           | projects in a few hours. not all  │ DLog
+[10:59:48] <Grillon>                           | projects will be collaborative    │ Esge
+[10:59:50] <Grillon>                           | though (a simple calculator       │ fenrir_
+[10:59:54] <Grillon> omg kill myself now
+[10:59:58] <deliwien> :D
+[10:59:59] <artico> haha
+[11:00:07] <deliwien> highlights <3
+[11:00:13] <Grillon> problem with right click paste in cli
+[11:00:33] <Grillon> so hows everyone feel about the 25% reddit cut?
+[11:00:33] <danopia> that's the first thing i cahgne when i use PuTTY
+[11:00:39] <danopia> and in GNOME Terminal it doesn't do taht
+[11:00:47] <Grillon> good idea
+[11:01:00] <danopia> Grillon, it's not like we're planning on making money from this, are we?
+[11:01:27] <danopia> that would involve too much buerocracy to divy up
+[11:01:41] <wjoe> it's so confusing going between putty and linux command line. right click to paste in putty, middle click to paste in linux
+[11:01:46] <Grillon> well I figure charity or something
+[11:01:51] <member68> dividing money would be too complicated
+[11:01:52] <Grillon> docs without borders or something
+[11:01:53] <danopia> putty lets you make middleclick paste
+[11:01:56] <danopia> wjoe, putty lets you make middleclick paste
+[11:02:06] <danopia> Grillon, they don't take cuts from donations to charity iirc
+[11:02:07] <wjoe> I should probably do that
+[11:02:27] <member68> if we make money it will cover costs we have (none yet), the rest will go to charity
+[11:02:43] <danopia> "Any profits that are not going to charity would theoretically be subject to the 25% revenue fee that we normally request. "
+[11:02:47] <danopia> charity is exempted
+[11:02:58] <wjoe> ahh, makes sense
+[11:03:07] <margosmark> charity works
+[11:03:07] <Grillon> im sure eventually well need some kind of server resources
+[11:03:24] <member68> we got at least two servers already
+[11:03:30] <danopia> i can run a server too
+[11:03:37] <danopia> and github does free web hosting
+[11:03:41] <wjoe> maybe. currently we're doing pretty well with the servers some of us already own, and external things like github
+[11:03:44] <Grillon> if said app gets somewhat popular, some kind of repayment for resources would be good
+[11:04:01] <Esge> somebody emntioned me?
+[11:04:02] <danopia> heroku can run free app servers given that you're fine with plain HTTP interaction
+[11:04:09] <danopia> Esge, no, go back to sleep
+[11:04:11] <danopia> it was a mispaste :P
+[11:04:19] <Grillon> does google still have their app servers too?
+[11:04:24] <Esge> ah
+[11:04:26] <danopia> oh yes, google, forgot abuot them
+[11:04:27] <Esge> :)
+[11:04:32] <margosmark> well, has anyone decided what we are going to do yet?
+[11:04:40] <margosmark> will we require a server backend
+[11:04:48] <Grillon> depends on the app
+[11:04:53] <margosmark> exactly
+[11:04:56] <Grillon> probably not for a while though
+[11:04:57] <garychencool> They 'Normally Request", Reddit might not request it, or may lower that 25%
+[11:05:19] <member68> the legal stuff is all covered. don't worry about it
+[11:05:58] <danopia> i do want to make some kind of common multiplayer system eventually so that one server can run multiple games, which would keep server resources consolidated if/when we need servers
+[11:06:00] ### aesptux has quit the server. (Quit: Leaving)
+[11:06:05] <slick8086> there is an app+website that I think would be cool to redo, the Hacker's Diet
+[11:06:07] <wjoe> obviously certain apps would require some sort of server side functionality. at that point we might be better off getting a dedicated server for this, rather than relying on someone's server
+[11:06:14] <danopia> if someone makes a multiplayer game under us, they could just point it at a test server someone runs
+[11:06:50] <slick8086> the source of the current site is not only open source, but public domain... thing is it was written in the 90's in perl
+[11:07:13] <wjoe> haven't heard of that one
+[11:07:39] <deliwien> if somebody wants to change using a irc client instead of using the web thingy, i just wrote a guide to our wiki: http://rad.lc8n.com/projects/general-organization/wiki/IRC it's mainly for mIRC for now and there might be typos, i'm tired. :D
+[11:07:47] <slick8086> http://www.fourmilab.ch/hackdiet/online/hdo.html
+[11:07:48] <margosmark> seemingly we are a large group, perhaps we should make something that is modual.. and somethiing that could be that is a "social" app, where one team works on fhte front end and seperate tames work on the specific networks tie in. like facebook (since everyone complains about the  official client) twitter, reddit, whatever else has an open API for access foursquare?
+[11:08:29] <slick8086> heh if we want social, we should write the diaspora android app
+[11:08:48] <danopia> the cluster servers have chrome installed. ಠ_ಠ
+[11:08:57] <danopia> and xchat-gnome, which iirc is terrible
+[11:09:00] <artico> well now you'll never get anything done
+[11:09:07] <danopia> no irssi thuogh
+[11:09:29] ### Esge has quit the server. (Quit: Personally its not God I dislike, its his fan club I cant stand)
+[11:09:35] <slick8086> oh I guess there is one already over on #diasune
+[11:09:37] <wjoe> xchat's fine, no idea if xchat-gnome is something different though
+[11:09:44] <slick8086> #diaspune
+[11:09:57] <deliwien> i kinda like the teaching / learning community idea ( http://www.reddit.com/r/RedditAndroidDev/comments/r3jfr/a_teachinglearning_community/ ), even though it isn't just for android. it really would be useful for a lot of people, and there's a lot of things to do for people from different skill levels
+[11:10:11] <margosmark> xchat-gnome is propably meant to run under gnome window manager as opposed to a terminal
+[11:10:12] <danopia> wjoe, xchat-gnome is gnome's re-gui of xchat
+[11:10:43] <wjoe> ah :/ that doesn't sound promising
+[11:10:57] ### djl75 has joined ##reddit-android-developers
+[11:10:59] <djl75> ohey
+[11:11:24] <wjoe> hihi
+[11:11:35] <artico> hmm maybe i just have terrible sd card adapters
+[11:11:57] ### jaimeh2 has joined ##reddit-android-developers
+[11:12:00] <djl75> http://i.imgur.com/hycNf.png
+[11:13:02] <garychencool> brb
+[11:13:05] ### garychencool has quit the server. (Quit: Page closed)
+[11:13:06] <wjoe> well, could be worse. I'd stick with the standard xchat though
+[11:13:26] <slick8086> wjoe don't like irssi?
+[11:13:40] ### alextsc has joined ##reddit-android-developers
+[11:13:43] <danopia> here's how i normally IRC: http://i.imgur.com/GyO3H.png
+[11:15:15] ### jaimeh has quit the server. (Ping timeout: 250 seconds)
+[11:16:45] <djl75> and preferences is the main area where it changed. http://i.imgur.com/UUrAd.png
+[11:17:28] <danopia> the GUI is overall nicer, but they take away features
+[11:18:25] ### artico has quit the server. (Read error: Connection reset by peer)
+[11:19:59] <Grillon> anyone see the vmware wsx server?
+[11:20:04] <Grillon> very interesting
+[11:20:30] <Grillon> id do it now if i didnt hose my sudoers file
+[11:24:58] ### red_sky_ has joined ##reddit-android-developers
+[11:25:33] ### red_sky_ is now known as red_sky
+[11:27:16] ### djl75 has quit the server. (Quit: Ex-Chat)
+[11:27:35] <danopia> oh, so THAT'S what uses "Ex-Chat" for quits
+[11:28:40] <wjoe> 15:13:27 < slick8086> wjoe don't like irssi?
+[11:28:49] <wjoe> irssi's good, using it right now, I just prefer GUI stuff
+[11:28:56] <slick8086> ah
+[11:29:35] <danopia> does OS X include an X server?
+[11:30:03] <danopia> i'm wondering if i can ssh into the cluster from a mac lab and use GUI apps
+[11:30:23] <red_sky> I guess that depends on what OS X's UI is built on
+[11:30:48] <danopia> i'm pretty sure it's not X
+[11:30:56] <defer> danopia: yes, you can run remote X applications
+[11:31:03] <deliwien> guys, if you're doing something for the project, remember to add it here: http://rad.lc8n.com/projects/general-organization/issues so other people know that it is already being done and don't start doing it by themselves
+[11:31:09] <danopia> defer, yey
+[11:31:13] <red_sky> apparently you can install some version of xserver, but it doesn't come with it
+[11:31:30] <slick8086> danopia: you need to install x-windows from though
+[11:31:34] <defer> it does come with it, up to a version
+[11:31:37] <defer> no you don't
+[11:31:40] <slick8086> it is on the CD
+[11:31:46] <danopia> ok well i'll find out in lab today
+[11:31:49] <defer> http://xquartz.macosforge.org/landing/ -> install this
+[11:31:53] <defer> if you don't have it yet
+[11:32:02] <danopia> i won't have admin on the macs
+[11:32:02] <defer> it comes with the developer sdk/etc
+[11:32:22] <red_sky> defer that's the xserver I was talking about
+[11:32:43] <red_sky> apparently it has shipped with OS X since 10.5
+[11:32:57] <slick8086> yeah
+[11:33:07] <slick8086> that's what I use and it works..
+[11:33:23] <red_sky> there's no way to edit IRC, is there?
+[11:33:24] <slick8086> I've got gedit to run on my mac in tests
+[11:33:29] <red_sky> like I can't edit something I previously said
+[11:33:35] <danopia> no
+[11:33:40] <slick8086> nope
+[11:33:43] <danopia> that's skype you're thinking abuot :P
+[11:33:51] <slick8086> that would be changing history....
+[11:34:06] <red_sky> I know skype can do it... I wasn't sure if it was possible on IRC.  I didn't think it was.
+[11:34:10] <danopia> bbl, class
+[11:34:27] <red_sky> well, I have to go to work
+[11:34:32] <red_sky> I'll probably log in from there
+[11:34:34] <red_sky> later all
+[11:34:46] <slick8086> wouldn't work, there could be hundreds of people logging this anyway
+[11:35:02] <red_sky> like RadLogii
+[11:35:07] <red_sky> that's all it does is log the IRC chat
+[11:37:45] ### zubsani has quit the server. (Quit: zubsani)
+[11:37:46] ### jaimeh2 has quit the server. (Quit: Bye)
+[11:38:33] ### jaimeh has joined ##reddit-android-developers
+[11:38:54] <RAWR> Speaking of skype, it was bought by microsoft right?
+[11:39:11] ### patzab has quit the server. (Ping timeout: 245 seconds)
+[11:39:17] <lyrch> yeah it was
+[11:39:35] <RAWR> So the linux version is dead and abandoned?
+[11:40:28] <wjoe> eh, the linux version hadn't been updated in ages as is. does the job at least
+[11:40:34] <anyonethinkingab> yup
+[11:40:35] <wjoe> they've said they're not going to kill it off at least
+[11:41:02] <RAWR> So that's why it's crap. :/
+[11:42:14] <lyrch> google hangouts works for linux right? that's an option
+[11:42:27] <anyonethinkingab> yeah i did it yesterday
+[11:42:34] <anyonethinkingab> i'm on ubuntu 11.10
+[11:43:17] ### red_sky has quit the server. (Ping timeout: 248 seconds)
+[11:44:14] ### artico_ has joined ##reddit-android-developers
+[11:44:15] ### artico has joined ##reddit-android-developers
+[11:50:34] ### artico_ has quit the server. (Quit: Leaving)
+[11:51:46] <member68> just got back here, what's the topic?
+[11:55:20] <wjoe> currently working on that join project plugin on redmine, it's there but not working
+[11:58:39] <member68> maybe this will give you a clue on how to fix it: http://www.redmine.org/boards/3/topics/24730
+[11:58:40] ### Dillon[ca] has joined ##reddit-android-developers
+[11:59:35] ### adamell has joined ##reddit-android-developers
+[11:59:42] <member68> don't know if it's the same problem though
+[12:00:31] <adamell> Looks like things are starting to aggregate. 48 hour start up periods make me nauseous.
+[12:01:47] <adamell> Are RM tickets open to the public?
+[12:02:34] <wjoe> yeah, that's the exact problem :) just found that too
+[12:02:41] <wjoe> seems to be working now
+[12:03:16] <wjoe> they are, though one of the projects is set as private currently (probably just for testing purposes)
+[12:04:20] <adamell> I don't expect there to be anything to file yet, I just wanted to ensure its availability.
+[12:06:03] <member68> adamell: we have a issue system on redsand. is that what you have in mind?
+[12:06:08] <member68> *redmine
+[12:06:31] <adamell> yes
+[12:15:06] <jaimeh> Redmine is great software.
+[12:15:11] ### Phorcys has joined ##reddit-android-developers
+[12:15:31] <anyonethinkingab> still having that problem?
+[12:16:41] <wjoe> which one? :p
+[12:17:05] ### vcarl has quit the server. (Ping timeout: 246 seconds)
+[12:18:39] <jaimeh> Create project and issues for current site
+[12:19:58] <member68> we are currently adding a feature that everybody can sign up for any project they want. we don't want to force people to do projects they don't want.
+[12:20:29] <member68> however, the team size will be limited per project
+[12:20:51] <member68> 50 people working on a calculator app will do us no good
+[12:23:27] ### joholz has joined ##reddit-android-developers
+[12:23:59] ### red_sky has joined ##reddit-android-developers
+[12:24:21] <joholz> yo
+[12:24:35] <artico> sup
+[12:29:03] ### Dillon[ca] has quit the server. (Ping timeout: 255 seconds)
+[12:29:28] <danopia> OHAI
+[12:29:41] <danopia> member68, who's doing this?
+[12:32:27] <wjoe> ok, fixed. apparently this plugin had it's own files named incorrectly?
+[12:32:39] ### AuthorityAction has quit the server. ()
+[12:32:41] <wjoe> that or I just don't understand ruby at all. which I don't. whatever, it's working now
+[12:32:48] <danopia> what are you doing?
+[12:32:54] <wjoe> working on the redmine page
+[12:33:02] <danopia> cool
+[12:33:03] <wjoe> added a plugin that lets people join projects
+[12:35:04] <danopia> i love having a bunch of browser tabs/windows open, firefox and chrome, and not having any system RAM used by it...
+[12:35:12] <danopia> <3linux
+[12:35:32] ### garychencool has joined ##reddit-android-developers
+[12:35:48] <danopia> so now i can minecraft without closing firefox
+[12:36:35] <artico> multitasking at it's finest
+[12:37:09] <Grillon> huh
+[12:37:11] <Grillon> remote firefox?
+[12:37:26] <garychencool> Go all RTS mode and super multitask mode
+[12:37:51] <danopia> Grillon, i'm running it on the CS dept's server cluster
+[12:38:05] <Grillon> nice
+[12:38:22] <Grillon> cygwin?
+[12:38:32] <Grillon> sorry im old school, no idea whats being used now
+[12:38:46] <danopia> linux on both sides
+[12:38:49] <danopia> plain old ssh
+[12:39:00] <garychencool> oh my god, I need to learn to run servers
+[12:39:28] <danopia> cygwin is still used, in fact the best Git for Windows software righ tnow is cygwin-based
+[12:39:41] <danopia> you don't have to order me off your lawn yet
+[12:39:48] <artico> coincidentally i just installed git for windows
+[12:39:57] <danopia> for this project? :)
+[12:39:59] ### tmoskowite has joined ##reddit-android-developers
+[12:40:03] <artico> yep
+[12:40:09] <danopia> do you konw how to set up a key etc.
+[12:40:13] <danopia> for github
+[12:40:30] <Grillon> yes, you stuck somewhere?
+[12:40:41] <danopia> i install git on all of my windows machines. not only for git, but because it install bash
+[12:40:46] <danopia> installs*
+[12:41:05] <Grillon> btw, git for windows is so much more of a pain than linux
+[12:41:13] <danopia> really now?
+[12:41:18] <tmoskowite> are you using cygwin?
+[12:41:20] <tmoskowite> yes it is
+[12:41:24] <danopia> that used to be true, but the Git for Windows system is rather nice
+[12:41:40] <tmoskowite> Git for Mac is much nicer =P
+[12:41:44] <danopia> setting up a key can be a pain but github's docs make it rather simple
+[12:41:54] <tmoskowite> you need to make a SSH key
+[12:41:56] <Grillon> ya, once its up and running its fairly nice
+[12:42:02] <danopia> yea, that's pretty simple though given the command
+[12:42:02] <wjoe> I always used putty's key generator for setting up SSH keys in windows
+[12:42:05] <anyonethinkingab> are these people started with that tiny reddit app?
+[12:42:05] <artico> yeah, took me like a minute to get my ssh key set up
+[12:42:07] <Grillon> but setting up can bed tedious on mult workstations
+[12:42:07] <tmoskowite> in order to authenticate your connection
+[12:42:24] <TheNumb> Hey guys (:
+[12:42:25] <danopia> github's Getting Started on Windows page gives you the commands
+[12:42:27] <TheNumb> I'll need your help.
+[12:42:38] <Grillon> TheNumb, sure
+[12:42:38] <anyonethinkingab> your smiley was backwards
+[12:42:43] <TheNumb> Since my phone is broken I need to buy a new one.
+[12:42:47] <artico> he could be in australia
+[12:42:50] <anyonethinkingab> haha
+[12:43:07] ### vcarl has joined ##reddit-android-developers
+[12:43:21] <TheNumb> Any suggestions for a cheap phone capable of running ICS?
+[12:43:29] <TheNumb> ;-)
+[12:44:06] <vcarl> i know one of my friends is running the Droid Incredible with ICS, if you could find that cheap
+[12:44:09] <anyonethinkingab> (He definitely had to turn his pc updside down to do that)
+[12:44:21] <danopia> (luckily he's on a laptop)
+[12:44:51] ### Esge has joined ##reddit-android-developers
+[12:45:05] <anyonethinkingab> (if it would have been SSH he would be screwed)
+[12:45:45] <Grillon> thenumb, im not sure as im waiting on the sprint lte device later this year
+[12:45:53] <Grillon> the device choosing is kind of crappy at the moment
+[12:46:01] <Grillon> what carrier?
+[12:46:09] <lyrch> vcarl: is he running the CM9 beta?
+[12:46:13] ### artico has parted (left) the channel.
+[12:46:20] <vcarl> yepp, he's incredibly pleased with it
+[12:46:30] ### artico has joined ##reddit-android-developers
+[12:46:44] <lyrch> hmmmmm...i might have to load it. i'm still running CM7
+[12:46:52] <lyrch> on an incredible
+[12:46:57] <TheNumb> Grillon: I don't live in US ;-)
+[12:47:01] <Grillon> i see
+[12:47:13] <vcarl> apparently pretty much everything is improved, and the Incredible runs everything well
+[12:47:17] <Grillon> i saw an ics device no contract for like 250 the other day
+[12:47:23] <garychencool> I'm beyond lost with this
+[12:47:35] <joholz> cheapest phone i think would be nexus s
+[12:47:52] <TheNumb> Well, it doesn't have to be official ICS rom.
+[12:48:16] <joholz> here is a link that shows official list of phones samsung will push to ics: http://blog.htc.com/2012/03/ics/
+[12:48:25] <wjoe> maybe one of those ZTE phones? they're ultra cheap and have some ICS ROMs, no idea how well though
+[12:48:26] <Raion> Sprint is scheduled to have lte by the end of the year? Interesting
+[12:48:34] <Grillon> mid-year
+[12:48:44] <Grillon> not sure when galaxy nexus
+[12:48:47] <TheNumb> joholz: you mean htc :D
+[12:49:01] <joholz> TheNumb: haha yea
+[12:49:09] <blaise__> The Galaxy Nexus is supposed to be released on Spring on April 15th.
+[12:49:18] <Grillon> nice
+[12:49:26] <vcarl> honestly, my next phone choice will be based on what CM supports
+[12:49:32] <vcarl> i'm tired of shit stock roms
+[12:49:35] <joholz> same here
+[12:49:35] <blaise__> And then June is rumored to have the HTC Jet (the One X) in LTE.
+[12:49:44] <TheNumb> Maybe I'll go with LG P500
+[12:49:53] <TheNumb> I've heard some guys are porting ICS to it.
+[12:50:01] <blaise__> Sorry…Sprint, not Spring
+[12:50:13] <Raion> I'm up for an upgrade...torn between razr maxx and galaxy nexus
+[12:50:45] <vcarl> personally, i'd lean nexus-ward. guaranteed support for a while
+[12:51:52] <Raion> Yea that's what my thinking was but I love the maxx battery....plus I'd get a limited edition version
+[12:52:15] <blaise__> So, for Redmine, I'm assuming we need to create an account and let somebody know what that account is?
+[12:52:43] <wjoe> you can create an account, then join the project on there
+[12:52:55] <Grillon> blaise__ thats perfect, my contact is up later this year, but now i have to choose between htc or samsung
+[12:53:13] <blaise__> OK..I'll do that now.
+[12:53:25] <Raion> Samsung, htc is terrible
+[12:53:33] ### anjoyed has joined ##reddit-android-developers
+[12:53:42] <blaise__> Grillon: I was on first day release of the Evo, so my upgrade kicks in on April 1.
+[12:53:56] <blaise__> I think I'm going the Nexus route.
+[12:54:13] <blaise__> Although the HTC looks nice, but they haven't released the Sprint specs yet.
+[12:54:25] <vcarl> i think HTC is recovering, they stagnated a bit
+[12:54:42] <wjoe> I assume it'll be the same as the AT&T one, if it has LTE then it can't be Tegra 3 at the moment
+[12:54:42] <red_sky> In my experience, HTC phones are cheap
+[12:54:44] <vcarl> it's too fluid to state definitively, motorola was shit a year and a half ago
+[12:54:46] <red_sky> I would avoid them.
+[12:54:48] <blaise__> Yeah…I like everything about my Evo, except the white spots on the screen.
+[12:54:56] <red_sky> motorola hasn't ever been shit
+[12:55:00] <red_sky> they make the best phones
+[12:55:03] <wjoe> the new HTC phones look good, but lack of removable battery/SD card puts me off
+[12:55:05] <blaise__> And they refuse to do anything about it.
+[12:55:06] <red_sky> they just have the tightest security
+[12:55:07] <Grillon> blaise__ Same, but mine is up in Dec. for some reason....
+[12:55:12] <vcarl> maybe, but the software is shitty
+[12:55:16] <lyrch> i've gotta say, i've never had a complaint about my incredible
+[12:55:26] <lyrch> and i've never heard a bad word about them
+[12:55:32] <red_sky> lyrch my buddies incredible randomly shattered in his pocket
+[12:55:36] <vcarl> me neither, lyrch
+[12:55:38] <red_sky> and he's had 5 thunderbolts at this point
+[12:55:59] <vcarl> droid X and 2 both have issues, my buddy went through 3 droid Xs that wouldn't stop randomly rebooting in his pocket
+[12:56:03] <blaise__> Grillon: you should be up for an upgrade on the 1st then.  Unless you bought for full price out of cycle or something.
+[12:56:05] <wjoe> nor my desire HD. I heard some of the recent ones weren't great, but I've never had any hardware issues
+[12:56:06] <red_sky> my Droid X has been through hell and back and you can barely tell.  It works flawlessly
+[12:56:08] <lyrch> red_sky: wow, that definitely sounds like more than random defect
+[12:56:29] <Grillon> so are we using redmine or git...
+[12:56:32] <Grillon> or both
+[12:56:36] <blaise__> both
+[12:56:39] <red_sky> vcarl the software on motorola products does suck... but they are extremely good with custom ROMs on them
+[12:56:46] <red_sky> hardware-wise, they are solid
+[12:56:55] <vcarl> not droid 2, none that i've found at least
+[12:56:58] <Grillon> git for releases? redmine for requests/bugs?
+[12:57:06] <danopia> git for code
+[12:57:08] <red_sky> I think git is for all source code
+[12:57:10] <danopia> redmine can integrate with git
+[12:57:13] <artico> red_sky: forsure, my og droid is still running strong
+[12:57:18] <Grillon> ahh, never used it
+[12:57:21] <garychencool> ZTE Blade, full on poor mans Android
+[12:57:22] <vcarl> red_sky, i ran a few okay ones, but i haven't found any since GB
+[12:57:25] <lyrch> vcarl cyanogen has some ROMs for droid 2
+[12:57:26] <Grillon> so no code is hosted on redmine
+[12:57:35] <danopia> right
+[12:57:38] <TheNumb> Redmine for project management, github for source and bugtracking?
+[12:57:41] <vcarl> lyrch I ran those, but they were suuuper buggy on my phone
+[12:57:42] <danopia> i use a droid 2, rooted to remove the stupid forced apps but otherwise stock
+[12:57:45] <red_sky> vcarl I know CM9 is in the works for the Droid 2
+[12:57:55] <red_sky> I have a kang of it on my Droid x... works almost flawlessly
+[12:58:06] <red_sky> Google changed the way drivers work, so some things like my camera don't work, but that' sabout it
+[12:58:10] <lyrch> hmmm...i was about to put CM on a droid 2 but maybe i'll wait
+[12:58:26] <vcarl> CM7 was buggy as shit, but that was 2 months ago
+[12:58:26] <red_sky> and I think newer builds do have working cameras
+[12:58:43] <red_sky> I've never had any issues with CM7
+[12:58:48] <lyrch> i'll wait for CM9
+[12:58:53] <red_sky> it was far more stable than Motorola's own stuff
+[12:59:04] <member68> TheNumb: yes, that's how we'll do it
+[12:59:22] <vcarl> really? not for me, performance was GREAT for two weeks and then went to shit, would freeze for upwards of 5 minutes at a time twice a day
+[12:59:54] <red_sky> hmm.
+[12:59:58] <red_sky> that's really strange, honestly.
+[13:00:22] <red_sky> all of the random reboot issues and freezing issues I've ever experienced were when I was running official roms
+[13:00:29] <red_sky> ie. Motorola-made
+[13:01:52] <garychencool> Guys, so I'm working on the logo, anyone know where I can get the reddit green alien from the subreddit logo?
+[13:02:07] <red_sky> on the subreddit
+[13:02:16] <red_sky> http://i.imgur.com/5KvlV.png
+[13:02:27] <red_sky> whoops, that's the png
+[13:02:28] <red_sky> http://www.reddit.com/r/RedditAndroidDev/comments/r3bue/vectorized_version_of_the_subreddit_logo_for_use/
+[13:02:31] <red_sky> there's the comment thread
+[13:02:33] <garychencool> Wow, thanks I couldnt even find it
+[13:03:32] <member68> guys, quick discussion: i hope your somewhat familiar with git. so here it comes: branches vs forks, which one do we use? please include a reason for your opinion
+[13:03:54] <member68> *you're
+[13:05:35] <red_sky> hmm
+[13:05:43] <red_sky> your was right
+[13:05:50] <red_sky> oh, nevermind, different your
+[13:05:50] <red_sky> haha
+[13:06:03] <wjoe> branches seem more appropriate? then it's all kept within our repo
+[13:06:09] <red_sky> well, I think we should use branches
+[13:06:18] <red_sky> forks seem to me like they are for derivative software
+[13:06:46] <red_sky> whereas branches can be made for bug-fixes, new features, etc, and kept under the same user repo
+[13:07:04] ### lacop has joined ##reddit-android-developers
+[13:07:08] <wjoe> yeah. it'd be much easier to track things that way, rather than things being split out into other people's repos
+[13:07:37] <blaise__> I believe git works similar to svn in this respect…all commits go to trunk and then you branch a release.
+[13:07:53] <member68> that means we need one developer creating an app body, so that others can start working on it later on.
+[13:08:00] <blaise__> forks are for derivative works (as red_sky) said.
+[13:08:09] <member68> branches it is
+[13:08:27] <lacop> hey guys
+[13:08:36] <red_sky> yeah, I don't see that being a problem
+[13:08:36] <lacop> what's new since yesterday?
+[13:08:48] <red_sky> it ensures that only officially approved software makes it into the repo
+[13:08:57] <red_sky> and then there's a collective control on who can modify the code
+[13:08:58] <blaise__> member68: what do you mean by one developer creating an app body?
+[13:09:07] <lacop> sorry, maybe I'm a little offtopic here, but there are tags for releases
+[13:09:18] <red_sky> I think he means that only people with access to the git account can create new repos
+[13:09:28] <danopia> WHAT. youtube is watchable in remote firefox
+[13:09:30] <lacop> unless you want to deploy patches to old releases and re-release them, in which case a branch is a good idea
+[13:09:45] <member68> I'm talking about the main app activity. a general construct that others can improve and extend
+[13:09:50] <blaise__> lacop: not sure how git works, but if it works similar to svn, a tag is just a branch that we think is a tag.
+[13:10:06] <lacop> well tag is a little more lightweight, it's just an alias
+[13:10:15] <lacop> like v1.0 means changeset abcdef
+[13:10:27] <lacop> but you can't have a separate history for that
+[13:10:28] <blaise__> usually you do a release branch for bug fixing.  Then back merge to the trunk.
+[13:10:49] <blaise__> lacop: so, tags are just a marker in git?
+[13:10:53] <lacop> well depends on the project, a small android app would be just a tag
+[13:11:05] <lacop> but for big, long-term project it's a good idea to make branches
+[13:11:16] <lacop> blaise__, not sure about the internals, but I think so
+[13:11:26] <blaise__> OK…then it is different than svn.
+[13:11:29] <lacop> you can use it to checkout the code at a specific point in time
+[13:11:34] <lacop> to see exactly what was release
+[13:11:37] <lacop> *released
+[13:12:02] <lacop> anyway, I see the google group is dead, what's up with that ...
+[13:12:12] <blaise__> yeah…but your small app just being a tag…I think that would make it hard to support bug fixing and rolling fixes back into trunk if you don't have separate branch.
+[13:12:20] <lacop> we should really move away from the reddit mess to a proper maillist and github wiki/issue tracker
+[13:12:27] <member68> let's take an example, an sms app. in my mind one person creates a basic layout, a basic method to read all SMS messages and adds them to a list. from there everybody can contribute
+[13:12:55] <garychencool> Google+, dead? The group? No..
+[13:13:05] <member68> lacop: go to http://dev.redditandroiddevelopers.com
+[13:13:06] <lacop> google group mailing list
+[13:13:23] <lacop> i know, redmine
+[13:14:07] <lacop> let's say there is a discussion about something, you can do it on IRC where offline people are screwed
+[13:14:32] <lacop> on reddit, where it's little messy, and after like a day the thread goes away from frontpage and new comments are ignored by everyone
+[13:14:48] <lacop> or on a maillist, where everyone can contribute, revisit discussions, ...
+[13:15:02] <red_sky> all of the IRC chat is logged
+[13:15:06] <lacop> also, since I was asleep and then at school all day, I have no idea what happened
+[13:15:09] <red_sky> so there's no issue of people being "screwed"
+[13:15:23] <lacop> if there was an annoucement post I would know
+[13:15:26] <member68> nobody will read through an entire day of irc logs
+[13:15:38] <lacop> red_sky, great fun, sifting through a day of logs, most of it irrelevant
+[13:15:38] <adamell> The feds will
+[13:15:47] <red_sky> the same could be said about mailing lists
+[13:15:52] <lacop> you have titles
+[13:15:54] <red_sky> where most content posted is absolutely useless
+[13:15:59] <lacop> if it sounds important, you will read it
+[13:16:02] <lacop> otherwise ignore it
+[13:16:05] <red_sky> and I hate emails
+[13:16:09] <red_sky> I get 100 a day as it is
+[13:16:14] <lacop> you don't have to subscribe
+[13:16:19] <lacop> use the web interface to read it
+[13:16:35] <red_sky> there are so many better things we could use
+[13:16:36] <lacop> I've seen this happen with redditmakesagame
+[13:16:47] <red_sky> better than IRC, better than mailing lists
+[13:16:48] <lacop> reddit, IRC channel, website, lots of artwork, redmine, ...
+[13:16:55] <lacop> not a single decision about the project was made
+[13:16:57] <red_sky> mailing lists are so antiquated
+[13:17:06] <lacop> red_sky, so, better suggestions?
+[13:17:14] <lacop> besides IRC and reddit
+[13:17:41] <lacop> btw, old != bad ... if it's being used for so long, by some very large projects, it clearly works
+[13:17:44] <member68> redmine has a news tab which can be used for a daily summary
+[13:17:50] <lacop> might not be perfect, in our case
+[13:17:58] <lacop> but can anyone post there
+[13:18:02] <lacop> in threaded discussions
+[13:18:15] <red_sky> antiquated means more than just old
+[13:18:18] <red_sky> it means out of context
+[13:18:19] <lacop> irc is a mess if you want to keep going about something for more than a day
+[13:18:27] <red_sky> I agree re IRC
+[13:18:27] <adamell> To me opensource means you work on tickets if you have the time and the skill when you want to and to what extent you want.
+[13:18:31] <red_sky> I am thinking something like Google Wave, honeslty
+[13:18:38] <red_sky> but that's gone
+[13:18:41] <lacop> dead, going offline 30.4
+[13:18:45] <lacop> there is apache wave
+[13:18:50] <lacop> or what it's called
+[13:18:53] <red_sky> I haven't looked into it
+[13:19:08] <lacop> but if it's anything like the original, after 10 threads and 100 messages it will be slooooow
+[13:19:20] <adamell> Once the projects get going all this deliberating will be no more.
+[13:19:39] <lacop> adamell, well, yes, tickets are for issues, features and bugs
+[13:19:42] <Grillon> I agree with using redmine for summary
+[13:19:48] <red_sky> looks like apache wave doesn't have a release yet
+[13:19:50] <lacop> but not for discussion about the heading of the project
+[13:20:00] <lacop> red_sky, there must be alfa/beta
+[13:20:08] <Grillon> alf?
+[13:20:14] <blaise__> There's one more Wave product too (just got it in the email from google yesterday).
+[13:20:17] <red_sky> they have demo servers
+[13:20:20] <blaise__> Hang on, let me see.
+[13:20:29] <red_sky> Posterous?
+[13:20:32] <red_sky> they have groups now
+[13:21:01] <blaise__> http://code.google.com/p/walkaround/
+[13:21:02] ### Phorcys has quit the server. (Quit: Client Disconnect)
+[13:21:05] <Grillon> doesn't google code have all this?
+[13:21:35] <jaimeh> We definitely should approve apps and set issues that anybody including the team assigned can do.
+[13:21:54] <adamell> Most of the opensource dev I've ever done has just been ticket work. Usually, with opensource projects, one or two people code a thing until its framework is there, then people come along and fix it, add to it, then fix it some more, then document the shit out of it, then fix it some more.
+[13:21:59] <lacop> we need the app first...
+[13:22:03] <danopia> <red_sky> I am thinking something like Google Wave, honeslty
+[13:22:14] <danopia> i got an email from google about wave
+[13:22:20] <danopia> the same minute you sent that
+[13:22:21] <red_sky> yeah, I know Google Wave is gone
+[13:22:29] <red_sky> I got that email like 2 months ago
+[13:22:31] <danopia> actually
+[13:22:34] <red_sky> it's really weird that some people just got it now
+[13:22:34] <danopia> 1 minute after
+[13:22:40] <danopia> it's a reminder
+[13:22:42] <lacop> yeah they are reminding everyone to backup their data
+[13:22:47] <red_sky> ah
+[13:23:04] <danopia> [13:18] <red_sky> but that's gone
+[13:23:05] <garychencool> I tried making the logo, check it out, here's the first one http://i.imgur.com/CVCn3.png
+[13:23:14] <danopia> Google Wave 1:19 PM (3 minutes ago) to me
+[13:23:30] <lacop> garychencool, little crowded .. how does it look at smaller sizes?
+[13:23:46] <red_sky> I agree with lcaop
+[13:23:47] <danopia> not sure if trolling.... P
+[13:23:51] <red_sky> lacop
+[13:24:01] <Grillon> lol
+[13:24:07] <Grillon> ya looks good just crowded
+[13:24:45] <member68> don't forget the one who actually made the 2 logo that this one consists of
+[13:24:46] <danopia> wow, it's been a year since gwave's death was announced?
+[13:24:51] <danopia> that's a while ago
+[13:24:51] <lacop> garychencool, here's an idea - remove the alien in the R, but make the android an android/alien mix
+[13:25:04] <lacop> keep the 2 antennas, but turn one into reddit alien antenna
+[13:25:16] <red_sky> hmm, if we could get apache wave or walkaround on a server to play with it
+[13:25:18] <red_sky> that'd be ncie
+[13:25:19] <red_sky> nice*
+[13:25:19] <lacop> and give it eaers
+[13:25:21] <lacop> *ears
+[13:25:24] <danopia> like this one
+[13:25:25] <danopia> http://i.imgur.com/v6f6j.png
+[13:25:42] <lacop> heh, looks like a bear
+[13:26:26] <garychencool> danopia: lol nice
+[13:26:36] <red_sky> lacop my problem with mailing lists is, that in my experience, they are nearly as disorganized as what we have currently.  This problem is compounded when lots of discussions are going on at once.
+[13:27:03] <danopia> what's wrong with reddit?
+[13:27:06] <garychencool> I agree, making a newsletter with this much info on it
+[13:27:11] <red_sky> reddit doesn't archive well
+[13:27:14] <lacop> red_sky, I'm not saying they are the best thing ever
+[13:27:17] <red_sky> as someone put it yesterday
+[13:27:28] <lacop> IRC: not great for history, long going arguments, ..
+[13:27:39] <garychencool> For the projects, you can allow someone on the team (probably the coordinator or producer) to create an article about the apps progress
+[13:27:40] <lacop> red_sky, I've been saying that since I fist joined this channel
+[13:27:50] <lacop> reddit: terrible archiving, can't revisit threads
+[13:27:55] <red_sky> IRC is a really good way to talk about ideas in a rapid fashion, and is easy enough to log.  It's totally disorganized, though
+[13:28:00] <lacop> yes
+[13:28:21] <garychencool> IRC for live chat, but still archive it
+[13:28:25] <lacop> but if we come to some decision, we should post it somewhere (eg, mailing list), with the log online for reference
+[13:28:31] <red_sky> yeah
+[13:28:38] <lacop> and more people can throw in their ideas
+[13:28:49] <red_sky> an updated log should be committed around 7 pm.
+[13:28:56] <lacop> and a week from then, if we need to talk about it some more, we can just continue where we left off
+[13:29:02] <lacop> IRC logs are terrible for reading
+[13:29:09] <lacop> it's super long, 90% irrelevant
+[13:29:38] <garychencool> Yeah, before this was server related stuff, firefox crashing
+[13:29:39] <lacop> red_sky, btw, google wave: that's just a mailing list with widgets
+[13:29:56] <alextsc> not only that, we got so many timezones. Great when I read something posted 10 hours ago and want to add a point. The discussion is dead by then. Definitely pro mailing list.
+[13:30:03] <red_sky> mailing lists with an extremely friendly, organized GUI
+[13:30:13] <lacop> red_sky, check out google groups
+[13:30:14] <red_sky> basically all of the positives of mailing lists minus most of the negatives
+[13:30:15] <lacop> it's not bad
+[13:30:20] <garychencool> Plus, right now there isnt that much activity, remember yesterday evening (GMT -4)
+[13:30:21] <lacop> and many mail clients have some support for them
+[13:30:22] <member68> sound to me like we want some kind of forum with threads
+[13:30:22] <alextsc> https://groups.google.com/forum/#!forum/android-developers
+[13:30:27] <lacop> member68, NOOOO
+[13:30:33] <lacop> look at xda
+[13:30:36] <lacop> terrible stuff...
+[13:30:38] <red_sky> forums... I like them but they get shitty quickly
+[13:30:53] <red_sky> unless only a few people have post rights
+[13:31:01] <lacop> and then they are useless
+[13:31:05] <red_sky> yeah
+[13:31:25] <red_sky> holy crap, google groups got a huge makeover
+[13:31:35] <alextsc> this is why i posted it
+[13:31:35] <joholz> as far as forums we are fine with reddit
+[13:31:37] <lacop> yeah the new google gui thingy
+[13:31:41] <alextsc> its nice actually
+[13:31:45] <lacop> joholz, NO
+[13:31:50] <lacop> take a month old topic
+[13:31:53] <lacop> post something there
+[13:31:55] <lacop> nobody notices
+[13:31:56] <garychencool> Okay, in terms of Forums, I like the idea, just don't make it as crappy as XDA
+[13:31:56] <lacop> ever
+[13:32:06] <lacop> in a mailing list, it jumps to the top
+[13:32:14] <joholz> lacop true
+[13:32:15] <garychencool> agreed, mailing list would be great
+[13:32:21] <red_sky> my problem with google groups (it might be my ignorance), I don't remember a way to sub-divide posts into categories
+[13:32:23] <lacop> there already is one
+[13:32:35] <lacop> http://groups.google.com/group/RedditAndroidDevelopers
+[13:32:37] <garychencool> Lol I can design the newsletter, made my schools newspaper, like most of it
+[13:32:39] <danopia> <lacop> take a month old topic
+[13:32:39] <danopia> <lacop> post something there
+[13:32:50] <danopia> most forums i've modded lock the thread if you do that
+[13:32:54] <danopia> because it goes toe the top
+[13:32:59] <lacop> danopia, I was responding to
+[13:33:03] <lacop> <joholz> as far as forums we are fine with reddit
+[13:33:08] <danopia> oh, reddit
+[13:33:17] <garychencool> How about support threads? Where you can thumbs it up?
+[13:33:19] <danopia> i wouldn't want to call reddit a forum
+[13:33:26] <Raion> I like irc much better, and code 52 uses an irc style chat for communication
+[13:33:27] <danopia> but i guess it can be used like one
+[13:33:51] <danopia> i'm fine with mailing lists, but they're basically a forum anyway
+[13:33:56] <danopia> well, modern/nice noes
+[13:33:56] <garychencool> Support like this http://support.swiftkey.net/forums/116689-1-swiftkey-x-ideas-
+[13:34:09] <anjoyed> upboat for group with mailing lists
+[13:34:12] <red_sky> we could always use getsatisfaction or something for support tickets
+[13:34:18] <danopia> olderstyle mailing lists were terrible.... click to see the next message, half of hte time it was from the wrnog topic
+[13:34:20] <anjoyed> easily filtered by topic
+[13:34:23] <anjoyed> easy to follow
+[13:34:44] <red_sky> uservoice is similar to getsatisfaction
+[13:34:45] <danopia> bbl
+[13:34:48] <red_sky> later
+[13:34:48] <vcarl> danopia: just wanna say, i like that reddit/android mashup logo
+[13:35:06] <danopia> vcarl, there's too much going on imo
+[13:35:13] <danopia> not sure how it would scale down
+[13:35:28] <vcarl> could remove the ears
+[13:35:59] <danopia> maybe it could be used for some things, but you'd need a smaller icon for favicons, logos, etc
+[13:36:05] <vcarl> true, true
+[13:37:59] ### margosmark has quit the server. (Read error: Connection reset by peer)
+[13:41:27] <member68> alright guys, i really want to make a decision in the next few minutes. present me an idea, give me reason why we should use it and i'll see what we can use.
+[13:41:47] <red_sky> Google Groups might be the best option for right now
+[13:42:00] <alextsc> agreed
+[13:42:04] <red_sky> it has mailing list-like features with more benefits
+[13:42:06] <garychencool> i g2g2 class now, gunna be on in an hour or something
+[13:42:22] <member68> ok
+[13:42:36] <member68> any reason we should NOT go with google groups for discussions?
+[13:42:37] ### garychencool has quit the server. (Quit: class)
+[13:42:52] <vcarl> no objections here
+[13:43:06] <lyrch> sounds good to me
+[13:43:23] <member68> welcome to google groups everybody: https://groups.google.com/forum/?fromgroups#!forum/RedditAndroidDevelopers
+[13:44:04] <anjoyed> good call :)
+[13:45:39] <red_sky> looks good to me
+[13:46:19] <deliwien> if anybody needs something to do and knows git / github, the wiki could use a tutorial for the beginners. http://rad.lc8n.com/projects/general-organization/wiki/Github
+[13:48:33] ### artico has quit the server. (Read error: Connection reset by peer)
+[13:48:48] <anjoyed> more used to svn + trac
+[13:48:53] <anjoyed> need to read up on git
+[13:50:22] <jaimeh> Git is great. You will love it.
+[13:50:42] <wjoe> you'll love it... as long as you're not the one setting up the server :p
+[13:50:46] <wjoe> (thanks github)
+[13:51:12] <jaimeh> Server is not that hard
+[13:51:43] <blaise__> If you want to allow remote connections, it's kind of a pain.
+[13:52:55] <red_sky> we should make some kind of announcement about all the progress we've made thus far
+[13:52:58] <wjoe> I've spent most of the day wrestling with git config, though that was mostly the redmine integration. and anonymous cloning randomly wasn't working yesterday
+[13:53:13] <wjoe> regarding google groups: what's the benefit of using that over redmine forums, or just the subreddit?
+[13:53:23] <jaimeh> Gitolite
+[13:53:30] <red_sky> that would include things like the google group, the IRC logging, the wiki pages on redmine, etc.
+[13:53:32] <wjoe> yeah, that's what I use
+[13:53:43] <wjoe> and yeah, that would probably be a good idea
+[13:53:44] ### artico has joined ##reddit-android-developers
+[13:54:01] <red_sky> wjoe reddit doesn't allow for conversations to last very long.  There's no way of knowing when new posts occur, and old content doesn't age well
+[13:54:04] <deliwien> yeah the announcement would be a great idea
+[13:54:09] <red_sky> forums aren't really... good
+[13:54:28] <red_sky> google groups are nice because then only people who should be engaged in a discussion actually are
+[13:54:41] <red_sky> similar to mailing lists, but not as messy
+[13:54:52] <red_sky> if we find something better, I'm sure we can always transfer
+[13:55:56] <vcarl> where can the irc log be found?
+[13:56:34] <alextsc> vcarl, https://github.com/RedditAndroidDev/IRC_Logs
+[13:56:45] <vcarl> thanks alextsc
+[13:57:13] <wjoe> agreed forums aren't great, but I'm not sure what google groups is other than a forum
+[13:57:33] ### margosmark has joined ##reddit-android-developers
+[13:57:48] <jaimeh> Google groups is a mailing list made "modern"
+[13:58:30] <anjoyed> keeps you updated without having to check
+[13:58:51] ### adamell has quit the server. (Quit: Computer has gone to sleep.)
+[13:58:51] <red_sky> you can limit write access more easily, too
+[13:58:58] <anyonethinkingab> can i join that google mailing list with a hotmail account?
+[13:59:09] <red_sky> so anyone can read, but maybe only have some of the posts publicly writeable
+[13:59:10] <jaimeh> Hotmail....
+[13:59:36] <anyonethinkingab> yeah i'm not creating dozens of mail-adresses
+[13:59:48] <anjoyed> probably need a gmail, but you can have gmail forward everything to your hotmail
+[13:59:57] <anyonethinkingab> yeah i read that
+[14:00:08] <anyonethinkingab> ill check it out
+[14:00:12] <deliwien> http://tinyurl.com/raddoc i created a google docs document for writing the announcement, go ahead and write stuff to it if you've feel something needs to be in the announcement
+[14:00:52] <red_sky> do you guys think once every 12 hours is enough for IRC log updates to get pushed to git?
+[14:00:55] <red_sky> github*
+[14:01:31] <anjoyed> anyonethinkingab, setup a gmail, go to settings -> forwarding and add your hotmail
+[14:01:34] <alextsc> yeah i think thats ok
+[14:02:03] <anyonethinkingab> i'm not reading therse
+[14:02:05] <anyonethinkingab> i'm not reading there
+[14:02:10] <anyonethinkingab> i'm not reading these*
+[14:02:18] <anjoyed> :o
+[14:02:20] <red_sky> they actually have less posts than you might think
+[14:02:31] <red_sky> https://github.com/RedditAndroidDev/IRC_Logs/blob/master/logs/log_19.Mar.2012.txt
+[14:02:46] <red_sky> for example, that's all of yesterday's logging, starting at around 5PM EST
+[14:03:00] <red_sky> 8PM EST
+[14:03:01] <red_sky> worry
+[14:03:05] <red_sky> sorry**
+[14:03:29] <jaimeh> Not bad. 12 hours is fine.
+[14:03:40] <red_sky> I'm thinking about extending the bot so that it can log certain kinds of people for certain logs, and then each log can be categorized
+[14:04:03] <red_sky> like, if we have a list of developers, have a developer_log_19.Mar.2012.txt, for example
+[14:04:13] ### blaise__ has parted (left) the channel.
+[14:04:22] <wjoe> maybe, though it would look a little out of context if it was just lines from certain people
+[14:04:27] <vcarl> interesting, but could easily lose a lot of context
+[14:04:29] <vcarl> yeah
+[14:04:33] <red_sky> yeah
+[14:04:51] <red_sky> if there's a way of making it really smart, we could have it pick up on topics and post them
+[14:04:54] <red_sky> log them*
+[14:04:56] <red_sky> else just ignore it
+[14:06:06] <Raion> Put that effort into an app not logging :D
+[14:06:29] <red_sky> yeah, I won't
+[14:06:32] <red_sky> but it's a novel idea
+[14:06:43] <red_sky> also something that people write dissertations on
+[14:06:59] <red_sky> not so specific as an IRC logging bot, but machine learning
+[14:06:59] <jaimeh> Yeah the infrastructure is there for us now. We really should be discussing moving forward with getting apps/ideas approved and moving
+[14:07:08] <vcarl> ^
+[14:07:10] <red_sky> that's what I'm waiting for
+[14:07:19] <vcarl> i think that's what we're all waiting for :P
+[14:07:27] <red_sky> and sooner or later, we'll start losing people if we don't get that out
+[14:07:32] <wjoe> was there any outcome from the polls for app ideas?
+[14:07:33] <red_sky> I think it needs to be out before the weekend
+[14:07:41] <red_sky> most of the app ideas suck
+[14:07:44] <red_sky> just saying
+[14:07:45] <wjoe> I believe the announcement said 24 hours, over 24 hours ago
+[14:08:11] <red_sky> we need a way of limiting people who submit ideas
+[14:08:24] <red_sky> most of the ideas I feel like have been submitted by people who don't actually want to contribute
+[14:08:29] <red_sky> which defeats the purpose
+[14:08:30] <jaimeh> Why limit, there is nothing really there.
+[14:08:30] ### blaise__ has joined ##reddit-android-developers
+[14:08:47] <wjoe> but yeah, we've made a good start with getting infrastructure together and stuff, but I think we need to be a bit more focused on making some decisions soon
+[14:08:52] <red_sky> only people actually working on projects should be allowed to suggest projects
+[14:08:58] <red_sky> it doesn't matter how they contribute, as long as they do
+[14:09:32] <wjoe> eh. ideas are still good. I know java/android but I don't have any ideas :p
+[14:09:43] <vcarl> yeah, ideas are hard
+[14:09:43] <alextsc> i think others can suggest ideas, in the end the devs will decide anyway. The more ideas the better imho
+[14:09:46] <vcarl> weeding out bad ones are easy
+[14:09:50] <vcarl> *is
+[14:09:55] <jaimeh> Yes
+[14:10:02] <wjoe> better to have a bunch of ideas and pick from them, than not enough ideas
+[14:10:30] <red_sky> I just don't want a decision on what to make to be made by people who aren't helping
+[14:10:41] <wjoe> oh yeah, for sure
+[14:10:45] <alextsc> i think thats not going to happen :)
+[14:10:45] <red_sky> like, if all of the developers want to work on x and y, but z gets chosen, wtf
+[14:10:57] <wjoe> that would suck, and leave us with not many developers
+[14:11:04] <vcarl> i think the contributors should *choose*, but anyone should be able to submit
+[14:11:05] <red_sky> yeah, that's really what I mean
+[14:11:13] <red_sky> yeah, that's a good idea, vcarl
+[14:11:21] <red_sky> but how do we decide who is a contributor at this point?
+[14:11:29] <wjoe> hmm
+[14:11:30] <vcarl> the people who start apps :P
+[14:11:41] <wjoe> we really need something to track who's on board
+[14:11:43] <red_sky> haha, but what about the others, like designers and translators?
+[14:11:44] <jaimeh> Well I have something that I have been wanting to work on. Navit has excellent offline navigation algorithms, but the android app is lacking. It is something that can really be pushed forward. They use OSM
+[14:11:45] <Raion> That's life though..requirements are chosen by the business, developed by the developers
+[14:11:45] <wjoe> just names and skills really
+[14:11:53] <anyonethinkingab> that redmine thing thay made a couple of hours ago solved this problem: you contribute on projects that you want to make
+[14:12:03] <red_sky> do they have an api, jaimeh?
+[14:12:08] <jaimeh> Yeah
+[14:12:08] <vcarl> exactly, anyonethinkingab
+[14:12:10] <red_sky> otherwise, it'd be a PITA
+[14:12:36] <red_sky> well, I'm not too familiar with redmine, so that is why I didn't know that
+[14:12:51] <anyonethinkingab> http://www.redditandroiddevelopers.com/
+[14:12:58] <vcarl> we should wait to identify contributors until we have at least an app in progress
+[14:13:05] <jaimeh> Ah, but it is mostly c code
+[14:13:09] <anyonethinkingab> i don't know what is on it and what not
+[14:13:20] <vcarl> right now there are only like 5 people who have legitimately done something tangible
+[14:14:09] <jaimeh> If it is enough for a startup, it is enough to get this moving. Re. 5 ppl
+[14:14:10] <red_sky> who are those people, vcarl?
+[14:14:11] <red_sky> just curious
+[14:14:36] <wjoe> but then how do potential contributors know if they haven't been identified?
+[14:15:02] <wjoe> most of the stuff that's been done so far is fairly non-android related anyway
+[14:15:22] <wjoe> I've spent most of my time in the past couple of days setting up the redmine stuff, but that doesn't mean I know how to make an android app
+[14:15:29] <wjoe> (I do, mostly, but that's not the point :p)
+[14:15:29] <vcarl> i mean, there are the people who set up the site (member68 got the domain, i'm not sure about the rest), danopia made the logo(s)
+[14:15:37] <anyonethinkingab> we need project managers that can start a project, and divide the tasks between people willing to contribute. I think that's really all there's left to do
+[14:15:49] ### Fizile has quit the server. (Ping timeout: 265 seconds)
+[14:16:12] <vcarl> agreed, anythingthinkingab
+[14:16:19] <red_sky> hogofwar and myself worked on the IRC logging stuff
+[14:16:25] <wjoe> yeah, I think so. we need to pick a few projects, set up the necessary repos/pages for them, assign managers to each, then see who's interested
+[14:16:27] <red_sky> I agree anythingthinkingab
+[14:16:27] <jaimeh> Side note: why two hash tags for this channel?
+[14:16:35] <wjoe> it's a freenode thing, apparently
+[14:16:40] <red_sky> the # doesn't appear
+[14:16:44] <red_sky> unless you have two
+[14:16:44] <vcarl> jaimeh, i was wondering that as well, most freenode ones don't have 2
+[14:16:54] <wjoe> apparently only "official" channels get just one #? I think
+[14:17:02] <wjoe> though, I'm not sure what qualifies "official"
+[14:17:05] <red_sky> so we would be reddit-android-developers with just one
+[14:17:20] <red_sky> one of my other channels has just one #
+[14:17:24] <jaimeh> You can take over a channel
+[14:17:24] <red_sky> and it is in no way official
+[14:17:29] <deliwien> i'm interested in working as a project manager if needed
+[14:17:35] <wjoe> "Policy organizes the network into two classes of channels, primary and topical (reference) channels. Primary channels names are reserved based on a formal or informal claim, external to IRC, to a specific project, group or trademark name. T"
+[14:17:41] <wjoe> ^ freenode policy. this is definitely us
+[14:18:03] <red_sky> yeah
+[14:18:05] <wjoe> yeah, well the other freenode channels I'm in are #raspberrypi and #sabayon, which are both official I think
+[14:18:09] <red_sky> okay, I have to go to class
+[14:18:12] <wjoe> but I don't see any reason why we couldn't be 'official' too
+[14:18:14] <red_sky> #zbdf isn't official
+[14:18:16] <wjoe> good luck
+[14:18:17] <Raion> Is that to register a channel? Because I can join # thisisfake or something
+[14:18:22] <red_sky> unless it's not hard to become official
+[14:18:32] <jaimeh> I don't think it is
+[14:18:43] <red_sky> okay, I'll be back later
+[14:18:50] <Grillon> its not hard to become official
+[14:18:51] <jaimeh> Its been a good long while since I have tried.
+[14:19:06] <Grillon> i did it a few months ago, just register on the site
+[14:19:32] <jaimeh> We just have to take over the empty channel with only one hash tag
+[14:19:45] <wjoe> as far as I can tell, it just sounds informal
+[14:20:02] <wjoe> anyone can make a channel with one #, but it's possible for someone to appeal it if they believe they have the rights to it
+[14:20:08] <wjoe> http://freenode.net/policy.shtml#channelnaming
+[14:20:13] <wjoe> that's how I'm reading ^ anyway
+[14:20:59] ### deliwien- has joined ##reddit-android-developers
+[14:21:21] <jaimeh> We got this unless Reddit fights us.
+[14:21:44] <vcarl> which they won't
+[14:21:46] ### deliwien has quit the server. (Ping timeout: 252 seconds)
+[14:21:51] ### deliwien- is now known as deliwien
+[14:22:19] <wjoe> yeah, they've ok'd it by the sound of it. the only potential problem is if there's money involved
+[14:22:25] <wjoe> http://freenode.net/group_registration.shtml <- I guess this is what we need
+[14:22:28] <member68> names issues have already been resolved with reddit. we can use the name and the logo
+[14:23:07] <vcarl> i'm gonna migrate the reddit thread "introduce yourself" to the "about us" page on redmine
+[14:23:18] <member68> there won't be any money in the next few weeks. maybe after that. but we'll have plenty of time to have a discussion by then
+[14:23:38] <wjoe> yep
+[14:23:54] <wjoe> so what's the schedule on selecting apps? we should start on that soon
+[14:24:14] <TheNumb> We need an app that will help us select next apps :D
+[14:24:17] ### Hayes has joined ##reddit-android-developers
+[14:24:20] <wjoe> haha
+[14:24:42] <Hayes> http://i.imgur.com/130s8.jpg
+[14:24:53] <Hayes> or does the other one win by default?
+[14:24:59] <TheNumb> Hayes: woooow
+[14:25:17] <Hayes> :)
+[14:25:39] <lyrch> nice job
+[14:25:46] <deliwien> nice!
+[14:26:02] <member68> next steps: picking projects, assigning managers and have users pick projects to work on. after that, let the fun begin
+[14:26:39] <wjoe> nice, I like it
+[14:26:45] ### Ramuh has joined ##reddit-android-developers
+[14:26:56] <Ramuh> Hello Party People
+[14:27:04] <Ramuh> how are you today
+[14:27:20] <TheNumb> At some point we'll have to pay for developer account.
+[14:27:52] <deliwien> http://tinyurl.com/raddoc anything else we need in the announcement?
+[14:27:54] <member68> TheNumb: Having an app would be nice first ;)
+[14:27:56] <Hayes> Helping pay = get password for the account?
+[14:27:56] <anyonethinkingab> Hayes can you make the background a bit more noisy? I like it!
+[14:28:02] <TheNumb> member68: yeah ;-)
+[14:28:13] <TheNumb> We can start off with apks :P
+[14:28:25] <Ramuh> Anything interesting happened yet today? :>
+[14:28:32] <TheNumb> Ramuh: lots of things
+[14:28:42] <wjoe> I'm not sure if it says more about me, or google+, that my "Reddit android dev" circle has far more members than my "Friends" circle
+[14:28:50] <anyonethinkingab> haha
+[14:29:06] <anyonethinkingab> i have 0 friends at g+
+[14:29:14] <alextsc> deliwien, is it possible to get the poll/suggestion status in there? Thats a huge questionmark imho.
+[14:29:14] <artico> i've got one friend on g+
+[14:29:38] <deliwien> alextsc, sure, as soon as we know what the status is. :D
+[14:29:43] <alextsc> :D
+[14:29:45] <alextsc> alright
+[14:30:24] <Hayes> atg: I just noticed how noisy it is myself - whoops!
+[14:30:43] <wjoe> who's in charge of the poll? or at least has access to the spreadsheet
+[14:30:49] <anjoyed> i gotta get work done, but will keep an eye out here. for projects (when decided) - i don't have a whole lot of time but can help out people not too familiar with java/android
+[14:31:19] <deliwien> https://docs.google.com/spreadsheet/ccc?key=0AiVy8gDnGR-FdG8yMzUtcVhyWXVIS19nZ3NKYmVXNkE#gid=0 is the spreadsheet for it
+[14:31:51] <lacop> http://groups.google.com/group/RedditAndroidDevelopers/browse_thread/thread/1b35b3b40ffc2165
+[14:32:01] <wjoe> hm. what about the one that had the votes for a simple app and a complex app?
+[14:32:06] <lacop> wrote down my suggestions, if you want to add something please do
+[14:32:34] <deliwien> lacop, we already have an issue tracker: http://rad.lc8n.com/projects/general-organization/issues
+[14:33:12] <lacop> deliwien, please read the whole thing
+[14:33:16] <lacop> I know about redmine
+[14:33:22] <lacop> why use it, if we have github
+[14:33:30] <lacop> which is integrated
+[14:33:45] <deliwien> oh, sorry :)
+[14:33:45] ### Avid has joined ##reddit-android-developers
+[14:34:10] <lacop> I'm open to suggestions, but please read my points first :)
+[14:34:13] <Ramuh> too many places are confusing, i have no idea where to check latest interesting stuff
+[14:34:25] <TheNumb> lacop: for project management
+[14:34:36] <lacop> that's what I said in there... 3 things, ranging from IRC through mailing list to issue tracker
+[14:34:43] <deliwien> Ramuh, we're writing an announcement right now :)
+[14:34:47] <Ramuh> nice
+[14:34:50] <lacop> should cover whole range of people with different ammount of time/interest
+[14:35:09] <lacop> TheNumb, what exactly you mean by that?
+[14:35:19] <Raion> Agree with ramuh if we can put everything in one happy place that'd be best
+[14:35:36] ### adamell has joined ##reddit-android-developers
+[14:35:41] <TheNumb> lacop: like... assigning task to people.
+[14:35:44] <TheNumb> etc.
+[14:35:50] <TheNumb> tasks*
+[14:35:52] <lacop> TheNumb, that's the issue tracker, already in github
+[14:36:07] <lacop> I know that redmine/trac/.. is nice if you have the whole custom setup
+[14:36:23] <lacop> but github provides a fair bit of those services, already well integrated, tested, ready to go
+[14:36:24] <TheNumb> lacop: imo, issue tracker should be only used for bug reports.
+[14:36:25] <wjoe> agree that we shouldn't spread stuff across too many places, but redmine seems to have a lot of features that aren't really covered by github. we definitely need something for information and guides
+[14:36:30] <lacop> and very reliable
+[14:36:31] <TheNumb> Or feature requests.
+[14:36:38] <adamell> I'm free for a few hours if anything needs done atm
+[14:36:46] <lacop> there are categories - features, bugs, ...
+[14:36:52] <Ramuh> isn a feature request basically a task that you assign somebody too
+[14:37:00] <Ramuh> what else do you do, new features, or fix shit
+[14:37:05] <lacop> also, we have wiki for documentation on github
+[14:37:18] <lacop> Ramuh, that's what I'm saying
+[14:37:29] <Ramuh> i know, i agree with you
+[14:37:40] <lacop> I know, I'm agreeing with you ... :)
+[14:37:50] <Hayes> How do I add my idea to the Google doc?
+[14:37:55] <Ramuh> i agree with you agree to me agreeing you
+[14:37:57] <lacop> Hayes, last link in topic
+[14:38:07] <lacop> also in the /r/ sidebar
+[14:38:40] <Hayes> So I need to fill out the form first?
+[14:38:42] <Hayes> Gotcha.
+[14:38:52] <Ramuh> no the form submits it to the google doc
+[14:39:44] <lacop> the spreadsheet is read only, to avoid people deleting stuff
+[14:39:46] <wjoe> personally I don't like mailing lists, but then I've not used them for anything big. they're good for current stuff, but it seems very awkward to find anything old
+[14:39:55] <adamell> I'd be happy to work on the git wiki or the RM wiki for a while.
+[14:40:04] <Hayes> lacop: I don't get it.  The form says Experience and Devices, not Idea
+[14:40:16] <lacop> Hayes, wrong rom
+[14:40:18] <lacop> *form
+[14:40:26] <lacop> that is for expressing interest in participating
+[14:40:29] <Hayes> GOD DAMNIT, WE HAVE TOO MANY FORMS.
+[14:40:30] <deliwien> Hayes, https://docs.google.com/spreadsheet/viewform?formkey=dG8yMzUtcVhyWXVIS19nZ3NKYmVXNkE6MQ#gid=0
+[14:40:42] <lacop> Hayes, https://docs.google.com/spreadsheet/viewform?formkey=dG8yMzUtcVhyWXVIS19nZ3NKYmVXNkE6MQ#gid=0
+[14:40:47] <lacop> :/ too late
+[14:40:59] <anyonethinkingab> haha
+[14:41:03] <Ramuh> we should have a poll for the forms
+[14:41:14] <anyonethinkingab> when was the deadline?
+[14:41:25] <anjoyed> and a form for suggesting polls
+[14:42:39] <Ramuh> brilliant
+[14:42:42] <Grillon> lol
+[14:42:49] <Grillon> this is quite hilarious
+[14:42:49] <anjoyed> :0
+[14:42:50] <deliwien> anybody still have something to add to the announcement? http://tinyurl.com/raddoc
+[14:43:10] <lacop> you guys are kidding but this is exactly what happened to this http://www.reddit.com/r/redditmakesagame/
+[14:43:23] <lacop> there were polls about making polls, then polls on when to make polls
+[14:43:53] <vcarl> design by committee :|
+[14:43:58] <Ramuh> very nice
+[14:44:08] <TheNumb> Ramuh: and poll for polls
+[14:44:10] <Ramuh> i will now make a pie chart on my favorite bars
+[14:44:27] <lacop> member68, veeti : either of you here?
+[14:44:36] <veeti> hi
+[14:44:38] <Ramuh> you might want to make that read only
+[14:44:39] <lacop> hey
+[14:44:49] <lacop> could you throw a link to the google groups to the sidebar?
+[14:44:54] <lacop> it's not getting any attention
+[14:44:58] <member68> i'm here
+[14:45:05] <veeti> sec
+[14:45:11] <deliwien> Ramuh, yeah, i'm going to post it on reddit and other places, the document was just for creating it
+[14:45:23] <Ramuh> alright
+[14:45:24] <lacop> member68, sorry, veeti was first :)
+[14:45:32] <Ramuh> it'
+[14:45:42] <Ramuh> it's just so tempting to delete everything
+[14:46:08] <deliwien> :D
+[14:46:45] <anyonethinkingab> can a mod add a deadline to the select-a-logo?
+[14:46:50] <deliwien> people, we need to set deadlines on the logo submissions and the idea submissions.
+[14:46:51] <deliwien> yeah
+[14:46:55] <wjoe> agreed
+[14:46:57] <Ramuh> NOW
+[14:47:11] <wjoe> it already said 24 hours on the idea submissions early yesterday
+[14:47:18] <wjoe> so that should have ended really
+[14:47:37] <deliwien> let's end it then?
+[14:47:52] <Ramuh> but was it 24 already? mor like 22
+[14:47:53] <danopia> hi
+[14:48:24] <member68> yes, there was enough time for submitting ideas.
+[14:49:08] <vcarl> kk, about us page on redmine is somewhat updated, i gotta go for now though
+[14:49:46] <member68> i'll create a google doc to get all app ideas together in one place. care to give me a hand?
+[14:49:57] <deliwien> member68, sure
+[14:50:05] ### vcarl has quit the server. (Quit: Page closed)
+[14:50:37] <member68> https://docs.google.com/document/d/1XmWL8n3LDMxgWb3ob6DYLg8kPsSua3RhRNv6MRVMbIg/edit
+[14:51:50] <member68> please sort by "Old" so we don't miss any ideas
+[14:52:40] <deliwien> can't edit it, change the permissions please :)
+[14:52:59] <adamell> ^ this
+[14:53:06] <veeti> i think that a spreadsheet would work better for this
+[14:53:41] <deliwien> yeah a spreadsheet would probably be a bit better
+[14:54:06] <Hayes> Do we need PowerPoints?  I can make PowerPoints.
+[14:54:23] <artico> i love powerpoints
+[14:54:37] <danopia> i call them "slideshows"
+[14:54:41] <member68> true, hold on
+[14:54:42] <adamell> powerpoints=nap time
+[14:55:00] <danopia> esp since i don't use microsoft products
+[14:55:24] <member68> spreadsheet: https://docs.google.com/spreadsheet/ccc?key=0AvlQFVsQUJEidFF3VHY1TUZpdk00Vjdhbl9lbUI0Wnc
+[14:56:00] <deliwien> i'm gonna start with the form results
+[14:56:01] <artico> it's like watching a tv show about someone filling in a spreadsheet
+[14:56:31] <deliwien> ffs, can't copy & paste from the protected result fields. :D
+[14:56:32] <adamell> But with pertinent data and less enhancing
+[14:57:38] <anjoyed> mailing list from group is working. Would it be possible to append [RAD] to subject lines?
+[14:57:45] <anjoyed> makes it easy to  filter
+[14:57:57] <Grillon> ^agreed
+[14:59:54] <danopia> wait, you want to have them filtered in gmail?
+[15:00:09] <danopia> because you can filter by-list without any subject line stuff
+[15:00:32] <danopia> use list:rad or similar
+[15:01:11] ### Dillon[ca] has joined ##reddit-android-developers
+[15:01:14] <danopia> where is htis list, btw
+[15:01:22] <Grillon> lol good question
+[15:02:02] <anjoyed> subscribe to the group and you will get mailed when topics go up
+[15:02:02] <adamell> http://www.reddit.com/r/RedditAndroidDev/comments/r2eus/what_kind_of_app_do_we_want_to_write/
+[15:02:18] <danopia> grepped the channel, got http://groups.google.com/group/RedditAndroidDevelopers
+[15:02:40] <anjoyed> thats it
+[15:03:13] <Hayes> I'm so tempted to italicize all the shit ideas.
+[15:03:24] <Hayes> But now you will all know it was me.
+[15:03:42] <wjoe> nice try, person who's going to bold all the shit ideas
+[15:03:46] <danopia> bold them instead, then we'd never knw
+[15:03:48] <member68> danopia: i added a prefix
+[15:04:07] <member68> every subject line will start with [RedditAndroidDevelopers]
+[15:04:10] <member68> easy to filter
+[15:04:12] <Ramuh> http://java.dzone.com/articles/filtering-stack-trace-hell holy crap, darn java
+[15:04:15] <danopia> :(
+[15:04:24] <Grillon> can we like consolidate to the google group or redmine, seems we have too much shit all over the place
+[15:04:28] <danopia> if you're going to uglify, at least use [RAD]
+[15:04:42] <adamell> dat stack
+[15:04:43] <member68> ok
+[15:04:48] <alextsc> yeah, shorter is better sometimes :P
+[15:05:16] <danopia> if it's prefixed, then all i'll see in my notif try is
+[15:05:27] <danopia> New email: [RedditAndroidDevelopers] He...
+[15:05:37] <anjoyed> cheers. makes it easier to filter if you don't use webmail
+[15:05:49] <danopia> [RAD] is ok though
+[15:06:00] <adamell> Why can't I paste links into the C column?
+[15:06:06] ### Dillon[ca] has quit the server. (Ping timeout: 260 seconds)
+[15:06:07] <member68> changed it to [RAD]
+[15:06:17] <danopia> thanks
+[15:06:31] ### pieces029 has quit the server. (Quit: Page closed)
+[15:07:39] <deliwien> can somebody remove the "Do you have an idea for a app we should develop? Tell us here." link from the subreddit?
+[15:07:58] <veeti> the whole sidebar needs to be cleaned up
+[15:08:23] ### garychencool has joined ##reddit-android-developers
+[15:08:36] <lacop> prefixes are stupid ... just filter on the "to" field
+[15:08:45] <veeti> +1
+[15:08:48] ### Sanit has joined ##reddit-android-developers
+[15:08:53] ### c0smic has joined ##reddit-android-developers
+[15:08:54] <lacop> if its redditandroiddevelopers@googlegroups.com
+[15:09:02] <lacop> then just throw a label/something
+[15:09:06] ### pocus has joined ##reddit-android-developers
+[15:09:10] <veeti> c0smic: hi
+[15:09:18] <garychencool> back from boring class, what did I miss this past hour?
+[15:09:20] <c0smic> hey!
+[15:09:44] ### jaymax has joined ##reddit-android-developers
+[15:11:45] <adamell> What class?
+[15:12:31] <adamell> You missed a bunch of wiki editing and spreadsheet making
+[15:12:44] <adamell> https://docs.google.com/spreadsheet/ccc?key=0AvlQFVsQUJEidFF3VHY1TUZpdk00Vjdhbl9lbUI0Wnc#gid=0
+[15:12:49] <deliwien> garychencool, we're writing an announcement: http://tinyurl.com/raddoc
+[15:13:02] <deliwien> and that spreadsheet
+[15:13:21] <garychencool> sweet
+[15:14:10] <garychencool> bookmarked all of it assuming it won't change
+[15:14:59] <deliwien> the announcement is going to be posted on reddit and other places, that document is just for writing it, but it can be used for writing other announcements as well
+[15:15:06] <adamell> Per the 'Ideas for the project' section, i think we should post a definite deadline.
+[15:15:35] <deliwien> yeah
+[15:15:46] <deliwien> 24 hours?
+[15:15:51] <wjoe> ideally, I think we should try and have projects ready to work on by the weekend
+[15:15:59] <anyonethinkingab> true
+[15:16:15] <wjoe> 24 hours for voting on projects seems good
+[15:16:27] <adamell> nice
+[15:16:30] <anyonethinkingab> and 24 hours for voting on the logo?
+[15:16:34] <deliwien> sure
+[15:16:38] <anyonethinkingab> ok
+[15:17:01] <deliwien> shall we close the logo submission now too?
+[15:17:22] <garychencool> adamell: add this too http://www.reddit.com/r/RedditAndroidDev/comments/r59rr/app_idea_real_life_photo_realistic_first_person/
+[15:18:07] <red_sky> I'm back
+[15:18:11] <anyonethinkingab> boy that's gonna be a tough one
+[15:19:25] ### pocus has quit the server. (Quit: Page closed)
+[15:20:09] <garychencool> anyonethinkingab: this http://www.reddit.com/r/RedditAndroidDev/comments/r59rr/app_idea_real_life_photo_realistic_first_person/ ? Yeah, I believe so. It's a niche and it's cool
+[15:21:15] <adamell> garychencool: added
+[15:22:24] <garychencool> adamell: thanks
+[15:22:55] <adamell> The spreadsheet is publicly editable if you have anything else you'd like to add.
+[15:23:35] <red_sky> hmm, this first announcement thing gave me the idea of doing a newsletter
+[15:24:19] <Sanit> Right, I have a bit of interest in my app idea. What is the best way of going from here if a couple of us want to start working right away. Will I make a repo on my GitHub or can the group one be added to?
+[15:25:00] ### jaimeh2 has joined ##reddit-android-developers
+[15:26:04] <garychencool> A newsletter both on a site and as a mailing list email would be nice, I have experience creating such newslatters
+[15:26:09] <garychencool> *newsletters
+[15:26:15] <garychencool> brb back in 10 minutes
+[15:26:18] ### garychencool has quit the server. (Quit: Page closed)
+[15:27:10] <red_sky> hmm, just got another idea for the logging bot that's probably somewhat useful
+[15:27:23] <red_sky> allow OPs to issue a PM command to it to push anything to the git
+[15:27:38] ### ballpointcarrot has joined ##reddit-android-developers
+[15:27:39] <red_sky> that way if something needs to be up there, rather than wait until the next auto-sync, do it then
+[15:27:44] <adamell> Sanit: commit it to your repo. At the rate we're moving your better off sticking to your own, then plan on a RADgit fork in the future if there's enough interest.
+[15:28:07] ### jaimeh has quit the server. (Ping timeout: 276 seconds)
+[15:29:03] <Sanit> Will do. Tahnks
+[15:30:12] <wjoe> Sanit: not sure, check with member68. I have admin rights on the github but I can't create new repos there, he probably needs to do it. but yeah, it's easy enough to fork it to the RAD repo later on
+[15:30:27] <blaise__> Sanit: what's your app idea?
+[15:30:52] <adamell> ^ also interested
+[15:32:08] ### jaimeh2 has quit the server. (Quit: Bye)
+[15:32:38] <deliwien> so when are we closing the logo submission? now? going to send the announcement soon so i need to know. also if anybody else has anything to add to the announcement: http://tinyurl.com/raddoc
+[15:32:41] ### jaimeh has joined ##reddit-android-developers
+[15:34:07] <Sanit> blaise_, adamell: http://www.reddit.com/r/RedditAndroidDev/comments/r50z9/app_idea_simple_reddit_client_for_newbie/
+[15:34:18] <Sanit> Still looking for a graphic designer
+[15:35:12] <Sanit> and I have the basics pretty much programmed so far (i.e. the activities etc, no functionality yet, that is beyond my scope at the moment.
+[15:38:40] ### Hayes has quit the server. (Quit: Page closed)
+[15:38:41] <Ramuh> i bought a new usb cable
+[15:39:07] <blaise__> Sanit: Sounds interesting and like you have coders covered.  I looked at the Reddit API a little while ago.  Pretty nice and decently documented.  You shouldn't have a whole lot of trouble with it.
+[15:39:22] <Sanit> Hope not, my first time tinkering with an API
+[15:39:44] <Sanit> plus, we can always reference the RIF source on github if we get into trouble
+[15:39:49] <blaise__> Well…the API isn't really an API per se.  It's a service.
+[15:40:18] <blaise__> Guess it is. :-)
+[15:40:48] <blaise__> I usually view API's as something you include in your app….but this is definitely a defined interface
+[15:41:13] <Sanit> ah, makes sense. Just goes to show my inexperience
+[15:41:18] <ThatPlayer> Morning strangers
+[15:41:25] <Sanit> hey
+[15:42:20] <blaise__> I liked Danopia's suggesting in the thread about an imgur browser….then went out and searched for them.
+[15:42:28] <danopia> are there any?
+[15:42:37] <blaise__> Yeah…quite a few.
+[15:42:42] <danopia> makes sense
+[15:42:48] <blaise__> Haven't really played around with any to see if they are any good.
+[15:42:55] <danopia> if we made one, i'm not sure we'd release it... it's more a "learning android" project
+[15:42:57] <blaise__> So, it still may be a good app idea.
+[15:43:06] <danopia> unless we flesh it out and make it awesome
+[15:43:12] <anyonethinkingab> who removed the date column in the spreadsheet?
+[15:43:13] <blaise__> Yeah…or we could improve the interface a little.
+[15:43:15] <deliwien> if anybody doesn't disagree, i'm going to say that the logo submission time is now over. it's been over 24 hours since the post has been created
+[15:43:19] <danopia> but the initial "just swiping through the galary" would be private
+[15:43:30] <danopia> if we add accounts and set up a "share" receiver, then sure
+[15:43:46] <member68> anyonethinkingab: it's just hidden, i did that
+[15:43:59] <blaise__> I would like to see a reddit app that would interface to an imgur app.
+[15:44:05] <anyonethinkingab> member68 ok
+[15:44:15] ### lyrch has quit the server. (Remote host closed the connection)
+[15:44:16] <blaise__> The current reddit apps only open the image….
+[15:44:46] <anyonethinkingab> is there a transport tycoon for android?
+[15:44:58] <anyonethinkingab> a transport tycoon game, that is
+[15:45:01] <danopia> you mean like a "Open with imgur or browser?" type deal?
+[15:45:13] <danopia> anjoyed, transport => train or rollercoaster style?
+[15:45:15] <blaise__> When I click in a browser, I often times click on some of the other images on the page (popular, etc)
+[15:45:17] <danopia> wrong nick :/
+[15:45:28] <blaise__> So, I would like to see something similar.
+[15:45:29] <danopia> anyonethinkingab, ^^
+[15:45:40] <ThatPlayer> anyonethinkingab: You mean like OpenTTD?
+[15:45:52] <Sanit> That depends on how the image is linked
+[15:45:59] <anyonethinkingab> yup
+[15:46:02] <blaise__> Open it via an intent in a dedicated app that would allow something similar.
+[15:46:08] <anyonethinkingab> ThatPlayer yup
+[15:46:20] <Sanit> if it is directly linked to the .jpg or linked to the page (which is preferred due to ads)
+[15:46:20] <blaise__> Sanit: I agree…sometimes the image is directly linked.
+[15:46:24] <ThatPlayer> anyonethinkingab: There should already ben an OpenTTD port to android though
+[15:46:33] <Sanit> but it is easy to alter the link to get to the page
+[15:46:36] <blaise__> Sanit: yeah, but that could be stripped out.
+[15:46:42] <anyonethinkingab> ThatPlayer oh ok
+[15:46:54] <blaise__> Have something like the main image, and then thumbs below it or something.
+[15:47:06] ### garychencool has joined ##reddit-android-developers
+[15:47:22] <garychencool> Back, using AndChat on Android
+[15:47:24] <Sanit> and it is scrollable from side to side? sounds good
+[15:47:33] <blaise__> Or, even a long press…say you were linked from /r/wtf.  Long press would allow you to browse other pics in that grouping.
+[15:48:35] <anyonethinkingab> and if you silde down you can see the reddit comments
+[15:48:46] <anyonethinkingab> I mean if you slide the image up
+[15:48:53] ### Hayes has joined ##reddit-android-developers
+[15:49:01] <Sanit> so we need to build a full reddit client for that functionality? or as someone said above, an "open with" dialog when imgur links are clicked on
+[15:49:05] <blaise__> Exactly….I think imgur handling in current reddit apps sucks.
+[15:49:26] <blaise__> Well…if you have an app….it can register for those types.
+[15:49:37] <blaise__> imgur app, not reddit app
+[15:49:41] <danopia> the app should link to reddit, now show comments itself
+[15:49:50] <danopia> because that can be in turn handed back to the reddit app, if any
+[15:49:51] <blaise__> Then the user would have the ability to do that.
+[15:49:57] <blaise__> Exactly.
+[15:50:09] <danopia> s/now/not/
+[15:50:19] <blaise__> And if we coded up both….we could have them interact a little more closely.
+[15:50:27] <red_sky> FYI, there is an official imgur app
+[15:50:32] <blaise__> Tell the reddit app to open specifically the imgur app.
+[15:50:32] <red_sky> made by the imgur developers
+[15:50:44] <red_sky> and it already can listen for events raised to if, IIRC
+[15:51:04] <blaise__> So, we could code up a reddit app that interacts with it.
+[15:51:05] <anyonethinkingab> https://play.google.com/store/search?q=imgur&c=apps
+[15:51:59] <blaise__> Yeah, there are quite a few out there….not sure if any are good or not.  Danopia's comment in the thread is what triggered me to say hey…that's a good idea. :-)
+[15:52:26] ### Ben25 has joined ##reddit-android-developers
+[15:52:29] <danopia> i think it's a good idea for nwe people to work on to familiarize themselves
+[15:52:40] <danopia> not necesarily be released unless we discover some awesome feature
+[15:53:03] <red_sky> that's true
+[15:53:07] <anyonethinkingab> yup
+[15:53:09] <red_sky> imgur has an API as well
+[15:53:11] <Grillon> lol whats new
+[15:53:13] ### jaimeh has quit the server. (Quit: Bye)
+[15:53:27] <danopia> you don't necesarily need an account to work with imgur, even uploading
+[15:53:55] ### Raion has quit the server. (Quit: Bye)
+[15:54:28] ### jaimeh has joined ##reddit-android-developers
+[15:54:47] <garychencool> Yeah you can just upload it
+[15:54:56] <anyonethinkingab> indeed
+[15:55:31] <Grillon> are we consolidating all this stuff yet? instead of 10 diff documents/polls/forms
+[15:55:45] <anyonethinkingab> how's it going with the spreadsheet and the announcement?
+[15:55:47] <danopia> we shuold probably work on getting people working soon before they lose interest
+[15:56:11] <Grillon> lol im losing track of all the admin stuff and want to just start
+[15:56:58] <jaimeh> I am looking forward to getting started on something
+[15:57:31] ### red_sky has quit the server. (Ping timeout: 245 seconds)
+[15:57:39] <anyonethinkingab> bump : how's it going with the spreadsheet and the announcement?
+[15:57:51] <Hayes> Licencing issue-free: http://i.imgur.com/mjbGR.jpg
+[15:58:04] <deliwien> anyonethinkingab, i'm just writing a google groups post for the announcement, going to publish soon
+[15:58:06] <danopia> when we actually get people working, we should probably repost on /r/android
+[15:58:18] <anyonethinkingab> yup
+[15:59:20] <lacop> Hayes, I like the font, maybe make it just a bit less "fat"
+[15:59:34] <lacop> but that android thingy on the left is too cluttered
+[15:59:44] <lacop> we are free to use the original android logo
+[16:00:00] <lacop> also there was some talk of getting permission to use the name reddit and reddit alient
+[16:00:02] <lacop> *alien
+[16:00:53] <DLog> lacop:  already worked out: http://www.reddit.com/r/RedditAndroidDev/comments/r45pt/reddit_have_approved_of_us_using_the_name_reddit/
+[16:01:45] <deliwien> http://www.reddit.com/r/RedditAndroidDev/comments/r5jzf/rad_announcement_1/
+[16:02:29] <DLog> Really? Just a pointer to a groups post
+[16:02:38] <DLog> why is there even a subreddit, a google groups, a wiki, people on G+
+[16:03:33] <deliwien> we're going to use the groups, but people don't know about the groups yet, so that's why i posted it there.
+[16:03:34] <jaimeh> Because we can all do the work but cannot organize a group for shit
+[16:03:34] <DLog> oh yeah plus a website
+[16:03:50] <DLog> nobody is going to check everything for little bits and pieces
+[16:04:03] <DLog> falling into the same problem that got brought up initially: XDA forums and the 100 page threads
+[16:05:03] <jaimeh> I personally think we should be fine with redmine for project management, github for repository hosting and wiki, and the website for general information.
+[16:05:38] <jaimeh> Those that care enough to be active would join us in this irc
+[16:05:54] <jaimeh> groups should remain stagnant
+[16:05:57] ### rapidfyre has quit the server. (Read error: Connection reset by peer)
+[16:06:54] ### Dillon[ca] has joined ##reddit-android-developers
+[16:07:07] <Hayes> Let's not forget this project is only a day old.  I'm sure we'll figure out which outlets progress is being made on shortly.
+[16:07:33] <adamell> 2 days, and 500 readers old
+[16:08:06] <deliwien> yeah i agree with Hayes, we're still trying to figure out what works and what doesn't.
+[16:08:09] <Hayes> Ah, it says "a community for 1 day."
+[16:08:57] <jaimeh> All the stuff works, we need organization. There is a ton of free infrastructure for this.
+[16:09:21] <jaimeh> Get the ideas organized, the people organized, and app projects pushed out
+[16:09:26] <DLog> It works but you don't need everything and the kitchen sink.
+[16:09:42] <lacop> DLog, read the other google groups post
+[16:09:58] <lacop> reddit is terrible for this, we need to move away from it
+[16:10:12] <lacop> deliwien, thanks for doing it the way you did :)
+[16:10:27] <deliwien> :)
+[16:11:28] <ThatPlayer> Yeah nothign wrong with finding what works best
+[16:12:13] <lacop> it might turn out that we need something else, but we have to start somewhere
+[16:14:00] <anyonethinkingab> just an idea: what if we let possible developing managers just choose the projects they want to work on (best with a lot of advice/participation from other people)
+[16:14:28] <Ramuh> then people will do their own stuff, etc. then we don't need to do this
+[16:14:35] <anyonethinkingab> true
+[16:14:35] <lacop> anyonethinkingab, what if 5 people want to manage the same project? :)
+[16:14:49] <anyonethinkingab> lacop that will always be the problem, i think
+[16:14:55] <garychencool> Yeah organization is key you don't want crap everywhere
+[16:15:26] ### lyrch_ has joined ##reddit-android-developers
+[16:15:34] ### Dillon[ca] has quit the server. (Ping timeout: 252 seconds)
+[16:15:45] <lacop> hmm, true
+[16:16:04] <lacop> there needs to be some heirachy
+[16:16:25] <jaimeh> Is the developer form going to stay up? Are we encouraging people to join at any moment?
+[16:16:26] <anyonethinkingab> I really think dev. managers are the 1 thing we need here, if they decide to start something we are off. Doesn't even matter what app it will be - if the idea is all right, people will join in just to try it. later on, we can have polss and such
+[16:16:41] <lacop> keep it open to everyone etc, but for the important decisions have someone who can overrule them in case of a draw
+[16:16:49] <deliwien> yeah i agree with lacop
+[16:17:09] <anyonethinkingab> is any of the subreddit mods in here?
+[16:17:11] <lacop> anyonethinkingab, well, it wouldn't hurt to start with a good idea
+[16:17:20] <lacop> thats why we will have the 24 hour poll
+[16:17:32] <jaimeh> I personally think they should be benevolent dictators unless the developer team as a whole rejects that person
+[16:17:46] <lacop> then pick the top 1-3 project, assign them to one manager each
+[16:17:46] <deliwien> i'm going to create the logo voting poll now
+[16:17:46] <lacop> and people will pick which ones they want to work on
+[16:17:46] <member68> subreddit mod here
+[16:18:17] <anyonethinkingab> hmm, i don't know... if the managers come in and think "they voted on that? I don't want to work on that!" they're gone
+[16:18:19] <lacop> jaimeh, something like that, not overruling the majority but just making a call if there is a draw in votes and the discussions lead nowhere
+[16:18:36] <anyonethinkingab> are you following the onversation, member68?
+[16:18:39] <lacop> anyonethinkingab, well we have to trust that they aren't selfimportant assholes
+[16:19:00] <garychencool> Yeah development managers are important, the head of the team developing the app, keeping everything in order
+[16:19:13] <member68> just got here
+[16:19:16] <anyonethinkingab> oh
+[16:19:25] <anyonethinkingab> read from :14
+[16:20:11] <lacop> anyonethinkingab, what if he is in nepal?
+[16:20:23] <lacop> (gmt +5:45)
+[16:20:39] <garychencool> Also the dev manager will also keep everyone outside the team informed about the progress and development of the app
+[16:20:44] <garychencool> As in updates
+[16:20:47] <jaimeh> I wonder, where is everyone from? I live in SoCal.
+[16:21:05] <Sanit> Dublin, Ireland
+[16:21:08] <deliwien> finland
+[16:21:08] <lacop> we should put that on some wiki - name, location, timezone, contact info
+[16:21:20] <blaise__> NorCal
+[16:21:25] <jaimeh> timezone is important. mainly why I asked
+[16:21:28] <lacop> if you need to reach someone you can look there for the best way to contact them and when
+[16:22:04] <lacop> (Slovakia, CET/CEST [GMT +1/2])
+[16:22:30] <adamell> I live in the mountains. Owls provide the boadband/wifi. And bears drop by for tea and honey.
+[16:22:49] <jaimeh> Well, looks like we have a good international group. I think if we keep it going we should eventually accomplish something.
+[16:23:05] <alextsc> there are already some details in the wiki, but thats just a copy from the reddit thread, not sure if thats already outdated: http://rad.lc8n.com/projects/general-organization/wiki/About_Us
+[16:23:11] <anyonethinkingab> 10 hours ago it was really quiet here
+[16:23:20] <member68> i've got some analytics data
+[16:23:22] <member68> http://awesomescreenshot.com/06f1xyx7e
+[16:23:22] <deliwien> what should i do with the logo poll, there are submission which have multiple versions of the same logo, such as http://i.imgur.com/Oq9um.png
+[16:23:30] <deliwien> *s
+[16:24:00] <Hayes> That one's out anyways
+[16:24:03] <danopia> what are you trying to do?
+[16:24:09] <anyonethinkingab> member68 what's your take on app developers? How will we keep them with us?
+[16:24:50] <lacop> member68, hmm, 7 from slovakia, wonder if that's all me... got unique IPs?
+[16:24:59] <deliwien> danopia, create a poll (possibly with Google Docs's form thingy if I can't find a better one) where people can vote for the best logo
+[16:25:01] <danopia> nope
+[16:25:02] <danopia> no IPs
+[16:25:17] <anyonethinkingab> deliwien mods are working on that
+[16:25:26] <deliwien> oh okay, awesome
+[16:26:01] <garychencool> Logo is being worked at by several graphic designers like me
+[16:26:24] <deliwien> (this is why we should add this kind of stuff to the issue tracker so people don't start doing same things :D)
+[16:26:28] <member68> I think communication is key. i want to hear input from people who want to become project managers.
+[16:26:41] ### adamell has quit the server. (Remote host closed the connection)
+[16:27:06] <danopia> let's see what final i ahve tomorrow
+[16:27:20] ### lyrch has joined ##reddit-android-developers
+[16:27:23] <lacop> danopia, nothing wrong with more options...
+[16:27:41] <member68> danopia, i think i remember somebody volunteering for this kind of work ;)
+[16:27:48] <lacop> problem is most people don't use any of those things
+[16:28:15] <danopia> i konw my way around inkscape, i guess
+[16:28:18] ### Sanit has quit the server. (Ping timeout: 264 seconds)
+[16:28:27] <member68> danopia: hehe
+[16:28:41] <danopia> i was interviewing for a position today for a professor's project
+[16:28:44] ### sam_ has joined ##reddit-android-developers
+[16:28:50] <danopia> and she asked if i used photoshop or illustrator
+[16:29:03] <DLog> member68: Perhaps we don't want people submitting themselves directly to project managment. Get the projects started, people contributing and soon enough there will be some empirical idea of who can, will and has the temprement to be a project manager.
+[16:29:19] <danopia> i was like, i use gimp and inkscape :P and she know i was that kinda guy from there on out, pretty much
+[16:29:22] <danopia> GO OPENSOURCE
+[16:29:24] <danopia> :D
+[16:29:30] ### lyrch_ has quit the server. (Ping timeout: 264 seconds)
+[16:30:00] ### c0smic has quit the server. (Quit: Leaving.)
+[16:30:34] <blaise__> Did we really get a bevy of people who said they were project managers when the signed up?
+[16:31:03] <anyonethinkingab> DLOG imo we can;t get projects started without managers
+[16:31:14] <member68> DLog: I'm afraid we could get groups with newbies but no real devs.
+[16:31:16] <jaimeh> Who decides the license for the apps?
+[16:31:23] <jaimeh> vote by the team of devs?
+[16:31:23] <sam_> I'm confused here - What is the purpose of the Redmine project?
+[16:31:24] <danopia> there was a reddit post on that topic
+[16:31:53] <deliwien> i'm a bit interested to work as a project manager, depending on the project though
+[16:32:01] <Hayes> Where's the doc with all the ideas again
+[16:32:01] <anyonethinkingab> et voila
+[16:32:22] <alextsc> sam_, mostly planned for issue tracking/wiki at this point
+[16:32:27] <member68> that's the spirit, deliwien.
+[16:32:37] <anyonethinkingab> deliwien I think you should choose the project, or at least be able to turn a project down when it's appointed to you
+[16:33:03] <deliwien> Hayes: https://docs.google.com/spreadsheet/ccc?key=0AvlQFVsQUJEidFF3VHY1TUZpdk00Vjdhbl9lbUI0Wnc#gid=0
+[16:33:07] <danopia> if this goes longterm in any way i'm considering eventually writing a specialized app to manage all this...
+[16:33:13] <deliwien> anyonethinkingab, sounds good :D
+[16:33:32] <anyonethinkingab> deliwien you don' have to tell me lol
+[16:33:38] <TheNumb> danopia: I was also thinking about this ;-)
+[16:33:39] <anyonethinkingab> t
+[16:34:38] <jaimeh> I tried registering with redmine and I didn't get an email and cannot login
+[16:34:41] <anyonethinkingab> but if you would write an app you would have to know what the structure will be, what things will be hosted where, ....
+[16:34:49] <anyonethinkingab> jaimeh I got the same issue
+[16:35:01] <danopia> TheNumb, i already want to write an app to aid in translating for multiple languages, crowdsourcing the translations, but i want ot do that soon so this project can use it if i get it done by then and it's decent
+[16:35:10] <danopia> anyonethinkingab, heroku
+[16:35:16] <danopia> for hte hosting
+[16:35:20] <garychencool> In terms of actual management I agree that communication is key, as a lot of the people don't live right beside each other
+[16:35:25] <danopia> and that's why i'd wait to write it for future iteratoins
+[16:35:30] <danopia> so we get a system down, then code it
+[16:35:38] <danopia> first time around we're on our own :)
+[16:35:43] <TheNumb> danopia: well, I could also host the backend for some of the apps.
+[16:36:02] <jaimeh> I am sure most of us developers can host things.
+[16:36:14] <danopia> heroku is free and cloud though, i prefer it because it's very reliable
+[16:36:20] <danopia> if i wern't to use heroku, i'd host it myself
+[16:36:29] <danopia> dedicated box next to me on internet2
+[16:36:57] <Hayes> So do you guys like any of the app ideas submitted?  The only one I see being worthwhile is Reddit quick submit app
+[16:37:14] <danopia> worthwhile for publishing != worth coding
+[16:37:26] <danopia> newbie devs need something to learn
+[16:38:00] <garychencool> I wouldn't want a coder who has bad Internet and ends up not being able to do much
+[16:38:01] <Hayes> I didn't realize this was a training camp.  I thought the idea was to pool talent
+[16:38:17] <jaimeh> Do we need to get approved for redmine, as of now I am not getting an email for registration?
+[16:38:24] <Hayes> I want to make badass shit people will use
+[16:38:30] <member68> also, just because there are already apps out there, doesn't mean we can't write new ones that improve the existing ones
+[16:38:36] <danopia> Hayes, then you won't join the training groups :)
+[16:38:44] <member68> jaimeh, let me check
+[16:38:47] <Hayes> As the person who added the existing apps column, I agree
+[16:38:53] <jaimeh> I will join Hayes in the project. Agree on the bad ass shit
+[16:38:57] <jaimeh> :P
+[16:39:30] <garychencool> For the apps that are all ready in the market what ideas or selling points would make people what our app over another?
+[16:39:36] <member68> jaimeh: can't find you account. whats your username?
+[16:39:42] <sam_> Not so much selling at the start
+[16:39:46] <jaimeh> jaimeh
+[16:39:49] <jaimeh> same as here
+[16:40:21] <member68> there's no account by that name. please register again
+[16:40:30] <jaimeh> We can remake already made apps. Android apps are not of high quality
+[16:40:41] <jaimeh> Okay member68
+[16:40:41] <anyonethinkingab> member68 i have the same problem
+[16:40:51] <Hayes> jaimeh: right on.  I'm a graphic designer with almost no coding experience.  I'm going to be using Balsamiq Mockups for whatever project comes first
+[16:40:54] <Grillon> are you not able to change your github username anymore?
+[16:41:04] <veeti> you can change it once
+[16:41:09] <danopia> think you get one change
+[16:41:15] <member68> "anyonethinkingab" isn't in the user list either
+[16:41:16] <Grillon> anychance you know where?
+[16:41:31] <veeti> https://github.com/settings/admin
+[16:41:50] <jaimeh> I submitted again member68 and it said it was already taken :(
+[16:42:15] <jaimeh> Do I need to bring out the coolaid man to break through this wall
+[16:42:17] <Grillon> interesting, thanks veeti
+[16:43:12] <member68> my fault, i activated your accout
+[16:43:17] <jaimeh> member68: it works now
+[16:43:30] <anyonethinkingab> yup
+[16:43:33] <anyonethinkingab> thanks
+[16:43:34] <jaimeh> Thanks
+[16:43:41] <garychencool> When I mean selling point I mean what will make the user use our app over the others
+[16:44:30] <member68> take an app you use daily, notice something that can be done better, make it better, profit!
+[16:44:39] <anyonethinkingab> that would be good ratings and a lot of users, and also good screenshots on android play
+[16:44:45] <jaimeh> User interface, features, whatever
+[16:44:52] <member68> take out that daily thing. that wasn't my real point
+[16:45:16] <Ramuh> my thoughts exactly
+[16:45:34] <jaimeh> Many apps are one time things for developers. We have a chance to make things work with what I am assuming smart people getting together.
+[16:46:05] <jaimeh> And make it for the community
+[16:46:06] <Ramuh> it tastes like burning
+[16:46:30] <danopia> so some day we'll have a suite of RAD apps that are all opensource and cover basically everything
+[16:46:49] <lacop> danopia, well that is pretty ambitious :)
+[16:46:58] <lacop> but I agree, dream big
+[16:47:00] <danopia> yea, extend "someday" as far out as yu olike
+[16:47:03] <danopia> infinity works
+[16:47:25] <jaimeh> We are an international community. If that doesn't work, well shit.
+[16:48:03] <danopia> so why can't people start already if they have a project picked and a team that wants to work on it?
+[16:48:29] <artico> there's nothing stopping them, is there?
+[16:48:36] <Grillon> nope
+[16:48:43] <joholz> if you get to many people starting on there own it could cause probs
+[16:48:49] <joholz> *their
+[16:49:04] <Grillon> other than github not updating my name, damnit
+[16:49:21] <joholz> haha, what did you want?
+[16:49:34] ### Sanit has joined ##reddit-android-developers
+[16:49:37] <Ramuh> Captain Awesome, maybe
+[16:51:26] <Grillon> i updated my github username to my reddit username
+[16:51:28] <Grillon> to avoid confusion
+[16:51:39] ### Esge has quit the server. (Quit: Personally its not God I dislike, its his fan club I cant stand)
+[16:51:59] <Hayes> <-- doesn't know what GitHub is
+[16:52:14] <Hayes> <-- Googled GitHub, nevermind
+[16:52:30] <Grillon> lol
+[16:52:34] <member68> i like users who know how to use Google ;)
+[16:52:37] <Grillon> ok im going to leave org on github, will request to be added again
+[16:52:51] ### garychencool has quit the server. (Ping timeout: 260 seconds)
+[16:53:06] <member68> write me a pm Grillion. i'll take care of it
+[16:53:22] <Ramuh> god damnit, can't wait for my new usb cable, mine is totally trashed an disconnects on the slightest touch
+[16:53:46] <jaimeh> Should we be using our real names?
+[16:53:53] <jaimeh> Doesn't matter?
+[16:53:59] <tmoskowite> Whatever you feel comfortable with
+[16:54:17] <tmoskowite> I want my projects to be known with my name attached
+[16:54:24] <tmoskowite> So I throw my real name in there
+[16:54:25] <jaimeh> So do I
+[16:54:39] <jaimeh> It is great for finding work
+[16:54:44] <tmoskowite> Yep
+[16:54:46] ### lyrch has quit the server. (Quit: Bye)
+[16:55:02] ### Hayes has quit the server. (Quit: Page closed)
+[16:55:26] <jaimeh> Off to work. Ill keep following on my phone.
+[16:55:36] ### lyrch has joined ##reddit-android-developers
+[16:55:48] <Ramuh> have fun
+[16:56:02] <Ramuh> good luck
+[16:56:16] ### jaimeh has quit the server. (Quit: Leaving)
+[16:57:14] ### jaimeh has joined ##reddit-android-developers
+[16:58:31] ### garychencool has joined ##reddit-android-developers
+[16:58:31] ### garychencool has quit the server. (Client Quit)
+[16:58:35] <member68> is there anybody else who wants to be a project manager?
+[16:58:46] <tmoskowite> did you count me?
+[16:58:46] ### garychencool has joined ##reddit-android-developers
+[16:58:54] <member68> not yet
+[16:58:59] <Ramuh> not really
+[16:59:01] <Ramuh> :>
+[16:59:06] <tmoskowite> remember to count me
+[16:59:20] <lacop> :)
+[16:59:31] <lacop> so, what's that? 1?
+[17:00:08] <deliwien> So, about the picture hunt project. The basic idea is that the user gets a subject and he has to take a picture of it within a time limit. People can upvote/downvote the pics depending on how good the pic is, or how well it is related to the subject.
+[17:00:11] <member68> that makes it 2. i can also pitch in, however i think i will be quite busy with a lot of other stuff
+[17:00:12] <deliwien> The subjects can be something wacky such as “Take a picture of a narwhal who’s eating bacon” or something that’s related to current events or something such as planking, owling and so on. There can be categories for the subjects and the difficulty of the subject can vary.
+[17:00:19] <deliwien> Achievements, commenting and stuff like that to make it fun. Anybody interested about the idea? I could work as a project manager for it.
+[17:00:49] <garychencool> To add on the previous stuff, some of the developers may be nearby, assuming that they would live in a city near you or in your city
+[17:02:14] <lacop> member68, yeah that is a problem, I think most people can't guarantee how much time they can spend on this
+[17:02:34] <Grillon> is there a reason were tied to any time limits? this is just open source etc.
+[17:02:51] <TheNumb> Grillon: people like to see progress you know...
+[17:02:55] <lacop> Grillon, open source != everyone runs around freely and does their thing
+[17:03:08] <lacop> you need some organization, otherwise you get nowhere
+[17:03:14] <Grillon> i know but if you dont finish something in a set amount of time, you get reassigned
+[17:03:22] <Grillon> but its not like were getting paid, lol
+[17:03:28] <lacop> we need one person in charge
+[17:03:53] <lacop> and everyone can submit their ideas as feature requests on github
+[17:03:59] <blaise__> What role do you envision a PM doing on these projects?  They all seem to be relatively small, so I would think a dev lead would be more in line with keeping things organized.
+[17:04:03] <lacop> and either assign it to themselves
+[17:04:09] <lacop> or let someone else do it
+[17:04:28] <Grillon> exactly
+[17:04:35] <member68> project manager = lead dev (for smaller projects)
+[17:04:36] <Grillon> but i think we need to be a little loose on time limits
+[17:04:36] <lacop> blaise__, doesn't matter what you call it, but we need one "benevolent dictator"
+[17:05:00] <DLog> just make sure they are benevolent
+[17:05:09] <blaise__> I don't disagree…but from the professional development world, PM means a whole lot more.
+[17:05:10] <member68> for bigger projects a PM is a mix of manager and contributer
+[17:05:31] <veeti> so what sort of dev experience do you guys have
+[17:06:20] <Grillon> dont think irc has room
+[17:06:23] <veeti> i hope the silence isn't an answer
+[17:06:26] <Grillon> not because im experienced, just to explain it
+[17:06:41] <blaise__> I've got 15 years of experience, about 13 of it Java/JEE.  Along with a mixture of other languages, technologies.  I have been learning Android development on my own and working on a personal app.
+[17:07:00] <Grillon> begineer java/c#, wrote a few beginner apps and a couple decent more intensive android apps
+[17:07:18] <ThatPlayer> Beginner Java, learned the basics a few years back
+[17:07:29] <Grillon> image/activities/intents etc.
+[17:07:41] <member68> 3 years java, 2 years android, 1,5 years c#
+[17:07:41] <Grillon> started to mess with sqlite
+[17:07:57] ### Fizile has joined ##reddit-android-developers
+[17:08:08] <Grillon> so i started with java, and when i started writing in c#, wow.
+[17:08:13] <tmoskowite> I have about 2 solid years of programming experience, built my first android app for my final in a class. I have been working with hardware and software for 4 years now. My language of choice for programming is Java, but scripting in Python. I work as a Web Producer Intern at MAKE. I am going to school for COmputer Science, and hopefully transfering to MIT this fall.
+[17:08:14] <Grillon> does anyone else think its easymode java?
+[17:08:37] ### Sanit has quit the server. (Ping timeout: 240 seconds)
+[17:08:40] <ThatPlayer> Grillon: How so they seem pretty similar
+[17:08:47] <tmoskowite> Java is easy enough for me
+[17:08:50] <veeti> c# is java done right
+[17:08:53] <Grillon> i guess more in terms of gui building
+[17:09:06] <Grillon> layouts in java is the devil imo
+[17:09:07] <alextsc> 2 years android and java
+[17:09:40] <Ramuh> java is the devil
+[17:09:50] <member68> sounds like we just found a few project managers ;)
+[17:09:51] <lacop> veeti, could you (or whoever is in charge of redmine) confirm me? :)
+[17:10:07] <Grillon> lol member68
+[17:10:20] <veeti> i don't have access to redmine
+[17:10:23] <blaise__> Just depends on what you are wanting to do.  I have worked in both.  I don't like Visual Studio and I don't like how difficult they make remote debugging server side apps.
+[17:10:24] <veeti> i think i made an account a hour back or so
+[17:10:41] <lacop> soo, member68 then?
+[17:10:51] <Grillon> lacop agreed
+[17:10:58] <deliwien> on android i'm just starting, creating an app at the moment, so can't really be the main developer, but a manager / contributer works for me. java: can't really measure in years because of doing something every now and then, but i know enough for it to be easy, have done mostly gui stuff. i've been sort of a project manager for two years in small projects (7-10 people), but
+[17:10:58] <deliwien> they're more related to web dev
+[17:11:24] <Grillon> deliwien, if you know java, youll catch on to Android fairly easy
+[17:12:01] <Ramuh> same for me
+[17:12:05] <Grillon> imo, which may be wrong, but android seems to be java with easy gui
+[17:12:14] <Grillon> and a little difference with activities and intents
+[17:12:16] <Ramuh> i know java pretty well
+[17:12:35] ### AndroUser has joined ##reddit-android-developers
+[17:12:36] <Ramuh> can't be that hard
+[17:12:44] <Grillon> nah
+[17:12:50] <deliwien> yeah it seems quite easy to figure out
+[17:12:50] <tmoskowite> its not
+[17:12:56] <blaise__> Grillon: if you have used WPF…Android UI is similar.
+[17:12:57] ### OkDucky has joined ##reddit-android-developers
+[17:12:58] <Grillon> i learned by reading a few online tutorials
+[17:13:09] ### RAWR has quit the server. (Quit: Page closed)
+[17:13:10] ### AndroUser is now known as RAWR
+[17:13:38] <Ramuh> i started watching the youtube stuff, but i could not continue after watchin 5 vids of "go to eclipse website and dl eclipse" haha
+[17:14:02] <Grillon> blaise__: i havent, went from basic swing,flow,grid directly to android
+[17:14:04] <ThatPlayer> I learned through reading code mostly
+[17:14:28] <ThatPlayer> Also I like networking stuff, know a bit of http and irc protocol
+[17:15:06] <member68> thatplayer: how about you writing an irc client?
+[17:15:50] ### itsKitsos has joined ##reddit-android-developers
+[17:16:11] <garychencool> In terms of dev managers, they are of course pretty much the head of development for that app. They must of course be a strong leader and have time to coordinate the whole group and provide news updates on the progress.
+[17:16:29] <blaise__> I played with a couple of the existing IRC clients (was logged on with one last night).  They are decent, but definitely closer to command line than full featured guy apps.
+[17:16:33] <blaise__> gui.
+[17:17:07] <ThatPlayer> member68: I could, I've written a basic irc bot before
+[17:17:35] <member68> would you like to?
+[17:17:48] ### fr3tles5 has joined ##reddit-android-developers
+[17:18:17] ### Hogofwar has joined ##reddit-android-developers
+[17:18:25] <Grillon> i think ThatPlayer would be a great PM
+[17:18:26] <Hogofwar> Hey
+[17:18:30] <Grillon> lol
+[17:18:47] <ThatPlayer> No I'm a bit rusty in programming, and I didn't know that much to begin with
+[17:18:56] ### red_sky has joined ##reddit-android-developers
+[17:19:07] <ThatPlayer> Been distracted by the last few years by video games because I could actually afford them
+[17:19:14] <member68> alright. just asking ;)
+[17:19:50] <veeti> do you folks have apps on the market
+[17:19:55] <veeti> i'd love to check them out
+[17:20:35] <anyonethinkingab> no, nothing yet
+[17:20:46] <anyonethinkingab> or at least the community
+[17:21:03] <red_sky> I do not
+[17:21:19] <red_sky> I set up my Android Developer / Market stuff, paid the one-time $25
+[17:21:22] <red_sky> but I haven't done anything yet
+[17:21:27] <red_sky> well, published anything yet
+[17:21:32] <garychencool> Brb
+[17:21:33] ### itsKitsos has quit the server. (Quit: Page closed)
+[17:21:34] ### garychencool has quit the server. (Quit: Bye)
+[17:21:35] <Hogofwar> red_sky, same
+[17:21:49] <deliwien> same here
+[17:21:49] <Hogofwar> red_sky, how's the bot
+[17:22:13] <ThatPlayer> red_sky: I'd probably do the same thing =)
+[17:22:23] ### fr3tles5_ has joined ##reddit-android-developers
+[17:22:24] <red_sky> it hasn't crashed yet
+[17:22:30] <red_sky> my VPS actually lost internet last night
+[17:22:34] ### itsKitsos has joined ##reddit-android-developers
+[17:22:38] <red_sky> but as soon as the internet restored, the bot reconnected
+[17:22:42] <red_sky> no interjection on my part
+[17:22:44] ### fr3tles5 has parted (left) the channel.
+[17:22:49] <anyonethinkingab> that's nice
+[17:22:55] ### fr3tles5_ is now known as fr3tles5
+[17:23:19] <red_sky> I was thinking, it could be useful to extend the bot so that operators and other configured users can PM it some command to make it push to git automatically
+[17:23:29] ### garychencool has joined ##reddit-android-developers
+[17:23:32] <red_sky> in case there's any reason we wouldn't want to wait for the scheduled push
+[17:23:37] ### margosmark has quit the server. (Ping timeout: 240 seconds)
+[17:23:55] <anyonethinkingab> - sorry, who made the current bot? -
+[17:24:01] <red_sky> Hogofwar
+[17:24:04] <anyonethinkingab> oh
+[17:24:05] <Grillon> red_sky: push from where?
+[17:24:10] ### Airheebz has quit the server. (Quit: Page closed)
+[17:24:17] <red_sky> it's for the IRC log stuff, Grillon
+[17:24:23] <anyonethinkingab> from the data it has in its buffer
+[17:24:46] <red_sky> Hogofwar's bot resides on my server.  It logs files to disk.  I have a cron and a script I wrote that automatically pushes new and changed log files to the github repo
+[17:24:52] <lacop> red_sky, maybe do it like once an hour?
+[17:24:55] <Grillon> ohhh, sorry.. I understand now
+[17:25:01] <lacop> for people who join and ask "whats going on"
+[17:25:08] <lacop> they can go and read the log a few hours back
+[17:25:23] <anyonethinkingab> then once an hour isn't yet enough
+[17:25:27] <lacop> or, if you have a public IP, have a text file with the live log
+[17:25:34] <lacop> and push to git once a day
+[17:25:52] <red_sky> my ip / domain are hosting a different website
+[17:26:10] <Raionic> Hey member68, going to the gym now when i get back i can write the github portion of the wiki do i need special permissions to edit it?
+[17:26:16] <red_sky> so I would need to set it up on a port
+[17:26:20] <red_sky> a different port*
+[17:26:41] <member68> i'm in favor for pusing once per hour. users that come into the channel will can either wait or ask what people are talking about
+[17:26:49] <Grillon> if anyone needs, I have a linux server running at home 24/7 on a 30/30 fios connection
+[17:26:56] <deliwien> yeah once per hour would be nice
+[17:27:15] <itsKitsos> waiting works well :)
+[17:27:20] <Grillon> id rather not have it sucking bandwith, but mundane tasks would be fine
+[17:27:27] ### rapidfyre has joined ##reddit-android-developers
+[17:27:33] <Hogofwar> red_sky, well to do that it would be a hacky interface for your script
+[17:27:36] <lacop> irc is not very bandwidth intensive
+[17:27:53] <Hogofwar> red_sky, since you don't want me to push to git from the bot anyway
+[17:28:18] <red_sky> Hogofwar, the config file could be extended to allow a custom system command and users who can execute it and the command identifier
+[17:28:30] <member68> Raionic, yes you do
+[17:28:40] <Ramuh> now if you do that on android, you have yourself a project :>
+[17:28:46] <member68> i'll take care of the permissions
+[17:28:49] <red_sky> so it will execute the configured command on the terminal only if a user that is allowed PMs the command identifier
+[17:28:54] <Hogofwar> red_sky, you want a config option for it to execute a command?
+[17:29:06] <Hogofwar> i'm adding some more stuff first
+[17:29:11] <red_sky> I don't see why not.
+[17:29:27] <red_sky> I mean, if you tell it to execute a script, anything in that script can be executed
+[17:29:33] <Hogofwar> Like a !logs that links to the logs
+[17:29:33] <red_sky> and a single script can launch other scripts
+[17:29:38] <anyonethinkingab> member68 are you working on a google docs poll?
+[17:29:38] <red_sky> yeah
+[17:30:08] <Hogofwar> member68, do you want the results from the name poll?
+[17:30:26] <member68> send them my way
+[17:30:51] <member68> anyonethinkingab, no
+[17:31:05] <member68> too busy atm
+[17:31:28] <veeti> is there any reason you can't schedule the git push with cron
+[17:31:29] ### RAWR has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[17:31:34] <veeti> every 5 minutes or something
+[17:32:27] <red_sky> there's no reason I can't
+[17:32:45] <garychencool> I say every 10 minutes or 15
+[17:32:51] <garychencool> or updating the logs on irc
+[17:32:53] <veeti> i think a short interval like that would be the best
+[17:33:38] ### RAWR has joined ##reddit-android-developers
+[17:35:33] <Ramuh> I found this tutorial http://www.vogella.de/articles/Android/article.html
+[17:35:54] <Grillon> Ramuh, that one is good
+[17:35:59] <Ramuh> if you can code already
+[17:36:02] <Grillon> yes
+[17:36:06] <Ramuh> and just want to know how android works
+[17:36:09] <Ramuh> its pretty good
+[17:36:20] <Grillon> i put that one in yesterday
+[17:36:39] <Ramuh> ooh, i didn't see
+[17:36:41] <blaise__> The guy who does those is on G+…he's always doing updates.
+[17:36:52] <Ramuh> oh nice
+[17:37:05] <blaise__> He also has a bunch on other Java related topics.  Primarily using Eclipse.
+[17:38:15] <anyonethinkingab> can anyone give me a link to the google spreadsheet?
+[17:38:34] <veeti> which one
+[17:38:34] <Grillon> is all that tied to the google group
+[17:38:51] <anyonethinkingab> the one with all app proposals
+[17:38:53] <blaise__> No….just go to his main page, vogella.de
+[17:39:00] <veeti> https://docs.google.com/spreadsheet/ccc?key=0AvlQFVsQUJEidFF3VHY1TUZpdk00Vjdhbl9lbUI0Wnc#gid=0
+[17:39:13] <blaise__> I believe he has links to all of his stuff there.
+[17:39:20] <Ramuh> yep
+[17:39:29] <blaise__> He just posts on G+ when he puts something new or updates somethign.
+[17:39:36] <anyonethinkingab> thanks
+[17:39:37] <Ramuh> oh, he has a million tutorials
+[17:39:47] <blaise__> Also posts stuff he's working on, but not completed.
+[17:39:55] <Hogofwar> veeti, also this one
+[17:39:56] <Hogofwar> https://docs.google.com/spreadsheet/ccc?key=0AiVy8gDnGR-FdG8yMzUtcVhyWXVIS19nZ3NKYmVXNkE#gid=0
