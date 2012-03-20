@@ -2522,3 +2522,38 @@
 [17:48:17] <Hogofwar> member68, do I register for redmine?
 [17:48:35] <veeti> i think that worrying about twitter and other social networks should be done once there is an app to actually promote
 [17:48:37] <Ramuh> nah, they are genuine normal people, names aren't that unique
+[17:50:19] ### RadLogii has joined ##reddit-android-developers
+[17:50:27] <jaimeh> Whatever I lost :-P
+[17:50:32] <red_sky> okay, new cron stuff is working
+[17:50:58] <deliwien> RADdevs is available, but it's sort of a ATM machine kind of a thingy
+[17:51:03] <sam_> Do we want to be "Reddit Android Developers", or something completely different?
+[17:51:22] <sam_> If it's too difficult to use RAD, we can come up with an original team name.
+[17:51:35] <Grillon> RedditDevelopmentTeam
+[17:51:39] <Grillon> broaden our horizons
+[17:51:49] ### RadLogii has joined ##reddit-android-developers
+[17:52:05] <member68> we already got a domain name. I'd hate to change it.
+[17:52:09] <red_sky> could one of the OPs type !logs
+[17:52:18] <tmoskowite> I think our horizon is board enough
+[17:52:20] <member68> !logs
+[17:52:32] <Grillon> slick
+[17:53:14] <member68> let's not worry about names that much. we want to write apps, don't we?
+[17:53:28] <RAWR> Yes sir!
+[17:53:30] <Grillon> someone might want to grab the name on market?
+[17:53:30] <sam_> HELL YEAH
+[17:53:39] <Grillon> before it gets trolled
+[17:53:47] ### margosmark has quit the server. (Ping timeout: 246 seconds)
+[17:53:55] <Grillon> or is that not unique,ive never registered
+[17:54:16] <red_sky> member68 there's no development going on right nwo
+[17:54:21] <red_sky> so I don't think it's an issue
+[17:54:27] <Grillon> lol
+[17:54:29] <red_sky> oh, sorry
+[17:54:36] <red_sky> I misread what you said, anyway
+[17:54:40] <red_sky> but it might still apply
+[17:54:46] <Grillon> slightly
+[17:54:57] <member68> i get your point
+[17:55:03] <Hogofwar> red_sky, it's !upload to upload
+[17:55:07] <member68> i'd like to start soon though
+[17:55:14] <Hogofwar> red_sky, !logs anyone can use
+[17:55:20] <red_sky> okay, thanks
+[17:55:25] <red_sky> member68, can you try !upload?
+[17:55:41] <member68> !upload
