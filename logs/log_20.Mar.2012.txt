@@ -2878,3 +2878,56 @@
 [19:29:43] <adamell> java logger
 [19:29:45] <Ramuh> which fails because of Dalvik being not complete
 [19:29:53] <BrandonBolton> I found this awesome site to help learn Java at: http://www.codecademy.com/ I am a newbie, I know there has to be more in here.
+[19:30:01] <anjoyed> android has a logger anyway
+[19:30:06] <Ramuh> i know
+[19:30:09] <Ramuh> i don't want to use it
+[19:30:11] <anjoyed> no need for log4j
+[19:30:13] <Ramuh> but i want an irc lib
+[19:30:18] <Ramuh> and that uses log4j
+[19:30:22] <Ramuh> for whatever reason
+[19:30:23] <anjoyed> ah
+[19:30:32] <Ramuh> i just want to try something >_>
+[19:30:44] ### Hayes has quit the server. (Quit: Page closed)
+[19:30:52] <Ramuh> and now i get a gigantic stacktrace, which i can't do anything about
+[19:30:54] <Ramuh> meh
+[19:31:06] <Ramuh> first irc lib failed because it was shit :D
+[19:31:16] <Phault> Isnt codeacademy only for javascript?
+[19:31:19] <anjoyed> what was error?
+[19:31:52] <Ramuh> log4j classnotfound something something
+[19:31:58] <adamell> if you start introducing weird api and libraries into your eclipse projects the dependencies will also be required for anybody else who would like to work on your code.
+[19:32:01] <BrandonBolton> Phault: Yes it is, I have yet to learn Java and have been wanting to learn it. I have been liking it so far.
+[19:32:06] <anjoyed> using ecliopse?
+[19:32:09] <Ramuh> yes yes i know
+[19:32:17] <adamell> you probably don't have log4j in your CLASSPATH
+[19:32:20] <Phault> Java isnt javascript
+[19:32:26] <Ramuh> i did, i did
+[19:32:30] <Ramuh> no worries
+[19:32:46] <Ramuh> doesn't matter i will try something else
+[19:33:06] <anjoyed> if your using eclipse you need to fix the buikld path
+[19:33:26] <anjoyed> but better to not add unnecessary libs in the first place realyl
+[19:33:26] <Ramuh> i know and i did
+[19:33:49] <BrandonBolton> Phault: Really, I always thought they were the same thing. I know Java is the inturprettor and Javascript is the language. Codecademy teaches Javascript. It seems like they are going to add other languages in the near future, though.
+[19:33:51] <Ramuh> yes its just quick and dirty
+[19:33:52] <anjoyed> typing + eating pizza = fail
+[19:33:54] <adamell> you could pastebin your stacktrace
+[19:33:54] <Ramuh> 03-21 00:27:58.372: E/AndroidRuntime(23904): Caused by: java.lang.NoClassDefFoundError: java/beans/Introspector
+[19:34:42] <adamell> anjoyed: needs more Tapatio
+[19:34:42] <itsKitsos> typing + eating pizza = programming
+[19:34:47] <anjoyed> :)
+[19:35:31] <itsKitsos> time for homework. see ya guys
+[19:35:37] ### itsKitsos has quit the server. ()
+[19:37:02] <Phault> BrandonBolton: Javascript is for building dynamic web sites. Java is a multi platform programming language. Theyre two entirely unrelated languages. A lot of people fet confused because of the similar names.
+[19:37:38] <tmoskowite> Javascript is not just for websites!
+[19:38:08] <BrandonBolton> Thank you for the clearup. I have been learning the wrong language all this time.
+[19:38:09] <tmoskowite> if you know Java it would not be a leap to javascript, but if you only know javascript.....ya...
+[19:38:25] <jaimeh> Node.js all that needs to be said
+[19:38:35] <danopia> nodejs is amazing
+[19:38:52] ### YRum has joined ##reddit-android-developers
+[19:38:56] <danopia> i've written multiple servers in nodejs
+[19:38:58] <Phault> I admit I dont know a thing about javascript, but my point still stands.
+[19:39:00] ### YRum is now known as DLog
+[19:39:11] <tmoskowite> Your point stands well
+[19:39:19] ### fr3tles5 has quit the server. ()
+[19:39:20] <tmoskowite> I just wanted to clarify
+[19:39:31] ### fr3tles5 has joined ##reddit-android-developers
+[19:39:43] <jaimeh> Programming languages are not hard to learn. 2 weeks tops if you know the logic and language basics. It is always the libraries that take a long time to get down.
