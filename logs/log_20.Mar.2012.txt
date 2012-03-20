@@ -2741,3 +2741,27 @@
 [18:49:21] <lacop> anyonethinkingab, got results for that somewhere?
 [18:49:31] <Hayes> and for Reddit quick submit app
 [18:49:55] <Billd> Thanks Rawr, done.
+[18:51:57] <Sanit> Sweet. We are looking for a graphic designer
+[18:51:57] <anyonethinkingab> lacop yes, temporarily only visible to mods
+[18:51:57] <lacop> hmm
+[18:51:57] <Hayes> Sanit, are you the project lead?? What is this... I might actually be fired up now...
+[18:51:59] <Hogofwar> seeya
+[18:53:25] <Hayes> Do you have a UI mockup yet?
+[18:53:40] <anyonethinkingab> me?
+[18:53:49] <Hayes> Talking to Sanit
+[18:53:56] <Hayes> about reddit quick submit app
+[18:54:00] <anyonethinkingab> oh
+[18:54:46] <Hayes> you know, haven't given your idea a fair shake yet though.  Let me take another look at it
+[18:55:11] <Hayes> Can't click the links now that it's read only
+[18:55:35] <Sanit> I am happy enough to start work at the weekend, I already have a bit done
+[18:56:04] <Hayes> A bit on the coding end?  Or concept?
+[18:56:06] <Sanit> no UI mockups yet, but I am thinking the G+ app's design would work best.. but thats up to the designer
+[18:56:12] <Sanit> Coding and concept
+[18:56:26] ### Hogofwar has quit the server. (Ping timeout: 246 seconds)
+[18:57:06] ### sam_ has quit the server. (Ping timeout: 245 seconds)
+[18:59:46] <Hayes> Sanit which chat do you prefer: gtalk, windows live messenger, aim, or skype
+[18:59:46] <Hayes> I have them all through Trillian, so your call
+[18:59:46] <Sanit> Don't use any really, but am happy enough to use gTalk
+[18:59:46] <Hayes> Ok well I just wanted to get your ideas for the app from you without flooding the IRC
+[18:59:57] <Sanit> PM here?
+[18:59:58] <ThatPlayer> Not like IRC has anything else going on
