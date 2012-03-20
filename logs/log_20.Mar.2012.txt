@@ -2786,3 +2786,39 @@
 [19:09:18] <lyrch> head first is a good series of books
 [19:09:28] <ThatPlayer> That's what there's practice and good examples for
 [19:09:36] <ThatPlayer> I learned by reading other people's code
+[19:10:05] <itsKitsos> anyonethinkingab what are the ideas that received the highest interest?
+[19:11:17] <lyrch> yup the best way to learn is to work with people better than yourself
+[19:11:17] ### adamell has joined ##reddit-android-developers
+[19:11:17] <itsKitsos> ^ thats something I hope to accomplish in this group :)
+[19:11:17] <lyrch> the day you're the best is the day to move somewhere else
+[19:11:17] <lyrch> same here itsKitsos
+[19:11:17] <itsKitsos> depends on the pay ;)
+[19:11:17] <lyrch> true
+[19:11:25] <Sanit> That's what my lecturers tell me too. Do a few projects that seem daunting, and when you try the easier ones, you will kick their asses
+[19:11:48] <adamell> I have enough experience and free time to be a PM if you need one.
+[19:12:13] <anyonethinkingab> itsKitsos i'm not saying because it may affect voting behaviour
+[19:12:38] <RAWR> Makes sense
+[19:12:48] <anyonethinkingab> adamell have you filled in the form?
+[19:13:02] <itsKitsos> ah good thinking, sorry :p
+[19:13:25] <adamell> anyonethinkingab: yup.
+[19:13:37] <itsKitsos> I'd really love to be a manager. the only thing that would stop me is the free time thing
+[19:13:42] <itsKitsos> currently a graduate engineering student
+[19:13:47] <anyonethinkingab> RAWR yeah I almost did it because I knew the first few votes. there was an app I didn't quite like, but I checked it anyway
+[19:13:54] <Sanit> itsKitsos: what field?
+[19:13:55] <danopia> itsKitsos, where?
+[19:14:04] <itsKitsos> Electrical engineering - louisville, ky
+[19:14:24] <itsKitsos> I'm very busy wit ha senior project (actually I'm the project manager for that too, go figure)
+[19:14:25] <danopia> would be awesome if i met someone here that goes to my uni
+[19:14:32] <itsKitsos> true story haha
+[19:16:26] ### lacop has quit the server. (Quit: Leaving)
+[19:17:28] ### RAWR is now known as Fault
+[19:17:29] ### lyrch has quit the server. (Quit: WeeChat 0.3.5)
+[19:17:30] <adamell> I realize it's late in the game to be offering ideas but with all of the hullaballoo about getting these projects off the ground it almost would make more sense to make an aggregator app that brings all the info together from the 6+ different sites.
+[19:18:14] <anyonethinkingab> that was an idea too, i believe :D
+[19:18:19] <adamell> Yay!
+[19:18:45] <Sanit> I was going to post the "Sudden Realization" meme, but decided this wasn't the place for meme's :P
+[19:18:50] <anyonethinkingab> haha
+[19:18:52] <adamell> Oh I see the App ideas url up-top
+[19:19:05] <anyonethinkingab> great
+[19:19:20] <anyonethinkingab> you were a possible dev leader, right?
+[19:19:39] <adamell> Able and available
