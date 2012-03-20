@@ -78,3 +78,60 @@
 [20:35:31] <tmoskowite> no worries
 [20:35:36] <Homermon> lol
 [20:35:38] <tmoskowite> I read write wrong too as well
+[20:38:32] <red_sky> okay, I think the bot is up and fully automated
+[20:38:55] <red_sky> let's see if the bot times out now that I have closed my ssh connection
+[20:39:29] <anjoyed> in a screen session?
+[20:39:33] <anjoyed> or byobu
+[20:39:40] <red_sky> I used screen
+[20:41:42] <red_sky> IRC logs should be posted every 12 hours at 10am and 10pm server time
+[20:41:45] <red_sky> I can adjust that as necessary
+[20:42:05] <red_sky> once every hour might be more appropriate
+[20:42:42] <anjoyed> 12 hours would prolly be fine
+[20:43:02] <anjoyed> every hour then you would likely need to append to existing files
+[20:47:38] <anjoyed> if I get time I'll do up some basic setup tuts tonight
+[20:47:54] <red_sky> appending to existing files is fine
+[20:48:04] <anjoyed> setting up projects, views, 2d graphics, opengl type stuff
+[20:48:17] <red_sky> sounds good
+[20:48:42] <red_sky> testing
+[20:57:54] <Raionic> Where is the server located by the way?
+[20:58:28] ### samboy has joined ##reddit-android-developers
+[20:58:53] <red_sky> I haven't the slightest idea...
+[20:58:54] <red_sky> haha
+[20:59:02] <Raionic> haha
+[20:59:05] <red_sky> I could probably find out
+[21:00:39] <red_sky> wherever psychz.net servers are located.
+[21:01:28] <red_sky> Los Angeles
+[21:01:29] <anjoyed>  Networks, Psychz		hostmaster@psychz.net
+[21:01:30] <anjoyed>       Psychz Networks
+[21:01:30] <anjoyed>       20687-2 Amar RD. # 312
+[21:01:30] <anjoyed>       Walnut, CA 91789
+[21:01:30] <anjoyed>       US
+[21:02:12] <Raionic> Nice so 7am and 7pm EST
+[21:02:34] <tehsusenoh> Bahh
+[21:04:52] ### tehsusenoh has quit the server. (Quit: Page closed)
+[21:05:39] <red_sky> yeah
+[21:05:56] <red_sky> so I'll find out if it works properly when I wake up for class tomorrow
+[21:06:12] ### ballpointcarrot has joined ##reddit-android-developers
+[21:07:07] <Raionic> How do you become a member of the github ...organization i guess
+[21:07:09] <Raionic> https://github.com/RedditAndroidDev
+[21:07:09] <Raionic> that
+[21:08:19] <red_sky> fill out the google docs form on the right sidebar on the subreddit
+[21:08:28] <red_sky> include your github user account
+[21:08:34] <red_sky> you might have to also be a developer
+[21:08:37] <red_sky> I don't know
+[21:08:39] <anjoyed> http://bit.ly/yZE2zl
+[21:09:05] <Raionic> Ah i filled this out but didn't include it...hope they dont mind me doing it again
+[21:10:40] <anjoyed> You could prolly just message one of the mods so
+[21:11:57] ### pocus has joined ##reddit-android-developers
+[21:12:06] <joholz> you could put a note in the desc. als
+[21:12:09] <joholz> also
+[21:12:15] <anyonethinkingab> I put an idea for a game on the subreddit, please check it out!
+[21:12:54] <Raionic> I realized this after i submitted mine but
+[21:12:57] <Raionic> you can submit through here
+[21:12:58] <Raionic> https://docs.google.com/spreadsheet/viewform?formkey=dG8yMzUtcVhyWXVIS19nZ3NKYmVXNkE6MQ#gid=0
+[21:14:13] <pocus> can we have access at the suggestions list ?
+[21:14:54] <joholz> is the 24-hr poll for app voting over with?
+[21:15:19] <Raionic> I think i read that it's starting this weekend
+[21:16:20] <Raionic> I just realized one of the names is Baconware ........ that is awesome.
+[21:17:54] ### mangoman2 has joined ##reddit-android-developers
+[21:18:09] <joholz> is the hangout still going on?
