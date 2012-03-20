@@ -2822,3 +2822,59 @@
 [19:19:05] <anyonethinkingab> great
 [19:19:20] <anyonethinkingab> you were a possible dev leader, right?
 [19:19:39] <adamell> Able and available
+[19:20:01] <anyonethinkingab> nice, nice
+[19:20:46] ### Fault is now known as Phault
+[19:21:41] <anyonethinkingab> I'm gonna go, guys, please (re)fill in the form at https://docs.google.com/spreadsheet/viewform?formkey=dGxpZ21UUTlvSHdPM3U5VWNUb1V3Vmc6MQ if you haven't dont it yet, I'll see you tomorrow!
+[19:21:51] <itsKitsos> take care
+[19:21:54] <Sanit> refill for a third time?
+[19:21:54] ### lyrch has joined ##reddit-android-developers
+[19:21:56] <adamell> night
+[19:21:57] <Phault> Bye
+[19:22:01] <anyonethinkingab> no, Sanit :D
+[19:22:05] <Sanit> grand, later man
+[19:22:06] ### BrandonBolton has joined ##reddit-android-developers
+[19:23:01] ### anyonethinkingab has quit the server. (Quit: Ex-Chat)
+[19:23:01] ### lyrch has quit the server. (Client Quit)
+[19:23:01] <BrandonBolton> Hello everyone, this sure has grown a lot sense the first day.
+[19:23:01] <itsKitsos> since* !
+[19:23:01] <anjoyed> lo
+[19:23:01] <itsKitsos> (also hey)
+[19:23:16] <Sanit> hey man
+[19:23:18] <jaimeh> So what has changed in the past 2 hours?
+[19:23:28] <jaimeh> At work
+[19:23:29] <anjoyed> the time
+[19:23:35] <BrandonBolton> Grrr, I didn't even notice that. :(
+[19:23:35] <BrandonBolton> Has there been a lay out of the differnet teams?
+[19:23:40] <itsKitsos> we were asked to refill that one form
+[19:23:50] <Phault> Someone who can copy and paste, give him the url to the form.
+[19:23:52] <jaimeh> What form?
+[19:23:59] <itsKitsos> wishing I could c/p atm
+[19:24:01] <itsKitsos> one sec
+[19:24:02] <anjoyed> https://docs.google.com/spreadsheet/viewform?formkey=dGxpZ21UUTlvSHdPM3U5VWNUb1V3Vmc6MQ
+[19:24:04] <itsKitsos> there ya go
+[19:24:12] <itsKitsos> all I had to do was change my username
+[19:24:36] <BrandonBolton> That one form that we had to fill out on Google Docs? We have to refill it out?
+[19:24:40] <Phault> Nice trick
+[19:24:50] <itsKitsos> the one form anjoyed just linked
+[19:24:53] <Ramuh> >_> [2012-03-21 00:24:44 - de.ramuh.irctest] Installation error: INSTALL_FAILED_INSUFFICIENT_STORAGE
+[19:24:54] <itsKitsos> should be refilled
+[19:25:00] ### sam_ has joined ##reddit-android-developers
+[19:25:44] <jaimeh> Do I have to do this form if I signed up for Dec
+[19:25:51] <jaimeh> Dev *
+[19:26:38] <anjoyed> think you have to do it if you haven't done it
+[19:26:40] <anjoyed> :)
+[19:26:50] <anjoyed> so yes
+[19:26:53] <Phault> I guess, you choose what apps you would like to work on.
+[19:27:02] <itsKitsos> just ignore the project managing section
+[19:27:26] ### DLog has quit the server. (Read error: Operation timed out)
+[19:28:00] ### rapidfyre has parted (left) the channel.
+[19:28:25] <jaimeh> I can do that as well as of this time.
+[19:28:34] <Ramuh> god is java annoying
+[19:28:57] <jaimeh> Why?
+[19:29:08] <Ramuh> well its more the lib i want to use
+[19:29:18] <Ramuh> it fails because of log4j
+[19:29:24] <adamell> at least there's no bloody multiple inheritance
+[19:29:36] <itsKitsos> log4j?
+[19:29:43] <adamell> java logger
+[19:29:45] <Ramuh> which fails because of Dalvik being not complete
+[19:29:53] <BrandonBolton> I found this awesome site to help learn Java at: http://www.codecademy.com/ I am a newbie, I know there has to be more in here.
