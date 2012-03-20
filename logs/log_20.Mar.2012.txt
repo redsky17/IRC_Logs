@@ -2644,3 +2644,33 @@
 [18:09:00] <sam_> I'm up for this idea, but personally I believe it would be easier to create a more basic, productivity app.
 [18:09:14] <sam_> I was really for the Google Tasks client idea.
 [18:09:19] <jaimeh> It would Sam_
+[18:10:09] <deliwien> maybe we should add an another column to the spreadsheet and write our names to the projects we want to work on? easier to find out which idea gets most potential developers
+[18:10:12] <Grillon> i think im interested in android quick submit
+[18:10:24] <anyonethinkingab> i made a poll
+[18:10:42] ### Homermon has joined ##reddit-android-developers
+[18:10:48] <anyonethinkingab> GOGOGOGOGOGOGOOGOGOGOGOGOGO: https://docs.google.com/spreadsheet/viewform?formkey=dGxpZ21UUTlvSHdPM3U5VWNUb1V3Vmc6MQ
+[18:11:01] <jaimeh> Ahh man. At work...
+[18:11:01] <deliwien> anyonethinkingab, awesome!
+[18:11:24] <RAWR> MOAR POLLS NEED MOAR POLLS!
+[18:11:29] <veeti> uh
+[18:11:34] <veeti> whats the point with having two combined inbox entries :p
+[18:12:10] <veeti> or two irc clients
+[18:12:13] <veeti> maybe those should be consolidated
+[18:12:38] ### Billd has joined ##reddit-android-developers
+[18:13:24] <joholz> we can vote on as manya pps we want eright?
+[18:13:27] <joholz> *right
+[18:13:30] <Homermon> Man we sure love polls
+[18:13:32] <joholz> *many apps
+[18:13:37] ### Hayes has joined ##reddit-android-developers
+[18:14:27] <jaimeh> I have not had the opportunity to participate in polls.
+[18:14:50] <RAWR> Fruity loops app? Isn't there a audio delay in android that makes those useless?
+[18:14:55] <Sanit> yep
+[18:15:01] <Sanit> still not fixed by google
+[18:15:30] <RAWR> Plus it would probably be a bit too complex.
+[18:15:53] <Billd> How'd that poll turn out for the 'complex vs simple' first project?
+[18:16:00] <Hayes> how has the aidebar still not been ypdated
+[18:16:28] <Hayes> sidebar updated*
+[18:17:57] <Hayes> are we worried about that google doc being vandalized?
+[18:18:44] <member68> just changed it to read only
+[18:19:00] <anyonethinkingab> thanks, i was a bit waiting for that
+[18:19:58] <member68> i cleaned up the sidebar. removed all the voting stuff
