@@ -2931,3 +2931,42 @@
 [19:39:20] <tmoskowite> I just wanted to clarify
 [19:39:31] ### fr3tles5 has joined ##reddit-android-developers
 [19:39:43] <jaimeh> Programming languages are not hard to learn. 2 weeks tops if you know the logic and language basics. It is always the libraries that take a long time to get down.
+[19:43:39] <BrandonBolton> I learned HTML in two days. Then again, HTML is so very simple. I am going to have to find a site for Java now.
+[19:43:40] <sam_> Gotta love finding that class in the documentation that you've been looking for.
+[19:43:40] <Billd> Also, if you start on Visual Studio other IDEs can be difficult.
+[19:43:40] <danopia> BrandonBolton, in this case you have to define "learn"
+[19:43:40] <jaimeh> A basic text editor and compiling by hand helps one learn a lot.
+[19:43:40] <Raionic> Hey , i created a first draft (key point here :)) for the GitHub wiki if you guys want to take a look: http://rad.lc8n.com/projects/general-organization/wiki/Github
+[19:43:40] <danopia> there's a difference between making something out of <h1> and <p> and between designing a full page for a modern-looking website, though at that point css is a must too
+[19:43:40] <Billd> Coding by hand is a bit too hard core for me in most languages. I can do it with syntax highlighting - in some languages.
+[19:43:40] <Phault> BrandonBolton: Look up a book called "Head First Java" and acquire it however suits you best. Cough download pdf cough
+[19:43:40] <BrandonBolton> danopia: Where I feel safe to say that I know Java and can code it with ease.
+[19:43:40] <BrandonBolton> Phault: Alright, thank you. I will look it up now.
+[19:43:40] <danopia> but you said html
+[19:43:40] <jaimeh> Well most basic text editors have syntax highlighting and other small features. Reg ex
+[19:43:48] <Billd> Am I right in understanding the HTML5 spec is html/js/css bundled together?
+[19:44:01] ### fr3tles5 has quit the server. (Client Quit)
+[19:44:15] <BrandonBolton> danopia: You are referring to HTML. I understand how to code a simple website and intergrate CSS to it.
+[19:44:36] <anjoyed> Raionic, nice. going to look for an eclipse plugin for git - any suggestions?
+[19:44:41] <Phault> Subliminal Text 2 is by far my favourite text editor
+[19:44:41] <danopia> i'm referencing "I learned HTML in two days."
+[19:45:04] <adamell> Subversion has better support for Eclipse than git
+[19:45:15] <jaimeh> I just use the command line. Easy, easy.
+[19:45:30] <Billd> jaimeh, word. Notepad++ is great for my needs. There's a website, shifedit(I think) that is handy for webdev stuff. That said, if I'm doing a compiled language I'm going to site in Eclipse/VS/whatever
+[19:45:40] <Billd> *sit
+[19:45:42] <Raionic> anjoyed, good point i'll see if i can find one...make everyone's life easier :)
+[19:45:51] <anjoyed> yeah im used to using eclipse/subversion/trac
+[19:45:58] <jaimeh> http://progit.org/
+[19:46:01] <anjoyed> git is kinda new to me
+[19:46:15] <Raionic> Have you ever used any version control?
+[19:46:17] <adamell> egit would be your best bet, unless your using a mac, then just use the GitHub app.
+[19:46:17] <anjoyed> all ive done is clone source from public repos
+[19:46:21] <BrandonBolton> I am not sure how to respond. I understand the basics of HTML and can code it.
+[19:47:00] <jaimeh> Go to the pro git site I posted. Simple stuff really. Search for got cheat sheet.
+[19:47:06] <adamell> BrandonBolton: respond to what?
+[19:47:12] <jaimeh> Git *
+[19:47:57] <BrandonBolton> The question that danopia asked me on defining 'learn' when I said that I learned HTML in two days.
+[19:48:14] <Billd> I think we crashed http://rad.lc8n.com/projects/general-organization/wiki/Github
+[19:48:30] <sam_> Mine's up^
+[19:48:39] <Raionic> jaimeh i have also posted a link on the wiki
+[19:49:39] <jaimeh> Good, I hope more people learn git.
