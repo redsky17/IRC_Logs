@@ -2765,3 +2765,24 @@
 [18:59:46] <Hayes> Ok well I just wanted to get your ideas for the app from you without flooding the IRC
 [18:59:57] <Sanit> PM here?
 [18:59:58] <ThatPlayer> Not like IRC has anything else going on
+[19:00:45] <Hayes> This is true.  But I guess we are jumping the gun anyways... I have no idea what apps everyone's going to vote for
+[19:01:52] <Ramuh> damn irc lib
+[19:02:27] <Hayes> Sounds like some people are leaning towards a training exercise first, like a calculator
+[19:02:43] <Hayes> In which case I'm not going to waste my time beautifying
+[19:02:58] <Sanit> yeah, I've gone through them all myself
+[19:05:45] <Sanit> What is the general skill level here? I was under the impression that it would be saturated with seasoned programmers
+[19:06:00] <anjoyed> hard to know, only about 20% of folk here have said anything
+[19:06:23] <lyrch> i've been out of college 4 years and worked in c++ mostly, but also java, and quite a bit of ruby
+[19:07:38] ### cgarcia has joined ##reddit-android-developers
+[19:07:48] <Sanit> I'm a first year Computer Applications student with 3 years of Digital Media Engineering behind me. Just starting java now, but know a decent bit from the crash course I did in DME.
+[19:08:04] <Sanit> when I say now, I meen since Sept.
+[19:08:08] <anyonethinkingab> i can say 14 people filled in the new version
+[19:08:18] <itsKitsos> resubmitted form.
+[19:08:25] <itsKitsos> 15? :)
+[19:08:46] <Hayes> And what apps have received the most interest?
+[19:08:56] <Billd> I'm working on my CompSci degree, focusing on programming languages. I'm largely self taught and feeling my way through android development.
+[19:08:57] <RAWR> Bit of a beginner, only a bit over halfway through a book called head first java. But I feel that I atleast have a good grasp of the language.
+[19:09:13] <anyonethinkingab> itsKitsos yup
+[19:09:18] <lyrch> head first is a good series of books
+[19:09:28] <ThatPlayer> That's what there's practice and good examples for
+[19:09:36] <ThatPlayer> I learned by reading other people's code
