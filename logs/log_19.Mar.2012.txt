@@ -20,3 +20,12 @@
 [20:09:12] <malik> Have you made it so people can't vote more than once?
 [20:09:24] <Hogofwar> :/
 [20:09:29] <Hogofwar> unfortunate lingering issue
+[20:11:56] ### anyonethinkingab has joined ##reddit-android-developers
+[20:12:03] ### fringebenefits60 has joined ##reddit-android-developers
+[20:12:29] <red_sky> I think I'm really close to getting this to work
+[20:12:30] <Hogofwar> Lilday, do you have admin over the git?
+[20:12:41] <Lilday> yeah
+[20:12:58] <Homermon> Heading off for now, talk you you find people later.
+[20:13:06] <Hogofwar> would it be allowed to post the source of the Log bot on the git?
+[20:13:11] <Hogofwar> in it's own git repo
+[20:13:21] ### Homermon has quit the server. (Quit: Page closed)
