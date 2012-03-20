@@ -1,0 +1,748 @@
+[00:00:57] ### D-Lon has quit the server. (Quit: sleepytime)
+[00:01:30] ### anjoyed has joined ##reddit-android-developers
+[00:05:03] <tmoskowite> hey everyone
+[00:05:26] <ThatPlayer> Hi stranger
+[00:06:46] <joholz> yo
+[00:08:19] <artico> howdy
+[00:09:35] <jaimeh> I just noticed the post initiating android developers. I am on my mobile and want to participate. Any place I can get a quick summary of what this sub is doing?
+[00:12:11] <jaimeh> I can do development. Is the idea that these apps will be open source? Ideas about the license?
+[00:12:54] <ThatPlayer> Well its on github so I think its going to be open source
+[00:14:33] <jaimeh> Think? Have there been any discussions about this?
+[00:15:26] ### yo2boy_ has joined ##reddit-android-developers
+[00:15:36] <ThatPlayer> As if in im not sure
+[00:15:38] <ThatPlayer> There is a github
+[00:15:52] <ThatPlayer> Probably will be open source
+[00:17:18] <c0smic> jaimeh: Yes, it'll be open source.
+[00:17:23] <adamell> If it's on github and publicly available, it's open source. So yes. It is open source.
+[00:17:29] <c0smic> there's been lots of discussion on the sub
+[00:17:53] <c0smic> Tomorrow, we're going to decide on which apps to work on and split up in to teams
+[00:17:59] <red_sky> sounds good
+[00:18:09] <c0smic> Each team will be small in size, and will have a mix of experienced and new devs
+[00:18:12] <joholz> nice
+[00:18:18] <joholz> gold team rules!
+[00:18:25] <jaimeh> Okay. Any place we are signing up to develop?
+[00:18:26] <adamell> Team Kony
+[00:18:44] <adamell> Look at all the links in the sidebar of the subreddit
+[00:18:46] <ThatPlayer> What time tomorrow do you think? Will it be in irc?
+[00:19:50] <jaimeh> I am on mobile, out drinking. Ill check it out later.
+[00:19:57] <c0smic> There's not a defined time, and discussion will be on the IRC and posts will be made in the sub.
+[00:19:59] <adamell> There isn't a definite time set. Sometim within the next 24 hours.
+[00:20:06] <c0smic> you won't have to be on irc to get the information
+[00:20:16] <c0smic> jaimeh: Sounds good.
+[00:20:42] <ThatPlayer> But will there be talking people in irc?
+[00:20:51] <joholz> of course
+[00:21:00] <joholz> i will always be here for you
+[00:21:21] <adamell> lol
+[00:21:23] ### ballpointcarrot has joined ##reddit-android-developers
+[00:21:26] <c0smic> ThatPlayer: Yes, we'll be discussing on IRC.
+[00:21:27] <jaimeh> My heart felt warm
+[00:21:27] <artico> so sweet! :)
+[00:21:51] <ThatPlayer> =)
+[00:21:55] <adamell> Welcome to RAD, please take this complimentary hug and compliment.
+[00:22:04] <c0smic> :)
+[00:23:16] <ThatPlayer> Only one?
+[00:23:23] <c0smic> Make sure if you haven't already, to fill out this form if you want to participate: http://bit.ly/yZE2zl
+[00:24:22] <ThatPlayer> I think I might have but I don't remember
+[00:31:12] ### jselk has joined ##reddit-android-developers
+[00:35:41] ### zubsani has joined ##reddit-android-developers
+[00:35:53] <zubsani> Hello!
+[00:35:54] <zubsani> :D
+[00:36:28] <ThatPlayer> Hello
+[00:41:16] ### jaymax has joined ##reddit-android-developers
+[00:43:26] <joholz> salutations dear comrade
+[00:44:49] <tmoskowite> This is awesome
+[00:45:11] <joholz> what is?, i want some
+[00:45:12] ### fringebenefits60 has quit the server. (Quit: Leaving)
+[00:47:16] ### samboy has quit the server. (Quit: Page closed)
+[00:48:13] <joholz> whats some of yalls "wow thats pretty cool" apps?
+[00:50:11] <joholz> this: https://play.google.com/store/apps/details?id=com.alwaysonpc.android.vnc impressed me
+[00:50:38] ### zubsani has quit the server. (Read error: Connection reset by peer)
+[00:52:25] <joholz> haha check the second review on there, the "junk" one
+[00:52:35] <jselk> Airdroid
+[00:52:53] <joholz> someone post that to /r/android and ull get karma
+[00:54:00] <joholz> jselk: that looks nice
+[00:54:05] <joholz> i needa tablet
+[00:54:45] <ThatPlayer> They're useful
+[00:54:59] <ThatPlayer> My parents use mine to watch shows =P
+[00:54:59] <joholz> try the onlive desktop?
+[00:55:14] <artico> i'd like a tablet, but then it's hard to convince myself to get one when i do already have a laptop, smartphone, and am currently building a desktop, haha
+[00:55:40] <ThatPlayer> I didnt' have to convince myself to get one
+[00:55:45] <ThatPlayer> I was at work and asked for it =P
+[00:55:47] <joholz> artico: yea, when it boils down its really a very cool toy
+[00:55:48] <vcarl> yeahh, tablets don't really add much functionality
+[00:55:54] <ThatPlayer> Dont' really use much for it
+[00:55:58] <vcarl> i have a touchpad dual booting android and webos, i don't use either
+[00:56:03] <artico> haha same thing i was thinking
+[00:56:14] <vcarl> it's like a laptop with shitty input and limited file compatibility
+[00:56:17] <vcarl> imo
+[00:56:40] <joholz> anyone try onlive desktop with tablet?
+[00:57:10] ### zubsani has joined ##reddit-android-developers
+[00:57:11] <joholz> https://play.google.com/store/apps/details?id=com.onlive.desktop
+[00:59:28] ### D_ has quit the server. (Read error: No route to host)
+[01:01:35] ### zubsani has quit the server. (Ping timeout: 246 seconds)
+[01:01:59] ### zubsani has joined ##reddit-android-developers
+[01:01:59] ### zubsani has quit the server. (Client Quit)
+[01:02:06] ### zubsani has joined ##reddit-android-developers
+[01:02:19] ### D_ has joined ##reddit-android-developers
+[01:03:21] ### jselk has quit the server. (Ping timeout: 245 seconds)
+[01:03:35] ### yo2boy_ has quit the server. (Quit: Leaving.)
+[01:09:35] ### alextsc has joined ##reddit-android-developers
+[01:11:02] <anjoyed> don't think many have tablets
+[01:11:17] <anjoyed> or very few suggestions for tablet absed stuff anyway
+[01:11:24] <anjoyed> *based
+[01:11:31] <joholz> or people hate me,nuff said
+[01:12:00] <anjoyed> your first I've seen mention them :)
+[01:12:36] <joholz> haha, ive heard there not a lot of tablet apps
+[01:13:04] <anjoyed> shitload of laptops, desktops and servers here. two android phones. no tablets :)
+[01:13:34] <anjoyed> never saw the point in getting one
+[01:14:25] <DLog> there was a little talk about tablet apps yesterday. consensus seemed to be that it is best to target phone initially and roll out a tablet version later
+[01:14:54] <artico> sounds logical
+[01:15:24] ### zubsani_ has joined ##reddit-android-developers
+[01:15:42] ### zubsani has quit the server. (Read error: No route to host)
+[01:15:42] ### zubsani_ is now known as zubsani
+[01:16:30] <DLog> was reading about http://actionbarsherlock.com/ earlier when thinking about tablet vs. phone
+[01:17:18] <anjoyed> sounds handy
+[01:17:49] <anjoyed> gets rid of some fragmentation problems
+[01:18:36] <ThatPlayer> joholz: Just tried the OnLive desktop app, feels like Onlive runnning Windows 7 more or les
+[01:18:45] <ThatPlayer> Couldn't really do much without paying for the thing though
+[01:19:19] <ThatPlayer> It uses the windows onscreen keyboard
+[01:21:06] <joholz> does it have latency on the keyboard then?
+[01:21:16] <joholz> which prob gets annoying
+[01:26:47] ### jaymax has quit the server. (Quit: Leaving)
+[01:30:24] ### tmoskowite has quit the server. (Remote host closed the connection)
+[01:35:15] <ThatPlayer> It's about the same as their Onlive games if you've ever used that
+[01:36:19] <joholz> ThatPlayer: yea i have.
+[01:36:33] <joholz> actually i got some game keys, pm me is your interested
+[01:36:42] <joholz> the usually humble bundle ones
+[01:36:47] <ThatPlayer> Yeah i've already got those =P
+[01:37:04] <ThatPlayer> Also have de:hr on it
+[01:37:08] <joholz> cool, whats your tag?
+[01:37:18] <ThatPlayer> I don't actually use it =P
+[01:38:18] <ThatPlayer> I did use it recently to play the FTL demo which was pretty awesome
+[01:41:12] <joholz> thats cool
+[01:46:20] ### artico has quit the server. (Quit: Leaving)
+[01:47:07] ### red_sky has quit the server. (Ping timeout: 265 seconds)
+[01:47:28] ### artico has joined ##reddit-android-developers
+[01:51:36] ### ballpointcarrot has quit the server. (Quit: Quit.)
+[01:54:16] <joholz> been fun
+[01:54:20] <joholz> laters
+[01:54:39] ### joholz has quit the server. (Quit: Page closed)
+[01:56:10] <ThatPlayer> cya
+[01:56:16] <ThatPlayer> Or he's gone
+[01:57:06] ### jaimeh has quit the server. (Ping timeout: 264 seconds)
+[01:59:09] ### jaimeh has joined ##reddit-android-developers
+[02:03:45] ### _mike_ has quit the server. (Quit: Page closed)
+[02:05:21] ### Esge has joined ##reddit-android-developers
+[02:06:36] ### karande has joined ##reddit-android-developers
+[02:07:23] <karande> oh, name typo. i guess karande sounds kind of spanish/italian.
+[02:08:56] <vcarl> so who's seen the post about using the subreddit for for-profit development?
+[02:08:57] <vcarl> http://www.reddit.com/r/RedditAndroidDev/comments/r4pec/about_your_personal_app_ideas/
+[02:09:25] <nataly87s> you can change your nick by typing
+[02:09:28] <ThatPlayer> I have now
+[02:09:34] <nataly87s> /nick newnick
+[02:09:54] <karande> i'll stick with this for now, i don't mind. thanks :)
+[02:10:37] <karande> i think there should be a very clear distinction between for/not for profit apps from the beginning
+[02:11:09] ### nataly87s is now known as nataly
+[02:11:22] <vcarl> i agree
+[02:11:25] <vcarl> i like the concept though
+[02:11:47] <ThatPlayer> I think it depends on whether or not we're focusing on making apps or learning to make apps
+[02:11:58] <vcarl> well, we could easily do both
+[02:12:40] <vcarl> have big group apps for "newbies" to help out on and learn, and people could request help on apps they're working on but have final say on who can help
+[02:12:43] <jaimeh> I will only work on free open source apps in this type of community environment
+[02:13:52] <vcarl> they could still be free and open source, but instead of ad revenue going to charity, it does to the primary developer
+[02:14:01] <vcarl> *goes, not does
+[02:14:06] ### JakobekS has joined ##reddit-android-developers
+[02:14:08] <ThatPlayer> Have we decided to have ads yet?
+[02:14:33] <adamell> Yes, Kony has already bought ad space for the next 78 years
+[02:14:42] <adamell> We're set for life
+[02:14:46] <vcarl> i don't think we've decided on anything, but i think ads were  negatively received
+[02:14:47] ### JakobekS has quit the server. (Client Quit)
+[02:14:53] <anjoyed> if you use the reddit android developers name then google will take 30%, condewhatsit will take 25% and the remaining 45% would need to cover costs before spreading between devs
+[02:16:17] <anjoyed> not the best way to go about monetizing an app
+[02:16:17] <nataly> another 25% goes to reddit
+[02:16:17] <anjoyed> yeah, to condethingy
+[02:16:19] <anjoyed> the owners
+[02:16:24] <nataly> oh ok
+[02:16:28] <vcarl> personally, i think the RAD name should be reserved for the whole community apps, not these theoretical types
+[02:17:13] <vcarl> "thanks to RAD" yeah, but not "developed by RAD"
+[02:17:24] <karande> yes, credit should be given but if they are for an independent developer then the app is in their name.
+[02:18:20] <vcarl> exactly
+[02:18:48] <vcarl> like, people here could "sign up" to do some "contract work"
+[02:19:23] <anjoyed> i'm about 60% through an app at the minute, won't be putting RAD on that one ;)
+[02:20:06] <OsQu> Why would somebody like to monetize something community driven like this? The share holding is going to be horrible
+[02:20:16] <anjoyed> aye
+[02:20:26] <OsQu> In my opinion things like this should be done for fun and learning, and if you need money, get a job :)
+[02:20:29] <vcarl> more of asking for help and giving recognition
+[02:20:42] <anjoyed> better to let it go to EFF or something
+[02:20:51] <OsQu> well that's a point
+[02:20:54] <anjoyed> over time we could end up giving them a bit
+[02:21:07] <OsQu> (or to that one guy who is responsible of giving everything to EFF ;)
+[02:21:14] <anjoyed> lol
+[02:22:23] <c0smic> To answer some questions, we've mainly decided that any extra profit would be given to charity
+[02:23:54] <anjoyed> poll at some point in the future to decide which charity?
+[02:24:21] <anjoyed> or individual projects set their own?
+[02:24:33] <anjoyed> that could get  meddy
+[02:24:37] <anjoyed> *messy
+[02:24:52] <c0smic> We'll have a poll for which charity
+[02:25:19] <c0smic> I don't see why not to let projects choose their own on a poll
+[02:26:06] <OsQu> well first things first: one needs an app where to put ads :)
+[02:26:22] <anjoyed> it would mean bit more work keeping things separate
+[02:26:24] <OsQu> oh boy, I sound so pessimist!
+[02:26:32] <anjoyed> rather than everything coming in to one pot
+[02:27:11] <vcarl> one thought: what about a fund common to the sub? like if an app idea is really popular, but has relatively high startup costs, say in renting a server and such
+[02:27:31] ### mwrosen has quit the server. (Ping timeout: 245 seconds)
+[02:27:38] <ThatPlayer> We'd need someone to manage that
+[02:27:52] <vcarl> indeed, it might not be practical
+[02:28:53] <anjoyed> it might be easier if it was all one fund common to the group
+[02:29:11] <anjoyed> could track it on the wensite
+[02:29:27] <ThatPlayer> Depends if you can trust someone to manage that
+[02:30:50] <ThatPlayer> Money always gets things complicated
+[02:31:04] <ThatPlayer> Espeically if everyone is developing for it for example
+[02:31:20] <anjoyed> be a while before we need to worry about it in all honesty
+[02:31:29] <vcarl> yeah
+[02:31:37] <vcarl> we keep getting really ahead of ourself
+[02:31:45] <vcarl> twitter accounts and circles and this and that
+[02:31:56] <ThatPlayer> Well good planning doesn't hurt
+[02:32:05] <vcarl> no, but we should start something :P
+[02:32:22] <vcarl> a lot of stuff that's been discussed is really completely unneccessary to development
+[02:32:45] <anjoyed> think its coming along well so far
+[02:32:49] <vcarl> i hope so
+[02:33:02] <anjoyed> once it settles a bit things will start moving
+[02:33:16] <vcarl> i'm just concerned it'll burn out with lots of accounts made and lots of publicity, but no apps
+[02:33:16] <fringebenefits> things have been getting ahead, but for the most part progress has been pretty good
+[02:33:48] <TheNumb> hey
+[02:33:50] <TheNumb> ;-)
+[02:33:53] <vcarl> most of the collaborations i've attempted (none like this though) have blown up in the launch pad, so i'm paranoid
+[02:34:23] <anjoyed> not even 48 hours in yet :)
+[02:34:43] <ThatPlayer> I'll be here all week, it's spring break =]
+[02:34:47] <anjoyed> hey TheNumb
+[02:34:48] <fringebenefits> yeah hard to believe that though isn't it?
+[02:34:51] <ThatPlayer> But yeah, alot of projects like these do fizzle out and die
+[02:35:36] <TheNumb> ThatPlayer: I guess we won't let that happen ;-)
+[02:35:57] <ThatPlayer> That's why I think it's good that we splitting into teams or whatever soon while people are still interested
+[02:36:05] <ThatPlayer> To keep them interested and all
+[02:36:28] <fringebenefits> i think we're all a little scared of it fizzling out
+[02:36:32] <TheNumb> We need to split into teams.
+[02:36:48] <fringebenefits> which is why all this planning is going on
+[02:36:58] <OsQu> Who's the Man behind the 'sign up form' btw?
+[02:37:54] <vcarl> i think c0smic
+[02:38:05] <ThatPlayer> I'm wondering who's behind the domain, get them to setup Google Apps account and all that
+[02:38:32] <TheNumb> ThatPlayer: member68 owns the domain.
+[02:38:56] <fringebenefits> i think google apps are limited to 10 users now
+[02:39:05] <ThatPlayer> The free one is
+[02:39:09] <fringebenefits> yeah
+[02:39:10] <TheNumb> fringebenefits: the free version, yes.
+[02:39:23] <fringebenefits> are we planning to pay?
+[02:39:28] <ThatPlayer> Might be possible to get the nonprofit one or something
+[02:39:44] <vcarl> another reason to have a group fund :P
+[02:39:55] <TheNumb> http://www.google.com/apps/intl/en/nonprofit/index.html
+[02:40:02] <fringebenefits> hmmm, maybe, but we may need to apply for non-profit status
+[02:40:24] <ThatPlayer> Well we'd be under 3k users so we'd apply for the educations?
+[02:40:25] <TheNumb> 40% discount ($30/user/year).
+[02:40:27] <TheNumb> trolololo
+[02:40:47] <ThatPlayer> If your organization is under 3,000 users, you can apply for the free Google Apps for Education through the Google for Nonprofits site.
+[02:41:09] <anjoyed> What would we need google apps for?
+[02:41:14] <TheNumb> http://www.google.com/nonprofits/eligibility.html
+[02:41:18] <ThatPlayer> Nice emails =P
+[02:41:32] <fringebenefits> To be eligible for the Google for Nonprofits program, organizations must:
+[02:41:32] <fringebenefits>     Hold current 501(c)(3) status, as determined by the U.S. Internal Revenue Service; and
+[02:41:32] <fringebenefits>     Acknowledge and agree to the application's required certifications regarding nondiscrimination and donation receipt and use.
+[02:41:41] <ThatPlayer> Yeah that'd be annoying
+[02:41:43] <anjoyed> theres a google group setup
+[02:41:44] <fringebenefits> yep
+[02:42:06] <TheNumb> anjoyed: may I ask where?
+[02:42:26] <anjoyed> https://groups.google.com/forum/#!forum/RedditAndroidDevelopers
+[02:43:04] <anjoyed> lilday just set it up last night
+[02:43:15] <ThatPlayer> Are we going to use that? It seems like we're pretty split up
+[02:43:25] <ThatPlayer> with subreddit, google plus hangouts earlier, irc, etc
+[02:43:33] <fringebenefits> i think we'll see what works
+[02:43:48] <fringebenefits> eventually people will migrate to whatever works best
+[02:43:51] <vcarl> yeah, i think a subreddit and an IRC is enough, really
+[02:44:07] <ThatPlayer> There's a redmine setup, but we've also got github
+[02:44:29] <TheNumb> Redmine will be useful for project management.
+[03:01:07] ### member68 has joined ##reddit-android-developers
+[03:02:06] ### fr3tles5 has quit the server. (Ping timeout: 245 seconds)
+[03:02:06] <member68> Good morning
+[03:02:20] <fringebenefits> hello lol
+[03:02:26] <anjoyed> mornin
+[03:02:28] <ThatPlayer> Hello
+[03:05:18] <member68> Did anything important happen in the last 7 hours?
+[03:06:06] <anjoyed> ircbot is logging and uploading to gh
+[03:06:45] <fringebenefits> ah, so this is all logged?
+[03:06:49] <member68> Good. I'll go there and check it out.
+[03:07:37] <anjoyed> aye. updates gh at 7am/pm EST
+[03:08:47] <anjoyed> redsky and hogofwar sorted it iirc
+[03:09:08] <ThatPlayer> If you want I can give you my logs so far
+[03:09:17] <member68> Once a day? Why not more often? This is quite a big gap in time.
+[03:09:31] <anjoyed> twice, every 12 hours
+[03:09:43] <anjoyed> redsky mentioned changing it to hourly
+[03:10:58] <member68> Sounds better. Since we are spread across 25 countries, time will become an important issue.
+[03:11:09] <anjoyed> radlogii is the bot
+[03:13:41] ### member68 has parted (left) the channel.
+[03:14:10] ### member68 has joined ##reddit-android-developers
+[03:14:29] ### member68 has parted (left) the channel.
+[03:14:51] ### member68 has joined ##reddit-android-developers
+[03:16:54] ### aesptux has joined ##reddit-android-developers
+[03:18:27] ### alextsc has quit the server. (Quit: Quit)
+[03:18:35] ### alextsc has joined ##reddit-android-developers
+[03:23:39] <karande> 25 countries, neat
+[03:25:02] <nataly> omg omg omg omg i have ics on my sgs2!!!
+[03:26:06] <ThatPlayer> Congrats =)
+[03:26:20] ### vcarl has quit the server. (Quit: Goodnight)
+[03:26:32] <ThatPlayer> Now you wait for CM9
+[03:26:50] <nataly> =]
+[03:26:56] <anjoyed> :)
+[03:27:30] <anjoyed> must do that too
+[03:27:51] <nataly> :\
+[03:28:25] <alextsc> there are ics roms for the desire, runs decent (got one) ;)
+[03:28:29] <anjoyed> sgs2 here, still gingerbread
+[03:28:40] <nataly> http://forum.xda-developers.com/showthread.php?t=1544487
+[03:28:43] <artico> i still have a droid!
+[03:28:51] <member68> alextsc: which one?
+[03:29:07] <anjoyed> cheers nataly
+[03:29:09] <alextsc> member68,  sec, Ill get the link =)
+[03:29:28] <aesptux> I also have sgs2 and a few days ago I flashed resurrection rom with ics :)
+[03:29:57] <alextsc> member68, http://forum.xda-developers.com/showthread.php?t=1432017
+[03:30:07] <ThatPlayer> I need to see if my work can pay for a Galaxy Nexus for me =)
+[03:30:08] <alextsc> it got a few small bugs, but thats about it
+[03:30:29] <adamell> I take it fragmentation will be addressed at some point? or are we just going to use 2.2/2.3.3 as our min SDK?
+[03:30:35] <alextsc> (barcode scanners dont work for me, the rest is stable and fluid once you change to trebuchet launcher)
+[03:30:44] <member68> I'll test it in bootmanager first anyway
+[03:30:53] <anjoyed> any opengl bugs? have project on the go, don't want to mess up testing on it
+[03:30:58] <alextsc> :)
+[03:31:13] <member68> adamell: target will be 4.0.3, minimum is 2.2
+[03:31:44] ### Dillon[ca] has joined ##reddit-android-developers
+[03:32:11] <member68> we probably won't use the action bar google provided. there is an open source alternative out there though which we can use (which is also compatible with all android versions)
+[03:32:28] <anjoyed> sherlock thingy?
+[03:33:02] <member68> yes
+[03:34:26] <member68> as developers we cannot assume everybody runs 4.0.3. that way we loose potential users, and developers alike
+[03:35:25] <anjoyed> most users are still on 2.3.3
+[03:36:06] <adamell> http://i.imgur.com/OFkbc.png
+[03:37:24] <member68> yes, but 25 percent still use 2.2. 2.1 only has 6 percent
+[03:37:55] <member68> by going for 2.2 we can adress 92 % of all users. sounds good enough to me ;)
+[03:38:17] <anjoyed> aye, best bet
+[03:39:39] ### zubsani has quit the server. (Quit: zubsani)
+[03:44:12] ### anjoyed has quit the server. (Ping timeout: 260 seconds)
+[03:44:28] <ThatPlayer> Wow, I'm really bad with names
+[03:44:35] <ThatPlayer> I just spent the last 10 minutes trying to remember someones name
+[03:45:10] <fringebenefits> RL or here?
+[03:45:18] <ThatPlayer> RL
+[03:45:39] <fringebenefits> lol yeah, i'm equally as bad
+[03:46:00] <ThatPlayer> Like I know this guy's voice, we went to school together, and I remember all that, but just his name I can't remember
+[03:46:23] <ThatPlayer> And i have him on Steam so I remember his Steam name xD
+[03:48:00] <fringebenefits> did you remember?
+[03:48:06] <ThatPlayer> Yes
+[03:48:09] <ThatPlayer> Looked it up on facebook =)
+[03:48:13] <fringebenefits> lol
+[03:48:47] <fringebenefits> i find it helps to give up trying and just try and think about what my relation to that person was
+[03:48:56] <fringebenefits> usually the name comes up somehow in mid thought
+[03:49:13] <ThatPlayer> Maybe I'll do taht in the future
+[03:51:27] <ThatPlayer> Also doesn't help that I actually will rarely use names xD
+[03:52:09] <ThatPlayer> Either when trying to get their attention when "hey" or something doesn't work
+[03:52:26] <ThatPlayer> Or when referring to them and "that one guy" and then describing them doesnt' work
+[03:56:38] ### jaimeh has quit the server. (Ping timeout: 260 seconds)
+[04:12:33] ### adamell has quit the server. (Remote host closed the connection)
+[04:15:43] ### LonnieC has quit the server. (Quit: Leaving)
+[04:22:13] ### Avid has quit the server. (Ping timeout: 245 seconds)
+[04:29:03] ### Homermon has joined ##reddit-android-developers
+[04:30:18] <Decker> hello
+[04:30:38] <Decker> has anyone here actually used the new boston videos for any period of time?
+[04:38:03] ### versh has joined ##reddit-android-developers
+[04:38:31] ### versh has quit the server. (Client Quit)
+[04:39:04] <member68> what are these boston videos? i've never heard of them
+[04:40:51] ### anyonethinkingab has joined ##reddit-android-developers
+[04:44:50] ### matt-ice-mobile has joined ##reddit-android-developers
+[04:47:42] ### Homermon has quit the server. (Quit: Page closed)
+[04:47:57] <alextsc> member68, a list of tutorials, see http://thenewboston.org/list.php?cat=6
+[04:48:13] <alextsc> and now i have to enable timestamps here, you asked that probably a hour ago =P
+[04:48:32] <ThatPlayer> Nah I have timestamps it was 10 mins ago =P
+[04:48:40] <alextsc> hehe ok thanks :)
+[04:49:26] ### matt-ice-mobile has quit the server. (Client Quit)
+[04:54:57] <member68> that was 10 minutes ago...i was busy figuring out github anyway
+[04:55:45] <ThatPlayer> Yes I got the email that you've added me to the github thing =)
+[04:58:47] ### Dillon[ca] has quit the server. (Ping timeout: 245 seconds)
+[04:58:52] ### Hogofwar has joined ##reddit-android-developers
+[04:59:30] <wjoe_> Morning all
+[04:59:48] ### wjoe_ is now known as wjoe
+[05:00:45] <member68> morning wjoe
+[05:05:36] ### deliwien has joined ##reddit-android-developers
+[05:08:46] <ThatPlayer> morning
+[05:08:57] <deliwien> good morning :)
+[05:18:52] ### AndroUser has joined ##reddit-android-developers
+[05:20:16] <AndroUser> Wow didn't expect that many to be online
+[05:20:32] ### AndroUser is now known as RAWR
+[05:20:49] <ThatPlayer> I idle here, dunno about everyone else
+[05:20:51] <ThatPlayer> About to sleep soon
+[05:21:12] <RAWR> Just woke up :)
+[05:22:10] <member68> i'm currently familiarizing myself with github. i'm also in the process of creating an email adress for the project and i have to figure out some domain related stuff
+[05:23:15] <RAWR> Aha, what kind of domain related stuff would that be?
+[05:23:42] <member68> getting my hoster to point a subdomain to a external host
+[05:24:15] <member68> i'm thinking about ditching their dns server though and go to freedns
+[05:25:26] <RAWR> I see, welp not much I can help with from my phone.  ;-)
+[05:25:40] ### patzab has joined ##reddit-android-developers
+[05:27:37] <member68> mmh. just noticed that freedns requires me to register a domain with them. not exactly what i had in mind. dont want to spend another 15 dollars a year for a domain i already own
+[05:28:02] <wjoe> ah :/ didn't realise you had to register a domain with them, thought it was all free
+[05:29:51] <c0smic> hey guys!
+[05:30:05] <c0smic> back from afk :)
+[05:30:16] <wjoe> hihi
+[05:30:18] ### karande is now known as karandr
+[05:30:51] <wjoe> member68: are you sure?
+[05:30:52] <wjoe> http://freedns.afraid.org/domain/add.php
+[05:30:56] <wjoe> seems to let you add any domain
+[05:32:03] <member68> NOTE! You must register your domain with these name servers:
+[05:32:03] <member68> NS1.AFRAID.ORG (50.23.197.95)
+[05:32:03] <member68> NS2.AFRAID.ORG (174.37.196.55)
+[05:32:03] <member68> NS3.AFRAID.ORG (72.20.15.62)
+[05:32:03] <member68> NS4.AFRAID.ORG (174.128.246.102)
+[05:32:04] <member68> if i click on register, i get to a signup page where i have to pay
+[05:32:50] <wjoe> hm... I think that's just an advertising link. it's a bit confusing though. it should just mean that you have to set those nameservers for your domain (through your current hosts)
+[05:33:49] <karandr> long story short i'm an awful person and i thought the android had balls on the end of the antennae
+[05:33:51] <member68> i'll test that on antother domain i own. do i need to add ALL dns servers? my hoster allows two
+[05:34:36] <wjoe> yeah, normally it's just two. the first two should be fine
+[05:35:39] <Esge> guys anybody alive who knows php?
+[05:36:44] <member68> we have a couple of php coders on the team. don't know if any of the are online though
+[05:37:31] <Hogofwar> Me.
+[05:38:28] <Esge> i have a quick question, when i'm working with filesystem in php, can it look into .war files ?
+[05:38:40] <Hogofwar> probably
+[05:38:47] <Hogofwar> they are basically zip files
+[05:39:04] <Hogofwar> try using whatever it is in PHP to look inside
+[05:40:24] <Esge> thx
+[05:43:50] ### RAWR has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[05:43:55] ### karandr has quit the server. (Quit: Page closed)
+[05:44:06] <Hogofwar> the log bot is not running?
+[05:44:14] <Hogofwar> oh wait
+[05:44:18] ### RAWR has joined ##reddit-android-developers
+[05:44:19] <Hogofwar> there it sis
+[05:44:23] <Hogofwar> *is
+[05:46:13] ### jaimeh has joined ##reddit-android-developers
+[06:04:52] <member68> wjoe: i'm testing the freedns with one of my other domains. just got confirmation from my hoster that they cannot change the a record for a subdomain
+[06:05:21] <wjoe> ahh, ok. but you're able to change the nameservers?
+[06:05:49] <member68> i can change it for top level domains and after that i can create a subdomain at freedns
+[06:06:19] <wjoe> ok
+[06:07:04] <member68> stupid hoster though. I'll probably switch when my contract ends in september
+[06:07:26] <RAWR> Which host is it?
+[06:07:38] <member68> a german hoster named 1blu
+[06:08:16] <RAWR> Alright, don't know that one and probably never will.
+[06:08:27] <wjoe> yeah, most hosting companies are fairly restrictive with that stuff. I just use a separate company for domain names to hosting now
+[06:09:23] <member68> it's rather small, but i never had trouble with them so far. always got answers and my issues were usually solved withing 1-2 hours
+[06:10:20] <member68> wjoe: suggestions for my future hosting needs?
+[06:12:31] <wjoe> well, I use a dedicated server for hosting now, from OVH. I use http://www.1and1.com/ for domains, they do hosting too but I don't know how good it is. not sure about other good hosts
+[06:13:57] <member68>  1and1 is the biggest German hoster and IPS. i'll have a look at them when the time comes. thanks
+[06:14:39] <member68> *ISP
+[06:15:04] <wjoe> ah really? well they're fine for domains at least
+[06:17:43] <wjoe> task for today: get email working from redmine. currently having to activate all accounts manually because emails aren't being sent out :/
+[06:18:09] <wjoe> ooh, close to 500 users on the subreddit
+[06:21:32] <Hogofwar> member68, holy fuck I hate 1and1
+[06:21:52] <Hogofwar> my account gets hacked into
+[06:21:57] <Hogofwar> They refuse to do shit all
+[06:22:07] <c0smic> wjoe: I have the email list of everyone who submitted the form
+[06:22:16] <Hogofwar> they said they closed the account, yet we still keep getting charges to the credit card
+[06:22:27] <wjoe> oh dear :/ maybe best avoided for hosting then
+[06:22:28] <Hogofwar> So we had to cancel the credit card in the end
+[06:22:32] <Hogofwar> It was domains
+[06:22:50] <Hogofwar> I use hostingreborn for hosting
+[06:22:58] <Hogofwar> Their support is quite the opposite to 1and1
+[06:23:02] <Hogofwar> they instantly reverted it
+[06:23:10] <Hogofwar> AND gave me the new email it was signed up to
+[06:23:15] <Hogofwar> So I had a hint who did it
+[06:23:19] <wjoe> c0smic: I meant on the redmine site that I set up - it's supposed to send out activation emails when people register on there, but currently sendmail is broken on my server
+[06:23:32] <c0smic> ah, I see
+[06:23:51] <wjoe> it's at http://rad.lc8n.com at the moment, looks pretty useful
+[06:24:13] <member68> hogofwar: seriously? they used to have rather bad service but at least in germany they started a major marketing capaign and changed a lot about their support. it's much better now
+[06:24:44] <Hogofwar> Well I was using the UK version
+[06:24:48] <Hogofwar> So it may be different
+[06:25:04] <Hogofwar> They have a lot of marketing over here
+[06:25:07] <Hogofwar> it annys me
+[06:25:14] <Hogofwar> *annoys
+[06:25:36] <wjoe> I was quite surprised to see an ad for them on TV recently. but then I don't normally watch much TV
+[06:28:49] <Hogofwar> member68, are you hosting the website?
+[06:29:15] <member68> yes
+[06:30:33] <Hogofwar> If you need any help, call me!
+[06:30:40] <Hogofwar> If you don't, don't call me
+[06:31:12] ### Raionic has joined ##reddit-android-developers
+[06:31:14] ### jaimeh2 has joined ##reddit-android-developers
+[06:32:28] <member68> hogofwar. do you know how to work with bootstrap?
+[06:32:52] <Hogofwar> No.
+[06:33:21] <Hogofwar> Twitter bootstrap?
+[06:33:44] <member68> mmh. in that case you could ask danopia if he needs help. he ist the one working on a new website at the moment
+[06:34:19] ### jaimeh has quit the server. (Ping timeout: 272 seconds)
+[06:34:24] <Hogofwar> Okay
+[06:34:35] <Hogofwar> member68, also maybe we should have a wiki type thing
+[06:34:46] <jaimeh2> I can possibly host it or help. I do web development and already host red mine for projects. I use linode.
+[06:37:30] <member68> hogofwar, do you want to get started on a wiki?
+[06:37:45] <member68> it will be hosted on github
+[06:38:19] <wjoe> github has wikis?
+[06:38:32] <wjoe> we can do wikis within redmine also
+[06:39:10] <member68> let me check out the redmine wiki real quick
+[06:39:20] ### Hogofwar has quit the server. (Ping timeout: 246 seconds)
+[06:39:53] <jaimeh2> Github has decent wikis that are got repositories. Besides, hosting it will be safer their.
+[06:40:08] <jaimeh2> Git*
+[06:41:09] <jaimeh2> Redmine wiki is decent, though.
+[06:41:45] <jaimeh2> The more that can be off loaded to github would probably be best.
+[06:45:03] <anyonethinkingab> i agree on that one
+[06:45:30] <wjoe> eh, I prefer not using external services for everything. the wiki stuff on github seems quite hidden away
+[06:45:57] <member68> i like the github wiki. however, for time planing and task organization i'd like to use redmine. it's just more powerful
+[06:48:19] <member68> we'll see how it all works out. i think people will start organizing themselves and share tipps on how to work together
+[06:49:57] <member68> can somebody tell me how i can create a new wiki page on redmine?
+[06:50:36] <jaimeh2> First you have to enable it in project management
+[06:50:57] <jaimeh2> It asks for the name of your first page.
+[06:51:17] <member68> you mean as a module? done
+[06:52:10] <jaimeh2> You can also do ticket management with android and thebredmine app.
+[06:52:22] <jaimeh2> The redmine *
+[06:52:50] <jaimeh2> Been using it for years for my clients.
+[06:53:27] <member68> jaimeh2: that's what my wiki page looks like. where do i create a new page now? http://awesomescreenshot.com/0321wmj06
+[06:53:45] <deliwien> we should start using the wiki by listing stuff that needs to be done in there, so it's easier for people to pick up a task for them in the beginning, and then we would have a place where to gather all information on what is currently going on.
+[06:54:38] <deliwien> member68, try clicking edit on that site, then writing a link there, maybe it creates the page when you click the link after it? that's how it usually works
+[06:54:42] <wjoe> I guess you just make a new page by liking to a non existing page
+[06:54:57] <wjoe> yeah, that seemed to work
+[06:54:58] <jaimeh2> Oh that you mean.
+[06:55:30] <jaimeh2> You have to create links to create new pages. It is the way wiki works on there.
+[06:55:37] <member68> thanks man
+[06:57:45] <member68> wjoe: can you install a github hook: http://mentalized.net/journal/2009/08/03/redmine_plugin_github_hook/
+[07:03:41] <jaimeh2> Understand that depending on the size of these android git projects, you may have a lot of data usage managing local git repositories.
+[07:04:20] <jaimeh2> Just talking about long term though.
+[07:05:26] <wjoe> yeah, that was on my list. just got email activations working on redmine, I'll take a look at the github integration now
+[07:05:54] <member68> how much data does github use? the project itself is only a few MB, but with history tracking it becomes bigger. experiences?
+[07:08:07] <wjoe> eh. as a quick example, one project I've been working on with some people for a few months - the code itself is 300kB, the git files for it at 1.3MB
+[07:08:16] <wjoe> I don't have any large examples though
+[07:08:44] <wjoe> another is 200kB code, 2.1MB git files
+[07:08:51] <wjoe> so I assume it'll grow like that
+[07:09:12] <member68> so worst case scenario: we have 10-20 times the project size.
+[07:10:02] <member68> is space an issue wjoe?
+[07:10:16] <jaimeh2> Yeah, history is not all that a big deal. Although, my worry is on having all these HD resources.
+[07:10:30] <wjoe> not really, I have 1TB space on my server. it's fairly full of junk at the moment, but easy enough to clear
+[07:11:27] <jaimeh2> TB should be no worries.
+[07:11:36] <member68> the biggest app i've ever seen where 50mb app, 1,4 gig in additional downloads.
+[07:11:50] <member68> *was 50mb
+[07:12:24] <member68> but that was A game with very good graphics.
+[07:12:41] <member68> i assume we'll have a project that is smaller than 10MB
+[07:15:15] <jaimeh2> Who do you host with?
+[07:15:38] <member68> the project is hosted on github
+[07:15:58] <member68> redmine is hostet on wjoe's v-server
+[07:16:03] <jaimeh2> For 1TB of space, I was talking about redmine.
+[07:16:39] <wjoe> it's a dedicated server, with OVH
+[07:16:49] <wjoe> http://www.kimsufi.co.uk/ one of those
+[07:17:05] <member68> my spelling is awful today...I've got to focus on typing accurately.
+[07:18:00] ### jwilk has joined ##reddit-android-developers
+[07:18:36] ### rapidfyre has joined ##reddit-android-developers
+[07:19:49] <c0smic> I'm going to sleep guys.  Will be on in several hours again.  Night!
+[07:20:21] ### c0smic has quit the server. (Quit: Leaving.)
+[07:24:01] <jaimeh2> wjoe, that hosting has decent prices if the bandwidth is to be believed. I would be interested how your server holds up.
+[07:25:10] <wjoe> I've been using them for almost 2 years. switched servers a year ago for a minor upgrade, but yeah. it works well
+[07:25:21] <wjoe> the bandwidth is real, I've come close to the limit before
+[07:25:28] <wjoe> not really used the server for any intense public use though
+[07:26:15] <wjoe> but I'm on the cheapest one with a celeron, and it's running web/mail servers, torrents, and even minecraft at the moment
+[07:27:51] <member68> i created a redmine project for organizing the project. feel free to edit the wiki, open up issues about things we have to do and start getting involved
+[07:29:46] <member68> please use http://dev.redditandroiddevelopers.com to get to redmine
+[07:31:50] <jaimeh2> Why a redirect?
+[07:32:14] <member68> my hoster hasn't updated my dns yet. this is a temporary fix
+[07:39:36] <jaimeh2> If anybody needs help, I would like to make this project successful.
+[07:40:14] <jaimeh2> Off to sleep. Be back on later.
+[07:41:47] ### jaimeh2 has quit the server. (Quit: Bye)
+[07:45:25] ### zubsani has joined ##reddit-android-developers
+[07:47:00] <RAWR> *crickets*
+[07:49:47] <alextsc> :)
+[07:50:58] <RAWR> Shhh... you're ruining the silence.
+[07:51:56] <TheNumb> ;p
+[07:52:40] <alextsc> Smiling makes no noises Oo
+[07:52:41] <alextsc> :P
+[07:53:15] <RAWR> Stupid logic...
+[07:54:00] <alextsc> If its true its not stupid ;)
+[07:54:04] <alextsc> anyway, back to idling
+[07:54:58] <member68> alextsc, you could start working on a wiki page ;)
+[07:55:15] <alextsc> member68, hrhr, anything in mind?
+[07:55:23] <alextsc> im kind of lost and waiting for directions in here
+[07:56:05] <member68> do you have experience in java/android? do you know how to set up eclipse and the android developer kit?
+[07:56:18] <alextsc> sure
+[07:56:21] <OsQu> There's excellent guide in androird dev centre btw
+[07:56:26] <OsQu> dunno if it's linked already
+[07:56:45] <member68> make a simple wiki page and start adding links
+[07:57:00] <member68> what you see on the website is all we have right now. time to change that
+[07:57:14] <deliwien> yeah, a tutorial link page would be really useful for beginners
+[07:57:30] <alextsc> alright, lets see if I can find out how to use that wiki
+[07:57:41] <TheNumb> Wiki?
+[07:58:06] <deliwien> are we using the github wiki or the redmine wiki?
+[07:58:10] <member68> redmine
+[07:58:18] <alextsc> http://rad.lc8n.com/projects/general-organization/wiki
+[07:58:33] <deliwien> yeah it's giving a 404
+[07:59:02] <alextsc> me too
+[07:59:07] <alextsc> so not sure where to start :>
+[07:59:18] <RAWR> And one hell of a beautiful 404 it is!
+[07:59:29] <deliwien> :D
+[08:00:37] <member68> works for me. try http//dev.redditandroiddevelopers.com and click on projects in the top bar
+[08:00:58] <member68> http://dev.redditandroiddevelopers.com
+[08:01:33] <deliwien> nope, doesn't work
+[08:01:43] ### zubsani has quit the server. (Quit: zubsani)
+[08:01:47] <deliwien> the other pages are working but not that one
+[08:01:49] <alextsc> that's where i am, when I go to "wiki" i get that 404
+[08:02:23] <TheNumb> I'm logged in and can't see wiki <:
+[08:02:45] <member68> try again. i created a sample file
+[08:02:54] <alextsc> 404 gone, thanks
+[08:02:58] <alextsc> TheNumb, http://rad.lc8n.com/projects/general-organization/wiki
+[08:03:00] <deliwien> :)
+[08:03:12] <wjoe> member68: got the github integration set up for the demo project
+[08:03:16] <TheNumb> alextsc: well, it's empty
+[08:03:39] <alextsc> yeah, were just starting (thought you couldnt find the link)
+[08:03:42] <member68> wjoe, great job. i'll test it in a few minutes
+[08:04:03] <RAWR> Dude you broke the 404 page D:
+[08:04:21] <TheNumb> oh noes
+[08:04:33] <wjoe> I think you'll need to set something up at github's end to make it update automatically
+[08:04:44] <deliwien> now theres an empty page but can't see the edit link to edit the wiki
+[08:05:07] <TheNumb> deliwien: I guess you're not allowed to edit the wiki.
+[08:05:34] <deliwien> guess not :(
+[08:06:24] <wjoe> hm, yeah. looks like only admins can currently. well, we probably don't want any person that registers to be able to edit it, but it would be good if we had an 'authorised users' group or similar
+[08:06:34] ### Sanit has joined ##reddit-android-developers
+[08:06:47] <Sanit> Hey
+[08:07:00] <deliwien> hi
+[08:07:08] <alextsc> hey
+[08:07:12] <member68> who wants to edit the wiki? send me your username and i'll create a group
+[08:07:26] <alextsc> alextsc is my username
+[08:07:29] <alextsc> =)
+[08:07:36] <deliwien> member68, me, deliwien
+[08:07:53] <wjoe> is registration and activation emails working ok now? saw a few go through
+[08:07:56] ### HoboRaptor has quit the server. (Ping timeout: 245 seconds)
+[08:08:26] <deliwien> wjoe, i got them, registered about half an hour ago
+[08:08:33] <alextsc> same
+[08:09:00] <member68> alextsc, deliwien: try again to edit the wiki
+[08:09:07] <Sanit> Any newbie developers out there want to get started on a simple reddit based app? I have had an idea knocking around in my head for a while and it should be a good learning experiece
+[08:09:26] <alextsc> member68, nothing changed for me, still no edit link
+[08:09:27] <wjoe> kk, cool
+[08:09:33] <deliwien> member68, doesn't work
+[08:09:33] ### damniatx has joined ##reddit-android-developers
+[08:09:51] ### damniatx has parted (left) the channel.
+[08:10:25] <TheNumb> Sanit: cool
+[08:10:27] <alextsc> Sanit, have you entered it into the form? https://docs.google.com/spreadsheet/viewform?formkey=dG8yMzUtcVhyWXVIS19nZ3NKYmVXNkE6MQ#gid=0
+[08:10:30] <jwilk> Sanit: sure
+[08:10:56] <Sanit> Yep, I entered it. Is that public? Can we view the ideas?
+[08:11:01] <member68> my mistake, next try ;)
+[08:11:30] <deliwien> the edit link is there now :)
+[08:11:50] <alextsc> oh yeah now it's working
+[08:12:33] ### jwilk is now known as lyrch
+[08:12:40] <member68> great. the permission system is much more sophisticated than I thought. I had to assign you guys a certain role in this particular project, not just add you to a developers group which i had done before
+[08:16:37] ### Raion has joined ##reddit-android-developers
+[08:22:14] <anyonethinkingab> has anyone read that app proposal i posted about 10 hours ago?
+[08:22:31] <anyonethinkingab> http://www.reddit.com/r/RedditAndroidDev/comments/r4d11/app_ideagame_t15/
+[08:30:57] ### Sanit has quit the server. (Ping timeout: 245 seconds)
+[08:30:57] ### atmandk has quit the server. (Ping timeout: 240 seconds)
+[08:30:57] ### malik has quit the server. (Ping timeout: 245 seconds)
+[08:30:57] ### atmandk has joined ##reddit-android-developers
+[08:30:57] ### anyonethinkingab has quit the server. (Ping timeout: 245 seconds)
+[08:31:16] ### RAWR has quit the server. (Ping timeout: 245 seconds)
+[08:31:16] ### patzab has quit the server. (Ping timeout: 245 seconds)
+[08:31:40] ### matt-ice has joined ##reddit-android-developers
+[08:33:17] ### anyonethinkingab has joined ##reddit-android-developers
+[08:41:06] <anyonethinkingab> http://instantrimshot.com/index.php?sound=crickets
+[08:42:00] ### anyonethinkingab has quit the server. (Quit: Page closed)
+[08:42:41] ### anyonethinkingab has joined ##reddit-android-developers
+[08:43:33] ### anyonethinkingab has quit the server. (Client Quit)
+[08:44:11] ### anyonethinkingab has joined ##reddit-android-developers
+[08:44:19] <member68> anybody here who wants to start working on our wiki?
+[08:46:00] ### RAWR has joined ##reddit-android-developers
+[08:46:05] <anyonethinkingab> what does it need exactly?
+[08:46:43] <member68> we don't have much. pretty much any content that helps others is appreciated
+[08:47:12] <anyonethinkingab> hmm, I don
+[08:47:24] ### Sanit has joined ##reddit-android-developers
+[08:47:30] <anyonethinkingab> 't know much more about android than most people here
+[08:48:11] <member68> how about finding some links that we could post in the getting started section?
+[08:48:15] ### pieces029 has joined ##reddit-android-developers
+[08:48:33] <pieces029> hey hey
+[08:49:26] <member68> hey pieces029
+[08:51:43] <Raion> Hey member68 I can work on the wiki if you don't mind me putting it off until after work
+[08:51:50] <member68> anyonethinkingab: btw, i like your idea. seems a little bit more complicated than other ideas though.
+[08:51:56] <member68> sure thing Raion.
+[08:52:05] <member68> are you registered on redmine?
+[08:52:13] <Raion> Could you message raionic with instructions?
+[08:52:16] <Raion> I am
+[08:53:07] <member68> instructions for what exactly?
+[08:53:10] <anyonethinkingab> member68 yeah i think we will need a really good project manager in order to pull it off
+[08:53:28] <Raion> Well where to find the wiki
+[08:53:43] <Raion> Is it just the wiki on that demo project?
+[08:53:52] <Raion> Or is there a different one
+[08:54:02] <member68> http://rad.lc8n.com/projects/general-organization/wiki
+[08:54:09] <pieces029> Hey how do I join the github group?
+[08:54:11] <Raion> Gotcha thanks
+[08:54:32] <member68> is your username pieces029 on github as well?
+[08:54:50] <pieces029> yup
+[08:55:24] <member68> i added you
+[08:55:31] <pieces029> ok ty
+[08:55:39] <pieces029> so what are some of the latest ideas?
+[08:56:15] <anyonethinkingab> check http://www.reddit.com/r/RedditAndroidDev/new
+[08:56:25] <lyrch> member68: can you add me to the github as well
+[08:56:26] <alextsc> member68, I didn't add my github on the registration form, can you add me too please? alextsc as well there :)
+[08:56:30] <lyrch> same user name
+[08:57:28] <member68> ADDED ALL THE PEOPLE!
+[08:57:55] <lyrch> thanks
+[08:58:00] <anyonethinkingab> I don't always go on github...
+[08:59:14] ### patzab has joined ##reddit-android-developers
+[08:59:15] <member68> WRONG, you do now ;)
+[08:59:57] <member68> Brace yourself, the meme confusion is coming.
+[09:00:07] <alextsc> thanks :D
+[09:01:10] <deliwien> :D
+[09:01:36] <anyonethinkingab> I'f you don't know memes on reddit
+[09:01:42] <anyonethinkingab> you're gonna have a bad time
+[09:02:22] <matt-ice> hm, I guess I should make a github account now...
+[09:03:07] <member68> it's like andrewsmith1986 and his "love" for cats
+[09:04:13] <Raion> Matt-ice, are you a falcons fan I suppose?
+[09:07:17] <anyonethinkingab> not sure if actual falcons or there is a sports team...
+[09:09:03] <Raion> Lol sports, atlanta falcons more specifically
+[09:09:39] <anyonethinkingab> oh
+[09:09:50] <anyonethinkingab> NFL?
+[09:09:53] <Sanit> So if I want to get started on a project with a few developers, what do I need to do?
+[09:09:55] <Raion> Yea
+[09:10:20] <matt-ice> Raion: no idea what youre talking about...
+[09:10:30] <anyonethinkingab> sanit you need an idea, post it, and make sure you hook up with some people or it gets chosen as the project we will work on
+[09:10:53] <Raion> Ah never mind, google matty ice if you're interested in what I meant
+[09:10:58] <Sanit> Will do. I'll start there I suppose
+[09:12:23] <matt-ice> Raion: falcons as football? because that would be no... Im gonna talk to my best friend google now
+[09:12:38] <member68> we'll have a couple of projects to choose from at the start. projects will have limited spots so it doesn't get too crowded.
+[09:13:20] <alextsc> alright, I wrote a install guide for the SDK (way bigger than originally intended ;) ), feel free to check that and see if you got any additions or spot any mistakes: http://rad.lc8n.com/projects/general-organization/wiki/Basic_Android_SDK_Setup_Guide
+[09:13:51] <alextsc> I also set some reasonable minimum requirements, see if that's ok or if we need more
+[09:14:53] <member68> looks great. is there a special reason for the attached image?
+[09:15:07] <alextsc> no :D
+[09:15:15] <alextsc> havent figured out how to kill it
+[09:15:24] <alextsc> hosted all the images on imgur for now
+[09:16:09] <member68> deleted the attachment. you're probably missing some permissions to delete stuff
+[09:16:22] <alextsc> ok, thanks :)
+[09:17:33] <alextsc> is the min. installation ok (android 2.2., android 4.0.3, basic tools, Support package, git plugin) or do we need more?
+[09:18:53] <member68> looks very good so far.
+[09:19:31] <member68> wel'll need a git tutorial as well. we can just link to good one though.
+[09:19:42] <matt-ice> I would have one question though.... what android version will RADT code for?
+[09:19:45] <deliwien> alextsc, i moved the link to your guide from the front page to the "Getting started" page. :)
+[09:19:52] <alextsc> alright :)
+[09:20:00] <TheNumb> matt-ice: 2.3+ I'd say
+[09:20:05] <Sanit> http://www.reddit.com/r/RedditAndroidDev/comments/r50z9/app_idea_simple_reddit_client_for_newbie/
+[09:20:08] <Sanit> thats my idea
+[09:20:10] <Sanit> any interest?
+[09:20:30] <TheNumb> Sanit: for a start we need something easier.
+[09:20:35] <alextsc> 2.3. seems a bit high, 2.2. was yesterday the idea, I'd say thats more reasonable
+[09:20:44] <TheNumb> alextsc: sure, why not? ;-)
+[09:20:46] <matt-ice> TheNumb: so we start with 2.3.3. Will there be a problem for 4.0 devices?
+[09:21:10] <TheNumb> matt-ice: nope.
+[09:21:14] <TheNumb> Like... an app that allows you to submit ideas and vote for them.
+[09:21:14] <deliwien> 2.2 would be nicer, much more devices can use it. (and i've got a phone with 2.2 :D)
+[09:21:17] <TheNumb> Sanit: ^
+[09:21:18] <matt-ice> many apps need to be redone for 4.0 so thats why I asked
+[09:21:22] <member68> we start with 2.2. that way we cover 92% of all devices
+[09:21:28] <alextsc> 25% of all users are still 2.2.
+[09:21:28] <alextsc> yes
+[09:21:32] <veeti> i think it's established that 4.0 is the build target
+[09:21:35] <TheNumb> matt-ice: they need to be redone in order to use holo theme.
+[09:21:36] <veeti> 2.2 is the minimum supported version
+[09:21:48] <alextsc> yeah, that was my impression too
+[09:21:53] <member68> we'll keep the guidelines in mind and design them in a way that we don't need to change much for 4.x
+[09:22:16] <alextsc> the api differences between 2.2 and 2.3 are not that big anyway
+[09:22:16] <matt-ice> TheNumb: and they fail even at that? I had to uninstall a few apps because they kept crashing on 4.0.3
+[09:22:16] ### Fizile has joined ##reddit-android-developers
+[09:22:48] <TheNumb> matt-ice: well, there are also some changes in the android core.
+[09:23:11] <matt-ice> TheNumb: so I guess I was right to ask :)
+[09:23:18] <Raion> I was reading up on git yesterday I think I can come up with a good cheat sheet for that and quick setup
+[09:23:22] <Sanit> how easy do you want to go? Tip calculator? My idea only has about 4 or 5 activities and working with an API would be good for learning
+[09:24:17] <deliwien> i'm gonna write a post to the subreddit about the issue tracker and the wiki
+[09:24:52] <anyonethinkingab> DAE think every project (and definately the first ones) should have a report, so that future project managers know how to start
+[09:24:56] <member68> entry level would be a google task application, a sms app or that idea with dividing a bill among friends
+[09:25:45] <member68> we'll have experienced developers on every team, so it shouldn't be a problem
+[09:26:54] <member68> however, for those who have never worked on an android app before, we'll include simple projects like a calculator. those could be done by one person. of course, other devs could assist at any time
+[09:27:53] ### zubsani has joined ##reddit-android-developers
+[09:28:41] <matt-ice> anyonethinkingab: I think its a great idea. being a developer and being a project manager can be two very different things
+[09:29:28] <Raion> Could one of us check in a simple calculator app so that people who are learning can build on it (in their own env)? Learning by practice is always easier. And it really wouldn't take much more than a couple of minutes to get that done
+[09:29:46] <deliwien> member68, i'm gonna tell people that if they want to edit the wiki, they should come to irc and ask for the permissions? or what should i say to them?

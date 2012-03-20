@@ -135,3 +135,278 @@
 [21:16:20] <Raionic> I just realized one of the names is Baconware ........ that is awesome.
 [21:17:54] ### mangoman2 has joined ##reddit-android-developers
 [21:18:09] <joholz> is the hangout still going on?
+[21:18:21] <anjoyed> anyonethinkingab, cant see t - link?
+[21:18:26] <anjoyed> *it
+[21:19:29] <anyonethinkingab> http://www.reddit.com/r/RedditAndroidDev/comments/r4d11/app_ideagame_t15/
+[21:21:31] <anjoyed> "(so that it is tricky to control what block goes where)"
+[21:21:40] <anjoyed> that sounds like it could get annoying
+[21:22:13] <anjoyed> the tilt sensors are really easy to set up though
+[21:23:32] <anjoyed> sounds like it could be a fun project
+[21:24:04] <anyonethinkingab> please leave any comments in the comment section, I'm gonna go to bed (2 20 AM here)
+[21:24:25] <anjoyed> nn
+[21:24:25] <anyonethinkingab> did you use the pdf file?
+[21:24:59] <anjoyed> no, didn't see it
+[21:25:33] <anjoyed> got it now
+[21:26:42] ### joholz has quit the server. (Ping timeout: 245 seconds)
+[21:28:15] <anyonethinkingab> ok i'm gonna go see you tomorrow
+[21:28:31] <anjoyed> nn
+[21:28:41] ### anyonethinkingab has quit the server. (Quit: Page closed)
+[21:35:19] ### c0smic has joined ##reddit-android-developers
+[21:59:21] ### RadLogii has joined ##reddit-android-developers
+[21:59:28] <joholz> woot
+[21:59:28] <Raionic> Yeah but no email gets sent
+[21:59:38] <red_sky> hey, look at that
+[21:59:42] <red_sky> it automatically logged back in
+[21:59:46] <red_sky> nothing needed on my part
+[22:00:01] ### markerz has quit the server. (Ping timeout: 245 seconds)
+[22:00:13] <joholz> happened right after somone quit
+[22:00:20] <joholz> coincidence?
+[22:00:23] <red_sky> that's just a coincidence
+[22:00:35] <red_sky> I can guarantee that my server was completely unreachable
+[22:00:39] ### kiel3 has joined ##reddit-android-developers
+[22:00:43] <red_sky> both from DNS and from IP
+[22:00:46] <red_sky> domain name*
+[22:01:15] ### Raionic has quit the server. ()
+[22:01:32] ### kiel3 has quit the server. (Client Quit)
+[22:01:35] <red_sky> we'll see if my domain is working yet
+[22:02:33] <red_sky> okay, last thing to get logged was c0smic logging in
+[22:02:55] <red_sky> and now everything since  RadLogii has joined ##reddit-android-developers
+[22:05:14] ### blaise_ has joined ##reddit-android-developers
+[22:07:11] <anjoyed> neat. i guess since the bot didn't crash it just kept trying to reconnect
+[22:07:46] ### blaise_ has quit the server. (Client Quit)
+[22:07:53] <red_sky> yeah
+[22:08:11] <red_sky> looks like Hogofwar did a good job there
+[22:08:18] <red_sky> it only took him about an hour, too, not bad
+[22:08:27] <anjoyed> aye, fair play to him
+[22:09:23] ### mwrosen has joined ##reddit-android-developers
+[22:09:34] <mwrosen> hey
+[22:09:37] <red_sky> hey
+[22:09:50] <mwrosen> anything important happen since last night?
+[22:10:28] <red_sky> well, Hogofwar made an IRC bot that just logs things
+[22:10:29] <c0smic> mwrosen: Well, we have a website, Google+ circle, 475+ readers, etc.
+[22:10:42] <red_sky> and I set it up on my VPS so it automatically puts it on the github
+[22:10:49] <red_sky> we got permission from reddit to use reddit and the logo
+[22:10:54] <c0smic> And as red_sky said, and sweet IRC logging bot.
+[22:10:57] <joholz> http://www.reddit.com/r/RedditAndroidDev/comments/r45pt/reddit_have_approved_of_us_using_the_name_reddit/
+[22:11:05] <red_sky> we have a Google+ circle, almost 500 subscribers
+[22:11:15] <red_sky> and a new logo idea is pretty much golden
+[22:11:21] <joholz> we got some more polls in the sidebar you should take a look at
+[22:11:24] <red_sky> not really anything on the development front
+[22:11:25] <mwrosen> does the irc bot actually post to github?
+[22:11:41] ### Homermon has quit the server. (Ping timeout: 245 seconds)
+[22:11:53] <anjoyed> oh ffs
+[22:11:54] <joholz> yea, in increments
+[22:12:01] <anjoyed> g+ profile suspended
+[22:12:04] <red_sky> it stores logs locally
+[22:12:09] ### ballpointcarrot has quit the server. (Quit: Quit.)
+[22:12:25] <red_sky> I made a bash script that takes all the new and modified logs and commits them and pushes them
+[22:12:39] <red_sky> and that bash script is run via cron 2 times a day at 7am and 7pm EST
+[22:12:48] <mwrosen> ah ok
+[22:12:50] <joholz> red_sky: oh, so your pushing to git
+[22:12:54] <red_sky> yeah
+[22:13:12] ### mangoman2 has quit the server. (Quit: Page closed)
+[22:13:23] <red_sky> https://github.com/RedditAndroidDev/IRC_Logs
+[22:13:57] <joholz> think enough ppl know how to use git?
+[22:14:10] <joholz> its pretty important for team coop
+[22:14:35] <mwrosen> I belive ProGit is free
+[22:14:40] <mwrosen> maybe that should be a sidebar link
+[22:14:48] <joholz> yea thats what i was thinking
+[22:14:54] <mwrosen> http://progit.org/book/
+[22:15:01] <joholz> I passed over a cool link in /r/webdev: http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/
+[22:16:50] ### blaise_ has joined ##reddit-android-developers
+[22:16:54] <mwrosen> so I didn't actually see a suggestion for a couple of the apps we talked about last night... life tracker, reddit app built from the ground up, etc.
+[22:17:06] <red_sky> I suggested the reddit app
+[22:17:09] <mwrosen> and i believe most of the suggestions right now are shitty games :P
+[22:17:17] <red_sky> I figured vCarl would've put his down
+[22:17:20] <joholz> i sugested a home launcher
+[22:17:28] <mwrosen> oh, he did, my mistake
+[22:17:42] <red_sky> I'm not doing a game, period
+[22:18:04] <joholz> what if we gave you bajillions of moneyz?
+[22:18:24] <red_sky> Then sure
+[22:18:37] <mwrosen> i don't see your suggestion for a new reddit app, red_sky
+[22:18:43] <red_sky> but there are too many places for it to not go anywhere and too many places for people to step on each other's toes
+[22:18:49] <red_sky> it should be the second from the top, mwrosen
+[22:18:51] <red_sky> or something like that
+[22:18:55] <anjoyed> was thinking of posting some basic tuts on g+
+[22:19:01] <anjoyed> is it worth the hassle?
+[22:19:20] <anjoyed> 'Your profile will be reviewed again and re-enabled if it complies with the Google+ Names Policy. Reviews are usually completed within a few days.'
+[22:19:26] <joholz> there area  ton of tuts out there already i would say
+[22:19:48] <red_sky> ah, mwrosen, my reddit idea is submitted to the Idea Suggestions form
+[22:19:56] <red_sky> I'm not sure how we can see what people have posted on there
+[22:19:59] <joholz> yea, check sidebar
+[22:20:01] <red_sky> unless someone has the link handy
+[22:20:01] ### freetacos has quit the server. (Ping timeout: 245 seconds)
+[22:20:28] <mwrosen> yeah I only see a link to suggest things
+[22:20:33] <red_sky> https://docs.google.com/spreadsheet/ccc?key=0AiVy8gDnGR-FdG8yMzUtcVhyWXVIS19nZ3NKYmVXNkE#gid=0
+[22:20:50] <anjoyed> meh, just gonna delete it
+[22:21:09] <red_sky> They don't like your last name?
+[22:21:42] <anjoyed> no, dont like it. Said to change it by 23rd or it would be suspended
+[22:21:50] <red_sky> haha
+[22:21:50] <anjoyed> guess they jumped the gun on that
+[22:21:54] <red_sky> yeah
+[22:22:02] <joholz> apps on list seem a lil lightweight
+[22:22:36] <joholz> i do like some of the ideas though
+[22:22:40] <mwrosen> ugh this google doc is ugly
+[22:22:47] ### blaise| has joined ##reddit-android-developers
+[22:23:30] <jaymax> I really want a tamagotchi clone...
+[22:23:40] <mwrosen> insanely customizable calculator? what the fuck??
+[22:23:47] <jaymax> I personally would really like to see that take off
+[22:23:57] <adamell> It's called wolfram alpha
+[22:24:01] <jaymax> yeah, the calculator seems a bit... useless...
+[22:24:06] ### blaise_ has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[22:25:17] ### homermonmoblie has joined ##reddit-android-developers
+[22:25:41] ### blaise| has quit the server. (Client Quit)
+[22:25:56] ### blaise| has joined ##reddit-android-developers
+[22:26:06] <homermonmoblie> Howdy y'all
+[22:26:20] <mwrosen> hi
+[22:26:24] <red_sky> hey
+[22:27:06] <mwrosen> well my spring break has officially started so I'm excited to get working on something. Is there going to be an official announcement of the first app?
+[22:27:20] <ThatPlayer> ya for spring break =P
+[22:27:26] <mwrosen> also what's with https://github.com/RedditAndroidDev/AlphaProject
+[22:27:32] <homermonmoblie> Mmm....delicious.
+[22:27:46] <joholz> my spring break just ended
+[22:28:08] <homermonmoblie> What exactly is github?
+[22:28:18] <joholz> http://net.tutsplus.com/tutorials/other/easy-version-control-with-git/
+[22:28:25] <joholz> all those questions and more!
+[22:29:16] <adamell> ^ this
+[22:29:36] <c0smic> mwrosen: There is going to be an anouncement tomorrow on what apps and teams will be established.
+[22:29:47] <homermonmoblie> I signed up after I registered on reddit, so now I'm not sure how to join the github group.
+[22:29:47] <mwrosen> ok
+[22:29:58] <mwrosen> thanks
+[22:29:59] <homermonmoblie> Nice
+[22:30:01] <c0smic> homermonmoblie: Have you filled out the form?
+[22:30:27] <homermonmoblie> Yeah I already did that
+[22:30:41] <homermonmoblie> I've been added on g+ etc.
+[22:30:45] <c0smic> mwrosen: np, and the AlphaProject was just something we set up initially.  Nothing has been done to it.
+[22:31:00] <c0smic> homermonmoblie: I'll see about adding you to the GitHub group
+[22:31:35] <mwrosen> yeah haha. I'm also not part of the github/goole docs group and I filled out the form last night
+[22:31:53] <homermonmoblie> Great! Thanks. The username should be able "Homermon"
+[22:31:58] <c0smic> Dod both of you guys include the GitHub username I'm assuming?
+[22:32:17] ### pr0grammer has joined ##reddit-android-developers
+[22:32:19] <c0smic> *Did
+[22:32:37] <mwrosen> don't think so, i'll submit another form
+[22:33:08] <c0smic> Sounds good.
+[22:33:18] <mwrosen> ok done
+[22:33:28] <homermonmoblie> Just got the email. Thanks!
+[22:33:45] <ThatPlayer> I actually still have to make a github account...
+[22:33:54] <c0smic> mwrosen: Added you.
+[22:35:50] <mwrosen> thanks
+[22:36:10] <c0smic> yep!
+[22:36:16] ### Phorcys is now known as Sparksalot
+[22:36:28] ### Sparksalot is now known as Sparkington
+[22:36:55] ### Sparkington is now known as Phorcys
+[22:37:00] <homermonmoblie> As for the logo and name, should we still include reddit? Especially if we decide to charge for apps later on.
+[22:37:41] <c0smic> homermonmoblie: http://www.reddit.com/r/RedditAndroidDev/comments/r45pt/reddit_have_approved_of_us_using_the_name_reddit/
+[22:37:55] <homermonmoblie> No I know
+[22:38:00] ### elBarto_ has quit the server. (Quit: Page closed)
+[22:38:07] <homermonmoblie> But in terms of profit for des
+[22:38:15] <homermonmoblie> Devs*
+[22:38:18] <c0smic> Well we'd only charge if there would be server costs
+[22:38:32] <c0smic> and the rest of the profits would be donated to charity
+[22:38:46] <c0smic> That way we don't have to deal with slptting it up between many devs
+[22:38:50] <homermonmoblie> Hmm alright. Sounds good.
+[22:41:08] <mwrosen> isn't donating all profits to charity a little altruistic for a bunch of programmer neckbeards?
+[22:42:04] <mwrosen> i mean, it couldn't be /that/ hard for everyone to transparently see how much profit we're making
+[22:42:33] <mwrosen> of course, I was under the impression that these apps would be free, but if we're planning on charging for the good ones, why not keep the $$
+[22:42:47] <red_sky> keeping the money is iffy
+[22:42:51] <adamell> Proceeds will go to ensure Kony gets elected next term
+[22:42:52] <red_sky> 30% goes to google
+[22:43:03] <red_sky> 25% goes to reddit if we use any of their stuff
+[22:43:07] <c0smic> we'd only charge if the app requires a server
+[22:43:15] <red_sky> so there's 55% divided among lots of people
+[22:43:18] <homermonmoblie> My little Kony.
+[22:43:29] <joholz> making it paid will def have more hassles
+[22:44:04] <joholz> is there a g+ group that RAD has and i should be subbed to?
+[22:44:09] <mwrosen> we don't have to use the reddit logo or name, so then we distriute 70% of the profit among the devs
+[22:44:15] <mwrosen> dunno
+[22:44:20] <mwrosen> I actually don't care
+[22:44:22] <mwrosen> lol
+[22:44:24] <homermonmoblie> I am heading off for now. Talk to you gents later.
+[22:44:29] <mwrosen> bye
+[22:44:29] <joholz> laters
+[22:44:38] <red_sky> bye
+[22:44:42] ### homermonmoblie has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[22:44:42] <c0smic> joholz: Yes there is, are you not in the RAD circle?
+[22:44:50] <joholz> no, i dont think so
+[22:44:54] <mwrosen> c0smic: i'm not in it either
+[22:44:58] <mwrosen> mitchellwrosen@gmail
+[22:45:08] <joholz> i am not very popular among folk
+[22:45:27] <c0smic> mwrosen: I believe I added you not too long ago
+[22:45:44] <mwrosen> to github ya
+[22:45:53] <adamell> Google+ is like my uncle, perpetually drunk, alone, and alway hitting me when I talk too much.
+[22:45:54] <c0smic> joholz: Can you PM your email or just post your url?
+[22:45:58] <joholz> https://plus.google.com/116096116669335988657/posts?hl=en
+[22:46:42] <c0smic> joholz: For me it says that you are in the Reddit Android Dev circle, I'll re-share it on my profile in a minute so everyone can add it
+[22:47:10] <joholz> ok, thx
+[22:47:42] <anjoyed> will g+ be used much?
+[22:47:58] <adamell> No. It's Google Wave all over again.
+[22:48:11] <adamell> Really fucking cool, but not widely adopted.
+[22:48:13] <c0smic> anjoyed: I can see it being useful for staying in touch, and the Hnagout feature might be used eventually.
+[22:48:29] <c0smic> Anyway, here is the RAD circle you guys should add: https://plus.google.com/110967715209297777321/posts/5AjqTpCvomM
+[22:49:39] ### nataly87s has joined ##reddit-android-developers
+[22:50:37] <mwrosen> ok thanks
+[22:52:08] ### jaimeh1 has joined ##reddit-android-developers
+[22:53:18] ### jaimeh has joined ##reddit-android-developers
+[22:53:56] <jaimeh> Hey, all. Just noticed the post. Current activity?
+[22:54:06] ### jaimeh1 has quit the server. (Client Quit)
+[22:54:29] ### Oink has joined ##reddit-android-developers
+[22:54:30] <joholz> @c0smic: thanks, im in the circle and feeling popular
+[22:54:37] ### pr0grammer is now known as D-Lon
+[22:54:42] ### nataly87s has quit the server. (Quit: Page closed)
+[22:54:46] <c0smic> joholz: Anytime! haha
+[22:54:49] ### Oink is now known as nataly87s
+[22:55:24] <joholz> jaimeh: what post you see?
+[22:57:36] <joholz> should the [app idea] posts come down?
+[22:57:41] <joholz> since we have a poll now?
+[22:57:59] <c0smic> I think we'll leave it up for reference
+[23:02:35] ### jaimeh has quit the server. (Ping timeout: 246 seconds)
+[23:03:35] <blaise|> Where is the poll?
+[23:03:52] ### jaimeh has joined ##reddit-android-developers
+[23:06:59] <joholz> sidebar
+[23:08:36] <blaise|> The only poll I see in the sidebar is for the name.
+[23:09:02] <blaise|> If I click on app ideas it just takes me to the form to submit an idea.
+[23:10:33] ### vcarl has joined ##reddit-android-developers
+[23:11:44] <joholz> yea, thats what the poll is
+[23:11:52] <joholz> some results: https://docs.google.com/spreadsheet/ccc?key=0AiVy8gDnGR-FdG8yMzUtcVhyWXVIS19nZ3NKYmVXNkE#gid=0
+[23:12:01] <joholz> from app idea poll
+[23:15:48] <anjoyed> some good ideas in there
+[23:16:48] ### tuna83 has joined ##reddit-android-developers
+[23:16:57] <nataly87s> tamagochi!
+[23:16:59] ### Phorcys has quit the server. (Quit: Client Disconnect)
+[23:17:50] <jaymax> nataly87s: That's my vote too
+[23:18:03] <adamell> Konygochi!
+[23:18:27] <nataly87s> i miss my old tamagochi :\
+[23:18:47] <adamell> You steel everybody else's konys and teach them to kill with machetes
+[23:18:54] <adamell> It'll make millions
+[23:19:32] <danopia> does anyone have a translation file laying around from android? (just wondering)
+[23:20:40] <anjoyed> tamagotchi would be good. the two way remote would be handy too
+[23:21:32] <nataly87s> i already have a good remote app, but no tamagochi
+[23:21:41] ### sam_ has joined ##reddit-android-developers
+[23:21:44] <nataly87s> gmote - if you were wondering
+[23:24:25] <blaise|> OK. So at some point will all the ideas be voted on?
+[23:24:51] <sam_> not sure, prob soon though
+[23:25:18] <blaise|> Or are we just going to pursue them all
+[23:25:37] <blaise|> And each team member will decide what to work on?
+[23:26:11] <c0smic> blaise|: we're going to be choosing tomorrow, and that's when we'll set the teams up as well
+[23:26:29] <tuna83> Is there somewhere to donate code snippets, packages, or small projects that others can use as examples?
+[23:27:18] <blaise|> C0smic: how is the decision on what apps and who will be working on them be made?
+[23:27:32] <blaise|> Going to
+[23:27:41] <jaymax> tuna83: you could push them to the git repo
+[23:27:54] <tuna83> ok
+[23:28:14] <c0smic> blaise|: We're going to be looking at what are most popular and what would be the best for what team's we'll get together
+[23:28:33] <c0smic> Team size will also depend on the project, but they'll generally be small
+[23:28:48] <jaimeh> I am in for development
+[23:29:38] <vcarl> i feel like it should really just be decided by who wants to do things
+[23:30:06] <vcarl> obviously with maximum sizes, we can't have 50 people make a tamagachi app very well
+[23:30:43] <malik> I can't submit to the doc file...?
+[23:30:51] <c0smic> Yes, we'll have another form set up so that people can input their skills, strengths and weakness, and they will sign up for what project they want to work on.
+[23:33:08] ### jaimeh has quit the server. (Read error: Connection reset by peer)
+[23:33:25] <blaise|> So, how is the decision going to be made as to what ideas are most popular?
+[23:33:38] <blaise|> Right now it is just a list of ideas?
+[23:33:38] ### jaimeh has joined ##reddit-android-developers
+[23:35:01] ### sam_ has quit the server. (Quit: Page closed)
+[23:36:31] ### blaise| has quit the server. (Quit: Bye)
+[23:38:50] ### anjoyed has quit the server. (Read error: Operation timed out)
+[23:49:15] ### jaymax has quit the server. (Quit: Leaving)
+[23:49:45] ### artico has joined ##reddit-android-developers
+[23:59:11] ### tuna83 has quit the server. (Ping timeout: 245 seconds)
