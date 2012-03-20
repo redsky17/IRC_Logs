@@ -2470,3 +2470,55 @@
 [17:39:47] <blaise__> Also posts stuff he's working on, but not completed.
 [17:39:55] <Hogofwar> veeti, also this one
 [17:39:56] <Hogofwar> https://docs.google.com/spreadsheet/ccc?key=0AiVy8gDnGR-FdG8yMzUtcVhyWXVIS19nZ3NKYmVXNkE#gid=0
+[17:40:13] <blaise__> I haven't really taken a hard look at his stuff…he had a specific tutorial I watched and that's how I found him.
+[17:40:13] <veeti> i thought that was one of the places that the spreadsheet was filled from
+[17:40:30] <Ramuh> i just googled android tutorial
+[17:40:34] <Ramuh> and found it
+[17:40:35] <Ramuh> :D
+[17:40:42] <garychencool> I would bookmark this https://groups.google.com/forum/#!topic/redditandroiddevelopers/8egOx2miS3M
+[17:41:09] <member68> we've had about 50 people vote on a twitter name
+[17:41:14] <member68> should we end the voting?
+[17:41:25] <deliwien> veeti, yeah, i filled in the information from that spreadsheet to the another one
+[17:41:31] <veeti> member68: i think that's enough
+[17:41:36] <garychencool> it has a ton of info and links
+[17:41:40] ### garychencool has quit the server. (Quit: Page closed)
+[17:41:54] ### alextsc has quit the server. (Quit: Quit)
+[17:42:02] <Ramuh> ok now
+[17:42:19] <Hogofwar> veeti, I have no idea
+[17:42:22] <Ramuh> what fast thing could i do
+[17:42:33] <Ramuh> to try everything
+[17:42:37] <member68> alright, voting is over. the results are in
+[17:43:02] <member68> 3rd place, with 7 votes: TeamRAD
+[17:43:07] ### margosmark has joined ##reddit-android-developers
+[17:43:19] <member68> 2nd place, with 10 votes: RADTeam
+[17:43:32] <member68> and the winner is, with 11 votes: RADT
+[17:44:01] <Hogofwar> member68, time to register twitter?
+[17:44:03] <veeti> and all the winning names are already in use
+[17:44:04] <Grillon> interesting, lol
+[17:44:12] <Hogofwar> veeti, haha
+[17:44:13] <deliwien> :D
+[17:44:21] <Ramuh> scumbag steve will now steal the account from you
+[17:44:38] ### Dillon[ca] has joined ##reddit-android-developers
+[17:44:53] <member68> seriously? lol
+[17:44:54] <deliwien> well that was a useful poll. :D
+[17:45:04] <red_sky> well
+[17:45:12] <member68> how about https://twitter.com/#!/RedditAndroDevs
+[17:45:23] <red_sky> do we want a codename?
+[17:45:28] <Ramuh> Andro sounds dumb
+[17:45:31] <Ramuh> and too long
+[17:45:37] <jaimeh> So much for a vote
+[17:45:38] <Ramuh> characters are valuable
+[17:45:46] <sam_> Andro is sort of dumb
+[17:46:02] <deliwien> yeah i don't like the andro bit either.
+[17:46:03] <Grillon> lol
+[17:46:12] <Grillon> RedditDroidDevs
+[17:46:19] <Grillon> but fail acronym
+[17:46:22] <member68> alright. i'll delete it
+[17:47:06] <Hogofwar> haha, fail
+[17:47:34] <member68> bad luck i guess
+[17:47:53] <jaimeh> Do you think the poll resulted in people getting the twitter account? Should have registered every s
+[17:48:02] <jaimeh> Single on one the poll initially
+[17:48:12] <member68> i'm starting do wonder: do we even need a twitter account?
+[17:48:17] <Hogofwar> member68, do I register for redmine?
+[17:48:35] <veeti> i think that worrying about twitter and other social networks should be done once there is an app to actually promote
+[17:48:37] <Ramuh> nah, they are genuine normal people, names aren't that unique
