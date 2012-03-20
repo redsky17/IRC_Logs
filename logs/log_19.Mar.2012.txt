@@ -62,3 +62,19 @@
 [20:25:05] ### Hogofwar has quit the server. (Ping timeout: 246 seconds)
 [20:28:29] ### RadLogii has joined ##reddit-android-developers
 [20:28:41] <anjoyed> guess it would depend on the project
+[20:29:37] ### HomermonMobile has quit the server. (Ping timeout: 240 seconds)
+[20:29:38] <anjoyed> logs look well on gh
+[20:31:18] <red_sky> okay, I have one last thing to figure out with the irc logging
+[20:31:22] <red_sky> and then it's basically all automated
+[20:31:33] ### LT[LC] has quit the server. (Ping timeout: 246 seconds)
+[20:32:50] ### Ben25 has quit the server. (Quit: Page closed)
+[20:33:30] ### LT[LC] has joined ##reddit-android-developers
+[20:34:06] <tmoskowite> We have not picked a project yet
+[20:34:58] <Homermon> dont think so
+[20:35:23] <tmoskowite> i know
+[20:35:23] <tmoskowite> that is I framed my sentence as a statement =)
+[20:35:25] <Homermon> er right
+[20:35:29] <Homermon> I has the dumb.
+[20:35:31] <tmoskowite> no worries
+[20:35:36] <Homermon> lol
+[20:35:38] <tmoskowite> I read write wrong too as well
