@@ -2727,3 +2727,17 @@
 [18:38:02] <anjoyed> don't think that form asked name when i submitted
 [18:38:14] <anjoyed> that or i just missed it
 [18:39:33] <anyonethinkingab> i'm updating it
+[18:40:19] <RAWR> Should we submit again now that the form has been updated or would that count as two different votes?
+[18:40:20] <anjoyed> want me to resubmit after?
+[18:43:01] <anyonethinkingab> https://docs.google.com/spreadsheet/viewform?formkey=dGxpZ21UUTlvSHdPM3U5VWNUb1V3Vmc6MQ
+[18:43:11] <anyonethinkingab> please fill it in again
+[18:46:00] <Billd> You need everyone to resubmit that?
+[18:46:34] <anyonethinkingab> that were 8 people
+[18:47:13] <RAWR>  There, done.
+[18:47:36] <anyonethinkingab> thanks
+[18:47:51] <Billd> Sorry, I've been in eclipse for a lot of the discussion here. If I completed that form ~20 minutes ago, should I do it again?
+[18:48:02] <RAWR> Yes
+[18:49:15] <Hayes> I voted FB Contact/Photo Sync because the one I PURCHASED doesn't work properly
+[18:49:21] <lacop> anyonethinkingab, got results for that somewhere?
+[18:49:31] <Hayes> and for Reddit quick submit app
+[18:49:55] <Billd> Thanks Rawr, done.
