@@ -2572,3 +2572,31 @@
 [19:09:09] <member68> git commit -m "Removed some files"
 [19:09:22] <member68> that should do the trick
 [19:09:49] <artico> is the sd card always mounted as /dev/block/mmcblk*, or does that vary from device to device?
+[19:10:08] <Sanit> hat did it
+[19:10:13] <Sanit> thanks
+[19:10:32] <Sanit> what other files did you say weren't needed?
+[19:10:41] <Sanit> irssi doesn't allow scrolling aparently
+[19:10:57] <Sanit> nevermind, pgup ad pgdn works
+[19:11:45] <veeti> artico: varies
+[19:13:28] <artico> hmm, what else would it be mounted as?
+[19:13:39] <veeti> uh
+[19:13:40] <veeti> wait
+[19:13:42] <veeti> what are you even doing
+[19:14:11] ### red_sky has joined ##reddit-android-developers
+[19:14:14] <jaimeh> What is this alpha project?
+[19:14:34] <member68> that was the first project we created to test github
+[19:14:43] <member68> just ignore it
+[19:14:50] <Sanit> removed all the unnessicary files in my repo
+[19:15:00] <Sanit> ./bin and ./gen
+[19:15:06] <artico> veeti: just thinking about making a small app to partition sd cards
+[19:15:39] <veeti> well dunno
+[19:15:48] <veeti> i wouldn't rely on that
+[19:15:54] <anjoyed> Is there a mylyn connector for redmine?
+[19:16:01] <veeti> might change in future versions etc
+[19:16:01] <anjoyed> Can't see one listed..
+[19:16:19] <artico> what, the mmcblk bit?
+[19:16:26] <veeti> yes
+[19:16:49] <artico> yeah, that's why i'm trying to figure out where to look for that
+[19:17:50] <Sanit> member68: How would I move this repo to the RAD group on GitHub
+[19:19:20] <Sanit> can you create the repo and allow me to add to it?
+[19:19:43] <Sanit> sorry for all the questions, I will get the hang of this eventually
