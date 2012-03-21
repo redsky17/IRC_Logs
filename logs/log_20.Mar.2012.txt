@@ -3149,3 +3149,58 @@
 [21:08:50] <Raionic> i have two phone ..and they're both still on 2.3 >_<
 [21:08:53] <Raionic> phones*
 [21:09:48] <Navarr> I have a phone on 2.3 and a tab on 4.0.3.  My place of employment has a Galaxy Nexus on 4.0.2 that I love to test on.  But I also have phones on 2.1 and 2.2
+[21:10:25] <Navarr> I don't bother supporting anything lower than API level 7.
+[21:10:53] <adamell> That's ridiculous. I don't own any phone or internet connection. Just two cans, some strings, and a keyboard.
+[21:11:00] <Navarr> HOW ARE YOU HERE
+[21:11:06] <Raionic> lol
+[21:11:40] <blaise|> In the app ideas for the mobile Reddit
+[21:12:18] <blaise|> Is there a reason it is wanting to target ICS?
+[21:12:33] <red_sky> ICS has a really awesome UI
+[21:12:36] <red_sky> by default
+[21:12:38] <Navarr> ^ that.
+[21:12:46] <red_sky> no need to make a bunch of customly themed things like in GB
+[21:12:48] <red_sky> and previous
+[21:13:00] <Navarr> Target ICS, use the HoloEverywhere theme and ActionBarSherlock to backport to API level 7
+[21:13:13] <Navarr> so we can keep all the awesome UI and back compat
+[21:13:23] <red_sky> yeah
+[21:13:35] <red_sky> unless we don't want external dependencies, and we could develop those things ourselves
+[21:15:35] <Raionic> How much effect would that have on app performance? (just curious, i've never looked into that it just sounds resource intensive, the backwards compatability workaround that is)
+[21:15:44] <blaise|> Well, a good portion of the UI stuff has been back ported
+[21:15:46] <red_sky> it's not
+[21:15:57] <red_sky> Android provides backports for basically all the UI stuff
+[21:16:04] <Raionic> Ahh
+[21:16:07] <Raionic> Gotcha
+[21:16:09] <Navarr> not the style?
+[21:16:11] <red_sky> but it's "difficult" to implement
+[21:16:15] ### sam_ has quit the server. (Ping timeout: 245 seconds)
+[21:16:22] ### adamell has quit the server. (Remote host closed the connection)
+[21:16:27] <blaise|> Plus the design styles are out there to make older apps look good on tablets
+[21:16:27] <Navarr> there's nothing wrong with external dependencies though
+[21:16:36] ### pocus has joined ##reddit-android-developers
+[21:16:37] <red_sky> ActionBarSherlock just takes advantage of this stuff in a really easy to use manner
+[21:16:44] <red_sky> I don't know about HoloEverywhere
+[21:16:52] <red_sky> but I'm guessing it's custom themeing you can just use
+[21:16:57] <red_sky> instead of custom making a holo theme
+[21:17:00] <Navarr> HoloEverywhere is just a bunch of custom theming that provides the holo look
+[21:17:03] <blaise|> I think we will be limiting ourselves if we make it ICS specific
+[21:17:03] <Navarr> yeah
+[21:17:15] <red_sky> blaisel
+[21:17:17] <Navarr> https://github.com/ChristopheVersieux/HoloEverywhere
+[21:17:23] <blaise|> Especially if we can use back ports
+[21:17:26] <red_sky> we can target ICS but support older version with little problem
+[21:17:43] <Navarr> target: 15, minSdkVer=7?
+[21:17:43] <blaise|> That's actually what I mean.
+[21:17:46] <red_sky> that way we get all the new SDK stuff, like NFC, without sacrificing our usebase
+[21:18:12] <red_sky> so you're saying what we're planning on doing is good?
+[21:18:18] <blaise|> I am very interested in that project, but don't have an ICS device yet
+[21:18:27] <red_sky> ie. targetting sdk version 15 and supporting 7+
+[21:19:04] <blaise|> Well, I need to look at some of the back poets
+[21:19:12] <blaise|> Sorry on my phone
+[21:19:17] <blaise|> Back ports
+[21:19:20] <red_sky> download the new reddit is fun
+[21:19:24] <red_sky> reddit is fun lite
+[21:19:28] <red_sky> it uses actionbarsherlock
+[21:19:38] <red_sky> which is exactly what we'd get either by using the same, or by doing it ourselves
+[21:19:41] ### bbene_ has joined ##reddit-android-developers
+[21:19:49] <Navarr> we do NOT want to do it ourselves
+[21:19:57] <Navarr> where possible we should contribute to the greater android community, methinks
