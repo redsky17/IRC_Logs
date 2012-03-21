@@ -2493,3 +2493,31 @@
 [18:37:39] <Hogofwar> Well since each revision is TECHNCIALLY a snapshot, don't tags just make the revision stand out more then
 [18:38:14] <veeti> i think we're on the same page here.
 [18:38:34] <Hogofwar> snap-bros
+[18:41:09] ### markerz| has joined ##reddit-android-developers
+[18:43:17] ### markerz has quit the server. (Ping timeout: 260 seconds)
+[18:43:40] <anjoyed> Sanit, if you put it on yours then it can be forked onto main repo later
+[18:43:49] <Sanit> done. https://github.com/ThisIsColm/Reddit-Quick-Submit
+[18:44:11] <Sanit> ignore the background tile.. I don't know what I was thinking. That is why I shouldn't be allowed design
+[18:44:36] <Sanit> i'm gonna clean up the code a bit now and add some comments
+[18:44:55] <ballpointcarrot> Sanit: fyi: the gen folder shouldn't be committed; it's all auto-gen code.
+[18:45:11] <veeti> same with bin
+[18:46:07] <Sanit> i'll remove them now
+[18:46:16] <veeti> add them to .gitignore
+[18:46:19] <Sanit> just did a "git add ."
+[18:46:23] <veeti> http://help.github.com/ignore-files/
+[18:46:35] <Sanit> will do, thanks
+[18:46:54] <member68> you can copy the .gitignore from the alphaproject
+[18:46:57] <anjoyed> cool, took photo of my teacup :)
+[18:47:06] ### Lilday has quit the server. (Quit: Page closed)
+[18:47:08] <member68> it's already setup for android projects
+[18:47:22] ### pocus has quit the server. (Quit: Page closed)
+[18:47:32] <veeti> Sanit: https://github.com/ThisIsColm/Reddit-Quick-Submit/blob/master/res/layout/background.xml
+[18:47:37] <veeti> this probably belongs in the drawables dir instead
+[18:47:59] <danopia> we have code?
+[18:48:02] <Sanit> ok.
+[18:48:04] <Hogofwar> does .gitignore have to be commited?
+[18:48:07] <veeti> yes
+[18:48:21] <ballpointcarrot> are there any non-eclipse people here?
+[18:48:26] <veeti> yes
+[18:48:36] <ballpointcarrot> good to know.
+[18:48:39] <Sanit> You can tell I took a crash course in android dev. I am hoping to clean up my bad habits through this... and its working
