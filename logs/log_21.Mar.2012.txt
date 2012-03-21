@@ -1523,3 +1523,47 @@
 [14:39:41] <red_sky> I found a solution for the redmine name issue
 [14:39:51] <red_sky> put your nickname / username in parenthesis in your last name
 [14:39:53] <veeti> there are better people for that
+[14:40:32] ### aschneid|away has quit the server. (Remote host closed the connection)
+[14:41:54] <Sanit> Brackets at the end looks well
+[14:42:43] <shmup> howdy, a few days ago i thought i asked someone to add me to the repo members list
+[14:42:51] <shmup> maybe they had a typo :P it's 'shmup'
+[14:44:12] <garychencool> Where's the link to the voting of logo designs?
+[14:44:14] ### LogiiBot has joined ##reddit-android-developers
+[14:44:18] ### alextsc_ has joined ##reddit-android-developers
+[14:44:24] <Hogofwar> !paste 5
+[14:44:25] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/UjWQ
+[14:44:39] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[14:44:47] <red_sky> close
+[14:44:51] <Hogofwar> very very close
+[14:44:59] <red_sky> looks like it's missing new lines and has some java code stuff getting written
+[14:45:34] <Hogofwar> nope
+[14:45:38] <Hogofwar> That's just lacop
+[14:45:38] <member68> shmup: we're in the process of setting up a separate system for working on the code. we'll tell everybody when it's ready
+[14:46:01] <Hogofwar> red_sky, it was using the log when i last joined as well
+[14:46:02] <red_sky> oh
+[14:46:05] <Hogofwar> *it
+[14:46:11] <red_sky> I see now
+[14:46:14] <Hogofwar> this should be it
+[14:46:23] ### LogiiBot has joined ##reddit-android-developers
+[14:46:25] <Hogofwar> 1
+[14:46:26] <Hogofwar> 2
+[14:46:27] <Hogofwar> 3
+[14:46:27] <Hogofwar> 4
+[14:46:28] <Hogofwar> 5
+[14:46:31] <Hogofwar> !paste 5
+[14:46:32] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/QRCB
+[14:46:39] <Hogofwar> perfecto
+[14:46:52] <red_sky> well, perhaps it should be the last five minus 1
+[14:47:01] <red_sky> the !paste 5 isn't useful, really
+[14:47:11] <Sanit> have we decided on a standard for adding our u/n to our names on redmine? Some people have [example], some have (example) and some have "example"
+[14:47:17] <red_sky> minus one meaning shifting every element back by one
+[14:47:30] <Hogofwar> red_sky, how do I shift easily then
+[14:47:31] <red_sky> I don't know, () or [] are better than "" I think
+[14:47:40] <red_sky> it depends on how you're writing it right now
+[14:47:48] ### alextsc has quit the server. (Ping timeout: 255 seconds)
+[14:48:01] <red_sky> if it's a for loop, literally just subtract one from everything in the for loop definition
+[14:48:10] <red_sky> minus the increment part
+[14:48:12] <member68> please use ()
+[14:49:31] <Hogofwar> !paste 5
+[14:49:31] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/gjYc
+[14:49:56] <Hogofwar> Oh yeah, it is also the wrong frickin way around
