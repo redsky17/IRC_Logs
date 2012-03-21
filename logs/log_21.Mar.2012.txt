@@ -1183,3 +1183,20 @@
 [11:49:16] <member68> going great. at least 60 people voted
 [11:49:53] <wjoe> is there a poll up for logos, or are we still taking submissions?
 [11:50:09] <Raionic> Any idea what idea is leading the pack?
+[11:50:35] <member68> wjoe: --> reddit sidebar
+[11:51:25] <member68> Raionic, i'll find out, give me a few minutes
+[11:51:29] <wjoe> well, doesn't entirely answer the question if there's a poll up somewhere else :p
+[11:51:38] <wjoe> but I'll assume that means we're still taking submissions
+[11:52:03] <member68> yes, there is a poll, link is in the sidebar
+[11:53:34] <wjoe> I only see a poll for apps, not logos
+[11:54:11] <Raionic> Cool
+[11:55:12] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[11:57:37] <member68> wjoe --> We'd love to see your ideas for a new logo. Submit there here.
+[11:58:00] <wjoe> that's submissions, not a poll :p
+[11:58:13] <wjoe> unless you're just counting upvotes as votes or something
+[11:58:28] <member68> do we have a poll?
+[11:58:30] <red_sky> so, can I re-emphasize that all of our apps should have common theming?
+[11:59:15] <red_sky> for the same reason that Steve Jobs always wore a black sweater, it helps establish the entity in people's minds
+[11:59:39] <lacop> red_sky, well, I agree with a common theme, but lets not make it an unique thing
+[11:59:50] <lacop> just follow the design guidelines and it will be consistent
+[12:00:24] <lacop> we can have our own little things to stand out, but keep the general look of the guidelines
