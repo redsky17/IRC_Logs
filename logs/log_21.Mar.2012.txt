@@ -1473,3 +1473,15 @@
 [13:57:59] <joholz> we all missed you
 [13:58:19] <garychencool> Not sure if trolling or serious
 [13:58:22] <markerz|> Basic xml structure and activity lifecycle
+[14:00:36] <markerz|> Does applicationstates include saving and restoring states?
+[14:01:41] <red_sky> ah, sorry
+[14:01:54] <red_sky> I was talking to my coworkers about a recent Washington Post article
+[14:02:12] <red_sky> lcaop, I've been having issues with YardVPS
+[14:02:16] <red_sky> lacop*
+[14:02:19] <red_sky> so I can't recommend them
+[14:02:41] <red_sky> I am trying out ChicagoVPS for the month
+[14:03:24] ### fr3tles5 has quit the server. ()
+[14:04:21] <red_sky> $7/mo (March Madness Deal), on ChicagoVPS, you get 2048MB RAM guaranteed, 50GB disk space, 2TB Bandwidth, an a virtual quad core CPU
+[14:04:30] <red_sky> it's OpenVZ, but has great specs for the price
+[14:08:30] <Sanit> I've started a Doc to plan the Reddit Quick Submit app. Add to it if you wish: https://docs.google.com/document/d/1S3ac4dxseKTFrIhUJ0OWX7jXLvIbTf5ncFhSzLc1VuE/edit
+[14:09:41] <member68> further planing should be done via redmine. i'll create a project there
