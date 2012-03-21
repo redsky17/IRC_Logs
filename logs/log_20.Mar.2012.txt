@@ -3294,3 +3294,22 @@
 [21:39:44] <red_sky> you have it pretty nailed down, Navarr
 [21:39:48] <red_sky> for me, at least
 [21:39:51] <ubergeek42> red_sky: can you cite the torrent thing? I've never heard of that and searching 'torrent' in the gplv3 doesn't return anything
+[21:40:01] <red_sky> I'll try and find it
+[21:40:07] <red_sky> I just re-read the GPLv3 the other day
+[21:40:47] ### jaymax has quit the server. (Quit: Leaving)
+[21:41:48] ### Billd has quit the server. (Ping timeout: 246 seconds)
+[21:41:52] ### zubsani has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[21:44:26] <red_sky> It appears that I misread it
+[21:44:43] <red_sky> it states that if you use peer-to-peer transmissions for the executable, you must also provide the source in that manner
+[21:45:27] <jaimeh> It is a tool is all I am saying. No reason to HATE. You can license parts you want to function a certain way. Your choice.
+[21:47:22] <red_sky> my biggest problem is that the entire work has to be licensed under the GPLv3
+[21:47:22] <red_sky> which in effect infects any other more permissive open source licenses on whatever you may use
+[21:47:22] <jaimeh> I am not trying to prove you wrong. I love the mit license, I just don't think you should close your mind to it, if you think your current project is ripe for abuse.
+[21:47:22] <red_sky> I would choose the GPLv2 in any case that I would even consider v3
+[21:47:22] <red_sky> I actually don't mind the v2
+[21:47:28] <red_sky> I've used it in the past.
+[21:48:55] <ubergeek42> I'm pretty sure gplv2 demands the same "problem" that the entire work has to be licensed gplv2; as far as I know that part didn't change with v3
+[21:49:23] <red_sky> it's not worded the same as in the GPLv3
+[21:49:35] <LonnieC> http://www.groklaw.net/articlebasic.php?story=20060118155841115
+[21:49:42] <red_sky> the gplv2 says "compatible license" while v3 says "this license"
+[21:50:01] <jaimeh> There is a lot of misinformation on gplv3. Really because manufacturers are afraid of it and want to abuse stuff. A lot of it is developers that work at big corporations that want to be free to use your code.
