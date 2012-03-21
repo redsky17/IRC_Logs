@@ -912,3 +912,7 @@
 [09:31:39] <lyrch> a code review will still have to take place for any commit, gerrit is simply a very good tool for doing it
 [09:35:50] ### markerz has joined ##reddit-android-developers
 [09:35:51] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[09:41:42] ### alextsc has quit the server. (Quit: Quit)
+[09:42:02] <slick8086> is that functionality lacking in redmine?
+[09:42:50] <wjoe> There is a code review plugin for redmine, but I'm not sure how well it compares
+[09:43:00] <lyrch> there's a plugin for redmine, but no one is really sure how it works. plus github does have the capability, just a light version
