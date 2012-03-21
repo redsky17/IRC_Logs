@@ -797,3 +797,12 @@
 [07:38:28] <alextsc> :P
 [07:39:19] <member68> i know. i'll fix the strings
 [07:40:20] <alextsc> hehe. yeah the rest doesn't matter. But strings.xml is basic stuff that should be shown, unless you want to search and move tons of strings later on
+[07:43:46] <lyrch> though that is something we could catch if we are going to use a code review tool like gerrit (i remember seeing something about it, but i left before it was decided)
+[07:45:10] <alextsc> I think we are doing code-review-light through github before merging commits
+[07:45:35] <alextsc> a major codereview tool is certainly nice, but lets get started first and see how it works out
+[07:46:19] <lyrch> cool, i've become a big fan of code reviews before merging. my last job was working in the stone age and at my new job i've seen the light
+[07:47:36] <member68> i love gerrit. i don't know how to set it up
+[07:48:00] <member68> if we could get that done i would go for gerrit any time
+[07:48:38] <member68> github code review isn't anywhere near as nice as gerrit
+[07:49:10] <lyrch> we have gerrit at my work, i'll see if i can get a tutorial from the people who set it up here. or at least pointed to some good setup docs
+[07:49:52] <wjoe> is gerrit a thing that's included in github, or would that need to be set up somewhere?
