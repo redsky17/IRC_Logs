@@ -1380,3 +1380,34 @@
 [13:08:36] <vcarl> pull a zynga
 [13:08:50] <anjoyed> tamawotsy
 [13:09:43] <anjoyed> zynga don't even try to hide it
+[13:10:21] <member68> we'll see later. for now it might be a bit too hard anyway
+[13:10:29] <member68> at least for most people
+[13:10:30] ### rad_piespy has joined ##reddit-android-developers
+[13:10:33] <vcarl> indeed, games are difficult
+[13:13:55] ### markerz| has joined ##reddit-android-developers
+[13:13:55] ### markerz has quit the server. (Read error: Connection reset by peer)
+[13:15:52] <lacop> btw, what are guys using for VPS hosting?
+[13:16:15] <lacop> I'm looking for something cheap, I don't need a lot of bandwidth or ram/diskspace
+[13:16:22] <veeti> www.intovps.com
+[13:16:33] <veeti> amazing support
+[13:16:37] <Hogofwar> lacop, what country?
+[13:16:37] <veeti> usually replies in like 5 minutes
+[13:16:38] <vcarl> i know red_sky has some stuff going
+[13:17:00] <lacop> Hogofwar, well, slovakia, but there is not much local stuff
+[13:17:07] <Hogofwar> k
+[13:17:08] <lacop> for all I care the server could be on moon
+[13:17:19] <Hogofwar> lacop, what do you plan for it
+[13:17:38] ### wjoe has joined ##reddit-android-developers
+[13:17:49] <lacop> Hogofwar, running some stuff for personal use - irc server, also an irc relay for myself, stuff like that
+[13:18:14] <veeti> irc can be problematic
+[13:18:16] <lacop> I need like 256/512 ram, maybe 5gb diskspace (+size of OS)
+[13:18:17] <veeti> many budget hosts don't allow it
+[13:18:35] <lacop> not even a relay?
+[13:18:43] <lacop> or whatever it's called ...
+[13:18:48] <veeti> well
+[13:18:56] <veeti> i'm using a bouncer on intovps with their permission
+[13:19:02] <veeti> their tos forbids all irc access
+[13:19:03] <lacop> that's what I meant
+[13:19:10] <lacop> hmm, that's pretty weird
+[13:19:49] <lacop> but thanks for the tip, it looks rather good
+[13:19:56] <lacop> I'll bookmark it for future research
