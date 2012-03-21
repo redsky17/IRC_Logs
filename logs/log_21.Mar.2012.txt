@@ -1422,3 +1422,11 @@
 [13:29:10] <lacop> I guess I really need to put together a server and run it myself
 [13:33:49] ### markerz has joined ##reddit-android-developers
 [13:33:49] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[13:43:53] <member68> I'd like to get some suggestions for pointing people the right way for a simple calculator app. the layout: http://i.imgur.com/p8Uh8.jpg
+[13:45:10] <tmoskowite> move the numbers to the bottom right
+[13:45:12] <member68> i'd like them to figure out writing onclicklisteners for the buttons as well as how to use findViewbyID for accessing the result edittext
+[13:47:54] <member68> any ideas how to teach them and maybe give them some comment-based guidelines?
+[13:48:01] <RAWR> member68: Perhaps a button for decimal points? Or whatever they're called
+[13:48:53] <Airheebz> may also want to put the numbers to start at bottom instead of top, seems off to me
+[13:49:14] <RAWR> Yeah like on the numpad
+[13:50:05] <lacop> member68, move the whole keyboard down, make the "display" multiline so that it can show some history
