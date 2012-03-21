@@ -2306,3 +2306,54 @@
 [17:39:19] <rapidfyre> There's an open spot there guys!
 [17:39:51] <member68> oh shit....my pc is going down
 [17:39:54] ### member68 has quit the server. ()
+[17:40:07] ### AuthorityAction has quit the server. ()
+[17:40:53] <wjoe> Is there a limit to the number of people who can join a project?
+[17:40:56] ### member68 has joined ##reddit-android-developers
+[17:41:05] <member68> alright, i'm bacl
+[17:41:17] <wjoe> Welcome back
+[17:41:41] <wjoe> I might join the IRC client one, haven't had a chance to look at it yet
+[17:42:03] <artico> wjoe: i don't think there's anything there yet
+[17:42:17] <member68> pro tip of the day: don't open 1000 raw files (25MB each) at the same time in photoshop
+[17:42:30] <member68> it might slow down your computer
+[17:42:36] <Sanit> might?
+[17:42:57] <member68> depends how fast you pull the power chord
+[17:43:09] <Hogofwar> There
+[17:43:09] <Hogofwar> https://github.com/hogofwar/LogBot
+[17:43:28] <deliwien> can someone please remove me from the alarm clock project, accidentally joined it a while ago
+[17:44:21] <jaimeh> member68, are we going to have subprojects for redmine?
+[17:44:21] ### Billd-Work has joined ##reddit-android-developers
+[17:44:38] ### pocus has joined ##reddit-android-developers
+[17:45:11] <member68> deliwien: done
+[17:45:18] <deliwien> thanks :)
+[17:45:31] <member68> jaimeh: don't know. at the moment i don't think we need them
+[17:45:57] ### markerz has joined ##reddit-android-developers
+[17:46:05] <Raionic> Hogofwar i feel like parts of this code could be recycled for the IRC project
+[17:46:21] <Hogofwar> Raionic, well you might as well use PIRCBot for the irc project
+[17:46:22] <veeti> jaimeh: is there anything you think a subproject would be used for?
+[17:46:23] <Hogofwar> BAM
+[17:46:27] <Hogofwar> 3/4 of your work done
+[17:46:38] <Raionic> lol
+[17:46:47] <jaimeh> Similar to working on branches
+[17:46:50] <Hogofwar> Or Pircbotx but that is very different to pircbot but much more updated
+[17:46:58] <Sanit> Anyone recommend an IRC client for Debian?
+[17:47:00] <lacop> does redmine have milestones/roadmaps?
+[17:47:06] <veeti> Sanit: xchat
+[17:47:07] <lacop> that would be kind of like subprojects
+[17:47:08] <Hogofwar> Sanit, maybe Xchat?
+[17:47:13] <Sanit> cheers
+[17:47:15] <lacop> to group pieces of funcionality together
+[17:47:15] <veeti> lacop: yea, it does have a roadmap
+[17:47:30] <lacop> bitchIRC is the best, if you like console interface :)
+[17:47:41] <lacop> (not really, just best name ... irsii is good)
+[17:47:49] <jaimeh> Although, for a mobile app, I don't know how useful it would be.
+[17:47:57] <midgaze> You mean BitchX right?
+[17:48:08] <lacop> I guess, long time ...
+[17:48:16] <anjoyed> even better name
+[17:48:19] <lacop> veeti, that should be good enough then, to plan releases and features
+[17:49:05] <Raionic> Question, since we have 3 projects what do you guys think about having each project do a monthly (or whichever period) peer coding session on G+ in an effort to grow the community through learning ... if this is thinking too far ahead let me know
+[17:49:30] <member68> I'd say no to subprojects for now.
+[17:49:32] <member68> maybe later
+[17:49:38] <anjoyed> they suspended me so meh
+[17:49:53] <jaimeh> I agree
+[17:50:01] <member68> Raionic: I like the idea. we'll see if we can do something like that
+[17:50:02] ### Billd-Work is now known as Billd
