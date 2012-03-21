@@ -486,3 +486,35 @@
 [03:59:28] <danopia> i did get an IRL job of sorts though
 [03:59:36] <danopia> work study position, programmin'
 [04:00:23] <aschneid> Speaking of IRL job, I need to be up in the morning myself and it's 1:00 am here on the west coast, so I'm heading out myself
+[04:00:40] <member68> alright. see you later
+[04:00:51] <danopia> it's basically an app for a NFC tablet (might be custom, but probably not once the hardware gets there) that one would use to organize their clothes and find matching outfits and such... "Smart Closet"
+[04:01:16] <danopia> the entire team except one and another dev are girls, and the first interview question awas "are you comfortable with dealing iwth women's clothing" :P
+[04:01:21] <danopia> except me and*
+[04:01:44] <aschneid> What would you need the NFC for?  The clothes will be tagged?
+[04:01:51] <danopia> yes
+[04:01:52] <alextsc> meh we should really move more of the relevant discussions to the mailing list, those IRC logs are terrible to read QQ
+[04:02:17] <danopia> well, the hangers, i assume. not filled in on all the details yet
+[04:02:32] <danopia> bye
+[04:02:40] <aschneid> later
+[04:02:48] <alextsc> cya
+[04:03:09] <aschneid> alextsc…I would be more than happy (in the morning) to post something on google groups with a summary of the chat logs
+[04:03:15] <aschneid> Just wasn't sure if it was worth it.
+[04:03:30] <aschneid> Especially considering we have decided on the apps yet...
+[04:03:35] <Hogofwar> danopia, why couldn't you say: the entire team are girls except two
+[04:03:45] <aschneid> All the ones I voted for though probably could use an imgur framework.
+[04:03:47] <alextsc> yeah that decision has to come soon
+[04:04:02] <alextsc> there seems to be some interest in certain apps
+[04:04:03] <aschneid> Anyway, I'm out….talk to you later this morning.
+[04:04:14] <alextsc> alright, cya :)
+[04:04:25] ### aschneid is now known as aschneid|away
+[04:06:09] ### deliwien has joined ##reddit-android-developers
+[04:07:44] <member68> it's interesting to read the "what do you want to work on"-poll resultse
+[04:08:01] <ThatPlayer> Are you going to share? =P
+[04:08:14] <member68> many people suggest getting to work quickly and sort out organizational stuff later
+[04:08:56] <ThatPlayer> It'll keep people interested I'd think
+[04:08:57] <alextsc> =)
+[04:09:16] <alextsc> well i think we got decent organization for now
+[04:09:21] <alextsc> we should really get started asap
+[04:09:27] <alextsc> before things fall apart
+[04:09:38] <alextsc> if we build one or two throwaway project, hey who cares?
+[04:09:50] <alextsc> but we will learn from that
