@@ -718,3 +718,6 @@
 [05:45:07] <markerz> Opps
 [05:45:15] <markerz> Wrong window.
 [05:45:37] <markerz> But I guess it still applies.
+[05:57:59] ### markerz| has joined ##reddit-android-developers
+[05:57:59] ### markerz has quit the server. (Read error: Connection reset by peer)
+[05:58:17] <anyonethinkingab> http://instantrimshot.com/index.php?sound=crickets
