@@ -926,3 +926,6 @@
 [10:02:59] ### Raionic has joined ##reddit-android-developers
 [10:03:01] <Grillon> bleh putty didnt save my config
 [10:06:01] ### aschneid has parted (left) the channel.
+[10:13:43] ### aschneid has joined ##reddit-android-developers
+[10:15:32] ### markerz has joined ##reddit-android-developers
+[10:15:32] ### markerz| has quit the server. (Read error: Connection reset by peer)
