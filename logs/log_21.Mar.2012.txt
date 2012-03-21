@@ -2476,3 +2476,20 @@
 [18:24:14] <Lilday> .../Wrists
 [18:24:42] <Lilday> Yeah the gear is worth the money
 [18:24:52] <vcarl> well i got the bike for $1200, spent $800 on repairs, $300 on insurance (but got $150 reimbursed for the off-season) and prolly $100-150 on gear
+[18:30:19] <Sanit> right, I am a newbie with GitHub (used it a bit for myself, never with a team). I have a bit of work done on the Quick Submit App (procrastination from real college work). Should I throw it up on my Git Hub, or is there a way for me to make a new repo on the RAD page?
+[18:31:21] <Raionic> Man ....... wish i was still in college to do that
+[18:31:30] <Raionic> I just got back from work ...got a call now i'm working remotely again
+[18:31:43] ### kiel3 has joined ##reddit-android-developers
+[18:34:05] <Raionic> But to answer your question ... a repository must be created first for that project
+[18:34:08] <Raionic> doesnt look like there is one
+[18:35:22] <Sanit> if I create one of my own on my page, can it be merged?
+[18:35:45] <Hogofwar> Tags are snapshots, right?
+[18:36:09] <veeti> if we have the same definition of snapshot yes
+[18:36:22] <Hogofwar> and your definition is?
+[18:36:30] <veeti> well uh you know
+[18:36:43] <veeti> you have a tag for each version
+[18:36:50] <veeti> and that tag points to a specific commit revision
+[18:36:54] <veeti> so it's basically a snapshot of the repo for that version
+[18:37:39] <Hogofwar> Well since each revision is TECHNCIALLY a snapshot, don't tags just make the revision stand out more then
+[18:38:14] <veeti> i think we're on the same page here.
+[18:38:34] <Hogofwar> snap-bros
