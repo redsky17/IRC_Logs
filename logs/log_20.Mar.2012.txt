@@ -3100,3 +3100,17 @@
 [20:16:52] <Billd> Hasta
 [20:17:01] <anjoyed> nn
 [20:17:03] ### RAWR has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[20:22:20] ### RadLogii has joined ##reddit-android-developers
+[20:22:32] <red_sky> no problem
+[20:22:35] <Billd> oh, I see. I'm trying to load an entire layout for an AlertDialog.
+[20:23:26] <Billd> that got me close enough. findViewById
+[20:23:42] ### ballpointcarrot has quit the server. (Quit: Well, I'm done.)
+[20:24:20] <Raionic> Darn...i realize i've been neglecting other subreddits focusing on this one
+[20:24:20] <jaimeh> Wait, we are developing? What did I miss.
+[20:24:48] <Billd> no. I'm working on teaching myself a bunch of stuff, personal project.
+[20:27:11] <jcarpenter> Try looking into Fragments, you will save yourself a lot of headaches in the future
+[20:27:39] <red_sky> if he goes that route, he'll have to utilize some of the android backwards compatibility stuff
+[20:28:21] ### D-Lon has joined ##reddit-android-developers
+[20:28:30] <jcarpenter> So far it has worked out for me. You lose 1.5 compatibility but that's about it
+[20:29:46] ### Fizile has quit the server. (Read error: Connection reset by peer)
+[20:29:49] ### deliwien has quit the server. ()
