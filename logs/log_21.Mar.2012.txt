@@ -866,3 +866,8 @@
 [08:36:27] ### markerz| has joined ##reddit-android-developers
 [08:36:28] ### markerz has quit the server. (Read error: Connection reset by peer)
 [08:49:37] ### Sanit has joined ##reddit-android-developers
+[08:56:15] ### markerz has joined ##reddit-android-developers
+[08:56:16] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[08:56:58] <member68> i have to leave for a few a hours. see you later, guys
+[08:58:13] <member68> !Upload
+[08:58:15] <alextsc> cya
