@@ -806,3 +806,17 @@
 [07:48:38] <member68> github code review isn't anywhere near as nice as gerrit
 [07:49:10] <lyrch> we have gerrit at my work, i'll see if i can get a tutorial from the people who set it up here. or at least pointed to some good setup docs
 [07:49:52] <wjoe> is gerrit a thing that's included in github, or would that need to be set up somewhere?
+[07:50:20] <lyrch> i think it would need to be setup elsewhere
+[07:51:15] <wjoe> I could look into installing it on my server, not got so much time today though
+[07:55:30] <lyrch> yeah it looks like a pretty serious time investment to setup, and, from a couple stackoverflow questions i've read, it could be tricky to setup with github
+[07:56:06] <lyrch> it's not impossible, but the code-review-light looks like a good option for the moment
+[07:56:16] <wjoe> yeah, I was just reading up on it. not sure how nicely it plays with github
+[07:56:24] <member68> the cyanogenmod project has it setup. I'll contact them and ask them about it
+[07:56:25] <lyrch> yeah
+[07:56:32] <wjoe> sounds like a plan
+[07:56:48] <lyrch> well do they run their repositories on private servers or on github?
+[07:56:48] ### markerz| has joined ##reddit-android-developers
+[07:56:49] ### markerz has quit the server. (Read error: Connection reset by peer)
+[07:58:50] <wjoe> I believe they use github, maybe mirrored elsewhere though
+[07:59:19] <wjoe> https://github.com/cyanogenmod
+[07:59:39] <lyrch> cool
