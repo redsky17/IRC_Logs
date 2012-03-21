@@ -15,3 +15,16 @@
 [00:30:33] ### RadLogii has joined ##reddit-android-developers
 [00:40:50] ### jselk has quit the server. (Ping timeout: 245 seconds)
 [00:42:37] ### Billd-zzz has quit the server. (Ping timeout: 240 seconds)
+[01:05:35] ### RadLogii has joined ##reddit-android-developers
+[01:05:49] <blaise_> I also don't like how any of the reddit apps do the comment threads.
+[01:06:11] <blaise_> There's a Touchpad app that has a very good comment implementation.  I was going to see about getting some screen shots of it.
+[01:06:41] <blaise_> Or, I do like BaconReader's comment implementation on a phone.
+[01:07:09] <anjoyed> haven't actually seen any of them
+[01:07:18] <anjoyed> i usually just browse i.reddit
+[01:08:46] <blaise_> It's been a long time since I've even logged into Slashdot.  I've been using it since it's early days, even have one of the lower membership numbers.  Should start checking it out.
+[01:09:00] <blaise_> again.
+[01:09:01] <anjoyed> if a lot of the projects need to use image storage/retrieval then might be wise to build an imgur component that they can add
+[01:09:15] <anjoyed> rather than everyone implementing their own solution
+[01:09:21] <blaise_> I was looking at the imgur api today
+[01:09:26] <blaise_> Pretty straight forward.
+[01:09:55] <blaise_> They do limit the number of calls per hour by IP (and if  you are anonymous or not).
