@@ -745,3 +745,15 @@
 [06:27:15] <alextsc> slowing time; that seems to be an eclipse feature
 [06:27:18] <alextsc> :D
 [06:28:24] ### lyrch has joined ##reddit-android-developers
+[06:30:37] ### RAWR has joined ##reddit-android-developers
+[06:35:38] <member68> I'd like to decide on a few apps in a few hours. Let's see if we can start coding in the next 1-2 days.
+[06:36:10] <lyrch> how many votes were submitted to the app poll?
+[06:36:55] <lyrch> enough to give some choices or not enough to be useful?
+[06:37:18] <member68> about 70 people
+[06:37:36] ### markerz| has joined ##reddit-android-developers
+[06:37:36] ### markerz has quit the server. (Read error: Connection reset by peer)
+[06:37:43] <lyrch> not bad
+[06:38:06] <member68> enough to pick the first few apps
+[06:38:38] <lyrch> yup
+[06:39:35] ### zubsani has quit the server. (Ping timeout: 276 seconds)
+[06:40:02] <anyonethinkingab> It would be great if we could divide the teams by friday
