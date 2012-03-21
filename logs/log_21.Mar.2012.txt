@@ -1014,3 +1014,41 @@
 [11:15:48] <red_sky> since the transfer, the bot hasn't lost connection AFAIK
 [11:16:06] <red_sky> try lowercase u
 [11:16:13] <member68> !upload
+[11:16:16] <red_sky> I'm not sure if it's case sensitive
+[11:16:21] <member68> hello everybody
+[11:16:24] <anjoyed> hey
+[11:16:28] <member68> Uppercase worked earlier
+[11:16:30] <wjoe> what's !upload for?
+[11:16:30] <Hogofwar> it isn't
+[11:16:34] <red_sky> ah, okay
+[11:16:35] <anjoyed> !logs
+[11:16:39] <Hogofwar> upload is op only
+[11:16:41] <wjoe> !help
+[11:16:56] <Hogofwar> only two commands
+[11:17:04] <red_sky> just wasn't sure, because it doesn't seem to have uploaded.  the last upload was only a few minutes ago
+[11:17:06] <Hogofwar> I'm gonna add in a 3rd one though
+[11:17:18] <Hogofwar> red_sky, as i said, op only
+[11:17:22] <anjoyed> you should have added !hogs
+[11:17:32] <red_sky> Hogofwar member68 was the one who tried it.
+[11:17:34] <anjoyed> make it slap everyone in room or something
+[11:17:44] <Hogofwar> he isn't op
+[11:17:49] <Hogofwar> wait
+[11:17:50] <Hogofwar> no
+[11:17:58] <Hogofwar> i just didn't scroll up my user list :P
+[11:18:09] <Hogofwar> it shoulda worked?
+[11:18:20] <wjoe> got a few scripts running in another channel, but most would probably be a bit too spammy for here
+[11:18:22] <red_sky> let me check the config.txt
+[11:18:41] <Hogofwar> sky17 pushed to master at RedditAndroidDev/IRC_Logs 2 minutes ago
+[11:18:47] <Hogofwar> are you sure that isn't it
+[11:18:49] <wjoe> things like dictionary definitons, google translate, unit/currency conversion
+[11:18:57] <red_sky> hmm, mine says 4 minutes ago
+[11:19:01] <red_sky> perhaps it is working
+[11:19:03] <Hogofwar> red_sky, try having a different commit message if it is forced
+[11:19:12] <red_sky> if I could find my source code, I had a really good translate command
+[11:19:22] <wjoe> well, mine's just a java program
+[11:19:31] <wjoe> then it's executed through some perl script
+[11:19:34] <red_sky> I'll be home this weekend, I can try to get it then.
+[11:19:38] <Hogofwar> red_sky, try having a different commit message if it is forced
+[11:19:44] <red_sky> I saw
+[11:19:56] <wjoe> source for most of them is on git.lc8n.com
+[11:20:03] <wjoe> er, blatech.co.uk actually
