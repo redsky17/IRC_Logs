@@ -2386,3 +2386,32 @@
 [17:59:42] <Lilday> @Raionic hasn't been a good idea though haha
 [17:59:54] <member68> lilday: zubsani worked on it
 [18:00:04] <Lilday> ah - it looks sweet
+[18:00:32] <Lilday> I'm thinking this:
+[18:00:33] <Lilday> We're a community of individuals who want to work together towards high quality Android content.
+[18:00:37] <Lilday> Should change to this:
+[18:00:57] ### markerz| has joined ##reddit-android-developers
+[18:00:58] ### markerz has quit the server. (Read error: Connection reset by peer)
+[18:01:10] <Lilday> We're a community of individuals who want to work together towards high quality open source Android content, and donating all income to charity
+[18:01:13] <Lilday> or something like that
+[18:01:30] <Lilday> towards creating* high quality open...
+[18:01:47] <Hogofwar> maybe I can do a modified MIT license
+[18:02:03] <veeti> speaking of licenses
+[18:02:08] <veeti> what are the rad projects going to use
+[18:02:14] <Hogofwar> MIT?
+[18:02:34] <artico> MIT all around!
+[18:03:12] <Lilday> What about two options - if you download the free app you get some sort of restricted license (still a very open license)
+[18:03:27] <Lilday> if you buy the 'donate' app you are fully unrestricted to do whatever you want with it
+[18:04:44] <rapidfyre> Would you need to write your own license for that?
+[18:04:58] <rapidfyre> @ Lilday
+[18:05:08] <Lilday> I don't know haha
+[18:05:16] <member68> i'll probably switch to http://freedns.afraid.org
+[18:05:25] <member68> oops, ignore that
+[18:06:26] <veeti> Lilday i mean the source code
+[18:06:34] <veeti> what open source license it's under
+[18:06:53] <sam_> What's up dudes
+[18:07:26] <Lilday> hmm - I'm not very educated in that area so I'd probably ask around the sub for opinions
+[18:08:43] <Lilday> haha
+[18:08:54] <member68> damn, two typos in one sentence...where's my red bull
+[18:08:57] <artico> i have a driver's license, but that's about it.
+[18:09:12] <Lilday> me too
+[18:09:17] <Lilday> and a motorcycle license in 3 days :D:D:D
