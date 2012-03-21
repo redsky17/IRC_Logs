@@ -782,3 +782,18 @@
 [07:27:27] <lyrch> just looking at that makes me want to break out my "learn android" books again, so i can remember how to set layout properties correctly
 [07:30:01] <wjoe> android layout stuff is one of those things I just end up having to look up every time
 [07:30:06] <member68> there we go: http://i.imgur.com/p8Uh8.jpg
+[07:31:05] <alextsc> wow nice
+[07:31:12] <alextsc> well done
+[07:31:44] <member68> should be good enough for now
+[07:32:19] <wjoe> looks good. is this going to be one of the projects then?
+[07:32:41] <anyonethinkingab> haha member i meant that there was a 0 in the edittext when you start
+[07:32:59] <anyonethinkingab> but that is java, no?
+[07:33:12] <anyonethinkingab> oh no, nvm
+[07:35:26] <member68> it's just a quick layout for a calculator. nothing fancy. nothing is optimized and i didn't really care for all naming conventions. i put in some bad coding pratices, too (like hard coding strings)
+[07:37:06] ### markerz has joined ##reddit-android-developers
+[07:37:07] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[07:38:19] <lyrch> tsk tsk, we're supposed to teach good habits from the beginning ;)
+[07:38:23] <alextsc> ^
+[07:38:28] <alextsc> :P
+[07:39:19] <member68> i know. i'll fix the strings
+[07:40:20] <alextsc> hehe. yeah the rest doesn't matter. But strings.xml is basic stuff that should be shown, unless you want to search and move tons of strings later on
