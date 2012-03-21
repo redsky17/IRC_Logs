@@ -3114,3 +3114,16 @@
 [20:28:30] <jcarpenter> So far it has worked out for me. You lose 1.5 compatibility but that's about it
 [20:29:46] ### Fizile has quit the server. (Read error: Connection reset by peer)
 [20:29:49] ### deliwien has quit the server. ()
+[20:31:24] <Billd> I'm targeting 1.6, so that should be cool.
+[20:31:24] ### blaise- has joined ##reddit-android-developers
+[20:31:58] <jaimeh> Are the apps we plan on building need to be backwards compatible. At least to 2.2?
+[20:32:10] <Sanit> 2.2 was decided I think
+[20:32:11] <red_sky> 2.2 and up
+[20:32:24] <red_sky> we lose lots of features and only target like 1% if we do anything below that
+[20:33:25] ### anjoyed is now known as anjoyed_busy
+[20:33:49] <adamell> http://i.imgur.com/xQzW2.png
+[20:34:17] <adamell> ^ OS fragmentation
+[20:35:44] <Billd> Just read up on Fragments. I see what red_sky was talking about. Maybe in the next app.
+[20:36:48] ### blaise| has joined ##reddit-android-developers
+[20:37:35] ### blaise- has quit the server. (Ping timeout: 246 seconds)
+[20:39:44] ### tmoskowite has quit the server. (Ping timeout: 260 seconds)
