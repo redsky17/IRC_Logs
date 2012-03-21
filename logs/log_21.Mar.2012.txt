@@ -887,3 +887,24 @@
 [09:17:42] <adamell> yay!
 [09:17:53] <adamell> In that case i'll go have some breakfast
 [09:20:13] <nataly> "tonight" - in what time zone?
+[09:20:32] <wjoe> 13:13:27 < lyrch> interesting, what version are you using? 2.2, or 2.3?
+[09:20:36] <wjoe> tried both :/
+[09:20:54] <wjoe> [2012-03-21 13:20:06,978] WARN  / : Error in allQueryNext
+[09:20:55] <wjoe> java.lang.IllegalStateException: Missing project All-Projects
+[09:21:05] <wjoe> that's the error I'm getting
+[09:21:11] <wjoe> (among other long stack traces)
+[09:23:38] <lyrch> wjoe, i think we're using 2.2
+[09:23:56] <lyrch> that's a weird error
+[09:24:10] <wjoe> I've tried 2.2.2.1 and 2.3-rc0
+[09:24:24] <wjoe> yeah. absolutely nothing for it on google
+[09:24:38] <lyrch> i do know that we are using gerrit as the git repo also, so we only have one repo
+[09:24:59] <veeti> huh
+[09:25:58] <veeti> github will be used for the repositories
+[09:27:04] <lyrch> yeah, but we've seen projects using github for the repo and gerrit for code review, so it's possible
+[09:27:31] <veeti> i'm a bit skeptical about that
+[09:27:38] <veeti> what's wrong with github pull requests
+[09:27:43] <veeti> gerrit sounds a bit overkill at least for now
+[09:27:56] ### RAWR has joined ##reddit-android-developers
+[09:28:35] <lyrch> it is, but it's nice to look into for the future
+[09:29:29] <veeti> and increased bureaucracy might discourage contributors
+[09:29:52] ### RAWR has quit the server. (Client Quit)
