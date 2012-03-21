@@ -518,3 +518,29 @@
 [04:09:27] <alextsc> before things fall apart
 [04:09:38] <alextsc> if we build one or two throwaway project, hey who cares?
 [04:09:50] <alextsc> but we will learn from that
+[04:10:33] <member68> also, we got about 50 devs, of which 10 know something about UI design. only one person who wants to be PM though
+[04:10:45] <Fault> member68: How many have signed up for being lead dev/PM atm?
+[04:10:52] <Fault> oh
+[04:10:55] <Fault> nvm
+[04:11:25] <alextsc> i stated it in the comment section; I think the lead will get determined when we got teams set
+[04:11:32] ### Fault is now known as RAWR
+[04:11:51] <alextsc> "i want to lead project X" when its not even decided that this is going to get built is kinda pointless
+[04:12:00] <RAWR> True
+[04:12:01] ### aschneid has joined ##reddit-android-developers
+[04:12:01] <alextsc> (imho)
+[04:12:30] <joholz> ok guys
+[04:12:33] ### Hogofwar has quit the server. (Ping timeout: 246 seconds)
+[04:12:33] <joholz> nite
+[04:12:44] <alextsc> good night :)
+[04:12:54] ### joholz has quit the server. (Quit: Page closed)
+[04:13:52] <alextsc> brb shower, the nerd smell is taking over :>
+[04:14:18] <member68> alextsc, we're posing the question differently. we ask "do you want to lead a project, if yes, which one?"
+[04:14:24] ### matt-ice has joined ##reddit-android-developers
+[04:15:14] <matt-ice> sup
+[04:16:27] <member68> i'm starting to get the feeling though, that we should just start and find out that way of organization works. i think we'll have a few people who are assigned to multiple projects to set the general direction of development. besides that, teams would more or less on their own.
+[04:16:38] <member68> any opinions on that?
+[04:17:00] <ThatPlayer> Sounds great
+[04:17:15] <matt-ice> interesting... I agree
+[04:17:44] <member68> sound chaotic to me right now, but I guess as a community, there is no right or wrong way
+[04:20:16] <member68> i was just going over the table again. only one person put down management, however about 10 people added projects they want to lead
+[04:20:38] <TheNumb> member68: since we have people all around the globe some portion of work could be done say by the guys in the US and then it'd be taken over by the guys from EU to keep the things rolling ;-)
