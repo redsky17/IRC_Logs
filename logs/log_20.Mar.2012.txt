@@ -3249,3 +3249,48 @@
 [21:29:33] <jaimeh> Nothing wrong with GPLv3 just use it for apps. If you want to share libraries, license those MIT
 [21:29:52] <red_sky> I *really* dislike the GPLv3
 [21:29:59] <red_sky> I won't work on any software if that's the license we're using
+[21:30:46] <jaimeh> I am assuming you are under 23... That is quite an emotional reaction to a valid tool.
+[21:31:07] <red_sky> I won't aid something that I consider poisonous
+[21:31:13] <red_sky> it has nothing to do with maturity, I'm sorry
+[21:31:21] <jaimeh> Quite
+[21:31:45] <Navarr> I've seen worse from older. (Re: D&D v4)
+[21:31:58] <red_sky> further, there's a reason widespread use of the GPLv3 doesn't exist
+[21:32:04] <red_sky> it's been around for 5 years now
+[21:32:11] <red_sky> the GPLv2 gets applied to more new projects than v#
+[21:32:13] <red_sky> v3**
+[21:32:14] <Navarr> wow.  has it been around that long?
+[21:32:15] <red_sky> for good reason
+[21:32:26] <red_sky> came out in '07
+[21:32:43] <Navarr> crap, i keep forgetting its a new decade
+[21:33:12] <Navarr> i'm too young to feel old :|
+[21:33:14] <red_sky> I could probably find 100s of posted detailing why the GPLv3 sucks
+[21:33:42] <jaimeh> Really because of the MIT backlash and overall gpl
+[21:34:00] <jaimeh> In reality you wouldn't have android if it weren't for gpl
+[21:34:46] <red_sky> you're missing the point where I'm talking about v3
+[21:34:46] <red_sky> the linux kernel is GPLv2
+[21:34:46] <red_sky> all of Google's Android stuff is Apache v2
+[21:34:50] <red_sky> none of Android is GPLv3
+[21:34:58] ### blaise| has joined ##reddit-android-developers
+[21:35:30] <jaimeh> Mainly for manufacturer purposes because they want to sell android
+[21:35:42] ### zubsani has joined ##reddit-android-developers
+[21:36:02] <red_sky> but the only GPL I have issue with is v3
+[21:36:08] <red_sky> so your point is nullified.
+[21:36:12] <jaimeh> v3 just blocks people from using your code on closed products without providing source
+[21:36:22] <red_sky> no
+[21:36:33] <red_sky> it means everyone has to release their code under GPLv3
+[21:36:49] <red_sky> and it has a specific clause that says any compiled executables must be available via torrent
+[21:36:56] <jaimeh> Hence my statement of making your libraries MIT
+[21:36:57] <red_sky> AKA, there's no way to profit from it
+[21:37:25] <jaimeh> You can use multiple licenses
+[21:38:05] <red_sky> you can only use licenses as or more restrictive than the GPLv3
+[21:38:10] <red_sky> of which there are none
+[21:38:18] <jaimeh> You can profit from it. Just not prevent others from using your modifications just because you decided to sell a product as a closed system
+[21:38:39] <red_sky> if you have to make your executables available as torrents, there's no profit there
+[21:38:52] <red_sky> making people compile source is one thing
+[21:39:00] <red_sky> giving people free access to the compiled version is entirely different
+[21:39:10] <Navarr> jaimeh seems like the "open source all the things" type and red_sky seems like the "complete freedom" type
+[21:39:20] <jaimeh> Compiled source with license checks?
+[21:39:27] <jaimeh> Not a big deal dude
+[21:39:44] <red_sky> you have it pretty nailed down, Navarr
+[21:39:48] <red_sky> for me, at least
+[21:39:51] <ubergeek42> red_sky: can you cite the torrent thing? I've never heard of that and searching 'torrent' in the gplv3 doesn't return anything
