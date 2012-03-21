@@ -908,3 +908,7 @@
 [09:28:35] <lyrch> it is, but it's nice to look into for the future
 [09:29:29] <veeti> and increased bureaucracy might discourage contributors
 [09:29:52] ### RAWR has quit the server. (Client Quit)
+[09:30:14] ### RAWR has joined ##reddit-android-developers
+[09:31:39] <lyrch> a code review will still have to take place for any commit, gerrit is simply a very good tool for doing it
+[09:35:50] ### markerz has joined ##reddit-android-developers
+[09:35:51] ### markerz| has quit the server. (Read error: Connection reset by peer)
