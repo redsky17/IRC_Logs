@@ -28,3 +28,25 @@
 [01:09:21] <blaise_> I was looking at the imgur api today
 [01:09:26] <blaise_> Pretty straight forward.
 [01:09:55] <blaise_> They do limit the number of calls per hour by IP (and if  you are anonymous or not).
+[01:10:03] <blaise_> But the limits are pretty high.
+[01:10:29] <anjoyed> something to keep in mind though
+[01:10:44] <blaise_> It seems like several of the apps could potentially use it, so I was thinking it might be a good framework to write
+[01:11:12] <blaise_> And the caps are by IP…so, if each persons phone is doing it, that would only apply to that user.
+[01:12:10] <anjoyed> 50 uploads per hour for anonymous
+[01:12:21] ### markerz| has joined ##reddit-android-developers
+[01:12:37] <blaise_> Yeah…and that's actually quite a bit of pictures.
+[01:12:50] <blaise_> If the user logged in, it's higher too.
+[01:12:58] <red_sky> 50 per hour is pretty high
+[01:13:02] <red_sky> so that's not bad
+[01:13:08] <anjoyed> yep. if you use oauth you get twice that per imgur account
+[01:13:14] <red_sky> that's one picture per 1 and 1/10 minutes
+[01:13:40] <blaise_> I was think that picture hunt game could potentially use imgur for hosting.
+[01:13:57] <red_sky> or is it 1/5...
+[01:14:03] <anjoyed> yeah, thats the one I had in mind
+[01:14:03] <blaise_> Still would need some sort of server to do the voting, etc, but that's not the bandwidth hogging part
+[01:14:22] <blaise_> Or disk storage
+[01:15:01] ### markerz- has joined ##reddit-android-developers
+[01:17:33] ### engr has joined ##reddit-android-developers
+[01:17:33] ### markerz| has quit the server. (Ping timeout: 252 seconds)
+[01:19:33] ### markerz- has quit the server. (Ping timeout: 252 seconds)
+[01:19:41] <anjoyed> 500 credits per hour for anonymous use. every api call uses 1 credit, uploads use 10 credits
