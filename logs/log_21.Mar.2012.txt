@@ -1492,3 +1492,16 @@
 [14:15:25] <red_sky> Though, I suppose I can contribute here and there.  I just don't think I can do the core framework at this point in time.
 [14:19:14] ### wjoe has quit the server. (Ping timeout: 244 seconds)
 [14:20:06] <member68> actual coding won't start before we have gerrit up and running
+[14:20:21] <member68> i'll create the projects though so planning can start today
+[14:20:22] ### markerz has joined ##reddit-android-developers
+[14:22:51] <garychencool> Androirc has ads but I don't really see them
+[14:22:55] <member68> please write me a pm if you need extended rights on your project (this means you want to lead the project or contribute more than the average user)
+[14:23:06] <ThatPlayer> Morning people
+[14:23:37] ### Avid has joined ##reddit-android-developers
+[14:25:19] <red_sky> okay, I can do that
+[14:25:29] <red_sky> at some point, I can definitely see myself leading a project / contributing more
+[14:25:41] <red_sky> but as the school year is beginning to wind down, there's a ton of stuff going on
+[14:26:00] <garychencool> I recommend adding it to the site, Reddit, information document, etc. If you haven't done so already
+[14:29:03] ### markerz has quit the server. (Ping timeout: 252 seconds)
+[14:29:31] ### bbene has quit the server. (Remote host closed the connection)
+[14:29:42] ### wjoe has joined ##reddit-android-developers
