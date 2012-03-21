@@ -3333,3 +3333,19 @@
 [21:54:30] <red_sky> so it would as simple as getting "yes" on all the parts of the code
 [21:54:37] <red_sky> and if they said no, leave it licensed as v2
 [21:54:42] <jaimeh> Too much work for that. He had said he would go to the effort if ZFS had gone v3
+[22:00:31] <jaimeh> Although he does not have a problem with manufacturers using the kernel and not allowing modifications on closed products.
+[22:01:01] <red_sky> ubergeek42, the part I'm referring to was section 4 part b in both
+[22:02:02] <red_sky> GPLv2 only applies to the "program" where as GPLv3 applies to the whole work
+[22:02:12] <red_sky> program is very limiting, as it can be defined many way
+[22:02:13] <red_sky> ways*
+[22:04:07] <jaimeh> Really this all began because people wanted to modify the products they purchased. We are headed to a place where everything is locked down and even with code we can't "own" it. Android is modifiable on some phones for now because of the culture. If it was not there. All manufacturers would continue locking them down.
+[22:04:55] <red_sky> I think I prefer the MPL to anything, really
+[22:06:19] <red_sky> any files with the MPL remain MPL and must be open source
+[22:06:19] <red_sky> anything else can be licensed in any way
+[22:06:19] <Billd> YES! I finally figured out LayoutInflator. I am a tiny god. That is all.
+[22:06:19] <red_sky> good job Billd
+[22:06:19] <ubergeek42> red_sky: I don't see section 4b in either license
+[22:06:44] <red_sky> hmm, the Growlaw site's sections are off
+[22:06:48] <red_sky> section 2b in v2
+[22:07:07] <red_sky> and 5c in v3
+[22:09:50] <ubergeek42> thanks, I don't see much difference tbh, v2 says "program or any part thereof" which reads the same to me as "entire work"(and v2 defines a program in secion 0 as "any such program or work")
