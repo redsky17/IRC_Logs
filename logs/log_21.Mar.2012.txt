@@ -873,3 +873,4 @@
 [08:58:15] <alextsc> cya
 [08:58:32] ### member68 has quit the server. ()
 [08:59:58] ### Billd-Work has quit the server. (Ping timeout: 260 seconds)
+[09:07:37] <wjoe> apparently I've come across an error with gerrit that no one else has. but it keeps happening for every config I try :/
