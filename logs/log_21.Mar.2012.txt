@@ -159,3 +159,35 @@
 [02:00:18] <joholz> makes sense
 [02:00:21] <aschneid> I don't think there are many schools that offer Android development officially.
 [02:00:32] <vcarl> my community college offers a class
+[02:00:35] <vcarl> but no degree or anything
+[02:01:19] <aschneid> I mean, you have to get experience somewhere….and if you have a programming background and have put out a couple of apps (hopefully well received), most companies will take that to at least get the interview process going.
+[02:01:54] <vcarl> yeah, having something in the market is huge
+[02:01:54] <joholz> yea thats true
+[02:02:09] <aschneid> I'm primarily a Java/JEE developer, but none of my applications have ever been internet facing.
+[02:02:15] <vcarl> i have  a lot of little projects that are neat, but nothing that's actually in distribution
+[02:02:19] <aschneid> So, I use the experience on my resume to get me in the door
+[02:02:29] <aschneid> then ace the technical interview. :-)
+[02:02:56] <joholz> how does one "ace the technical interview"?
+[02:03:05] <vcarl> answer all their questions :P
+[02:03:07] <anjoyed> know your shit
+[02:03:11] <anjoyed> :)
+[02:03:16] <aschneid> Depends on what they are asking.
+[02:03:18] <joholz> haha nuff said
+[02:03:28] <aschneid> I typically go in for Architect level positions now.
+[02:03:43] <aschneid> So, the questions are different than a line level programmer
+[02:04:18] <aschneid> But I would say, if we even get involved in the development here and *hopefully* get some apps out that you help work on
+[02:04:26] <aschneid> That will be experience you can put on your resume
+[02:04:46] <aschneid> Couple that with any individual learning you did (to ace the interview)
+[02:04:55] <aschneid> That would get you in the door
+[02:05:21] <aschneid> I've done hiring and interviewing in the past…I just want to see enough on your resume to make it sound like you know your stuff and have done the work
+[02:05:41] <aschneid> I will weed out those who don't know what they are doing (or lying on their resume) in the interview
+[02:05:44] ### Dillon[ca] has joined ##reddit-android-developers
+[02:06:03] <joholz> well if they expect what I write on my resume i shoudln't have a problem
+[02:07:08] <aschneid> Almost every interview I have been on (and that's probably about 30-40 in the last 15 years…) always covers what you have on your resume
+[02:07:26] <aschneid> Then they will almost always go beyond your comfort zone to see where your limits are
+[02:09:12] <aschneid> The problem is finding a company that will pay you to do Android development. :-)
+[02:09:13] ### alextsc has joined ##reddit-android-developers
+[02:09:43] <joholz> makes sense, you sound experienced
+[02:09:46] <alextsc> morning :)
+[02:10:00] <joholz> morning to ya
+[02:10:05] <anjoyed> guten morgen
