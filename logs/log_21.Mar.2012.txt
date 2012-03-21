@@ -2021,3 +2021,51 @@
 [16:18:27] <Hogofwar> dammit
 [16:18:29] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
 [16:19:05] <Sanit> fair enough.
+[16:21:00] ### LogiiBot has joined ##reddit-android-developers
+[16:21:02] <Hogofwar> !paste -1
+[16:21:03] <garychencool> I keep on getting log in failures wow
+[16:21:16] <lacop> Sanit, not sure if you read my post about this in the mailinglist, I think we should avoid having a lot of places to do stuff ... the forum might be nice, but then you start fragmenting the discussion and it'll be hard to keep track of it
+[16:21:40] <lacop> we should start with the minimal ammount of things required, and move to more only when the need arises
+[16:21:49] <Hogofwar> !paste -1
+[16:21:50] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/EAed
+[16:21:52] <jaimeh> Is gerrit for the project managers?
+[16:22:25] <member68> gerrit is for everybody. it's a system for reviewing code before it is added to the main app
+[16:22:49] <lacop> yup, to avoid bugs, it's better if somebody else takes a quick look at each commit
+[16:23:08] <lacop> member68, who will have the approval rights? just team leaders or the entire github team?
+[16:23:25] <jaimeh> Yeah but there is no point for review if that same person can approve
+[16:23:36] <lacop> jaimeh, they can't
+[16:23:42] <Grillon> peer review?
+[16:23:54] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[16:24:22] <member68> admins, team leaders for now
+[16:24:22] <lacop> also I think you can make it so it requires 2 or even more approvals
+[16:24:38] <member68> I'll add experienced devs later
+[16:25:03] <Sanit> Lacop: I just looked at the Google Groups now, never used it before. Looks good.
+[16:25:18] <member68> I'll have to look at the system first. so far i've only been a user, not a admin
+[16:25:21] <lacop> Sanit, it's a pretty mailinglist
+[16:25:43] <joholz> so pretty much redmine will have the projs to join, just choose which one you want?
+[16:25:44] <lacop> I like the web interface, but if you don't you can just use it through emails
+[16:26:15] <member68> joholz: yes
+[16:26:17] ### jaimeh has quit the server. (Quit: Bye)
+[16:26:42] <lacop> Sanit, btw, could you approve me on redmine for the quick submit app?
+[16:27:14] ### jaimeh has joined ##reddit-android-developers
+[16:27:15] ### Raionic has quit the server. (Quit: Bye)
+[16:27:20] <Sanit> you are already listed as a member
+[16:27:29] <Sanit> let me double check
+[16:27:39] <CarstenCarsten> How can I join the mailing list?
+[16:27:55] <jaimeh> We have a mailing list?
+[16:28:04] <member68> yes, we have google groups
+[16:28:08] <jaimeh> Oh
+[16:28:14] <jaimeh> I thought it was something new
+[16:28:16] <Sanit> lacop: yep, you're there
+[16:28:21] <Sanit> not coming up for you?
+[16:28:23] <lacop> thanks
+[16:28:29] <CarstenCarsten> I never used google groups?
+[16:28:39] <CarstenCarsten> How does it work?
+[16:28:49] <lacop> CarstenCarsten, go here: https://groups.google.com/forum/?fromgroups#!forum/redditandroiddevelopers
+[16:28:58] <lacop> and then click subscribe or something
+[16:29:16] <lacop> and choose from the options - get each mail, get a digest once a day, ..., or nothing at all
+[16:29:16] <jaimeh> irc client for android?
+[16:29:31] <lacop> if you go for nothing at all then just use the web interface to read and reply
+[16:29:33] <jaimeh> andchat is pretty awesome, I think.
+[16:29:50] <lacop> if you use the emails, you can read it with your mail client, and reply to them like normal emails
+[16:29:56] <member68> it was one of the most often suggested ideas, so I added it to the list
