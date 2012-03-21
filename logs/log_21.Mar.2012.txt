@@ -1281,3 +1281,23 @@
 [12:09:13] <Raionic> Then you can count all "a" and all "b"
 [12:09:21] <wjoe> ...ok, maybe something can do it even better
 [12:09:53] <wjoe> uniq looks pretty good
+[12:10:21] ### red_sky has quit the server. (Ping timeout: 240 seconds)
+[12:11:30] <member68> you can edit the spreadsheet if you want
+[12:11:38] <member68> ups, that was for lacop
+[12:13:58] ### markerz has joined ##reddit-android-developers
+[12:14:07] <member68> ok, thanks to lacop, we got an answer who is leading at the moment: http://pastebin.com/Bn3vG0NE
+[12:14:26] <member68> thanks to everybody else too, btw ;)
+[12:14:26] ### markerz has quit the server. (Read error: Connection reset by peer)
+[12:14:36] ### markerz has joined ##reddit-android-developers
+[12:14:58] <wjoe> looks like people want to make a reddit app
+[12:15:11] <Raionic> Woo hoo go tamagotchi!
+[12:15:54] <member68> wjoe: i doubt that. who in their right mind would ever go to reddit, you know, with all the child pornographers and rapists there :p
+[12:16:28] <member68> it's not like any of us ever go there
+[12:16:56] ### joholz has joined ##reddit-android-developers
+[12:17:02] <member68> but seriously, i thing the direction is rather clear
+[12:17:08] <member68> *think
+[12:17:18] <joholz> hola
+[12:17:46] <wjoe> haha
+[12:18:21] <wjoe> I just think making a reddit app is a bit unnecessary when there are lots already, and some (well, probably all) are made by redditors
+[12:18:40] <wjoe> but clearly they're not good enough if that many people want to make one :p
+[12:19:48] <member68> i think we could start with a reddit quick submit app, and work on a client later on. we can merge both projects later if we want to
