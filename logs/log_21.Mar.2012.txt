@@ -585,3 +585,21 @@
 [04:39:53] <member68> it's hard to judge people you have never worked with before. that's what the initial projects are for. getting people up to speed, and to find out who actually is ready to do some work
 [04:40:03] <member68> thenumb, let me check
 [04:40:34] <member68> by desigerns, you mean interface and graphics?
+[04:40:36] <alextsc> right
+[04:40:39] <TheNumb> member68: yes
+[04:41:15] <member68> 15 designers
+[04:41:26] <TheNumb> Wow
+[04:41:28] <TheNumb> That's nice
+[04:41:42] <alextsc> indeed :o
+[04:41:52] <member68> some of them are UI only though.
+[04:41:58] ### zubsani has joined ##reddit-android-developers
+[04:42:09] <member68> but we got a nice group here
+[04:42:32] <TheNumb> We'll also need people with experience in backend/api development :<
+[04:43:00] <alextsc> I think we got some from what I've seen
+[04:46:29] <anyonethinkingab> member68 we have a good amount of possible PM's
+[04:47:14] <matt-ice> do you think that a reddit client would be a good idea? I know there are many and there is always room for one more... but unless this would bring something truly new, we would be just making a copy of f5, reddit is fun, reddionic, baconreader etc tec
+[04:47:48] <TheNumb> matt-ice: it would be great.
+[04:47:58] <TheNumb> matt-ice: Reddit client from redditors.
+[04:48:06] <member68> do any of you know how i have to set up github to allow the following workflow: somebody wants to change code -> new branch -> code must be approved by a experienced dev(could be part of a guthub team). i think currently everybody can push code without any review process
+[04:48:10] <matt-ice> TheNumb: arent all of them from redditors?
+[04:49:53] <TheNumb> matt-ice: dunno ;D
