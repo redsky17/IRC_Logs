@@ -1420,3 +1420,5 @@
 [13:26:06] <Hogofwar> The micro tier so it's free
 [13:26:41] <Hogofwar> not big enough for what you want though lacop
 [13:29:10] <lacop> I guess I really need to put together a server and run it myself
+[13:33:49] ### markerz has joined ##reddit-android-developers
+[13:33:49] ### markerz| has quit the server. (Read error: Connection reset by peer)
