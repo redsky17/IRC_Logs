@@ -2415,3 +2415,39 @@
 [18:08:57] <artico> i have a driver's license, but that's about it.
 [18:09:12] <Lilday> me too
 [18:09:17] <Lilday> and a motorcycle license in 3 days :D:D:D
+[18:10:07] <artico> is there like a separate process for a motorcycle license, or is it just like, tacked on to your regular license?
+[18:10:09] <jaimeh> member68, eat and sleep and you won't need it
+[18:10:37] <member68> 11:12 pm here. sleep is a good idea
+[18:10:49] <member68> probably around midnight ;)
+[18:11:04] <c0smic> Man, these time zone differences are crazy
+[18:11:05] ### alextsc_ has quit the server. (Quit: Quit)
+[18:11:51] <Hogofwar> fuckin hell
+[18:12:03] <Lilday> @artico well - in the UK its pretty complicated. For a car license you need to pass a theory test, and a hazard perception (video) test. Then you have a practical driving test after about 15-25 lessons.
+[18:13:03] <artico> ah, not that much different then
+[18:13:21] ### midgaze has parted (left) the channel.
+[18:14:18] ### anyonethinkingab has quit the server. (Ping timeout: 246 seconds)
+[18:14:32] <Lilday> @artico with a motorcycle - you do CBT (compulsory basic training) which limits you to a 125cc bike. You need to do another theory test after this Then - with a CBT you can take your Mod1 test (off road - in a parking lot with cones and stuff) and then (if you pass) you take your Mod2 test (on the road - like car test). This then lets you ride any bike up to 33bhp. You are restricted to 33bhp until you are 21, or f
+[18:14:40] ### anyonethinkingab has joined ##reddit-android-developers
+[18:15:08] <Lilday> But - I think in America to ride ANY size motorcycle - you don't need anything. Just an optional MSF course. But I'm not sure about that.
+[18:15:27] <Raionic> I think it depends on the state
+[18:15:41] <Raionic> But idk not much motorcycle driving in new york city
+[18:15:46] <artico> haha
+[18:16:27] <Hogofwar> is this okay? https://github.com/hogofwar/LogBot/blob/master/LICENSE
+[18:17:15] <artico> now i just have to wait for a conversation about motorcycles in the UK, then i can drop some knowledge.
+[18:17:36] <Lilday> hahaha
+[18:17:40] <Hogofwar> artico, that quad bikes aren't classified as motorcycles?
+[18:17:47] <Lilday> haha yeah
+[18:17:54] <Lilday> ride a quad bike on a car license here...
+[18:18:08] <Lilday> I'm pretty sure most US states dont allow quads on roads anyway
+[18:18:18] <artico> i didn't think they did either
+[18:18:32] <artico> though i have seen a couple odd vehicles, so i don't really know
+[18:18:33] ### colm has joined ##reddit-android-developers
+[18:18:40] ### colm is now known as Sanit
+[18:18:44] <Hogofwar> also that you can use moped when youa re 16
+[18:18:47] <Hogofwar> *Are
+[18:18:52] <vcarl> oo oo, i have a motorcycle, i know this
+[18:19:09] <Sanit> sweet. Irssi is nice
+[18:19:18] <Lilday> That seems good Hog
+[18:19:33] <vcarl> scooters require no special license, but motorcycles 125cc (i think that's the cutoff) need a CY certification
+[18:19:50] <Lilday> @vcarl what do you ride?
+[18:20:08] <vcarl> which you get by either taking a road test via the DMV or by taking a MSF class, and you need to pass a written test, which is like 15 question long
