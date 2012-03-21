@@ -1324,3 +1324,22 @@
 [12:27:33] <veeti> commit messages should be decipherable without an issue tracker
 [12:28:14] <veeti> so a good example would be "Fix [short description of bug]" and "fixes #999" after that
 [12:28:54] <member68> commit message have to include WHAT was fixed, but not how, when or why
+[12:30:25] <member68> wjoe, any news on the gerrit error you had?
+[12:31:06] <veeti> is gerrit really necessary
+[12:31:09] <veeti> github already has pull requests
+[12:31:23] ### vcarl has joined ##reddit-android-developers
+[12:31:32] <Raionic> Btw ...that was just an example guys. Not a standard
+[12:32:13] <member68> i tried it but it's quite complicated. it also requires very few people to approve all commits. with gerrit, we can offload some work to everybody who wants to help
+[12:32:16] <wjoe> member68: not so far. busy day today, so I haven't had a chance to look at it properly. I've got a few ideas to try later
+[12:32:33] <member68> alright. thanks
+[12:32:44] <veeti> are you saying that pull requests are more complicated than gerrit
+[12:33:02] <member68> based on my experience, yes
+[12:33:27] <veeti> i don't really understand how you could come to that conclusion
+[12:34:17] <Hogofwar> what is gerrit
+[12:34:18] ### markerz has quit the server. (Read error: Connection reset by peer)
+[12:34:19] ### markerz| has joined ##reddit-android-developers
+[12:35:05] <lacop> code review
+[12:37:28] <wjoe> well, nothing can be worse than the code review system we had in one group I worked with - pastebinned the diffs and waited for someone to look at it in a week or so
+[12:38:18] <member68> veeti: have you worked with both systems?
+[12:38:39] <member68> wjoe: sounds like the project manager was an idiot
+[12:39:21] <wjoe> old fashioned, at least. he had the right idea, having code review rather than everyone pushing commits to the main repo. he was just completely unaware of any systems liked this
