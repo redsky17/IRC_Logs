@@ -544,3 +544,19 @@
 [04:17:44] <member68> sound chaotic to me right now, but I guess as a community, there is no right or wrong way
 [04:20:16] <member68> i was just going over the table again. only one person put down management, however about 10 people added projects they want to lead
 [04:20:38] <TheNumb> member68: since we have people all around the globe some portion of work could be done say by the guys in the US and then it'd be taken over by the guys from EU to keep the things rolling ;-)
+[04:20:48] ### anyonethinkingab has joined ##reddit-android-developers
+[04:21:08] <TheNumb> I mean, taken over by the end of the day in the US :P
+[04:21:16] <TheNumb> If you know what I mean.
+[04:21:29] <TheNumb> That's what big players do ^^
+[04:21:35] <matt-ice> TheNumb: once this goes in full swing it will be the fastest dev team in the world :) 24/7 coding
+[04:21:43] <TheNumb> matt-ice: yeah.
+[04:22:20] <TheNumb> ^^
+[04:22:40] <member68> we have the advantage that we are a small team. it's easier to coordinate.
+[04:23:02] <member68> but getting everybody to an acceptable level of coding experience is a big task
+[04:23:10] <member68> but we'll get there
+[04:23:18] <deliwien> yeah, the timezone is something we have to think about when choosing the team members
+[04:23:29] <TheNumb> member68: we'll have to get there ;p
+[04:23:53] <matt-ice> member68: TheNumb for this the educational app would be great
+[04:24:11] <matt-ice> get the best to work on that and then education can begin for the rest of us
+[04:24:40] <TheNumb> Well, I think I could join guys from Germany as we are in the same timezone.
+[04:29:24] <member68> when you say educational app, do you mean a "how to write for android" app?
