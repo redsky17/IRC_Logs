@@ -1,0 +1,6 @@
+[00:12:00] ### RadLogii has joined ##reddit-android-developers
+[00:13:54] ### kre3d has quit the server. (Ping timeout: 264 seconds)
+[00:14:28] <red_sky> I'm setting up my other server
+[00:14:37] <red_sky> so far everything's fantastic
+[00:14:53] <red_sky> it's only $0.50 more than my current VPS
+[00:15:00] <red_sky> so if it's good, I'll definitely make the switch
