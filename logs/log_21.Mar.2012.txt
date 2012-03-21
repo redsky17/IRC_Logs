@@ -922,3 +922,7 @@
 [09:55:40] ### markerz| has joined ##reddit-android-developers
 [09:55:40] ### markerz has quit the server. (Read error: Connection reset by peer)
 [09:56:27] <Grillon> blaise| you here?
+[10:02:47] <Grillon>                           | ps://github.com/RedditAndroidDev/ │ cgarcia
+[10:02:59] ### Raionic has joined ##reddit-android-developers
+[10:03:01] <Grillon> bleh putty didnt save my config
+[10:06:01] ### aschneid has parted (left) the channel.
