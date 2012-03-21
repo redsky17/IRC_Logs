@@ -874,3 +874,16 @@
 [08:58:32] ### member68 has quit the server. ()
 [08:59:58] ### Billd-Work has quit the server. (Ping timeout: 260 seconds)
 [09:07:37] <wjoe> apparently I've come across an error with gerrit that no one else has. but it keeps happening for every config I try :/
+[09:11:39] <lyrch> interesting, what version are you using? 2.2, or 2.3?
+[09:16:07] ### markerz| has joined ##reddit-android-developers
+[09:16:07] ### markerz has quit the server. (Read error: Connection reset by peer)
+[09:16:25] ### adamell has joined ##reddit-android-developers
+[09:16:51] <adamell> Good morning
+[09:17:06] <veeti> hi
+[09:17:10] <veeti> gerrit?
+[09:17:22] <adamell> I see that we're still in the voting perioud
+[09:17:29] <adamell> *period
+[09:17:35] <veeti> hopefully that changes tonight
+[09:17:42] <adamell> yay!
+[09:17:53] <adamell> In that case i'll go have some breakfast
+[09:20:13] <nataly> "tonight" - in what time zone?
