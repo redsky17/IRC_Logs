@@ -664,3 +664,12 @@
 [05:17:24] <RAWR> Ughh why does the website have overflow:hidden? Can't see the whole thing on my netbook D:
 [05:18:20] ### markerz| has quit the server. (Read error: Connection reset by peer)
 [05:18:28] ### markerz has joined ##reddit-android-developers
+[05:21:04] <RAWR> Oh... because of the gradient I see. :/
+[05:22:58] <zubsani> i will try to create new website as soon as possible
+[05:25:29] <member68> if you send me code to add another gradient at the bottom, i'll add it and make it scrollable
+[05:27:42] <zubsani> so, you only want me to add another gradient at the bottom, and make it scrollable ?
+[05:27:53] <member68> pretty much
+[05:27:56] <zubsani> i planing to create something with bootstrap
+[05:28:03] <zubsani> planning*
+[05:28:09] <zubsani> http://twitter.github.com/bootstrap/examples/hero.html
+[05:28:31] <zubsani> ok, i will see what i can do.
