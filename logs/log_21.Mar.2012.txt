@@ -2600,3 +2600,17 @@
 [19:17:50] <Sanit> member68: How would I move this repo to the RAD group on GitHub
 [19:19:20] <Sanit> can you create the repo and allow me to add to it?
 [19:19:43] <Sanit> sorry for all the questions, I will get the hang of this eventually
+[19:21:15] ### adamell has joined ##reddit-android-developers
+[19:21:39] <Hogofwar> Sanit, he would need to make a fork of the repo on the page
+[19:24:45] ### anjoyed is now known as anjoyed_o0O
+[19:25:00] ### lyrch has quit the server. (Quit: WeeChat 0.3.5)
+[19:25:19] <member68> you can transfer ownership in the admin settings
+[19:25:25] <member68> jsut give me a second
+[19:25:26] ### lyrch has joined ##reddit-android-developers
+[19:25:49] <member68> what's your github username?
+[19:26:22] <Sanit> ThisIsColm
+[19:27:23] <artico> i think i got it, i can use Environment.getExternalStorageDirectory().getAbsolutePath() and then run "mountpoint -n whatever" to get the device
+[19:27:53] <member68> you should be able to change ownership now
+[19:28:02] <Sanit> thanks. I'll have a look
+[19:28:57] <Sanit> done
+[19:29:31] ### markerz| has quit the server. (Ping timeout: 264 seconds)
