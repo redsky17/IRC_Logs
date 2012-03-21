@@ -2093,3 +2093,39 @@
 [16:39:56] <tmoskowite> c0smic
 [16:39:57] <lacop> c0smic, https://groups.google.com/forum/?fromgroups#!topic/redditandroiddevelopers/uwDR-C4R6Ww
 [16:40:00] <tmoskowite> we broke the internet
+[16:40:08] <lacop> last few hours, not sure how long you were gone
+[16:40:21] <lacop> check redmine, most new stuff is there
+[16:40:27] <jaimeh> Where is the form for signup? I did the one on the website yesterday, but there was a new one posted.
+[16:40:32] <jaimeh> on here
+[16:40:38] <joholz> tmoskowite, can you add me too?
+[16:40:43] <c0smic> lacop: Thanks for that link
+[16:40:49] <tmoskowite> PM me your info
+[16:40:52] <tmoskowite> I can add peoples
+[16:41:00] <tmoskowite> I do github things
+[16:41:01] <c0smic> I was on here for the form to choose which app we should build
+[16:41:03] <lacop> np, if I spent time writing might as well use it :)
+[16:41:10] <tmoskowite> If anyone needs help
+[16:41:17] <member68> jaimeh: https://docs.google.com/spreadsheet/viewform?formkey=dGxpZ21UUTlvSHdPM3U5VWNUb1V3Vmc6MQ
+[16:41:24] ### lyrch has joined ##reddit-android-developers
+[16:41:29] <member68> it's in the reddit sidebar too
+[16:41:36] <jaimeh> awesome, that is the one. Thanks member68
+[16:41:49] <jaimeh> I am at work, so no reddit right now.
+[16:42:39] <member68> I feel sorry for you ;)
+[16:42:49] ### kiel3 has quit the server. (Ping timeout: 245 seconds)
+[16:43:24] <member68> unless you're a surgeon or something like this of course
+[16:43:55] ### Airheebz has quit the server. (Ping timeout: 250 seconds)
+[16:44:16] <Sanit> is there a way of discussing a 'suggestion' in the issue tracker? Like replying to it etc..?
+[16:44:41] <member68> yes, people can comment on it
+[16:45:29] <Sanit> is that the "Quote" button?
+[16:46:39] <member68> look for an update button
+[16:46:40] <joholz> tmoskowite, i cant find you
+[16:47:00] <joholz> not on reddit
+[16:47:39] <anjoyed> aschneid, you about?
+[16:47:53] <aschneid> Yeah.
+[16:48:01] <tmoskowite> on reddit?
+[16:48:20] <anjoyed> any houghts on best way to tackle the imgur framework?
+[16:48:24] <anjoyed> *thoughts
+[16:48:31] <Sanit> Member68: thats the one, don't know why I said 'quote'
+[16:48:55] <TheNumb> anjoyed: http://api.imgur.com/examples#uploading_java :D
+[16:49:18] <aschneid> I'd say take a look at the code member68 sent earlier to start.
+[16:49:59] <aschneid> I glanced through it briefly, seems like it is strictly for uploading and potentially only oauth, not anon.
