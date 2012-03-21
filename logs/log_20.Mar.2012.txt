@@ -3417,3 +3417,25 @@
 [23:11:31] <ThatPlayer> Helps when my VPSes are 128 mb 15$/yr ones
 [23:11:59] ### blaise_|away is now known as blaise_
 [23:29:52] ### RadLogii has joined ##reddit-android-developers
+[23:30:48] ### RadLogii has joined ##reddit-android-developers
+[23:31:00] ### RadLogii has joined ##reddit-android-developers
+[23:31:04] <red_sky> kept hitting the wrong buttons
+[23:31:30] <red_sky> I was hitting ctrl+c when I wanted ctrl+a->ctrl+d
+[23:31:37] <red_sky> killing the screen session
+[23:31:46] <anjoyed> :)
+[23:31:46] <ThatPlayer> Haha
+[23:31:59] <ThatPlayer> Be safe, just disconnect and reconnect =)
+[23:32:23] <red_sky> okay
+[23:32:23] <red_sky> it should be running now
+[23:32:25] <red_sky> stay running*
+[23:32:30] <anjoyed> ctrl+a->d should do it
+[23:33:41] <red_sky> the cruddy thing is, my VPS is the best one I have found for the price
+[23:34:02] <ThatPlayer> ChicagoVPS has 2 GB OpenVZ for 7$ sometimes
+[23:34:03] <red_sky> any other $7.50 / mo won't give 50GB disk space, 1.5TB bandwidth, and 512MB Ram
+[23:34:14] <red_sky> I've been told to avoid OpenVZ like the plague
+[23:34:23] <ThatPlayer> Why?
+[23:34:30] <red_sky> due to the way the scaling of RAM and CPU work
+[23:34:42] <red_sky> you get "bursts" that are apparently really not reliable
+[23:34:51] <ThatPlayer> Depends on the provider I think
+[23:35:34] <ThatPlayer> Like I hear OpenVZ is supposed to be easier to oversell
+[23:36:08] <red_sky> I've heard that too
