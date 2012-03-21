@@ -560,3 +560,28 @@
 [04:24:11] <matt-ice> get the best to work on that and then education can begin for the rest of us
 [04:24:40] <TheNumb> Well, I think I could join guys from Germany as we are in the same timezone.
 [04:29:24] <member68> when you say educational app, do you mean a "how to write for android" app?
+[04:30:41] <matt-ice> member68: that, also java tutorials, text/video based, I dont have an exact idea for that, Im refering to what was posted on /r/
+[04:31:28] <member68> the app itself is easy to write. but we would we get the content?
+[04:31:37] <TheNumb> member68: redditors :D
+[04:31:55] <TheNumb> We could also spam a little on /r/java and /r/androiddev
+[04:33:55] ### markerz has joined ##reddit-android-developers
+[04:35:39] <alextsc> and back :)
+[04:36:22] <alextsc> member68, yes, I know that the question was worded that way. The "project to lead" decision is one point.
+[04:36:31] <TheNumb> alextsc: and welcome back ;D
+[04:36:35] <alextsc> thanks :)
+[04:37:07] <alextsc> i thought about PM for myself, but I decided that there are not enough infos yet for me
+[04:37:24] <alextsc> i dont have any open source experience at all, let alone leading a project
+[04:37:41] <alextsc> i mean, i can dive into that, if i write code or emails for 2 hours a day doesnt matter
+[04:37:51] <alextsc> as long as i have the feeling to help and contribute
+[04:38:16] <member68> i don't have much experience either. but i'm motivated and i have some time i can spend on it.
+[04:38:20] <alextsc> but the project should be at least interesting for myself
+[04:38:29] <alextsc> and i want to know the team beforehand
+[04:38:43] <alextsc> 15 chaotic redditors are more of a challenge than 8 dedicated people
+[04:38:45] <member68> btw, everybody, a reddit client seams to get the most interest from people willing to lead teams
+[04:38:48] <alextsc> (if that makes sense)
+[04:39:06] <member68> true, alextsc
+[04:39:08] <alextsc> i dont want to start on hard-mode basically :)
+[04:39:45] <TheNumb> So, how many designers do we have?
+[04:39:53] <member68> it's hard to judge people you have never worked with before. that's what the initial projects are for. getting people up to speed, and to find out who actually is ready to do some work
+[04:40:03] <member68> thenumb, let me check
+[04:40:34] <member68> by desigerns, you mean interface and graphics?
