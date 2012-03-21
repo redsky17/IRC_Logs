@@ -771,3 +771,14 @@
 [07:10:34] ### zubsani has parted (left) the channel.
 [07:17:11] ### markerz| has joined ##reddit-android-developers
 [07:17:12] ### markerz has quit the server. (Read error: Connection reset by peer)
+[07:21:23] <member68> lyrch: http://i.imgur.com/iuT65.jpg
+[07:22:02] <anyonethinkingab> looks good, who made that?
+[07:22:10] <lyrch> member68: nice, simple and effective
+[07:22:43] <member68> people can fork it, write the methods and can add functionality if the want
+[07:22:52] <anyonethinkingab> set the start number to 0
+[07:23:17] <member68> forgot about 0 ;)
+[07:23:21] <anyonethinkingab> solution spoiler: then always do *10+(number), right?
+[07:23:22] <member68> I'll add it
+[07:27:27] <lyrch> just looking at that makes me want to break out my "learn android" books again, so i can remember how to set layout properties correctly
+[07:30:01] <wjoe> android layout stuff is one of those things I just end up having to look up every time
+[07:30:06] <member68> there we go: http://i.imgur.com/p8Uh8.jpg
