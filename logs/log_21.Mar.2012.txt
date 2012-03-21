@@ -73,3 +73,34 @@
 [01:35:35] <red_sky> server migration
 [01:36:07] <anjoyed> they moving south for the spring
 [01:36:16] <red_sky> hopefully the new VPS won't have a shitty connection like my other one
+[01:41:03] <joholz> what you think caused latency?
+[01:44:17] <red_sky> my VPS
+[01:44:21] <red_sky> or their service provider
+[01:44:31] <red_sky> VPS provider* or service provider
+[01:45:20] <red_sky> so I just realized that in the past 24 hours, I've only consumed some water, tea, a milkshake, 2 monster energy drinks, a clif bar, and some reese's pieces
+[01:45:29] <red_sky> I need to find food.
+[01:45:53] <joholz> haha wow, your going to be the end of yourself
+[01:46:12] <red_sky> yeah, it's not intentional... I usually just get wrapped up in things and forget to eat
+[01:46:42] <anjoyed> man, get some decent food into you
+[01:46:55] <red_sky> all the "decent" food places are closed
+[01:46:59] <red_sky> I'm out of food
+[01:47:06] <red_sky> that leaves mcdonald's and taco bell
+[01:47:26] <red_sky> both of which are disgusting
+[01:47:27] <anjoyed> not good :<
+[01:47:43] <joholz> quick stop at walmart
+[01:48:00] <red_sky> hah, the nearest one is about 3 miles away
+[01:48:02] <red_sky> I don't have a car
+[01:48:17] <ThatPlayer> some grass
+[01:48:21] <joholz> dirt
+[01:48:29] <joholz> hunt
+[01:48:40] <red_sky> lol
+[01:48:55] <joholz> how do you live without a car?
+[01:49:06] <joholz> bus?
+[01:49:13] <red_sky> easy, 1) bike, 2) I'm a student
+[01:49:13] <ThatPlayer> I live without a car, I'm a poor college student =)
+[01:49:25] <red_sky> everything I usually do is within 2 miles
+[01:49:37] <red_sky> though I don't like to go shopping with my bike as I lack panniers
+[01:49:42] <ThatPlayer> I dorm so that's nice
+[01:49:49] <ThatPlayer> But I'm getting a car next school year, commuting
+[01:50:00] <joholz> also youd use a good amount of energy just to go ther i assume, 3 miles
+[01:50:04] <red_sky> my shitty diet started ever since I got off my campus meal plan
