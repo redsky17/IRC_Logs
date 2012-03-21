@@ -3204,3 +3204,48 @@
 [21:19:41] ### bbene_ has joined ##reddit-android-developers
 [21:19:49] <Navarr> we do NOT want to do it ourselves
 [21:19:57] <Navarr> where possible we should contribute to the greater android community, methinks
+[21:20:08] <red_sky> is ActionBarSherlock open source?
+[21:20:11] <Navarr> yes
+[21:20:16] <blaise|> RIF is closed now
+[21:20:16] <red_sky> what license?
+[21:20:24] <Navarr> lemme check
+[21:20:33] <Navarr> Apache 2
+[21:20:45] <blaise|> Didn't Google back port action bar to 1.6 as a lib)
+[21:20:46] <red_sky> yeah, but you can see how it looks on an older phone, blaise|
+[21:20:52] <blaise|> ?
+[21:20:57] <Phase> Navarr: hi.
+[21:20:59] <blaise|> Yeah, I have it
+[21:21:00] <Navarr> No.  Google didn't back port actionbar so far as I'm aware
+[21:21:02] <Navarr> HI PHASE
+[21:21:03] <Phase> lol
+[21:22:15] <red_sky> it's in the compatibility package
+[21:22:15] <red_sky> so yeah
+[21:22:15] <Navarr> since when?
+[21:22:15] <red_sky> but it takes a while to implement
+[21:22:15] <red_sky> I'm pretty sure it is, I'll check
+[21:22:15] <Navarr> the reason ABS exists is because it isn't
+[21:22:15] <blaise|> Yeah, they ported it and some other features
+[21:22:15] ### bbene has quit the server. (Read error: Operation timed out)
+[21:22:15] ### bbene_ is now known as bbene
+[21:22:15] <Navarr> "The ActionBar is not supported by the library. However, when creating your Options Menu, you can declare which items should be added to the Action Bar when it's available (on Android 3.0 or later)."
+[21:22:15] <blaise|> I think they recently released. When I am on my computer I will find it
+[21:22:15] ### pocus has quit the server. (Quit: Page closed)
+[21:22:32] <red_sky> http://developer.android.com/resources/samples/ActionBarCompat/index.html
+[21:22:41] <red_sky> not technically part of the compatibility package
+[21:22:49] <red_sky> but you can implement something nearly identical
+[21:22:51] <Navarr> It lets you use it on 3.0+ but it doesn't make it exist on pre-3.0
+[21:22:56] <red_sky> I've actually done it already on an app
+[21:23:08] <red_sky> it isn't technically the action bar, but looks exactly like it
+[21:23:14] <Navarr> ah
+[21:23:16] <red_sky> well, not exactly... pretty close
+[21:23:19] <Navarr> why not use ABS?
+[21:23:41] <red_sky> It has a license I'm okay with
+[21:23:44] <red_sky> so I'm okay with using it
+[21:23:52] <red_sky> were it GPLv3, we would have to also use the GPLv3
+[21:23:55] <red_sky> which I fucking hate
+[21:24:28] <blaise|> I will have to continue in a bit. Kids are ready for dinner
+[21:24:47] <blaise|> Definitely interested in that project though
+[21:24:51] ### blaise| has quit the server. (Quit: Bye)
+[21:29:33] <jaimeh> Nothing wrong with GPLv3 just use it for apps. If you want to share libraries, license those MIT
+[21:29:52] <red_sky> I *really* dislike the GPLv3
+[21:29:59] <red_sky> I won't work on any software if that's the license we're using
