@@ -2357,3 +2357,32 @@
 [17:49:53] <jaimeh> I agree
 [17:50:01] <member68> Raionic: I like the idea. we'll see if we can do something like that
 [17:50:02] ### Billd-Work is now known as Billd
+[17:50:22] <Hogofwar> http://badazz25.tripod.com/index-bitch.html
+[17:50:25] <ballpointcarrot> Raionic: a shared coding hangout sounds like a neat idea.
+[17:50:57] <Raionic> especially in the initial stages of this perhaps G+ session for the framework headed by the PM would be beneficial
+[17:51:17] <Sanit> See the eclipse synchronized coding plugin on r/programming the other day? 2 people could similtaniously edit a project like Google Docs
+[17:51:35] <Sanit> wasn't released but awesome concept
+[17:52:20] <anjoyed> would make pair programming easier
+[17:52:32] <anjoyed> wouldnt have to share a screen
+[17:55:38] ### Lilday has joined ##reddit-android-developers
+[17:56:03] <lacop> gotta go, see you tomorrow
+[17:56:19] ### lacop has quit the server. (Quit: Leaving)
+[17:56:22] <Hogofwar> What's the best license for my IRC bot?
+[17:56:37] <veeti> MIT
+[17:57:11] <Lilday> @veeti hey - whats the team like on the IRC app
+[17:57:18] <Hogofwar> That seems to allow people to sell my stuff
+[17:57:23] <Hogofwar> I would rather not?
+[17:57:33] <veeti> well if you want a more restrictive license use GPL
+[17:57:37] <veeti> but that doesn't prevent them from selling it either
+[17:57:40] <veeti> Lilday: hi
+[17:57:43] <veeti> no idea really
+[17:57:59] <veeti> only the quick submit project has had some activity so far
+[17:58:03] ### Sanit has quit the server. ()
+[17:58:04] <Lilday> I could probably sign up to work on the design/UI
+[17:58:20] <Lilday> busy for the next 48 hours though - Uni work really heavy for the next week or so
+[17:59:07] <Raionic> Is it the last minute? If not you can blow it off. That was my decision making process in college at least lol
+[17:59:13] <Lilday> @Danopia who has been working on the new website? it looks awesome :D
+[17:59:31] <Lilday> @Rainonic yeah thats pretty much how we roll
+[17:59:42] <Lilday> @Raionic hasn't been a good idea though haha
+[17:59:54] <member68> lilday: zubsani worked on it
+[18:00:04] <Lilday> ah - it looks sweet
