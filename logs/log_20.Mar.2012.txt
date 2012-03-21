@@ -3349,3 +3349,12 @@
 [22:06:48] <red_sky> section 2b in v2
 [22:07:07] <red_sky> and 5c in v3
 [22:09:50] <ubergeek42> thanks, I don't see much difference tbh, v2 says "program or any part thereof" which reads the same to me as "entire work"(and v2 defines a program in secion 0 as "any such program or work")
+[22:11:39] <red_sky> any part thereof referring to any part of the program
+[22:11:39] <red_sky> entire work is much more broad than program
+[22:12:46] <ubergeek42> v3 defines "covered work" as either the unmodified program or a work based on the program; presumably covered work = entire work, so I'm still not seeing a difference
+[22:14:25] <ubergeek42> anyways, interesting to see other viewpoints; time for me to get some sleep
+[22:14:31] <red_sky> v2 defines it different than that
+[22:14:54] <red_sky> program is defined as any program or work and defines "work based on the Program" as something else
+[22:15:06] <red_sky> it doesn't say you need to license work based on the program under the gplv2
+[22:15:49] <red_sky> well, good night
+[22:18:25] ### Raionic has quit the server. ()
