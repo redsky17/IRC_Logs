@@ -3466,3 +3466,23 @@
 [23:48:26] <red_sky> think you could explain that to me better?
 [23:48:41] <ThatPlayer> Nope, I don't know much either =)
 [23:48:59] <red_sky> it's worded in a way that makes me think that all CPUs are shared by all VPS
+[23:50:10] <ThatPlayer> Well they say it's dual quad xeons, but I only have access to four cores
+[23:50:34] <danopia> <red_sky> is that CPU shared between all VPS on one box?
+[23:50:44] <danopia> i've seen vpses provided with 8 cores before
+[23:50:46] ### jselk has joined ##reddit-android-developers
+[23:50:50] <blaise_> It sounds like they have multiple nodes, and each node is a dual quad Xeon server.
+[23:50:54] <red_sky> danopia, that's what we're trying to figure out
+[23:51:03] <danopia> well they're obviously shared somehow
+[23:51:15] <danopia> it's probably treated as a cloud of sorts
+[23:51:24] <blaise_> And all the VPSes hosted on that node shares both CPUs (with a virtual quad for your VPS).
+[23:51:27] <vcarl> might even be dual hyperthreaded cores
+[23:51:30] <red_sky> hmm, yardvps and chicagovps both use whmcs (http://www.whmcs.com
+[23:51:30] <ThatPlayer> My Wiredtree VPS has 8 cores, but that one is also 100$/mo
+[23:51:32] <danopia> like there's 32 VPSes proved 8 cores
+[23:51:37] <danopia> promished*
+[23:51:39] <danopia> meh
+[23:51:46] <ThatPlayer> whmcs is pretty common
+[23:51:56] <danopia> anyway, it probably would slow down if every VPS used all of every core
+[23:52:00] <blaise_> You'd be surprised at what you can do with the virtuals.
+[23:52:02] <danopia> like, quite a bit
+[23:57:08] ### RadLogii has joined ##reddit-android-developers
