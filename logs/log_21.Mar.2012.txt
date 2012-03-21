@@ -425,3 +425,22 @@
 [03:31:44] <alextsc> hey
 [03:32:55] ### ballpointcarrot has quit the server. (Quit: Quit.)
 [03:35:44] ### markerz has quit the server. (Ping timeout: 245 seconds)
+[03:43:02] ### member68 has joined ##reddit-android-developers
+[03:44:01] <Hogofwar> hey member68
+[03:44:51] <member68> morning :)
+[03:45:08] <ThatPlayer> Morning
+[03:46:43] <member68> anything happen in the last 8 hours? btw, we need a better system tracking decisions and progress
+[03:46:50] <member68> *system for tracking
+[03:47:51] <joholz> no nothing much, just new polls
+[03:47:51] <TheNumb> member68: HAI
+[03:48:05] <aschneid> I had a conversation about potentially writing an imgur framework (and maybe an app) after looking through some of the potential app idea.
+[03:48:14] <aschneid> (when my nick was blaise_)
+[03:48:19] <Hogofwar> !logs
+[03:48:34] <TheNumb> aschneid: we could use imgur API.
+[03:48:53] <TheNumb> It's fairly simple.
+[03:48:54] <aschneid> However, I'm not sure the chat log picked everything up because the bot was up and down
+[03:49:01] <aschneid> Yeah….that was part of the discussion
+[03:49:34] <Hogofwar> aschneid, it was?
+[03:49:39] <aschneid> I have the log saved here locally
+[03:49:53] <member68> good idea, especially since it's related to Reddit.
+[03:49:56] <aschneid> Hogofwar: the imgur api was discussed
