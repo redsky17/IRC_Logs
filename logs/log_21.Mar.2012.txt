@@ -2541,3 +2541,34 @@
 [18:59:47] <lyrch> hope it was commited
 [18:59:53] <anjoyed> i cloned it here too so no worries
 [18:59:57] <member68> if you use egit, right click a file and select team -> untrack
+[19:00:22] <lyrch> ah the wonders of git, it's nice to have a distributed repo
+[19:01:31] ### CarstenCarsten has quit the server. (Quit: Quick! Kill your client! Bersirc 2.2 is here! [ http://www.bersirc.org/ - Open Source IRC ])
+[19:01:49] <Sanit> i'm just using git from the command line
+[19:01:55] <Sanit> hmmm
+[19:04:11] ### Github has joined ##reddit-android-developers
+[19:04:12] <Github> [LogBot] none pushed 3 new commits to master: http://git.io/Ar9m0w
+[19:04:12] <Github> [LogBot/master] Added comments and some small cleaning, mostly exceptions. - Daniel
+[19:04:12] <Github> [LogBot/master] Added the LICENSE and the README - Daniel
+[19:04:12] <Github> [LogBot/master] one comment added for splitting strings. - Daniel
+[19:04:12] ### Github has parted (left) the channel.
+[19:05:00] <Sanit> got it all back. Just cleaned the project in Eclipse and the classes are back
+[19:05:31] ### Github has joined ##reddit-android-developers
+[19:05:31] <Github> [LogBot] none pushed 3 new commits to master: http://git.io/Ar9m0w
+[19:05:31] <Github> [LogBot/master] Added comments and some small cleaning, mostly exceptions. - Daniel
+[19:05:31] <Github> [LogBot/master] Added the LICENSE and the README - Daniel
+[19:05:31] <Github> [LogBot/master] one comment added for splitting strings. - Daniel
+[19:05:31] ### Github has parted (left) the channel.
+[19:05:52] ### rapidfyre has quit the server. (Quit: Bye)
+[19:05:52] <lyrch> ah right, bin is a auto-generated dir
+[19:06:23] <Sanit> yep
+[19:06:36] <lyrch> i need to get used to java projects again
+[19:07:09] <member68> Sanit: https://github.com/RedditAndroidDev/AlphaProject/blob/master/.gitignore
+[19:07:29] <Sanit> have that file already, but it's not removing what is up there
+[19:07:42] <Sanit> it will just ignore them in the future (AFAIK)
+[19:08:26] <member68> have you tried this: delete files, make a commit, push commit?
+[19:08:47] ### sam_ has joined ##reddit-android-developers
+[19:09:00] <Sanit> i'll try
+[19:09:09] <member68> git add -u
+[19:09:09] <member68> git commit -m "Removed some files"
+[19:09:22] <member68> that should do the trick
+[19:09:49] <artico> is the sd card always mounted as /dev/block/mmcblk*, or does that vary from device to device?
