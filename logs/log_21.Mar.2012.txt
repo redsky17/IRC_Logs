@@ -1100,3 +1100,62 @@
 [11:29:49] <red_sky> fork, maybe
 [11:29:51] <member68> i still can't believe we have 500 people watching the subreddit
 [11:29:53] <red_sky> depending on what you want
+[11:30:37] <Hogofwar> Grillon, github name is hogofwar :P
+[11:30:55] <Hogofwar> red_sky, haha what do you plan to add?
+[11:30:59] <garychencool> I believe GitHub barley goes down? y/n?
+[11:31:09] <member68> github is stable
+[11:31:11] <Hogofwar> You guys also get to laugh over my terrible programming
+[11:31:15] <red_sky> I can help with things member68 suggested
+[11:31:24] <Hogofwar> red_sky, what things?
+[11:31:27] <red_sky> like google translate
+[11:31:31] <Hogofwar> oh, that crap
+[11:31:43] <Hogofwar> So you are turning the log bot into a multi-purpose one
+[11:31:49] <red_sky> oh, nevermind
+[11:31:57] <Hogofwar> red_sky, i'm not against it
+[11:32:05] <red_sky> wjoe suggested that stuff, haha, xchat gives him the same name color as member68
+[11:32:23] <red_sky> hmm, you know, I like the idea of having extra features
+[11:32:27] <Hogofwar> Hell, I already made a multi-purpose plugin-based IRC bot
+[11:32:31] <red_sky> but with that comes the possibility of spam
+[11:32:40] <Hogofwar> That supported Python + Java plugins
+[11:32:45] <red_sky> hmm, not bad
+[11:32:46] <Hogofwar> Holy shit was that a mess to code
+[11:33:07] <Hogofwar> It could have been improved a ton though
+[11:33:12] <red_sky> at the very least, perhaps I can look over what you have now and see if there's ways to improve what already exists
+[11:33:17] <Hogofwar> Like event listeners of sorts instead
+[11:33:28] <wjoe> oh, well I was saying I have some scripts in another channel for things like that. then again, it's kinda an awkward system
+[11:33:36] <Hogofwar> red_sky, hell, just telling me how to improve would be tremedously helpful to me
+[11:33:42] <wjoe> it runs java and C++ and all sorts of programs, rather than actually scripting it directly in perl
+[11:34:04] <wjoe> but yeah, I was thinking those sorts of things might be a bit spammy for here, but I don't mind either way
+[11:34:07] <red_sky> ah, that is weird
+[11:34:16] <red_sky> I think it's ultimately up to the OPs
+[11:34:34] <wjoe> yeah, none of us knew perl so we just wrote stuff in whatever language we felt like. as long as it deals with stdin and stdout, it works
+[11:34:37] ### markerz has quit the server. (Read error: Connection reset by peer)
+[11:34:40] ### markerz| has joined ##reddit-android-developers
+[11:34:56] <Hogofwar> red_sky, added a config reload
+[11:35:04] <red_sky> nice
+[11:35:12] <Hogofwar> gonna add the last command i can think of now
+[11:35:14] <member68> be careful who can change the bot. i don't want a bot that replaces the word "app" with "kitten" everytime someone says it ;)
+[11:35:20] <Hogofwar> Gonna rip it from my other bot
+[11:35:35] <red_sky> I don't think it can modify messages before they are posted
+[11:35:35] <Hogofwar> I hope to god I didn't write it in python
+[11:35:39] <Hogofwar> I can never translate it well
+[11:35:42] <red_sky> it would have to hook into the server itself
+[11:35:49] <red_sky> which I think would pose a huge security risk
+[11:36:01] <wjoe> haha. yeah, definitely can't do that
+[11:36:15] <wjoe> I host an IRC server, but I wouldn't even know how to do it with that, let alone freenode
+[11:36:35] <Hogofwar> wooo! didn't write that bit in python!
+[11:36:43] <member68> it would confuse everybody who reads the logs later on: "let's write an Android KITTEN!"
+[11:36:53] <anjoyed> :)
+[11:36:54] <Hogofwar> Ah, the logs
+[11:37:05] <red_sky> oh, right, the logs
+[11:37:28] <red_sky> that would be hilarious, though
+[11:37:31] <member68> at least let the ops disable it !kittenModeOff
+[11:37:35] <red_sky> lol
+[11:37:57] <red_sky> someone that I know had a plugin where the bot would just say random things
+[11:37:59] <red_sky> it was funny
+[11:38:22] <wjoe> write an android kitten, with your leopard?
+[11:38:53] <anjoyed> forking kittens
+[11:39:34] <member68> but if we put that into the kitten, we might get in big trouble later
+[11:40:01] ### lacop has joined ##reddit-android-developers
+[11:40:04] <wjoe> fork the kitten, then clone it, edit it's source, and push it?
+[11:40:15] <wjoe> then someone else can pull it
