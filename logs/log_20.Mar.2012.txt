@@ -3362,3 +3362,15 @@
 [22:27:51] ### RadLogii has joined ##reddit-android-developers
 [22:28:13] ### anjoyed_busy is now known as anjoyed
 [22:28:14] <Grillon> nightly crew i see
+[22:30:15] <red_sky> I'm here for a large part of the day, I think
+[22:37:18] ### RadLogii has joined ##reddit-android-developers
+[22:37:25] ### jaimeh2 has joined ##reddit-android-developers
+[22:37:44] ### jaimeh2 has quit the server. (Client Quit)
+[22:38:03] ### jaimeh2 has joined ##reddit-android-developers
+[22:38:04] <Billd> Thanks for the help and conversation. I made a bunch of progress on my project. Looking forward to assisting with the RAD app when it gets started. GN.
+[22:38:13] ### Billd is now known as Billd-zzz
+[22:38:20] ### jaimeh2 has quit the server. (Client Quit)
+[22:38:54] <red_sky> something is going on with my server
+[22:38:58] <red_sky> the bot doesn't stop running
+[22:39:02] <red_sky> it's the network
+[22:39:06] <red_sky> damn VPS providers
