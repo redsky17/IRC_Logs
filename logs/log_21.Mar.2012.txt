@@ -1718,3 +1718,34 @@
 [15:19:49] <Hogofwar> No
 [15:19:52] <vcarl> tail -6 | head -5
 [15:19:54] <vcarl> damn
+[15:20:28] ### ballpointcarrot has parted (left) the channel.
+[15:21:03] ### Hayes has quit the server. (Quit: Page closed)
+[15:21:09] <red_sky> I don't think you need two lists
+[15:21:18] <Hogofwar> red_sky, yeah
+[15:21:29] <Grillon> damn blaise still not around
+[15:21:34] <Hogofwar> Let me try another way...
+[15:21:50] <red_sky> you can read the IRC log into a single list, and then forward traverse it starting at list.length - requestedNumLines - 1 all the way to < list.length
+[15:22:03] <Hogofwar> red_sky, exactly what i was gonna do
+[15:22:15] <Hogofwar> except for the -1 part
+[15:22:15] <red_sky> < list.length - 1***
+[15:22:19] <Hogofwar> I didn't think of that for some reason
+[15:22:24] <red_sky> the - 1 part ensures you don't get the !paste
+[15:22:25] <anjoyed> aschneid is blaise?
+[15:22:42] <aschneid> Yeah...switched to my reddit nick last night
+[15:22:47] <Raionic> Hog what are you trying to do with that paste command I'm confused
+[15:23:02] <shmup> log x number of lines
+[15:23:04] <Grillon> oh
+[15:23:12] <Grillon> i saw your comment about imgur api
+[15:23:27] <vcarl> you could take the number given and delete the oldest entry in the list if there are more than that in it
+[15:23:28] <Raionic> In reverse?
+[15:23:29] <shmup> is what i thought
+[15:23:36] <shmup> i'm in class not really paying attention in here
+[15:23:38] <Grillon> from what i read, if you just a apikey, there is no limit
+[15:23:41] <vcarl> so as you're building it, it removes unneeded entries
+[15:23:55] <Hogofwar> Raionic, no, but i have to reverse in code to get it properly
+[15:24:04] <Raionic> Ah k
+[15:27:03] <aschneid> Grillon, they have two different methods of calling...authenticated and non-authenticated (for API 2).  The authenticated gets 1000 credits/hour and non-auth gets 500.
+[15:27:21] <Hogofwar> !paste 5
+[15:27:37] <aschneid> But from what member68 was saying, doesn't look like any of the apps that are going to be currently developed would have need of it anyway.
+[15:28:43] <member68> adding an api key later on is very easy. we won't hit the limit during development
+[15:29:38] <anjoyed> not even close during development, the limits are quite generous
