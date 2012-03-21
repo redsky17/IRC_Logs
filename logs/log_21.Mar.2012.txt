@@ -1567,3 +1567,38 @@
 [14:49:31] <Hogofwar> !paste 5
 [14:49:31] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/gjYc
 [14:49:56] <Hogofwar> Oh yeah, it is also the wrong frickin way around
+[14:50:17] <red_sky> yeah, I was thinking something like:
+[14:50:30] <aschneid> I wouldn't think you would want the actual paste command to show up
+[14:50:40] <Hogofwar> aschneid, what i'm working on
+[14:50:42] <Hogofwar> Anyway
+[14:50:43] <red_sky> for (list.count - 1 - requestedNum; i < list.count; i++) print list[i]
+[14:50:46] <Hogofwar> gotta go for a bit
+[14:50:49] <aschneid> Gotcha
+[14:50:50] <red_sky> with some error handling in there
+[14:51:15] <red_sky> later hogofwar
+[14:51:44] <aschneid> Yeah, but if you are just seeking backwards, you'd probably want to go to end of file, seek back 5+1 and then do your loop to output the five lines you wanted to paste
+[14:53:58] <red_sky> aschneid, seeking backwards would log them in the wrong order
+[14:54:11] <red_sky> unless he filled his list in the wrong order, too
+[14:54:25] <red_sky> or did some weird things with indeces that I wouldn't recommend
+[14:54:39] <aschneid> No...I mean, seek backwards 5+1, and then move forward using your loop.
+[14:54:47] <shmup> member68: ah, what was the reasoning behind that?
+[14:54:51] <shmup> not using github, that is
+[14:55:09] <red_sky> we do use github...
+[14:55:30] <shmup> no need to drop an ellipses
+[14:55:39] <shmup> member68's message to me just made me think otherwise
+[14:55:45] <shmup> in regards to me asking about the community member list
+[14:56:58] <red_sky> we're planning on using gerrit, I believe
+[14:57:02] <member68> we're going to use gerrit for code review. that way we don't have to add everybody to the github organization
+[14:57:09] <red_sky> as an intermediary repository between git and the end user
+[14:57:16] ### garychencool has quit the server. (Read error: Connection reset by peer)
+[14:57:33] ### garychencool has joined ##reddit-android-developers
+[14:57:34] <red_sky> member68, I can probably host the gerrit system on my VPS if you need
+[14:57:40] <red_sky> the new one has plenty of room for things
+[14:58:35] <anjoyed> pain to migrate gerrit if you only keep that for the month though
+[14:58:56] ### kiel3 has joined ##reddit-android-developers
+[14:59:15] <red_sky> I have a feeling I'm going to keep it
+[14:59:23] <red_sky> the bog hasn't disconnected at all since I've switched it over
+[14:59:35] <red_sky> and it happened like 20 times yesterday on my other VPS
+[14:59:50] <anjoyed> yep, sounds like that box was overloaded
+[15:00:00] <red_sky> yeah
+[15:00:02] <red_sky> probably
