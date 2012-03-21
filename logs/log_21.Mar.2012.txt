@@ -104,3 +104,58 @@
 [01:49:49] <ThatPlayer> But I'm getting a car next school year, commuting
 [01:50:00] <joholz> also youd use a good amount of energy just to go ther i assume, 3 miles
 [01:50:04] <red_sky> my shitty diet started ever since I got off my campus meal plan
+[01:50:12] <red_sky> so I've gotten used to it
+[01:50:16] <red_sky> it's been like a year, and was gradual
+[01:50:37] <joholz> make a habit to put protein bars in your socks and pants
+[01:50:46] <red_sky> haha
+[01:51:15] <anjoyed> learn to cook. it's cheap, easy and tasty(ish)
+[01:51:24] <red_sky> see, all of the good supermarkets are far away
+[01:51:31] <red_sky> the ones in town are like twice the price
+[01:51:50] <anjoyed> they don't have delivery?
+[01:52:01] <red_sky> I've never heard of that, frankly
+[01:52:09] <red_sky> except for that Amazon Fresh service or whatever
+[01:52:29] <red_sky> okay,
+[01:52:39] <red_sky> RadLogii is logging and syncing with Git
+[01:52:43] <red_sky> so I did all that just fine
+[01:52:51] <joholz> get a years supply of ramen
+[01:53:03] <red_sky> everyone always suggests it
+[01:53:07] <red_sky> it's what I basically lived on in the summer
+[01:53:13] <red_sky> so I've grown to dislike it...
+[01:53:16] <joholz> for the price its awesome
+[01:53:19] <red_sky> yeah
+[01:53:29] <red_sky> doesn't really have any nutritional value, though
+[01:53:39] <joholz> have u tried other flavors?
+[01:53:48] <joholz> yea i guess not, im not sure
+[01:53:52] <red_sky> what do they make besides chicken, beef, and turkey?
+[01:54:09] <joholz> well
+[01:54:17] <joholz> you have 3 flavors there
+[01:54:30] <red_sky> beef and turkey are inherently gross
+[01:54:35] <joholz> if you mix them you can get up to 9 flavors
+[01:54:37] <red_sky> chicken is the only one I liked
+[01:54:42] <red_sky> I suppose that's true
+[01:54:54] <red_sky> I'm going to try to find some food
+[01:54:54] <aschneid> They have a shrimp flavor too, which I find quite disgusting
+[01:54:55] <red_sky> I'll ttyl
+[01:54:59] <joholz> thats a steady growth of 300%!
+[01:55:01] <joholz> laters
+[01:55:03] <joholz> take it easy
+[01:55:20] <red_sky> you too.  I should be back in ~20
+[01:55:22] <red_sky> minutes
+[01:55:28] <joholz> ok
+[01:55:45] <joholz> ill be waiting
+[01:57:07] <joholz> im trying to get depeer into android dev, anyone have school reccomendations?
+[01:57:52] <aschneid> If you  know Java, I'd say just read the developers guide, or check out some of the tutorial YouTube videos out there.
+[01:58:03] <aschneid> Some of the links have been floating around here.
+[01:58:30] <vcarl> hint for it: don't both with the syntax, learn the organization
+[01:58:46] <vcarl> don't dive into the APIs and such, those are relatively easy, learn how apps are structure
+[01:58:47] <vcarl> d
+[01:59:17] <aschneid> Yeah, most of the books out there (and I believe the developer guide) initially start with intents, activities, etc
+[01:59:28] <aschneid> Then delve into resources and how they are defined.
+[01:59:40] ### Esge has joined ##reddit-android-developers
+[01:59:46] <joholz> im thinking mainly about job, you think showing apps I make is enough?
+[01:59:54] <aschneid> Yeah.
+[01:59:56] <vcarl> for some
+[02:00:08] <vcarl> depends where, of course
+[02:00:18] <joholz> makes sense
+[02:00:21] <aschneid> I don't think there are many schools that offer Android development officially.
+[02:00:32] <vcarl> my community college offers a class
