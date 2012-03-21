@@ -191,3 +191,41 @@
 [02:09:46] <alextsc> morning :)
 [02:10:00] <joholz> morning to ya
 [02:10:05] <anjoyed> guten morgen
+[02:10:09] <aschneid> Yeah…I've been working for a little over 15 years.  Mostly consulting/contracting work
+[02:10:21] <aschneid> alextsc: still evening here for another 45 minutes. :-)
+[02:10:28] ### Dillon[ca] has quit the server. (Ping timeout: 260 seconds)
+[02:10:29] <joholz> its 2AM here
+[02:10:31] <alextsc> hehe :)
+[02:11:03] <vcarl> same joholz! hoorayyy
+[02:11:40] <joholz> haha im in FL, what about you?
+[02:12:33] <red_sky> PA
+[02:12:37] <red_sky> central, atm
+[02:13:32] <joholz> red_sky is back?
+[02:13:35] <red_sky> joholz the most important part of learning Android development is the organizational flow of the app.  It's radically different than anything I've done on PC in the bast
+[02:13:35] <vcarl> i'm MI
+[02:13:37] <red_sky> past*
+[02:14:15] ### RAWR has joined ##reddit-android-developers
+[02:14:45] <joholz> red_sky: are you talking about app states and how the stack is influenced?
+[02:15:10] <aschneid> I think he's talking about how events get triggered etc.
+[02:15:12] <red_sky> I'm talking about things like Intents, Views, etc.
+[02:15:23] <red_sky> Activities
+[02:15:36] <red_sky> the stuff that's really integral to Android development
+[02:15:36] <joholz> services, etc. got it
+[02:15:39] <red_sky> it's not hard to figure it out
+[02:15:41] <aschneid> It's actually similar to how some of the newer GUI environments work.
+[02:15:49] <red_sky> but if you dive in without understanding, you'll make a shitty app
+[02:15:52] <aschneid> C# has WPF that's actually similar
+[02:15:58] <red_sky> WPF is fun
+[02:16:05] <red_sky> though nothing for intents or activities
+[02:16:09] <red_sky> those are really different
+[02:16:43] <joholz> oh yea, ive played with mono for android
+[02:17:05] <vcarl> anyone ever fiddle with Qt?
+[02:17:07] <aschneid> Well…depends on how you look at it.
+[02:17:18] <vcarl> I love the way it's organized, it fits my brain
+[02:17:19] <red_sky> i have vcarl
+[02:17:28] <red_sky> very briefly
+[02:17:34] <aschneid> When I was first looking at it, it definitely reminded me of my WPF days.
+[02:17:54] <red_sky> I used Qt to host the window I made for an OpenCV project I made
+[02:17:57] <vcarl> signals and slots! it's all interrupts :)
+[02:18:10] <aschneid> It also reminds me of some of the web toolkits out there.
+[02:18:23] ### RAWR has quit the server. (Client Quit)
