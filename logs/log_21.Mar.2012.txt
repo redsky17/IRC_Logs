@@ -13,3 +13,5 @@
 [00:23:56] <red_sky> probably not too long.
 [00:25:25] ### D_ has quit the server. (Ping timeout: 246 seconds)
 [00:30:33] ### RadLogii has joined ##reddit-android-developers
+[00:40:50] ### jselk has quit the server. (Ping timeout: 245 seconds)
+[00:42:37] ### Billd-zzz has quit the server. (Ping timeout: 240 seconds)
