@@ -1366,3 +1366,17 @@
 [12:59:46] <member68> i put together a quick layout for a calculator app earlier. i'll upload it and people have to add functionality. i'll add comments to point people the right way so they can learn by doing
 [13:00:02] <vcarl> lacop, we have almost 60 people in IRC right now, thats not half bad to work on 4 + 2 projects
 [13:00:16] <lacop> vcarl, most people are inactive here
+[13:00:49] <vcarl> yeah, but given the fractured nature of how all the different places were set up, it's not unreasonable that people haven't joined everywhere
+[13:01:16] <member68> i think we'll have 30-50 active devs. some of them won't do much, others will do more
+[13:01:29] <member68> if we have too many people, we can always add projects
+[13:01:48] <ballpointcarrot> we do have a decent pool of projects to pull from.
+[13:02:48] <member68> we have to remove tetris from the list though --> license issues
+[13:04:05] <Sanit> Any license issues with Tamegachi?
+[13:04:27] <vcarl> Sanit, i'm sure that's flexible enough that we could just call it something else and get by
+[13:05:23] <vcarl> tetris is hard to do "differently" than the original and still have it actually be good
+[13:06:44] <member68> Tamagotchi® is a registered trademark used for Video Games, Namely, Electronic Game Machines, Namely, Video and Stand Alone Video Output Game Machines, Lcd Game Machines, Stuffed Toys and owned by Kabushiki Kaisha Bandai.
+[13:07:37] ### wjoe has quit the server. (Ping timeout: 276 seconds)
+[13:07:44] <Hogofwar> tamanotchi
+[13:08:36] <vcarl> pull a zynga
+[13:08:50] <anjoyed> tamawotsy
+[13:09:43] <anjoyed> zynga don't even try to hide it
