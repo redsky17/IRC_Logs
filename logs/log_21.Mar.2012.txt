@@ -947,3 +947,20 @@
 [10:29:41] ### zubsani1 has quit the server. (Read error: Connection reset by peer)
 [10:29:56] <itsKitsos> anyonethinkingab - how many people have?
 [10:30:02] <itsKitsos> filled it out, that is
+[10:30:13] <Grillon> filled it out yesterday
+[10:30:33] <anyonethinkingab> kk
+[10:30:36] <anyonethinkingab> ahm
+[10:30:53] <anyonethinkingab> 74
+[10:31:11] <anyonethinkingab> minus a few
+[10:31:17] <itsKitsos> not bad
+[10:31:17] <anyonethinkingab> let's say 68
+[10:31:31] <anyonethinkingab> no not at all
+[10:31:41] <anyonethinkingab> we got a decent amount of possible managers
+[10:31:55] <itsKitsos> that's good because we have a decent amount of projects to manage :p
+[10:32:46] <anyonethinkingab> does anyone know what time 68 will be on again?
+[10:33:27] <anyonethinkingab> in 0-1 hours
+[10:33:51] ### zubsani has quit the server. (Ping timeout: 244 seconds)
+[10:33:59] ### adamell has quit the server. (Remote host closed the connection)
+[10:35:20] ### markerz| has joined ##reddit-android-developers
+[10:35:21] ### markerz has quit the server. (Read error: Connection reset by peer)
+[10:37:36] ### red_sky has joined ##reddit-android-developers
