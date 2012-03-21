@@ -65,3 +65,11 @@
 [01:22:58] <blaise_> That way each user could have either their oauth account or even anonymous if they uploaded less than 50 an hour.
 [01:23:30] <blaise_> For retrieval, we could hit our server to get the hashes, and then have the client do the retrieve
 [01:23:44] <blaise_> That way, again, it's against the client and not a bunch of hits from our server ip.
+[01:33:42] ### RadLogii has joined ##reddit-android-developers
+[01:34:00] <red_sky> apparently OpenJDK needs the preceding ./ whereas Sun JDK doesn't
+[01:34:23] <red_sky> now the damn thing shouldn't time out all the time
+[01:34:43] <anjoyed> good job
+[01:35:19] <joholz> what were you working on?
+[01:35:35] <red_sky> server migration
+[01:36:07] <anjoyed> they moving south for the spring
+[01:36:16] <red_sky> hopefully the new VPS won't have a shitty connection like my other one
