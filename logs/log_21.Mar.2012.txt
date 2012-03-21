@@ -971,3 +971,16 @@
 [10:54:17] ### itsKitsos has quit the server. (Ping timeout: 260 seconds)
 [10:55:04] ### markerz has joined ##reddit-android-developers
 [10:55:04] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[11:02:37] ### MigratoryCoconut has joined ##reddit-android-developers
+[11:02:44] <MigratoryCoconut> sup
+[11:03:23] ### slick8086 has quit the server. (Quit: slick8086)
+[11:04:37] ### Esge has quit the server. (Quit: Vsetko co sa da prekopnut cez plot, nieje pes.)
+[11:04:50] ### MigratoryCoconut has quit the server. (Client Quit)
+[11:06:27] <anjoyed> also redmine doesn't automatically pick up the extra repos
+[11:06:36] <anjoyed> ony shows 1 out of 3
+[11:06:59] <wjoe> yeah, they have to be added menually. also there's only one per project anyway (which mostly makes sense)
+[11:07:16] <Hogofwar> veeti,
+[11:07:42] <anjoyed> aye, makes sense
+[11:07:52] <wjoe> I could add the others, but I don't think we really need a project section for IRC logs, and I'm not sure what the other repo is for
+[11:10:01] <anjoyed> is here any way to have new repos under github.com/RedditAndroidDev added automatically?
+[11:10:06] <anjoyed> *there
