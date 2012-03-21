@@ -2171,3 +2171,32 @@
 [16:59:34] <Sanit> redmine
 [16:59:47] <c0smic> lyrch: http://rad.lc8n.com/projects
 [17:00:02] <joholz> tmoskowite, get pm?
+[17:00:15] <tmoskowite> joholz: nope
+[17:00:18] <lyrch> thanks
+[17:00:50] <joholz> tmoskowite, whats your reddit id?
+[17:01:14] <tmoskowite> i mean in here
+[17:01:18] <tmoskowite> just PM in IRC
+[17:01:29] <jaimeh> wow there is already a full team for reddit quick submit
+[17:01:32] <tmoskowite> in reddit my user name is: atesc
+[17:01:36] <joholz> lol
+[17:01:37] <joholz> https://github.com/Joholz
+[17:01:54] <joholz> ok, expect a pm on reddit too, i think i sent one to you
+[17:01:54] <jaimeh> 10 developers should be enough for one app. I think we should restrict team sizes?
+[17:02:05] <Sanit> any designers in RQS?
+[17:02:54] <jaimeh> my current reddit username is: talented. I delete them pretty often, but may have to keep this one now...
+[17:03:09] <artico> hello everyone
+[17:03:34] <jaimeh> Hola
+[17:03:35] <anjoyed> I can do some kick-ass stick figures
+[17:04:04] <joholz> i can make some nice blobs
+[17:04:07] <member68> I'm an expert at MS Paint. That's about it though :(
+[17:04:12] <Sanit> welcome aboard guys!
+[17:04:16] <c0smic> jaimeh: Yes, we're going to restrict team size on a per project basis
+[17:04:31] <c0smic> I'm good with Photoshop
+[17:04:38] <jaimeh> I am good with Gimp
+[17:04:43] <jaimeh> lol
+[17:04:52] <Sanit> any icon/layout work?
+[17:05:44] ### patface has quit the server. (Ping timeout: 245 seconds)
+[17:06:34] ### garychencool has quit the server. (Ping timeout: 245 seconds)
+[17:06:49] <jaimeh> for android, I haven't done any design work
+[17:07:00] <jaimeh> Mostly just development
+[17:07:48] <jaimeh> Things are moving really fast. This is great. I have to get back to work for a bit.
