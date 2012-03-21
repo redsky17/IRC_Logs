@@ -407,3 +407,11 @@
 [02:49:50] <vcarl> nice
 [02:49:58] <vcarl> i sort of understand what that means
 [02:50:05] <TheNumb> red_sky: Unused RAM if wasted RAM :D
+[02:50:10] <TheNumb> is*
+[02:50:16] <red_sky> yeah, well it's better than my other vps
+[02:50:23] <red_sky> where 90% of 512MB was in use
+[02:50:27] <red_sky> and there wasn't much going on
+[02:57:15] <anjoyed> RadLogii will be happy
+[02:57:16] <red_sky> well, night all
+[02:57:21] <anjoyed> nn
+[02:57:43] <vcarl> 'night
