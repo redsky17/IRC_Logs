@@ -871,3 +871,5 @@
 [08:56:58] <member68> i have to leave for a few a hours. see you later, guys
 [08:58:13] <member68> !Upload
 [08:58:15] <alextsc> cya
+[08:58:32] ### member68 has quit the server. ()
+[08:59:58] ### Billd-Work has quit the server. (Ping timeout: 260 seconds)
