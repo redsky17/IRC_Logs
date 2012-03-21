@@ -763,3 +763,7 @@
 [06:46:14] <member68> yes, but little to no pre-written code. for example: we can point people to onclicklisteners for handling buttons but we add the actual methods
 [06:46:34] <member68> *but we don't add the actual methods
 [06:47:30] <lyrch> agreed, i was thinking along the lines of comments pointing to tutorials the explain what they need and how it works
+[06:52:15] ### zubsani has joined ##reddit-android-developers
+[06:54:40] ### Billd is now known as Billd-Work
+[06:57:25] ### markerz has joined ##reddit-android-developers
+[06:57:25] ### markerz| has quit the server. (Read error: Connection reset by peer)
