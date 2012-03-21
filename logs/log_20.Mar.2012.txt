@@ -2970,3 +2970,39 @@
 [19:48:30] <sam_> Mine's up^
 [19:48:39] <Raionic> jaimeh i have also posted a link on the wiki
 [19:49:39] <jaimeh> Good, I hope more people learn git.
+[19:50:42] <anjoyed> http://blog.opsb.co.uk/getting-started-with-git-github-and-eclipse-p
+[19:50:54] <Billd> BrandonBolton: I think he's getting at 2 days is probably enough to grasp the fundimentals of HTML, but probably not enough to be able to contribute to something like, say, WordPress (even though that's PHP).
+[19:51:19] <Raionic> I'm looking into this guy anjoyed http://www.eclipse.org/egit/
+[19:52:01] <Raionic> I've used a subversion plugin like that ... it was great, but now we're switching to subversion at work and I have no idea how to use it :) the plugin made everything very abstract
+[19:53:23] <jaimeh> Yeah command line stuff is easier than people think. The positive with got is it already comes with a GUI on Linux
+[19:53:36] <BrandonBolton> Billd: I learned it in Freshman year of high school during a class. We built a simple website. Of course, in that time, I don't know how to do everything with HTML but I am can make simple changes to it and create a simple website.
+[19:53:39] <jaimeh> Type git gui. Also gitk. There are others.
+[19:54:27] <Raionic> git gui? That's awesome! didn't know about that guy
+[19:54:43] <BrandonBolton> Do you guys recommend Visual Studio 2010 Professional for learning different programming languages? I am pretty sure that is only C++ and C# though.
+[19:55:13] <anjoyed> eclipse is best bet for android development
+[19:55:29] <adamell> BrandonBolton: it's c, c#, vb, c++, f#, etc
+[19:56:08] <Raionic> The IDE you use, really depends on the programming language you are trying to learn. For example most people use Eclipse for Java
+[19:56:13] <adamell> BrandonBolton: For Java, use eclipse.
+[19:56:35] <BrandonBolton> Alright, thank you guys. I will just download it from Dreamspark for later then. I already have Eclipse.
+[19:56:45] <adamell> BrandonBolton: eclipse is free, vs isn't
+[19:56:56] ### red_sky has joined ##reddit-android-developers
+[19:56:57] <Billd> My first proper language (not html, php, sql, etc) was C# with Visual Studio. I found it pretty easy, and know it made everything else easier to learn. In theory you could do the same with Java and Eclipse.
+[19:57:08] <Billd> VS express is, adamell. Free as in beer.
+[19:57:15] <anjoyed> Raionic, nice tut for that: http://www.vogella.de/articles/EGit/article.html
+[19:57:16] <Raionic> Hey anjoyed since you know git much better than me...do you mind reviewing the github wiki article and let me know anything i missed/misplaced
+[19:57:40] <Raionic> Ah nice
+[19:57:52] <BrandonBolton> Alright, thank you for the tips everyone. I can get Visual Studio 2010 Pro for free, that's why I asked.
+[19:57:58] <adamell> Most Uni courses start OOP devs off with C
+[19:58:20] <Raionic> Eclipse is also free :)
+[19:58:29] <adamell> Knowing pointers, addresses, inheritance, etc. right away makes Java and the like a breeze
+[19:58:31] <BrandonBolton> And open source. :)
+[19:58:56] <red_sky> C isn't an OOP language... are you sure you don't mean C++
+[19:58:59] <adamell> Billd: Free beer you say?
+[19:59:26] ### Phault has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[19:59:27] <Billd> As opposed to free speech, yea.
+[19:59:27] <adamell> red_sky: thank you.
+[19:59:31] <Raionic> red_sky two people had an argument about that once in a programming channel i was in
+[19:59:32] ### RAWR has joined ##reddit-android-developers
+[19:59:40] ### RamuhTest has joined ##reddit-android-developers
+[19:59:46] <Billd> I could use someone looking over my shoulder to coach my Java, and I could pay in beer - if you're local and of age.
+[19:59:51] <Ramuh> ha, it works
