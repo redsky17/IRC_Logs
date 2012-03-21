@@ -50,3 +50,18 @@
 [01:17:33] ### markerz| has quit the server. (Ping timeout: 252 seconds)
 [01:19:33] ### markerz- has quit the server. (Ping timeout: 252 seconds)
 [01:19:41] <anjoyed> 500 credits per hour for anonymous use. every api call uses 1 credit, uploads use 10 credits
+[01:20:02] <anjoyed> pretty decent
+[01:20:14] <blaise_> Yeah….although you know I tried some calls today via my browser and it didn't count
+[01:20:32] <blaise_> Not sure if they only count if you go against api.imgur.com or not
+[01:20:54] <blaise_> but you can go to  www.imgur.com/gallery.json and it will give you the same thing
+[01:21:19] <blaise_> You can also sub it and go to www.imgur.com/r/wtf.json or any of the reddit subs
+[01:21:32] <anjoyed> i was thinking it would be handy to use one imgur account for an app and have all uploads go there
+[01:21:33] <blaise_> That's the part I thought was cool.
+[01:21:46] <anjoyed> but if many used the app you could well hit the credit limit
+[01:21:51] <blaise_> Well, all pics are available for everybody.
+[01:22:07] <blaise_> And if we wrote the framework to return the hash when you store it
+[01:22:20] <blaise_> we could store that in a server side database and retrieve all the images
+[01:22:33] <anjoyed> aye, would be handy
+[01:22:58] <blaise_> That way each user could have either their oauth account or even anonymous if they uploaded less than 50 an hour.
+[01:23:30] <blaise_> For retrieval, we could hit our server to get the hashes, and then have the client do the retrieve
+[01:23:44] <blaise_> That way, again, it's against the client and not a bunch of hits from our server ip.
