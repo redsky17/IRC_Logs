@@ -603,3 +603,44 @@
 [04:48:06] <member68> do any of you know how i have to set up github to allow the following workflow: somebody wants to change code -> new branch -> code must be approved by a experienced dev(could be part of a guthub team). i think currently everybody can push code without any review process
 [04:48:10] <matt-ice> TheNumb: arent all of them from redditors?
 [04:49:53] <TheNumb> matt-ice: dunno ;D
+[04:50:37] <matt-ice> TheNumb: ok, lets brainstorm here, what could we have the client do that hasnt been done?
+[04:50:54] <TheNumb> Ummm...
+[04:51:03] <TheNumb> Less cluttered ui :D
+[04:51:36] <TheNumb> Image gallery when browsing subreddits like /r/pics /r/funny
+[04:51:57] <wjoe> Morning all
+[04:51:57] <anyonethinkingab> a bit more like 9gag, but then on a phone/tablet
+[04:51:58] <markerz> You dont necessarily have bring something new to the table.  It can be as simple as redesigning the UI.
+[04:52:00] <TheNumb> wjoe: oahi
+[04:52:01] <anyonethinkingab> morning
+[04:52:16] <TheNumb> anyonethinkingab: haaaaai
+[04:52:21] <anyonethinkingab> lol
+[04:52:44] <TheNumb> :D
+[04:52:47] <zubsani> hi guys
+[04:52:50] <matt-ice> the best UI I had was reddionic
+[04:53:01] <wjoe> Sounds like there's been progress overnight?
+[04:53:03] <matt-ice> no flashy animations, just speedy reddit
+[04:53:09] <zubsani> open this site on your phone/tablet http://rheza.github.com/9pics/
+[04:53:24] <zubsani> we don't need another app for replicate the 9gag experience
+[04:54:07] ### RAWR has quit the server. (Ping timeout: 252 seconds)
+[04:55:00] <anyonethinkingab> nice :D
+[04:55:11] <anyonethinkingab> maybe leave the http and www
+[04:55:18] <wjoe> Anything interest happened in the last 12 hours or so?
+[04:55:27] <anyonethinkingab> there's the poll
+[04:55:33] <zubsani> oh ya
+[04:55:37] ### Avid has quit the server. (Ping timeout: 265 seconds)
+[04:55:39] <anyonethinkingab> https://docs.google.com/spreadsheet/viewform?formkey=dGxpZ21UUTlvSHdPM3U5VWNUb1V3Vmc6MQ
+[04:56:01] <zubsani> anyone know why  we need to fill in another poll ?
+[04:56:11] <anyonethinkingab> yup
+[04:56:13] <anyonethinkingab> i made it
+[04:56:14] <member68> anyonethinkingab, leave the http and www?
+[04:56:30] <anyonethinkingab> member68 in the channel description
+[04:56:34] <zubsani> why ?
+[04:56:45] <anyonethinkingab> to vote on a project we will make
+[04:57:04] <anyonethinkingab> have you looked at it?
+[04:57:15] <matt-ice> polls polls polls!!! where is our poll voting app? it could be the greatest circlejerk of all time!
+[04:57:20] <zubsani> i already fill in exactly same form like 6 hours ago
+[04:58:22] <anyonethinkingab> it was updated once, but it should be the same one indeed if it was only 6 ours ago
+[04:58:53] <anyonethinkingab> yeah zub you already filled that poll in :D
+[04:59:07] ### markerz| has joined ##reddit-android-developers
+[04:59:48] <zubsani> thanks
+[05:00:03] ### markerz has quit the server. (Quit: Page closed)
