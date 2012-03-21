@@ -2227,3 +2227,51 @@
 [17:19:44] <Hogofwar> godammit egit is confusing
 [17:20:07] <member68> designers, coders, managers, etc
 [17:20:07] <jaimeh> developing on windows Hogofwar?
+[17:20:10] <Hogofwar> Yes
+[17:20:10] <veeti> Hogofwar: I'd recommend that you just use git CLI
+[17:20:13] <veeti> it's surprisingly simple
+[17:20:15] <rapidfyre> Newbies
+[17:20:29] <member68> i'll also add a group called "unassigned" or something like this
+[17:20:30] <Hogofwar> I have another git program on my computer, thought I would try egit
+[17:20:32] ### anyonethinkingab has joined ##reddit-android-developers
+[17:20:39] <Hogofwar> It is confusing
+[17:20:47] <anyonethinkingab> !paste 20
+[17:20:50] <anjoyed> egit has worked flawlessly for me so far
+[17:20:51] <Hogofwar> Let me make the project a git repository!
+[17:20:56] <anyonethinkingab> mods only -.-
+[17:21:14] <rapidfyre> Hehe good to know
+[17:21:17] <Hogofwar> anyonethinkingab, what is?
+[17:21:29] <anyonethinkingab> i want to know what we'r talking a bout
+[17:21:39] <Hogofwar> That command isn't available for the main bot yet
+[17:22:07] <member68> !Update
+[17:22:17] <rapidfyre> We're talking about the usage of the team structure in redmine
+[17:22:56] <jaimeh> member68, apprentice?
+[17:23:01] <member68> sounds good to me
+[17:23:27] <rapidfyre> where newbies like me could be taking up the space of "real" devs in a team and causing the team to before full
+[17:23:37] <anjoyed> ooh, redmine mails issues from tracker to my phone. nice :)
+[17:23:47] <rapidfyre> anyonethinkingab: what I just wrote was for you :)
+[17:23:58] <anyonethinkingab> rapidfyre:  ya thans
+[17:24:42] <rapidfyre> And now new groups are being created as we speak afaik
+[17:24:46] <member68> damn, those permissions on redmine are complex
+[17:25:06] <jaimeh> Yeah, I manage my own redmine. I know what you mean.
+[17:25:07] <rapidfyre> No wonder people make a living out of setting up redmine
+[17:25:35] <member68> http://awesomescreenshot.com/06f20yf82
+[17:25:43] <jaimeh> Although, it is very useful once you have your defined groups
+[17:25:57] <rapidfyre> member68: ouch
+[17:26:13] ### sam_ has joined ##reddit-android-developers
+[17:26:43] <anjoyed> that wasn't awesome at all :<
+[17:26:53] <jaimeh> It is not too bad once you have an idea of what you want them to be able to do
+[17:27:08] <member68> jaimeh: suggestions or tips?
+[17:27:08] <anjoyed> the internet lied to me..
+[17:27:17] <rapidfyre> jaimeh: do you have rights on the redmine?
+[17:27:20] <member68> lol ;)
+[17:27:26] ### Raionic has joined ##reddit-android-developers
+[17:27:32] <jaimeh> First, knock off all creations and setting up of stuff
+[17:28:06] <member68> jaimeh: can you help?
+[17:28:17] <jaimeh> Yeah
+[17:28:27] <member68> admin coming your way
+[17:28:31] <jaimeh> Okay
+[17:29:26] <jaimeh> Ever since this post popped up, I am on overtime with gf and work. lol
+[17:29:31] <rapidfyre> member68: will the easy app ideas still be uploaded, or are these all?
+[17:29:49] <rapidfyre> As in on redmine
+[17:30:02] <member68> easy apps are yet to come
