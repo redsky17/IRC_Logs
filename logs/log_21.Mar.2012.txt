@@ -1301,3 +1301,26 @@
 [12:18:21] <wjoe> I just think making a reddit app is a bit unnecessary when there are lots already, and some (well, probably all) are made by redditors
 [12:18:40] <wjoe> but clearly they're not good enough if that many people want to make one :p
 [12:19:48] <member68> i think we could start with a reddit quick submit app, and work on a client later on. we can merge both projects later if we want to
+[12:20:38] <member68> tamagochi sounds fun, we'll need some people who know how to create the graphics
+[12:20:54] <member68> and a google tasks client isn't that hard either.
+[12:21:17] <Sanit> Tamagochi sounds way too advanced for a first project
+[12:21:27] ### tmoskowite has joined ##reddit-android-developers
+[12:21:53] <anjoyed> added some eclipse/egit stuff to the wiki if someone that knows git wants to check it
+[12:22:03] <anjoyed> http://rad.lc8n.com/projects/general-organization/wiki/Github
+[12:22:28] <Hogofwar> anjoyed, add touch
+[12:22:49] <veeti> git commit -m "Fixed bug #124"
+[12:22:54] <veeti> commit messages need to be more detailed than that
+[12:23:05] <veeti> and not just a reference to a bug number
+[12:23:22] <anjoyed> yeah, I just did the eclipse bit below that
+[12:23:42] <veeti> oh
+[12:23:49] <veeti> i'll fix the above stuff
+[12:24:29] <lacop> veeti, well, if it's a trivial fix to a ticket you can look it up by the number, but it should be a little more than that
+[12:24:48] <lacop> ie, fixed ticket #123 - <how it was fixe, why, ...>
+[12:24:49] ### garychencool has quit the server. (Quit: Page closed)
+[12:25:04] <lacop> something short, more stuff can be said on the ticket discussion page
+[12:25:33] <lacop> wow netbeans is sooo slow... takes like 3 secs to alttab to it
+[12:25:40] <lacop> something went terribly wrong there
+[12:27:00] <nataly> good morning =]
+[12:27:33] <veeti> commit messages should be decipherable without an issue tracker
+[12:28:14] <veeti> so a good example would be "Fix [short description of bug]" and "fixes #999" after that
+[12:28:54] <member68> commit message have to include WHAT was fixed, but not how, when or why
