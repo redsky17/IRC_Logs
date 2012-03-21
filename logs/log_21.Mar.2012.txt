@@ -757,3 +757,9 @@
 [06:38:38] <lyrch> yup
 [06:39:35] ### zubsani has quit the server. (Ping timeout: 276 seconds)
 [06:40:02] <anyonethinkingab> It would be great if we could divide the teams by friday
+[06:40:52] <lyrch> that sounds easily doable if we choose apps today
+[06:41:25] <member68> do you want to add 1 or 2 simple apps that people can work on individually to get to know android development? simple calculator for example. i'd put together a layout and people can write the code
+[06:43:49] <lyrch> that sounds like a good idea, should the apps have comments in them with suggestions on how to complete the code?
+[06:46:14] <member68> yes, but little to no pre-written code. for example: we can point people to onclicklisteners for handling buttons but we add the actual methods
+[06:46:34] <member68> *but we don't add the actual methods
+[06:47:30] <lyrch> agreed, i was thinking along the lines of comments pointing to tutorials the explain what they need and how it works
