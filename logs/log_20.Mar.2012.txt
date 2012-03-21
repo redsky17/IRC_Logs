@@ -3068,3 +3068,35 @@
 [20:09:53] <Ramuh> for your consideration: http://www.extremetech.com/wp-content/uploads/2012/02/1282254411873.jpg
 [20:09:57] ### Dillon[ca] has quit the server. (Ping timeout: 248 seconds)
 [20:10:01] <anjoyed> other way around wasn't it
+[20:10:17] <Billd> Thanks for the tip BrandonBolton.
+[20:10:20] <red_sky> anjoyed, are you talking to me?
+[20:10:38] <Ramuh> Java stole closures didn't they?
+[20:10:40] <anjoyed> microsoft starting expanding java to add MS only parts, sun told them to fup off so they made c#
+[20:10:43] <RAWR> Okay I apparently need some sleep, took me way too long to figure out what you meant. :-/
+[20:10:45] <Billd> anjoyed I think so. The C# archatect was hired away from Sun, wasn't he?
+[20:10:54] <adamell> I wonder if Neil Tyson knows how to program?
+[20:10:58] <red_sky> well I mean, C# originally had basically the same feature set as Java
+[20:12:46] <red_sky> but since it came out, C# has become an extremely powerful language
+[20:12:46] <red_sky> and many of the things I as a C# developer take for granted have only recently become available in Java
+[20:12:46] <anjoyed> never actually looked at it. don't use ms ata ll
+[20:12:46] <anjoyed> *at all
+[20:12:46] <red_sky> IMO, it's the best language that exists
+[20:12:46] <anjoyed> :o
+[20:12:46] <red_sky> not necessarily the best for other things
+[20:12:46] <red_sky> but as far as syntax and what you can do with the language
+[20:12:46] <red_sky> it's extraordinarily easy to program in
+[20:12:46] <BrandonBolton> Ah, just discovered Standford University's free podcasts on iTunes. They have programming corses.
+[20:12:47] <red_sky> and has a ton of more powerful features that are available in C++/C
+[20:13:33] ### jaimeh has joined ##reddit-android-developers
+[20:13:33] <anjoyed> neat. I assume its bit higher level than them though, running through a vm of sorts?
+[20:13:52] <red_sky> it runs on top of the .NET Framework
+[20:13:54] <red_sky> which is just the CLR
+[20:13:55] <cgarcia> red_sky: I wouldnt say 'more powerful', but definitely more user friendly
+[20:14:13] <red_sky> cgarcia I feel like you might've misread what I said
+[20:14:27] <red_sky> I didn't say it was more powerful than C/C++, but gives access to some of the more powerful features they offer
+[20:14:46] <cgarcia> ahh, ok, yes, i did misunderstand that then
+[20:16:44] <RAWR> Alright folks Im off. See ya.
+[20:16:47] <red_sky> later
+[20:16:52] <Billd> Hasta
+[20:17:01] <anjoyed> nn
+[20:17:03] ### RAWR has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
