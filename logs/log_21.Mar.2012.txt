@@ -1664,3 +1664,57 @@
 [15:09:12] <Hayes> Brilliant work whoever updated the sidebar.
 [15:09:15] <Hayes> Broke the IRC link
 [15:09:25] <Hayes> and it's called a subreddit, not a reddit
+[15:10:04] <member68> nope, official name is reddit
+[15:10:17] <member68> can somebody send me the irc link. i'll fix it
+[15:10:56] <member68> nevermind, found it
+[15:10:58] <member68> fixed it
+[15:10:59] <Hayes> Registered users (also referred to as redditors) may subscribe to individual reddits (called "subreddits" informally, but "reddits" officially)
+[15:11:03] <Hayes> You are right, my bad.
+[15:13:21] <red_sky> Hayes, get the fuck out
+[15:13:42] <red_sky> you're coming into the IRC channel comprised entirely of redditors, and you're defining things like we're 5
+[15:14:11] <red_sky> in fact, nothing you've said n the 5 minutes you've been here is at all positive
+[15:14:16] <red_sky> negative energy isn't cool, man
+[15:14:24] <Hayes> Haha, I was just pissed because as a noob, it was hard as fuck for me to figure out how to join the IRC again
+[15:15:11] <member68> relax guys, it's fixed now
+[15:15:35] <shmup> how much of what we claim we're using, we're truly going to use
+[15:15:38] <shmup> like the google groups
+[15:16:15] <anjoyed> guess we will find out in the next week or so, whatever naturally get's used
+[15:16:21] <Hayes> And where's the poll where we decide how long to keep the poll open?
+[15:16:24] <anjoyed> *gets
+[15:16:26] <Hogofwar> !paste 5
+[15:16:26] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/OGdB
+[15:16:55] <Hogofwar> !paste 5
+[15:16:56] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/RNba
+[15:17:04] <member68> github: partially, gerrit: definitely, redmine: definitely, IRC: definitely, google groups, maybe
+[15:17:06] <Hogofwar> That works
+[15:17:12] <vcarl> nice!
+[15:17:16] <red_sky> 1
+[15:17:16] <red_sky> 2
+[15:17:17] <red_sky> 3
+[15:17:17] <red_sky> 4
+[15:17:17] <Hogofwar> next...
+[15:17:17] <red_sky> 5
+[15:17:19] <Sanit> back in a while. Making food. anyone want anything?
+[15:17:20] <red_sky> !paste 5
+[15:17:20] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/OZWV
+[15:17:33] <ThatPlayer> Sanit: What are you making?
+[15:17:40] <anjoyed> mashed spuds, steak, pepper sauce
+[15:17:52] <member68> i want about tree fiddy
+[15:18:05] <Sanit> probably pasta or whatever is in the fridge
+[15:18:12] <Hogofwar> red_sky, still gotta do the exclude bit
+[15:18:39] <Hogofwar> red_sky, i'm not at all happy with the way I am doing this either
+[15:18:40] <red_sky> hey guys, we got a lockness monster in here
+[15:18:48] <red_sky> I can try to help you with it later, Hogofwar
+[15:19:03] <vcarl> how are you doing it?
+[15:19:08] <Hogofwar> Badly
+[15:19:11] <Hayes> Is this a thing?
+[15:19:15] <Hogofwar> turn log into list
+[15:19:18] <Hogofwar> Iterate over list
+[15:19:24] <Hogofwar> into another list
+[15:19:28] <Hogofwar> reverse the new list
+[15:19:35] <Hogofwar> upload the new list
+[15:19:39] <Hogofwar> heh :P
+[15:19:45] <vcarl> could you use a bash script?
+[15:19:49] <Hogofwar> No
+[15:19:52] <vcarl> tail -6 | head -5
+[15:19:54] <vcarl> damn
