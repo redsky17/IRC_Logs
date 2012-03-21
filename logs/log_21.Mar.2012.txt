@@ -420,3 +420,4 @@
 [03:07:20] ### LonnieC has quit the server. (Quit: Leaving)
 [03:08:03] ### Hogofwar has joined ##reddit-android-developers
 [03:12:51] ### fr3tles5 has joined ##reddit-android-developers
+[03:25:57] ### vin has parted (left) the channel.
