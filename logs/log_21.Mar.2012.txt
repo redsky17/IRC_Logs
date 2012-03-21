@@ -820,3 +820,10 @@
 [07:58:50] <wjoe> I believe they use github, maybe mirrored elsewhere though
 [07:59:19] <wjoe> https://github.com/cyanogenmod
 [07:59:39] <lyrch> cool
+[08:03:52] <wjoe> there is a code review plugin for redmine, but I have no idea how that compares to other options http://www.redmine.org/plugins/codereview
+[08:07:06] <member68> in my head i have the following workflow: people add the repo to eclipse, make changes, commit them. after that experienced developers (and possibly the community as well) can approve or deny the commit.
+[08:07:56] <wjoe> pretty much. by the sound of it though, if you want to use gerrit, code would have to be pushed to that first, then reviewed there, then pushed to github
+[08:08:27] <member68> pushing to github should be automatic
+[08:08:51] <wjoe> from gerrit?
+[08:09:30] <lyrch> yes
+[08:09:44] <member68> i think so. otherwise projects like cyanogenmod with hundrets pf pushes a day would stop because of all the extra work
