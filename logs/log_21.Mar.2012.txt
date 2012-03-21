@@ -2641,3 +2641,19 @@
 [19:39:49] <anyonethinkingab> oh
 [19:40:00] <anyonethinkingab> https://docs.google.com/spreadsheet/ccc?key=0AuELiJSHDo8UdHZlMzI0dEV6cVljN3VKREhPeld5YWc#gid=0
 [19:40:08] <adamell> anyonethinkingab: thanks
+[19:41:53] <adamell> How will we know if we've been selected for PM or not?
+[19:42:05] <veeti> going to sleep ->
+[19:42:17] ### blaise_ has joined ##reddit-android-developers
+[19:42:36] <Hogofwar> I wonder why there is a reason git isn't autocompleting anymore
+[19:43:20] ### blaise_ is now known as aschneid_
+[19:44:37] <member68> adamell: you'll be given more rights and your name shows up in the manager section
+[19:44:52] <member68> do you want to be a PM?
+[19:44:58] <Hogofwar> wtf is a PM
+[19:45:00] <Hogofwar> Oh
+[19:45:02] <Hogofwar> Project manager
+[19:45:50] <adamell> member68: yeah
+[19:46:37] <member68> which project?
+[19:47:55] <adamell> member68: Any of the Reddit related projects or the google tasks client. They'd all be relatively simple.
+[19:48:23] ### Billd is now known as Hiver
+[19:49:45] <anyonethinkingab> i think we'll need 2 PMs for the reddit client
+[19:49:57] <anjoyed_o0O> mylyn redmine connector is allowing tasks to be pulled from the site, but won't authenticate to update them from eclipse
