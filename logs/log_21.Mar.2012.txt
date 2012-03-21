@@ -654,3 +654,13 @@
 [05:07:41] <alextsc> yeah, i don't have much experience myself with git(hub), apparently you need pull requests to do any codereview
 [05:08:29] <alextsc> if you need somebody to test the workflow throgh, hit me up
 [05:08:35] <alextsc> through that is
+[05:10:56] <member68> looks like i have to fork the project, create a new branch in the fork, commit changes to the branch, and then i can create a pull request to have it added back to the main project
+[05:11:05] <member68> http://help.github.com/send-pull-requests/
+[05:11:19] ### zubsani has parted (left) the channel.
+[05:11:25] ### zubsani has joined ##reddit-android-developers
+[05:13:48] <alextsc> mhm does it make sense to branch in this case; opposed to the fork + pull-request only?
+[05:14:08] <alextsc> i really have to read up on git a bit :D
+[05:15:01] ### RAWR has joined ##reddit-android-developers
+[05:17:24] <RAWR> Ughh why does the website have overflow:hidden? Can't see the whole thing on my netbook D:
+[05:18:20] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[05:18:28] ### markerz has joined ##reddit-android-developers
