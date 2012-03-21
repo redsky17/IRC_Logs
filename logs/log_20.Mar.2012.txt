@@ -3130,3 +3130,5 @@
 [20:40:10] ### Lonnie has joined ##reddit-android-developers
 [20:40:25] ### Lonnie is now known as LonnieC
 [20:40:43] ### blaise| has quit the server. (Read error: Connection reset by peer)
+[20:51:09] ### jcarpenter has quit the server. (Quit: Page closed)
+[20:55:20] ### blaise| has joined ##reddit-android-developers
