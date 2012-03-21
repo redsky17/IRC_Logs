@@ -1065,3 +1065,38 @@
 [11:23:32] <red_sky> member68 could you use !upload again?
 [11:23:32] <member68> i removed everybody but redsky from the irc log project
 [11:23:36] <member68> !upload
+[11:23:45] <red_sky> there
+[11:23:50] <garychencool> I believe most of the user names on IRC correlate to the ones on reddit..?
+[11:23:55] <wjoe> yeah, it's hard to keep track of the real names. it wouldn't be so bad if it actually showed their nicks when you click on the name, but it just shows emails
+[11:23:56] <Hogofwar> Pretty much
+[11:23:58] <wjoe> likely
+[11:23:58] <member68> that way you shouldn't get any project irc bot related news
+[11:24:03] <red_sky> yeah, mine does, and my github name is close enough
+[11:24:22] <garychencool> well all of my names are the same (yippe), on this, reddit, github, redmine, etc
+[11:24:23] <Hogofwar> member68, cool
+[11:24:38] <Hogofwar> member68, is it appropriate for the IRC logging bot to have a git on the page?
+[11:25:28] <wjoe> I'm surprised I managed to get my nick on reddit and github really
+[11:25:44] <wjoe> not that it's exactly a common name, but it's 4 letters
+[11:25:50] <Hogofwar> True
+[11:25:52] ### sam___ has joined ##reddit-android-developers
+[11:26:01] <member68> dunno. we could log to a ftp server instead of github if people wanted that
+[11:26:23] <red_sky> I think that was the plan originally
+[11:26:25] <Hogofwar> member68, I mean the source for the bot, not the logs
+[11:26:44] <red_sky> but someone suggested github because of the infinite storage and because it's right there with everything else
+[11:26:47] <garychencool> my name's my name
+[11:26:58] <Hogofwar> wjoe, there are 456,976 combinations of 4 letters, so I guess that's pretty small
+[11:27:22] <wjoe> haha. quite a few, but yeah
+[11:27:48] <member68> hogofwar: i don't think we need the bot source on github. it's not exactly relevant to writing android apps
+[11:28:13] <Hogofwar> 208 827 064 576         8 letter combinations
+[11:28:27] <wjoe> maybe just make a repo for it on your own github page?
+[11:28:28] <Hogofwar> member68, i'll just upload it to my own github
+[11:28:32] <Hogofwar> wjoe, yep
+[11:28:55] <wjoe> as much as I like hosting my own stuff (I have my own git server and gitweb here), github does look really good
+[11:29:08] <member68> hogofwar: ok, if people ask I'll send them your way
+[11:29:18] ### blaise| has quit the server. (Quit: Bye)
+[11:29:22] <Grillon> feel free to post it here :)
+[11:29:32] <Grillon> or just put your github name so I can find it there
+[11:29:33] <red_sky> hogofwar, I'll probably make a branch pretty soon
+[11:29:49] <red_sky> fork, maybe
+[11:29:51] <member68> i still can't believe we have 500 people watching the subreddit
+[11:29:53] <red_sky> depending on what you want
