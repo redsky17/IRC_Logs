@@ -3439,3 +3439,30 @@
 [23:34:51] <ThatPlayer> Depends on the provider I think
 [23:35:34] <ThatPlayer> Like I hear OpenVZ is supposed to be easier to oversell
 [23:36:08] <red_sky> I've heard that too
+[23:41:23] <ThatPlayer> http://www.lowendbox.com/blog/chicagovps-7month-2048mb-openvz-in-chicago/
+[23:41:24] <ThatPlayer> What I use
+[23:41:24] <ThatPlayer> Still valid if you wanna try it for 7$
+[23:41:24] ### vcarl has joined ##reddit-android-developers
+[23:41:24] <red_sky> I look into it, thanks
+[23:41:24] <ThatPlayer> Lowendbox normally updates with good deals for vpses
+[23:41:24] <red_sky> hmm
+[23:41:24] <red_sky> that's a really good deal
+[23:41:24] <ThatPlayer> I've got one, I run a minecraft server on it
+[23:41:24] <red_sky> 2048 guaranteed RAM
+[23:41:28] <red_sky> 1 cpu, I take it?
+[23:42:14] ### Airheebz has joined ##reddit-android-developers
+[23:42:47] <ThatPlayer> Not sure how much you have access to, but /proc/cpuinfo shows four
+[23:42:59] <vcarl> prolly quad core
+[23:43:14] <ThatPlayer> model name      : Intel(R) Xeon(R) CPU           X3450  @ 2.67GHz
+[23:44:44] <red_sky> not bad
+[23:44:54] <red_sky> how does CPU stuff work with a VPS
+[23:45:05] <red_sky> is that CPU shared between all VPS on one box?
+[23:45:11] <ThatPlayer> Probably
+[23:45:13] <ThatPlayer> I'm not too sure
+[23:45:23] <red_sky> or do you guaranteed get access to only your CPU (which would limit boxes to like 64 VPS or something like that)
+[23:45:31] <red_sky> (32 is more reasonable)
+[23:46:29] <ThatPlayer> http://chicagovps.net/openvz.html
+[23:46:29] <ThatPlayer> All ChicagoVPS.net OpenVZ Virtual Private Servers are hosted on the same, high-end Dual Quad Core Xeon servers (all packages are equal-share CPU)
+[23:48:26] <red_sky> think you could explain that to me better?
+[23:48:41] <ThatPlayer> Nope, I don't know much either =)
+[23:48:59] <red_sky> it's worded in a way that makes me think that all CPUs are shared by all VPS
