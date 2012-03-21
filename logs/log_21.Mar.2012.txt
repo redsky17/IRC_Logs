@@ -644,3 +644,13 @@
 [04:59:07] ### markerz| has joined ##reddit-android-developers
 [04:59:48] <zubsani> thanks
 [05:00:03] ### markerz has quit the server. (Quit: Page closed)
+[05:01:01] ### zubsani has quit the server. (Quit: zubsani)
+[05:02:06] ### zubsani has joined ##reddit-android-developers
+[05:05:29] ### matt-ice has quit the server. (Quit: back to work, y'all!)
+[05:05:57] <alextsc> member68, hows the github thing going?
+[05:06:05] ### zubsani has parted (left) the channel.
+[05:06:10] ### zubsani has joined ##reddit-android-developers
+[05:06:45] <member68> i'm reading up on what pull requests are. haven't quite figuered that out
+[05:07:41] <alextsc> yeah, i don't have much experience myself with git(hub), apparently you need pull requests to do any codereview
+[05:08:29] <alextsc> if you need somebody to test the workflow throgh, hit me up
+[05:08:35] <alextsc> through that is
