@@ -721,3 +721,7 @@
 [05:57:59] ### markerz| has joined ##reddit-android-developers
 [05:57:59] ### markerz has quit the server. (Read error: Connection reset by peer)
 [05:58:17] <anyonethinkingab> http://instantrimshot.com/index.php?sound=crickets
+[06:00:46] ### RAWR has quit the server. (Quit: Leaving)
+[06:04:42] ### Billd-zzz has joined ##reddit-android-developers
+[06:06:02] ### Billd-zzz is now known as Billd
+[06:08:46] ### RAWR has joined ##reddit-android-developers
