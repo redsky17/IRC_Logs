@@ -12,3 +12,4 @@
 [00:23:53] <red_sky> I'm not sure how long it will take to transfer everything over
 [00:23:56] <red_sky> probably not too long.
 [00:25:25] ### D_ has quit the server. (Ping timeout: 246 seconds)
+[00:30:33] ### RadLogii has joined ##reddit-android-developers
