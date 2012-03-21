@@ -3313,3 +3313,23 @@
 [21:49:35] <LonnieC> http://www.groklaw.net/articlebasic.php?story=20060118155841115
 [21:49:42] <red_sky> the gplv2 says "compatible license" while v3 says "this license"
 [21:50:01] <jaimeh> There is a lot of misinformation on gplv3. Really because manufacturers are afraid of it and want to abuse stuff. A lot of it is developers that work at big corporations that want to be free to use your code.
+[21:50:25] <red_sky> I can understand big companies not liking it
+[21:50:30] <red_sky> it requires signing keys to be open source
+[21:50:37] <red_sky> which completely defeats the purpose of a signing key
+[21:50:37] ### WackyApples has quit the server. ()
+[21:50:48] <red_sky> among other things
+[21:51:25] <jaimeh> If we had signing keys, we would have open boot loaders fyi
+[21:51:35] <red_sky> yeah, we would
+[21:51:44] <ubergeek42> no, it does not break drm, keys can still be private: http://technocrat.net/d/2007/3/22/16651/
+[21:52:43] <red_sky> ubergeek
+[21:52:43] <red_sky> the primary reason linus torvalds switched away from the GPL and doesn't use GPLv3 is because it would require him to give up his keys as open source
+[21:52:59] <jaimeh> He didn't switch away
+[21:53:12] <red_sky> well, he doesn't use the GPLv3
+[21:53:17] <red_sky> I worded it rather poorly
+[21:53:42] <jaimeh> First it would be hard to gather all developers to accept a new license at this point.
+[21:54:02] ### Billd has joined ##reddit-android-developers
+[21:54:04] <red_sky> it's been around for 5 years
+[21:54:15] <red_sky> and the GPLv2 is completely compatible with v3, as far as I'm aware
+[21:54:30] <red_sky> so it would as simple as getting "yes" on all the parts of the code
+[21:54:37] <red_sky> and if they said no, leave it licensed as v2
+[21:54:42] <jaimeh> Too much work for that. He had said he would go to the effort if ZFS had gone v3
