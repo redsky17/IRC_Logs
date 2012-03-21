@@ -229,3 +229,54 @@
 [02:17:57] <vcarl> signals and slots! it's all interrupts :)
 [02:18:10] <aschneid> It also reminds me of some of the web toolkits out there.
 [02:18:23] ### RAWR has quit the server. (Client Quit)
+[02:20:55] <red_sky> I think I just consumed about 1600 calories
+[02:21:26] <ThatPlayer> What's that like?
+[02:21:35] <red_sky> odd
+[02:21:51] <red_sky> I'm not overly full or anything, which is good
+[02:23:04] ### Billd-zzz has joined ##reddit-android-developers
+[02:23:18] <vcarl> i have a friend who ate a pound and a half of gummi worms during a movie, 3400 calories in 100 minutes
+[02:24:12] <red_sky> holy crap
+[02:24:20] <red_sky> though, I have a thing for movie theatre popcorn
+[02:24:35] <red_sky> in a typical movie, I can eat two whole buckets of popcorn with little help
+[02:24:42] <red_sky> not sure how many calories that is
+[02:25:14] <danopia> i'm trying to get a >500 result on speedtest
+[02:25:17] <danopia> it's so hard
+[02:25:25] <danopia> red_sky, you crazy
+[02:25:58] <red_sky> I have a strange diet, and thankfully an amazing metabolism.  Some guide suggested I burn 3200 calories a day for doing nothing at all, and I'm a pretty active person
+[02:26:02] <danopia> http://www.speedtest.net/result/1846791212.png
+[02:26:08] <danopia> i'm not sure how much higher i can get
+[02:26:16] <danopia> i can tell speedtest isn't built for these speeds thuogh
+[02:26:20] <red_sky> hey
+[02:26:30] <red_sky> my sister went to Drexel for a while
+[02:26:37] <red_sky> she didn't tell me how fast their internet was
+[02:26:45] <vcarl> wow.
+[02:26:46] <vcarl> wow.
+[02:26:51] <danopia> red_sky, i eat lots of junk food, but don't exercise at all, other than sprinting to class
+[02:26:57] <danopia> and i barely gained weight
+[02:27:00] <vcarl> i went to tech for a year, they throttled internet to 750kb/s down :(
+[02:27:05] <vcarl> *michigan tech
+[02:27:06] <red_sky> I don't think PSU is even that fast
+[02:27:11] <red_sky> and we have our own fiber lines
+[02:27:12] <danopia> i tell you people, we have nice internet
+[02:27:15] <danopia> it's Internet2
+[02:27:23] ### Billd-zzz has quit the server. (Ping timeout: 246 seconds)
+[02:27:30] <red_sky> I thought you could only use that between other people with internet2
+[02:27:31] <danopia> they don't use NAT either
+[02:27:37] <red_sky> like other universities
+[02:27:46] <danopia> well, yea
+[02:27:53] <danopia> but that also means you have a good link to non-internet2
+[02:28:37] <red_sky> ah
+[02:28:49] <danopia> btw hte full "isp" for this range (the college range) is "The Drexel University Campus"
+[02:28:54] <danopia> speedtest makes it awkwardy
+[02:29:01] <danopia> and the wifi is typically magnitudes slower
+[02:29:02] <red_sky> let me show you my absymal, oversaturated cable
+[02:29:05] <red_sky> I fucking hate it
+[02:29:38] <vcarl> i live with 6 other people, all college students, sharing a 20 megabit line
+[02:29:39] <vcarl> i feel ya
+[02:29:49] <red_sky> mine's a 12 megabit line
+[02:29:51] <red_sky> 5 other people
+[02:29:55] <danopia> this one server that it keeps choosing is slow, the stream101 one
+[02:29:56] <vcarl> i'm so sorry
+[02:29:59] <danopia> it caps at 100
+[02:30:00] <red_sky> I rarely get anywhere near 12, ever
+[02:30:08] <red_sky> danopia, try san jose
