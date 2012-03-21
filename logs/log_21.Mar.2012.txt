@@ -964,3 +964,7 @@
 [10:35:20] ### markerz| has joined ##reddit-android-developers
 [10:35:21] ### markerz has quit the server. (Read error: Connection reset by peer)
 [10:37:36] ### red_sky has joined ##reddit-android-developers
+[10:42:31] ### aschneid has parted (left) the channel.
+[10:42:45] <wjoe> one problem with redmine: everything uses real names, which don't always translate well to people's usernames on reddit/IRC
+[10:44:09] <wjoe> so, if Alexander Boden is someone here: I've installed the eclipse connector plugin in redmine that you requested
+[10:44:21] <wjoe> but I don't know if it works, can't test with eclipse right now
