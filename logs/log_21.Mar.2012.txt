@@ -353,3 +353,57 @@
 [02:39:49] <red_sky> if you go over it like... 3 months in a row, you'll get an email
 [02:39:59] <red_sky> telling you they'll terminate your service if it continues
 [02:40:01] <vcarl> heh, we're at 6, i've checked :P
+[02:40:57] <red_sky> I'm surprised they haven't done anything yet
+[02:41:01] <TheNumb> Hello (:
+[02:41:04] <vcarl> me too
+[02:41:06] <vcarl> hellooo
+[02:41:12] <alextsc> hey
+[02:41:19] <Airheebz> i got one of those letters after i downladed about 800Gb of data one month
+[02:41:20] <vcarl> i have a friend who used 1.2tb in a month, then 500, then 700
+[02:41:21] <TheNumb> Do we have a splash image for our apps?
+[02:41:36] <vcarl> he got a personal phone call
+[02:41:52] <TheNumb> vcarl: 1.2 TB?!
+[02:41:57] <vcarl> yes.
+[02:42:02] <red_sky> that's a large amountt
+[02:42:03] <vcarl> constantly torrenting EVERYTHING
+[02:42:07] <Airheebz> i just got a letter that said if i use over 200Gb again they will terminate account
+[02:42:11] <red_sky> if it was all legal, that's very impressive
+[02:42:11] <vcarl> he has like 12tb filled on his HTPC
+[02:42:28] <vcarl> Airheebz, that sucks
+[02:42:41] <red_sky> I got warned for torrenting
+[02:42:42] <red_sky> like 3 times
+[02:42:44] <Airheebz> meh, just have to watch what i download
+[02:42:44] <vcarl> TheNumb, i don't know, but we have that logo vote that's wrapping up soon
+[02:42:46] <red_sky> because my roommates liked to torrent
+[02:42:53] <TheNumb> vcarl: I know, I know :P
+[02:43:08] <Airheebz> sucks during steam sales :D
+[02:43:12] <vcarl> hahaha
+[02:43:40] <red_sky> penn state dorm users have a limit of 10GB // week
+[02:43:44] <red_sky> I went over it all the time
+[02:43:57] <red_sky> after you go over, they reduce speeds to 56k for the rest of the week
+[02:44:04] <vcarl> ewww
+[02:44:06] <TheNumb> red_sky: ummm, that sucks.
+[02:44:08] <red_sky> and multiple infractions result in losing internet in your dorm
+[02:44:13] <red_sky> it was super fast internet, too
+[02:44:16] <vcarl> at mich tech, i got a DMCA violation once
+[02:44:18] <TheNumb> red_sky: well, that's what my mobile carrier does.
+[02:44:20] <red_sky> apparently it was 3GB / week like 3 years ago
+[02:44:22] <TheNumb> >.>
+[02:44:25] <vcarl> had to pay $100 and take a copyright law test
+[02:44:32] <red_sky> wow, that sucks
+[02:44:46] <red_sky> a student got escorted out of class here a few years back by federal agents
+[02:44:48] <vcarl> for a bad copy of the movie that was in russian too, totally not worth it
+[02:44:50] <red_sky> for piracy
+[02:44:50] <vcarl> O_o
+[02:45:41] <TheNumb> >.>
+[02:46:03] <TheNumb> Apparently nobody gives a shit about piracy in Poland ;D
+[02:46:35] <vcarl> lucky bastard :P
+[02:46:50] <TheNumb> There are lots of people torrenting in student houses :P
+[02:47:11] <TheNumb> No data cap, 1 Gbps speed :D
+[02:49:10] <red_sky> oooo, that's nice
+[02:49:11] <red_sky> new VPS
+[02:49:18] <red_sky> running nginx and a java program
+[02:49:29] <red_sky> 1.2GB free RAM (out of 2GB), and like 98% idle CPU
+[02:49:50] <vcarl> nice
+[02:49:58] <vcarl> i sort of understand what that means
+[02:50:05] <TheNumb> red_sky: Unused RAM if wasted RAM :D
