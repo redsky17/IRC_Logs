@@ -444,3 +444,45 @@
 [03:49:39] <aschneid> I have the log saved here locally
 [03:49:53] <member68> good idea, especially since it's related to Reddit.
 [03:49:56] <aschneid> Hogofwar: the imgur api was discussed
+[03:50:11] <joholz> the bot should be good now, I think i remember him saying he did some work
+[03:50:12] <Hogofwar> aschneid, I mean the bot going up and down
+[03:50:24] <member68> care to send me the log? i'll read it for breakfast
+[03:50:28] <aschneid> Yeah….I tied it into discussion of the Reddit apps and the picture hunt apps (have an idea for it.
+[03:50:41] <danopia> member68, log of this chan?
+[03:50:45] <danopia> i've been logging since i joined
+[03:50:52] <aschneid> Hogofwar: It was a problem with red_sky's vps
+[03:50:57] <Hogofwar> K
+[03:51:09] <aschneid> He switched and it's been up since
+[03:51:27] <aschneid> Of course, it was bouncing up and down while we were talking about the imgur framework. :-)
+[03:51:47] <danopia> i can scp my log up to the cluster but it's very extensive
+[03:51:50] <aschneid> member68: you want it here, or somewhere else?
+[03:51:53] <anjoyed> think most of it was logged
+[03:52:12] <member68> don't care. whatever works
+[03:52:20] <danopia> http://cs.drexel.edu/~djl75/FreeNode-%23%23reddit-android-developers.log
+[03:52:26] <danopia> is everything
+[03:52:48] <danopia> in case anyone wants it...
+[03:52:50] <member68> danopia: what timezone is that?
+[03:52:56] <danopia> EST
+[03:53:03] <danopia> i have no idea when it was first started
+[03:53:19] <danopia> but it's 443KB of IRC
+[03:54:03] <member68> you're up at 4AM? not bad
+[03:54:06] <danopia> i lied
+[03:54:15] <danopia> that excludes the entire time i'm on linux
+[03:54:18] <danopia> windows*
+[03:54:21] ### vcarl has quit the server. (Ping timeout: 246 seconds)
+[03:54:24] <danopia> which was 15 horus
+[03:54:30] <aschneid> The conversation starts at 00:58:48 in danopia's log
+[03:54:51] <danopia> thank you for ctrl-f-friendly
+[03:55:50] <aschneid> Goes to 01:25:39
+[03:55:54] <danopia> i'm going to set up a loop to scp the latest log up every 30 minutes
+[03:56:13] <aschneid> Basically between anjoyed and myself (blaise_ at the time)
+[03:56:18] <danopia> done, i ahve to sleep now
+[03:57:45] <danopia> heck, i could mount the cluster's nfs locally and tell xchat to log line-by-line into that....
+[03:57:49] <danopia> but too mcuh effort :P
+[03:58:06] ### Fault has joined ##reddit-android-developers
+[03:58:49] <aschneid> I'm using Colloquy on a Mac and just realized all the logs are in XML…makes it a pain to send to anybody.  Glad you had your logs available danopia.
+[03:58:54] <member68> go to bed, danopia. you deserve it
+[03:59:21] <danopia> member68, but i didn't do any work on RAD today :(
+[03:59:28] <danopia> i did get an IRL job of sorts though
+[03:59:36] <danopia> work study position, programmin'
+[04:00:23] <aschneid> Speaking of IRL job, I need to be up in the morning myself and it's 1:00 am here on the west coast, so I'm heading out myself
