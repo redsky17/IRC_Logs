@@ -1784,3 +1784,44 @@
 [15:39:36] <aschneid> So, do we think we want to build an imgur framework along with RQS, on the chance it may get used in the future?
 [15:39:49] <anjoyed> would be wise imo
 [15:40:08] <anjoyed> wrap up some functionality that any project needing it can use
+[15:40:28] <vcarl> that'd be the "right" thing to do, we/people could definitely use it in future projects
+[15:41:47] <member68> good idea. it might evolve into a project on its own later on
+[15:42:23] <member68> for now we can keep it in the RQS app
+[15:43:10] ### aschneid_ has joined ##reddit-android-developers
+[15:43:19] <Grillon> by looking at the examples, its easy enough
+[15:43:31] <Grillon> and if its by IP, like member68 mentioned, we shouldnt have any problems
+[15:43:49] ### CarstenCarsten has joined ##reddit-android-developers
+[15:43:57] <CarstenCarsten> Good evening!
+[15:44:04] ### aschneid has quit the server. (Ping timeout: 245 seconds)
+[15:44:04] <Grillon> greetings
+[15:44:07] <CarstenCarsten> So: What is the first project?
+[15:44:54] ### joholz has quit the server. (Ping timeout: 245 seconds)
+[15:45:10] <member68> aschneid: https://github.com/RobertSzkutak/AndroidExamples
+[15:45:12] ### anyonethinkingab has quit the server. (Ping timeout: 246 seconds)
+[15:45:23] ### garychencool has joined ##reddit-android-developers
+[15:46:03] <Hogofwar> !paste 5
+[15:46:04] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/eFNZ
+[15:46:14] <member68> CarstenCarsten: check out the projects at http://rad.lc8n.com/projects
+[15:46:44] <wjoe> Oh wow have projects
+[15:46:46] <aschneid_> member68: that's a good start...and it would probably work for RQS.  I had some other ideas for browsing imgur and retrieval of files.
+[15:46:47] <CarstenCarsten> rad.lc8n.com ???? I am opening that better with lynx. Not trusting the url
+[15:47:03] <wjoe> Haha. It's my server
+[15:47:08] <wjoe> Reminds me
+[15:47:25] ### jaimeh has joined ##reddit-android-developers
+[15:47:30] <Hogofwar> CarstenCarsten, it's fine
+[15:47:31] <wjoe> member68: what happened with setting up the dev subdomain?
+[15:47:33] <CarstenCarsten> is it not something like member.gn44. you know what ...
+[15:47:47] <Hogofwar> CarstenCarsten, no
+[15:48:04] <wjoe> For what it's worth, you can go to dev.redditandroiddevelopers.com and it redirects there
+[15:48:21] <wjoe> That may or may not be spelt correctly, thanks phone typing
+[15:48:24] <member68> i had trouble changing the dns using the web interface. i created 2 support tickets already. i hope they respond soon.
+[15:48:48] <wjoe> Ahh, ok
+[15:49:02] <CarstenCarsten> wow, gnaa.us is gone. thats a relief
+[15:49:19] <TheNumb> gnaa.us?
+[15:49:33] <TheNumb> da fuq?
+[15:49:39] <Hogofwar> !paste 9999999999
+[15:49:45] <Hogofwar> haha
+[15:49:48] <TheNumb> !paste 1337
+[15:49:49] <Hogofwar> integer overflow
+[15:49:51] <CarstenCarsten> TheNumb: It was a major trolling site, the chef was someone called timecop
+[15:50:00] <Hogofwar> fail
