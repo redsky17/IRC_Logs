@@ -2129,3 +2129,45 @@
 [16:48:55] <TheNumb> anjoyed: http://api.imgur.com/examples#uploading_java :D
 [16:49:18] <aschneid> I'd say take a look at the code member68 sent earlier to start.
 [16:49:59] <aschneid> I glanced through it briefly, seems like it is strictly for uploading and potentially only oauth, not anon.
+[16:50:28] <aschneid> https://github.com/RobertSzkutak/AndroidExamples/tree/master/ImgurExample
+[16:50:47] <anjoyed> cheers, gonna take a look
+[16:50:51] <aschneid> I'll look at it in a little more detail.
+[16:50:59] <member68> just added it to the issue tracker
+[16:51:44] <tmoskowite> jaimeh: added in reddit
+[16:51:47] <aschneid> Are we thinking of tackling browsing, image retrieval, etc right now?
+[16:51:50] <tmoskowite> member68: what is the gerrit link?
+[16:52:07] <aschneid> Or simply uploading and adding more functionality later.
+[16:52:26] <jaimeh> Thanks tmoskowite
+[16:52:28] ### RAWR has quit the server. (Quit: Leaving)
+[16:52:47] <member68> it's not online yet. we're working on it
+[16:53:01] <Sanit> this is for uploading images for the Reddit Quick Submit app
+[16:53:17] <jaimeh> I am willing to manage or develop on a project. Whom or what is still needed as of now?
+[16:53:54] <aschneid> Sanit: yeah, but we talked about potentially fleshing it to a full framework other apps could use.
+[16:54:08] <aschneid> So, just wondering how far we want to take it right now.
+[16:54:10] <member68> click on the current projects and see if there are any that have just me as a manager. those don't have a real PM yet. feel free to sign up for those
+[16:54:18] <veeti> i think that you're overcomplicating things
+[16:54:26] <veeti> just worry about fixing the app first
+[16:54:41] <aschneid> veeti: is that in response to me?
+[16:54:46] <veeti> yes
+[16:55:00] <member68> start by writing the api calls we need. we can turn it into a real framework later
+[16:55:12] <Hogofwar> Okay
+[16:55:18] <member68> well, start writing when we have gerrit up and running ;)
+[16:55:20] <aschneid> of course what I'm suggesting is more than what we need...but I also have some ideas for other apps that would use it i the future.
+[16:55:20] <Sanit> aschneid: we are thinking of getting the app work first, then make the framework when we understand the api bettter
+[16:55:22] <Hogofwar> What exactly are we doing
+[16:56:09] <Hogofwar> member68, is the reddit quick submit a simple app with a form to write shit in or a "share" option?
+[16:56:40] <member68> it's about sharing any content you want: mostly images for now though
+[16:57:09] <jaimeh> Intent sharing would be ideal, no?
+[16:57:14] <Sanit> images, links and self posts
+[16:57:30] <Sanit> Hogofwar: both really
+[16:58:06] <member68> it should support sharing from the app and accepting shared content from other apps
+[16:58:23] <jaimeh> Is the google tasks client going to be just google tasks, or something more general to other cloud task services?
+[16:58:46] <jaimeh> Like could we have drivers for different services?
+[16:58:53] <Hogofwar> jaimeh, i would say just google tasts
+[16:58:55] <Hogofwar> *tasks
+[16:58:59] <member68> jaimeh: we haven't decided. join the project and start discussing with others
+[16:59:16] <lyrch> where are these projects listed?
+[16:59:25] <jaimeh> I just sent a request
+[16:59:34] <Sanit> redmine
+[16:59:47] <c0smic> lyrch: http://rad.lc8n.com/projects
+[17:00:02] <joholz> tmoskowite, get pm?
