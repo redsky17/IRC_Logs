@@ -1957,3 +1957,67 @@
 [16:09:49] <Hogofwar> there are exceptions
 [16:09:58] <Hogofwar> I haven't checked the input if it's an integer yet
 [16:09:59] <TheNumb> lacop: u arsed the bot ;<
+[16:10:03] <Hogofwar> I should change it to a long
+[16:10:22] <lacop> Hogofwar, for those cases when you just need the last 4 billion lines ... :)
+[16:10:28] <danopia> !paste ​7
+[16:10:47] <Hogofwar> Nice special character there
+[16:10:52] <danopia> darn you and your console
+[16:11:25] <danopia> it's pretty niec though, normally it means i can mention someone withuot pinging them
+[16:11:28] <danopia> Hogo​fwar
+[16:11:33] <danopia> did that ping you? :P
+[16:11:37] <garychencool> oh wow my router keeps on crashing
+[16:11:39] <Hogofwar> Yes
+[16:11:45] <danopia> garychencool, that means your doing it wrong
+[16:11:49] <danopia> Hogofwar, get a dumber client then
+[16:12:06] <CarstenCarsten> member68: Thanks, thats great! When does the development start? Do we use the github?
+[16:12:11] <danopia> or i could fall back to dirty tricks like Hogofwar
+[16:12:30] <danopia> i've never seen a client ping on that
+[16:12:51] <member68> Carsten: We'll use github + gerrit
+[16:12:51] ### anyonethinkingab has quit the server. (Ping timeout: 246 seconds)
+[16:12:59] <member68> gerrit is beeing set up at the moment
+[16:13:24] <member68> github is up and running, i haven't created the projects yet though
+[16:13:31] <Sanit> Added some forums here: http://rad.lc8n.com/projects/reddit-quick-submit/boards
+[16:13:35] <Sanit> good idea/bad idea?
+[16:13:53] <CarstenCarsten> wow, zynga bought drawsomething?
+[16:14:00] <danopia> >.>
+[16:14:01] <danopia> really?
+[16:14:05] ### joholz has joined ##reddit-android-developers
+[16:14:08] <member68> sanit: use the issue tracker for bugs, suggestions, etc
+[16:14:14] <CarstenCarsten> danopia: old news?
+[16:14:25] <danopia> CarstenCarsten, no, i'm >.>'ing the news
+[16:14:29] <Sanit> even for suggestions?
+[16:14:29] <Hogofwar> !paste 50
+[16:14:34] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[16:14:45] <lacop> Sanit, yes
+[16:14:47] ### LogiiBot has joined ##reddit-android-developers
+[16:14:49] <Hogofwar> !paste 50
+[16:14:49] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/ibZD
+[16:14:50] <lacop> for general talk use mailing list
+[16:14:53] <Sanit> it seems like they would be expanded upon more in a forum environment
+[16:14:53] <member68> yes, that way we can assign people to work on them
+[16:15:03] <Hogofwar> woo
+[16:15:09] <lacop> Sanit, forums are terrible in my opinion, for software development
+[16:15:33] <member68> code related issues will move to gerrit soon anyway
+[16:15:44] <Sanit> but for idea development. Someone could have an idea and want to discuss it or develop upon it, and THEN add it to the issue tracker
+[16:15:45] ### kiel3 has joined ##reddit-android-developers
+[16:15:46] <Hogofwar> !paste 50
+[16:15:47] <LogiiBot> The log has been uploaded and is at:
+[16:15:56] <Hogofwar> !paste 50
+[16:16:04] <Hogofwar> !paste 50
+[16:16:07] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[16:16:32] ### LogiiBot has joined ##reddit-android-developers
+[16:16:33] <Hogofwar> !paste 50
+[16:16:33] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/gXYX
+[16:16:44] <Hogofwar> !paste 80
+[16:16:44] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/ZSLZ
+[16:17:26] <lacop> member68, https://groups.google.com/forum/?fromgroups#!topic/redditandroiddevelopers/uwDR-C4R6Ww
+[16:17:28] <Hogofwar> woo
+[16:17:32] <lacop> if you want to post it somewhere
+[16:17:43] ### ballpointcarrot has joined ##reddit-android-developers
+[16:18:09] <lacop> Sanit, that is what the mailing list is for
+[16:18:15] <jaimeh> I haven't been here since last evening. What is new?
+[16:18:25] <Hogofwar> !paste -1
+[16:18:25] <lacop> jaimeh, 4 posts up I posted a summary
+[16:18:27] <Hogofwar> dammit
+[16:18:29] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[16:19:05] <Sanit> fair enough.
