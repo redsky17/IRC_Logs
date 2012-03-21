@@ -838,3 +838,22 @@
 [08:20:15] <member68> scrap that idea. i misunderstood some forum post
 [08:20:30] <wjoe> http://stackoverflow.com/questions/3724101/github-gerrit-hudsonjenkins-workflow
 [08:20:35] <wjoe> the post on here makes some sense
+[08:20:42] <wjoe> (though I'm not sure what jenkins/hudson is)
+[08:20:57] <lyrch> it's a continuous integration server
+[08:20:59] <lyrch> good stuff
+[08:23:21] <lyrch> the second answer is the workflow we're looking for, so it's possible
+[08:23:45] <wjoe> yeah, it sounds good. I think the issues of github and gerrit not playing well are mostly old news
+[08:24:08] <wjoe> only problem is, it's a bit awkward to pull from one repo, then push to another. I guess git has some way of dealing with that though
+[08:24:44] <member68> devs only deal with gerrit
+[08:24:59] <member68> oh wrong
+[08:25:15] <wjoe> would they pull from gerrit too though? surely gerrit would be full of unapproved stuff, unless it's branched somehow
+[08:25:24] <wjoe> hm
+[08:25:31] <lyrch> nope, they would pull from github
+[08:25:52] <wjoe> that's what I thought, but then how do you pull from one repo but then push to another?
+[08:26:06] <member68> eclipse can do that without problems
+[08:26:12] <lyrch> i know that when i set up my workspace at my job there were a few git config options that i needed to set for the workflow
+[08:26:39] <member68> so workflow is: pull from github, make changes, commit changes to gerrit, have them approved, gerrit pushes changes back to github
+[08:26:46] <lyrch> bah, IDEs. commandline and vim all the way
+[08:26:53] <wjoe> I'm sure git has a way to do it.. probably add another remote or something. not sure
+[08:27:29] <member68> we'll figure it out. first we'd need to set up gerrit though.
+[08:28:15] <wjoe> looking into it now
