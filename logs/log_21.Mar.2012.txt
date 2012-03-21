@@ -1343,3 +1343,7 @@
 [12:38:18] <member68> veeti: have you worked with both systems?
 [12:38:39] <member68> wjoe: sounds like the project manager was an idiot
 [12:39:21] <wjoe> old fashioned, at least. he had the right idea, having code review rather than everyone pushing commits to the main repo. he was just completely unaware of any systems liked this
+[12:41:07] ### nataly has quit the server. ()
+[12:44:36] <member68> gerrit is rahter new, too. let's give him the benefit of the doubt ;)
+[12:45:43] <wjoe> hehe, yeah
+[12:46:04] ### Esge has joined ##reddit-android-developers
