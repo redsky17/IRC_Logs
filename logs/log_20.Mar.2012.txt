@@ -3374,3 +3374,26 @@
 [22:38:58] <red_sky> the bot doesn't stop running
 [22:39:02] <red_sky> it's the network
 [22:39:06] <red_sky> damn VPS providers
+[22:42:03] ### jaimeh has quit the server. (Ping timeout: 272 seconds)
+[22:45:13] <anjoyed> send them a friendly mail saying you like them and dont want to change, but either the disconnects have to be fixed or you want 20% off cost
+[22:45:13] <anjoyed> can't lose
+[22:45:13] <red_sky> I'm already getting about a 20% discount
+[22:45:22] <red_sky> though this is the first month I've paid in like the last 5 months
+[22:45:27] <red_sky> their credit card stuff wasn't working
+[22:45:27] <anjoyed> not bad. If its a good deal and the disconnects dont mess anything up then cant complain
+[22:45:30] <red_sky> I told them I hated paypal
+[22:46:03] <red_sky> it's still pushing to the git on time
+[22:46:04] <anjoyed> good stuff. Wont use it myself
+[22:46:06] <red_sky> so I think it's fine
+[22:46:11] <anjoyed> paypal that is
+[22:46:14] <red_sky> yeah... I have had so many issues with paypal
+[22:46:32] <red_sky> I bought something via paypal, immediately cancelled my order, got a full refund from the company
+[22:46:40] <red_sky> and for about 2 weeks, the money was tied up in paypal
+[22:46:49] <anjoyed> surprised some of the shit they pull is even legal
+[22:46:52] <red_sky> $260 isn't pocket change, either.
+[22:47:35] <red_sky> yeah, like freezing the account of people who suddenly get money
+[22:47:40] <red_sky> in decent quantities
+[22:47:43] <red_sky> makes no sense
+[22:48:20] <anjoyed> does  if you got the money
+[22:48:25] <anjoyed> ;)
+[22:49:01] <red_sky> yeah
