@@ -725,3 +725,9 @@
 [06:04:42] ### Billd-zzz has joined ##reddit-android-developers
 [06:06:02] ### Billd-zzz is now known as Billd
 [06:08:46] ### RAWR has joined ##reddit-android-developers
+[06:16:23] <member68> i changed the reddit sidebar, check it out
+[06:17:47] ### markerz has joined ##reddit-android-developers
+[06:17:48] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[06:18:39] <alextsc> looks good
+[06:19:42] <member68> ok, good enough for now
+[06:20:00] <Billd> I'd upvote it if I could.
