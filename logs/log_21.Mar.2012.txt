@@ -699,3 +699,22 @@
 [05:39:56] <alextsc> yeah, also great to have a usable command line
 [05:40:12] <alextsc> but the window manager situation is terrible at the moment  :>
 [05:40:15] <wjoe> yeah, seriously
+[05:40:26] <wjoe> kinda :/ I just went with xfce
+[05:40:37] <member68> first world problems :p
+[05:40:42] <wjoe> hehe
+[05:40:47] <alextsc> I'm currently on KDE, havent used that in years
+[05:40:57] ### rapidfyre has joined ##reddit-android-developers
+[05:41:01] <alextsc> well it's so shiny, shopping with my girlfriend has less glitter stuff
+[05:41:09] <alextsc> gnome3 bad, unity bad :>
+[05:41:13] <alextsc> terrible QQ :D
+[05:41:21] <wjoe> indeed D:
+[05:41:41] <wjoe> yeah, never used KDE myself. bit much eyecandy, but beats unity/gnome3 at least
+[05:41:52] <alextsc> yeah i try to tone it down
+[05:42:00] <alextsc> just have to change over 9000 settings
+[05:43:06] <member68> i like my windows task bar ;) no worries about window managers
+[05:44:24] <alextsc> hehe
+[05:44:59] <wjoe> xfce is about right for me. it works well enough, and looks fine. doesn't get in the way at least
+[05:45:00] <markerz> If you guys are interested, reddit-dev has git pretty much figured out
+[05:45:07] <markerz> Opps
+[05:45:15] <markerz> Wrong window.
+[05:45:37] <markerz> But I guess it still applies.
