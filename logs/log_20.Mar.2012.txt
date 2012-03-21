@@ -3409,3 +3409,10 @@
 [23:05:51] <anjoyed> check top
 [23:05:56] <red_sky> I'm basically only running apache2/mysql/php for wordpress and java for the ircbot
 [23:05:58] <red_sky> I'm going to
+[23:11:04] ### RadLogii has joined ##reddit-android-developers
+[23:11:07] <red_sky> so I went back to apache
+[23:11:11] <ThatPlayer> Haha, it's more complicated than apache but I like it
+[23:11:14] <red_sky> nginx is much more lightweight
+[23:11:17] <red_sky> I like it too
+[23:11:31] <ThatPlayer> Helps when my VPSes are 128 mb 15$/yr ones
+[23:11:59] ### blaise_|away is now known as blaise_
