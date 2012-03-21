@@ -1825,3 +1825,79 @@
 [15:49:49] <Hogofwar> integer overflow
 [15:49:51] <CarstenCarsten> TheNumb: It was a major trolling site, the chef was someone called timecop
 [15:50:00] <Hogofwar> fail
+[15:50:05] <Hogofwar> !paste 3
+[15:50:07] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/beNH
+[15:50:14] <Hogofwar> !paste 500
+[15:50:22] <TheNumb> !paste 3+1+1
+[15:50:28] <Hogofwar> godammit
+[15:50:33] ### lyrch has quit the server. (Remote host closed the connection)
+[15:50:43] <TheNumb> !paste 3_
+[15:51:02] <TheNumb> Pircbot ;D
+[15:51:13] <garychencool> guys, what's a great/free app that I can use so I can easily transfer data to and from my computer over the same router?
+[15:51:31] <CarstenCarsten> OH CRAP, they are still there, they are just using a new toplevel
+[15:51:41] <Grillon> garychencool, dropbox?
+[15:51:51] <Grillon> not sure what your trying to accomplish
+[15:51:57] <red_sky_> looks like you got it, Hogofwar
+[15:52:02] <garychencool> I mean like without internet
+[15:52:12] <CarstenCarsten> garychencool, windows or mac?
+[15:52:13] <Hogofwar> red_sky_, except a -1 when using big numbers...
+[15:52:18] <red_sky_> get a router that supports an external harddrive
+[15:52:19] <danopia> looking back at my log, like 2 hours ago there was "no route to host". interesting, because my firefox via the same host stayed up overnight
+[15:52:28] <garychencool> Copy files from PC (Windows) to phone (Android) easily over WiFi connection only
+[15:52:31] <red_sky_> hmm, I somehow got deauthed
+[15:52:34] ### red_sky_ is now known as red_sky
+[15:52:37] <TheNumb> !paste 13
+[15:52:38] <garychencool> want sd card access when transfering files
+[15:52:38] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/WgZS
+[15:52:38] <danopia> garychencool, install an FTP server on your android
+[15:52:45] <Grillon> just share the folder and use likes file explorer
+[15:52:47] <anjoyed> !paste sanitizeyourinput
+[15:52:48] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[15:52:49] <danopia> garychencool, there's quite a few
+[15:52:53] <Grillon> sorry, es file explorer
+[15:52:57] <Grillon> it will browse smb shares
+[15:53:11] <anjoyed> :o
+[15:53:11] <lacop> <Hogofwar> That's just lacop
+[15:53:14] <garychencool> I tried that but for some reason it's telling me that there's a username and password for it
+[15:53:16] <lacop> sure blame it on me...
+[15:53:25] <Grillon> you have to check anonymous i think
+[15:53:30] <Grillon> and just put your username
+[15:53:32] ### LogiiBot has joined ##reddit-android-developers
+[15:53:32] <garychencool> And im like, what the computer doesn't even have a password
+[15:53:33] <lacop> back btw, anything important happened in the last ~2 hours?
+[15:53:36] <Hogofwar> !paste 5000
+[15:53:37] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/YjUU
+[15:53:44] <Grillon> lots of pasting
+[15:54:11] <lacop> Hogofwar, what is that number? clearly not number of lines
+[15:54:45] <Hogofwar> lacop, should be
+[15:54:47] <garychencool> I'll try that now
+[15:54:49] <Hogofwar> something went wrong
+[15:54:49] <danopia> garychencool, try ftp
+[15:54:51] <Hogofwar> !paste 5
+[15:54:51] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/NEgI
+[15:55:04] <Hogofwar> !paste 500
+[15:55:05] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/LYeE
+[15:55:13] <TheNumb> !paste 1337
+[15:55:13] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/ccPj
+[15:55:14] <lacop> Hogofwar, kind of non-linear
+[15:55:17] <garychencool> !paste 69
+[15:55:18] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/ViHD
+[15:55:22] <garychencool> oh wow lol
+[15:55:44] <red_sky> okay, I have to go
+[15:55:48] <red_sky> I'll see you all later
+[15:55:53] <member68> bye bye
+[15:56:04] <garychencool> see ya soon
+[15:56:36] <lacop> bb
+[15:56:37] <Hogofwar> It's cutting off ffs
+[15:56:47] ### red_sky has quit the server. (Quit: Page closed)
+[15:57:30] <lacop> member68, you seem like a responsible person, and since everyone seemed to ignored me - anything important in last ~2 hours? :)
+[15:57:46] <garychencool> okay ive got es file browser, switched to LAN Shares and it's scanning for stuff, found a comp (mine)
+[15:58:00] <garychencool> Tried anonymous, nope
+[15:58:17] ### anyonethinkingab has joined ##reddit-android-developers
+[15:58:36] <TheNumb> garychencool: is it a windows share or what?
+[15:58:41] <garychencool> Tried the username without pass word, nope :( Do I need to do something in Windows 7?
+[15:58:55] <member68> we created the first few projects on redmine and started discussion on both a Reddit Quick Post app as well as the SimpleCalculator app
+[15:59:04] <TheNumb> member68: nice!
+[15:59:04] <lacop> thanks, will have a look
+[15:59:27] <member68> we also changed all last names on redmine to include people's usernames. that way we can tell who we're talking to
+[15:59:42] <member68> but i think that's pretty much it
