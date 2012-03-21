@@ -984,3 +984,30 @@
 [11:07:52] <wjoe> I could add the others, but I don't think we really need a project section for IRC logs, and I'm not sure what the other repo is for
 [11:10:01] <anjoyed> is here any way to have new repos under github.com/RedditAndroidDev added automatically?
 [11:10:06] <anjoyed> *there
+[11:10:24] <anjoyed> like github.com/RedditAndroidDev/projectName
+[11:11:28] <wjoe> don't think it'd be possible. you can only set github to notify other sites for each repo. and as it is, I can only add a new one myself via command line, I have to clone the repo to my server
+[11:11:38] <Hogofwar> wonder if they will allow a repo for the logging bot
+[11:12:04] <wjoe> isn't that what the IRC_Logs repo is?
+[11:12:14] <anjoyed> aye
+[11:12:14] <Hogofwar> i mean, the source of the bot
+[11:12:30] <Hogofwar> tht repo just holds the logs from the bot
+[11:12:41] <anjoyed> that could be handy
+[11:13:01] <anjoyed> if each project ends up with a irc channel
+[11:13:08] <anjoyed> they can set up own bot
+[11:13:20] ### AuthorityAction has joined ##reddit-android-developers
+[11:13:52] <red_sky> yeah
+[11:14:18] <wjoe> oh, did someone here code it? I assumed it was some bot that someone else made
+[11:14:23] <red_sky> Hogofwar did
+[11:14:30] <Hogofwar> oh hey red_sky
+[11:14:35] <red_sky> using PIRC bot as a base
+[11:14:39] <red_sky> hello
+[11:14:49] <Hogofwar> red_sky, did something happen with your vps?
+[11:14:49] ### markerz has quit the server. (Read error: Connection reset by peer)
+[11:14:58] ### markerz has joined ##reddit-android-developers
+[11:14:59] <red_sky> I have migrated the IRC bot to a different server
+[11:15:09] <red_sky> so it shouldn't lose connection anymore
+[11:15:12] <wjoe> ahh. could be good to have a repo for it then. could just make your own repo, we can fork it into the RAD repos if needed later on?
+[11:15:22] <Hogofwar> I could
+[11:15:24] <red_sky> my vps has been dropping connection left and right... so I'm trying this new one out.
+[11:15:38] ### member68 has joined ##reddit-android-developers
+[11:15:47] <member68> !Upload
