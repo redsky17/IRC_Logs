@@ -1505,3 +1505,21 @@
 [14:29:03] ### markerz has quit the server. (Ping timeout: 252 seconds)
 [14:29:31] ### bbene has quit the server. (Remote host closed the connection)
 [14:29:42] ### wjoe has joined ##reddit-android-developers
+[14:34:33] <member68> projects have been created. feel free to join and create issues for planing. one topic per issue only!
+[14:34:49] <anyonethinkingab> link?
+[14:34:50] <member68> *planning
+[14:34:57] <red_sky> yeah... on redmine or github?
+[14:35:02] <member68> redmine
+[14:35:16] <veeti> Your request to join is added. The project managers have been notified.
+[14:35:17] <veeti> uh
+[14:35:22] <veeti> how does this work if the project has no managers :p
+[14:35:53] <member68> admins have to accept you
+[14:35:57] <member68> which i just did
+[14:37:57] <member68> i have to think about what i'll if too many people apply for a certain project
+[14:38:29] <veeti> thanks
+[14:38:44] <anyonethinkingab> veeti are you the PM then?
+[14:38:58] <veeti> huh
+[14:39:13] <anyonethinkingab> project manager
+[14:39:41] <red_sky> I found a solution for the redmine name issue
+[14:39:51] <red_sky> put your nickname / username in parenthesis in your last name
+[14:39:53] <veeti> there are better people for that
