@@ -2069,3 +2069,27 @@
 [16:29:33] <jaimeh> andchat is pretty awesome, I think.
 [16:29:50] <lacop> if you use the emails, you can read it with your mail client, and reply to them like normal emails
 [16:29:56] <member68> it was one of the most often suggested ideas, so I added it to the list
+[16:30:12] <jaimeh> I suppose
+[16:32:57] ### rad_piespy has quit the server. (Remote host closed the connection)
+[16:33:45] <CarstenCarsten> so, I am on Redmine, i filled out the spreadsheet, I joined google groups, i joined the github repository, i joined the subreddit. Did i miss something?
+[16:33:48] <jaimeh> Can I get the form for signing up as a developer/project manager. I did the first one, but then a new larger one was made.
+[16:33:52] <jaimeh> Where is the link?
+[16:35:13] <garychencool> Okay so I tried SwiFTP Server with this tut http://www.howtogeek.com/howto/41583/how-to-transfer-files-between-your-pc-and-android-phone-wirelessly/ and it works! Now all I need to do is find out how I can access files on my PC from my Android phone
+[16:35:25] <jaimeh> How do I join the github org?
+[16:36:10] <jaimeh> I already have an active account on github
+[16:36:21] ### patface has joined ##reddit-android-developers
+[16:37:07] ### markerz has quit the server. (Ping timeout: 252 seconds)
+[16:37:19] <tmoskowite> we need to add you
+[16:37:25] <tmoskowite> PM me your github name
+[16:38:20] ### c0smic has joined ##reddit-android-developers
+[16:39:05] <c0smic> Hey guys
+[16:39:11] <joholz> hi
+[16:39:22] <veeti> c0smic: hi
+[16:39:38] <c0smic> So whats happend in the time I was gone?
+[16:39:39] <lacop> hey
+[16:39:44] <jaimeh> tmoskowite did you get the message?
+[16:39:48] <joholz> how long were you gone?
+[16:39:53] <tmoskowite> Indded
+[16:39:56] <tmoskowite> c0smic
+[16:39:57] <lacop> c0smic, https://groups.google.com/forum/?fromgroups#!topic/redditandroiddevelopers/uwDR-C4R6Ww
+[16:40:00] <tmoskowite> we broke the internet
