@@ -2521,3 +2521,23 @@
 [18:48:26] <veeti> yes
 [18:48:36] <ballpointcarrot> good to know.
 [18:48:39] <Sanit> You can tell I took a crash course in android dev. I am hoping to clean up my bad habits through this... and its working
+[18:50:05] <markerz|> Sanit:  I took a dive at the app too and I thought I would suggest starting an authentication activity first.  Then launch the chooser activity on successful authentication
+[18:50:44] ### sam_ has quit the server. (Ping timeout: 245 seconds)
+[18:51:03] <member68> Sanit, you can move it your github project to RedditAndroidDev if you want
+[18:51:31] <Sanit> markerz|: we can always change the first Activity though, right?
+[18:51:43] <Sanit> member68: I'll give that a go in a minute
+[18:53:53] <Sanit> any idea how to remove directories that have already been uploaded?
+[18:54:07] <Sanit> nevermind
+[18:55:08] <markerz|> Sanit: of course.  Just move the main launcher attribute.  Just throwing out ideas.  Ill try to contribute in a few hours but I have a final in a minute.
+[18:56:59] ### kiel3 has quit the server. (Ping timeout: 245 seconds)
+[18:57:08] <anjoyed> maybe get some design ideas down first
+[18:57:26] <anjoyed> break down into sections, add ticket for section and assign to whoever
+[18:57:42] <anjoyed> or let anyone interested in a section assign ticket to themselves
+[18:58:34] <member68> please use the ticket system on redmine. i know all of you want to start coding right away, but without the gerrit system we are a little bit limited in our progress
+[18:58:43] <Sanit> shit. that command didn't remove the file on git, it removed them from my disk
+[18:59:00] <lyrch> what command?
+[18:59:25] <lyrch> if it was commited already do a "git checkout <full/path/to/file>
+[18:59:35] <Sanit> git rm -r bin/
+[18:59:47] <lyrch> hope it was commited
+[18:59:53] <anjoyed> i cloned it here too so no worries
+[18:59:57] <member68> if you use egit, right click a file and select team -> untrack
