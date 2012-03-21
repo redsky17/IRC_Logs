@@ -2200,3 +2200,30 @@
 [17:06:49] <jaimeh> for android, I haven't done any design work
 [17:07:00] <jaimeh> Mostly just development
 [17:07:48] <jaimeh> Things are moving really fast. This is great. I have to get back to work for a bit.
+[17:10:08] ### RAWR has joined ##reddit-android-developers
+[17:13:10] <rapidfyre> Regarding team size, will only members of a team be able to submit code for a project?
+[17:14:45] <rapidfyre> Because I'm on a team, but may not be able to write much code as I've never worked on an app like this before... it seems like I'm taking up a space for a "real" developer...
+[17:15:14] ### Esge has quit the server. (Quit: Beware of the dyslexic Borg, your ass will be laminated)
+[17:15:20] <rapidfyre> What do you guys think?
+[17:15:27] <jaimeh> I would say that you should be able to submit patches to a developer that can submit
+[17:15:32] ### itsKitsos has quit the server. ()
+[17:15:33] <member68> good question. let me think about it for a moment
+[17:15:36] <jaimeh> have someone manage and show you the way
+[17:15:42] <ThatPlayer> Same with people who have less time
+[17:15:51] <RAWR> Was thinking the same thing and that's why I haven't joined a team.
+[17:15:53] <jaimeh> People need to buddy up
+[17:16:23] <jaimeh> We should have people in this situation designated to someone.
+[17:16:45] <jaimeh> a developer who is willing to provide little time to applying patches and advice
+[17:17:02] <rapidfyre> We could have the gerrit open to all and the teams could just signify those people who at dedicated to the projects?
+[17:17:26] <rapidfyre> *are
+[17:18:14] <jaimeh> I mean it is pretty easy with git. You just have someone sign off on your code and that person submits it to gerrit for review.
+[17:18:40] <jaimeh> We have gerrit setup?
+[17:18:47] <rapidfyre> Yeah, but my question is regarding the team structure in redmine
+[17:19:01] <member68> gerrit should be open to everybody. project assignments shouldn't matter.
+[17:19:18] <jaimeh> Well in redmine, we should definitely define a new group for this.
+[17:19:29] <jaimeh> admin should be able to do this
+[17:19:43] <rapidfyre> member68:  Is there any point of teams then?
+[17:19:43] <member68> i'm about to create a few groups
+[17:19:44] <Hogofwar> godammit egit is confusing
+[17:20:07] <member68> designers, coders, managers, etc
+[17:20:07] <jaimeh> developing on windows Hogofwar?
