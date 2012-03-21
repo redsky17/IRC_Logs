@@ -731,3 +731,17 @@
 [06:18:39] <alextsc> looks good
 [06:19:42] <member68> ok, good enough for now
 [06:20:00] <Billd> I'd upvote it if I could.
+[06:21:12] ### RAWR has quit the server. (Remote host closed the connection)
+[06:21:14] <member68> i haven't been done any regular reddit browsing for 2 days. feels weird
+[06:21:32] <alextsc> haha
+[06:22:55] ### RAWR has joined ##reddit-android-developers
+[06:23:47] <member68> I think I need a grammar checker for irc. the more I type, the more errors I make
+[06:24:14] <member68> either a grammar checker or more time to type ;)
+[06:24:48] <Billd> I need to remember to disable bugsense from my development build. My logs are going to be so cluttered :(
+[06:25:56] <member68> idea: Android app to slow down time...I'll put it on my to do list. that would be such a great selling point. take that apple!
+[06:26:09] ### RAWR has quit the server. (Remote host closed the connection)
+[06:27:01] <alextsc> :D
+[06:27:15] <Billd> I'd buy that at $.99.
+[06:27:15] <alextsc> slowing time; that seems to be an eclipse feature
+[06:27:18] <alextsc> :D
+[06:28:24] ### lyrch has joined ##reddit-android-developers
