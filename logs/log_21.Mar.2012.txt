@@ -1159,3 +1159,27 @@
 [11:40:01] ### lacop has joined ##reddit-android-developers
 [11:40:04] <wjoe> fork the kitten, then clone it, edit it's source, and push it?
 [11:40:15] <wjoe> then someone else can pull it
+[11:41:05] <red_sky> Reddit Android Developers, forking git repos one kitten at a time.
+[11:42:20] <member68> lacop must be seriously confused right now ;)
+[11:42:31] <anjoyed> was thinking that :)
+[11:42:48] <lacop> hey guys
+[11:42:55] <lacop> yeah a lot :)
+[11:42:55] <anjoyed> hey
+[11:43:01] <lacop> what's new?
+[11:43:29] <lacop> btw, no idea who is in charge of redmine, I think member68 - I've added myself to the about page, I hope that's ok
+[11:44:08] <Hogofwar> egomaniac
+[11:44:25] ### aschneid has joined ##reddit-android-developers
+[11:46:34] <member68> there are a few that have admin status on redmine
+[11:46:51] <member68> but it's ok. good to have that list
+[11:46:58] <wjoe> no one specific 'in charge' of it really, it's on my server but others have been setting things up. I think, if you've been given access to edit stuff, it's fine :p
+[11:47:07] <lacop> I guess I joined a little too late so I wasn't there
+[11:47:24] <wjoe> I should add myself to that list. I got stuck at trying to think of what my 'strengths' are :(
+[11:47:24] <lacop> not that it's important, but it's nice to have a headcount and timezone info
+[11:47:38] <lacop> wjoe, be sneaky, omit that point
+[11:47:42] <lacop> nobody will notice
+[11:47:42] <wjoe> haha
+[11:48:02] <wjoe> Skills: Java, C++. Weaknesses: Java, C++
+[11:48:56] <lacop> how's the idea poll going? should be 24 hours soon
+[11:49:16] <member68> going great. at least 60 people voted
+[11:49:53] <wjoe> is there a poll up for logos, or are we still taking submissions?
+[11:50:09] <Raionic> Any idea what idea is leading the pack?
