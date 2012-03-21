@@ -4,3 +4,11 @@
 [00:14:37] <red_sky> so far everything's fantastic
 [00:14:53] <red_sky> it's only $0.50 more than my current VPS
 [00:15:00] <red_sky> so if it's good, I'll definitely make the switch
+[00:22:00] ### RadLogii has joined ##reddit-android-developers
+[00:22:01] <red_sky> well, right now, I'm hosting a rather important website on it
+[00:22:04] <red_sky> technically for school
+[00:22:07] <red_sky> but it's actually a business
+[00:22:33] ### D__ has joined ##reddit-android-developers
+[00:23:53] <red_sky> I'm not sure how long it will take to transfer everything over
+[00:23:56] <red_sky> probably not too long.
+[00:25:25] ### D_ has quit the server. (Ping timeout: 246 seconds)
