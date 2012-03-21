@@ -3127,3 +3127,6 @@
 [20:36:48] ### blaise| has joined ##reddit-android-developers
 [20:37:35] ### blaise- has quit the server. (Ping timeout: 246 seconds)
 [20:39:44] ### tmoskowite has quit the server. (Ping timeout: 260 seconds)
+[20:40:10] ### Lonnie has joined ##reddit-android-developers
+[20:40:25] ### Lonnie is now known as LonnieC
+[20:40:43] ### blaise| has quit the server. (Read error: Connection reset by peer)
