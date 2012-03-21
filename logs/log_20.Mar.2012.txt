@@ -3006,3 +3006,65 @@
 [19:59:40] ### RamuhTest has joined ##reddit-android-developers
 [19:59:46] <Billd> I could use someone looking over my shoulder to coach my Java, and I could pay in beer - if you're local and of age.
 [19:59:51] <Ramuh> ha, it works
+[20:00:13] <Raionic> i love beer payments
+[20:00:18] <red_sky> Minnesota is too far away, Billd
+[20:00:24] ### jaimeh has quit the server. (Ping timeout: 250 seconds)
+[20:00:29] <BrandonBolton> /r/trees you say? ;)
+[20:00:53] <Billd> It usually is, Red_Sky.
+[20:01:01] ### RamuhTest has quit the server. (Remote host closed the connection)
+[20:01:28] <red_sky> I know someone from Muskegon, MI
+[20:01:34] <Raionic> Although, Billd brings an interesting point ... peer coding via Google Hangout or some free meeting place. I would do it if i wasnt a terrible teacher, but it would help people learn
+[20:01:39] <red_sky> And someone from near Des Moines
+[20:01:44] <red_sky> no one from MN
+[20:01:59] <red_sky> I'm willing to help people learn.
+[20:02:13] <Billd> Well now you do. Hi, I'm from a suburb of Minneapolis/St. Paul. It's like Buddapest, but colder.
+[20:02:32] ### RamuhTest has joined ##reddit-android-developers
+[20:02:34] <red_sky> Well pleased to "meet" you.  I'm from the land of Penn's Woods
+[20:02:35] <BrandonBolton> Raionic: That is an internesting idea. Google Hangout for education.
+[20:02:36] ### RamuhTest has quit the server. (Read error: Connection reset by peer)
+[20:02:41] <Ramuh> oh it crashed
+[20:02:42] <Ramuh> sad panda
+[20:03:07] <anjoyed> Ramuh, you got it to build than
+[20:03:10] <anjoyed> *then
+[20:03:18] <Ramuh> no, i used another irc lib
+[20:03:24] <Ramuh> that is less shit
+[20:03:24] <anjoyed> :)
+[20:03:25] <Billd> How would that work Raionic? Does G+ have screensharing or something?
+[20:03:37] <red_sky> Billd yes, it does.
+[20:03:44] <Ramuh> now i would have to fiddle with android innards
+[20:03:47] <Ramuh> but i think
+[20:03:50] <Ramuh> i prefer sleeping
+[20:03:57] <adamell> BrandonBolton: here's a free pdf on the principals, which I urge you to read before learning any programming language.
+[20:03:57] <adamell>  https://docs.google.com/viewer?a=v&q=cache:nSytFya8HpMJ:florida.theorangegrove.org/og/file/33bf62f3-8ad1-7dde-e23f-6f17aca953c7/1/OOProgramming.pdf+&hl=en&gl=us&pid=bl&srcid=ADGEESjdUcGdvUZb8mGFukkcIIHjcZLhVj9MjePE3A8GIkmv7dwVAS56XjmScft8ceudHvUzHMMrJKIYhJ3vpcATCTxqVaCdgeSl914X4Am-iVjInn7ZshhwNp2FDnkKiC95TSozG7bG&sig=AHIEtbQLmFF7_GothzqeANC1GIR4RQ8PHw&pli=1
+[20:03:57] <red_sky> When in a hangout, it's a little button in the top toolbar
+[20:04:00] <red_sky> if you want to call it that
+[20:04:35] <red_sky> oh, Raionic, was there any conclusion to the argument on that programming channel?
+[20:04:41] <BrandonBolton> adamell: thank you. I will pop it onto my Kindle and start reading. :)
+[20:04:45] <red_sky> for curiosities sake.
+[20:05:05] <Billd> Interesting. I'm sure I'm going to get stuck on something in a few minutes (I'm playing around with dialogs for the first time in Android) so maybe we'll give it a try.
+[20:05:21] <Raionic> No, it got pretty heated but they could never agree. In a nutshell one argued structs were objects the other argued against it
+[20:05:24] <Billd> unless someone beats me to it.
+[20:05:34] <anjoyed> c = procedural language, c++ = OO language
+[20:06:06] <red_sky> I don't think they count as objects, personally
+[20:06:10] <red_sky> I agree with anjoyed
+[20:06:21] <Billd> I was wondering about that. C is used for like.. bash scrips, ja?
+[20:06:21] <adamell> BrandonBolton: When you eventually start going through OOP language textbooks they'll be saying pretty much the same thing in the same order. I just thought it best to be introduced to the concepts before opening page one without a basic understanding.
+[20:06:47] <adamell> BrandonBolton: the only difference (for the first 10-15 chapters) will be in the syntax
+[20:06:47] <red_sky> C is used for a ton of things, but I wouldn't call it OOP.  It doesn't have many of the constructs that OOP-centered languages have.
+[20:07:04] <red_sky> If I'm not mistaken, a majority of the Linux kernel is written in C
+[20:07:11] <BrandonBolton> Sweet, thank you guys for the tips.
+[20:07:34] ### RAWR has quit the server. (Read error: Connection reset by peer)
+[20:07:39] <anjoyed> aye, it is
+[20:08:12] <Raionic> sometimes when learning a new programming langauge i wish i could just do "diff c c++"
+[20:08:16] ### RAWR has joined ##reddit-android-developers
+[20:08:23] <Billd> BrandonBolton, if you decide to go with C# or something else in the .NET framework, Microsoft has some baller tutorials for beginners. I haven't really looked for the equivelents in Java, maybe someone here can point you in a good direction for that.
+[20:08:29] <RAWR> Ow phone crashed
+[20:08:49] <adamell> who was crash?
+[20:09:13] <Billd> haha, that'd be nice Raionic. diff java C# - no results found.
+[20:09:14] <anjoyed> RAWR called crashed
+[20:09:35] <Raionic> haha
+[20:09:36] <BrandonBolton> Billd: Microsoft's Dreamspark gives you a 90 day trial for Pluralsight and they have Java tutorials. https://www.dreamspark.com/Product/Product.aspx?productid=21
+[20:09:44] <red_sky> I love how Java has actually "stolen" features from C#
+[20:09:53] <Ramuh> for your consideration: http://www.extremetech.com/wp-content/uploads/2012/02/1282254411873.jpg
+[20:09:57] ### Dillon[ca] has quit the server. (Ping timeout: 248 seconds)
+[20:10:01] <anjoyed> other way around wasn't it
