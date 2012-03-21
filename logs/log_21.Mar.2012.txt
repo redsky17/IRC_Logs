@@ -2614,3 +2614,30 @@
 [19:28:02] <Sanit> thanks. I'll have a look
 [19:28:57] <Sanit> done
 [19:29:31] ### markerz| has quit the server. (Ping timeout: 264 seconds)
+[19:32:19] <member68> Sanit: everything should be set up now
+[19:32:28] <Sanit> cool
+[19:32:45] <member68> you still have push pull rights to the repo, everybody else cannot push though
+[19:32:53] <member68> we'll manage that over gerrit later
+[19:33:07] <member68> I'll probably set up tomorrow
+[19:33:07] <Sanit> now I just need to change the address of the repo I am working with in my console
+[19:33:26] <veeti> http://gitref.org/remotes/
+[19:33:34] <Hogofwar> Okay
+[19:34:05] <Hogofwar> Might as well start commenting my code
+[19:36:10] <adamell> I wonder what comments God left in the code for life?
+[19:36:40] <Hogofwar> Armpits.addhair() //remove in next version
+[19:36:42] <Sanit> Permission to RedditAndroidDev/Reddit-Quick-Submit.git denied to ThisIsColm.
+[19:36:48] <anjoyed_o0O> / 42 (lol)
+[19:36:53] <adamell> nice
+[19:37:14] <anyonethinkingab> for anyone interested, I put the poll results online
+[19:37:31] <adamell> Great! Link?
+[19:37:41] <Hogofwar> Link? Great!
+[19:37:46] <member68> Sanit: hold on
+[19:38:02] <veeti> member68: sorry, way ahead of you
+[19:38:10] <veeti> Sanit: try now
+[19:38:34] <member68> nice, veeti ;)
+[19:38:46] <member68> i probably forgot to add the project to the team, right?
+[19:38:56] <Sanit> worked, thanks guys
+[19:39:11] <veeti> somethign like that
+[19:39:49] <anyonethinkingab> oh
+[19:40:00] <anyonethinkingab> https://docs.google.com/spreadsheet/ccc?key=0AuELiJSHDo8UdHZlMzI0dEV6cVljN3VKREhPeld5YWc#gid=0
+[19:40:08] <adamell> anyonethinkingab: thanks
