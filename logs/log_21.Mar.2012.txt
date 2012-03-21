@@ -415,3 +415,7 @@
 [02:57:16] <red_sky> well, night all
 [02:57:21] <anjoyed> nn
 [02:57:43] <vcarl> 'night
+[03:01:00] <alextsc> night
+[03:01:48] ### red_sky has quit the server. (Ping timeout: 260 seconds)
+[03:07:20] ### LonnieC has quit the server. (Quit: Leaving)
+[03:08:03] ### Hogofwar has joined ##reddit-android-developers
