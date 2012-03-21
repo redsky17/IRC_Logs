@@ -3358,3 +3358,7 @@
 [22:15:06] <red_sky> it doesn't say you need to license work based on the program under the gplv2
 [22:15:49] <red_sky> well, good night
 [22:18:25] ### Raionic has quit the server. ()
+[22:22:13] ### OkDucky has quit the server. (Quit: OkDucky)
+[22:27:51] ### RadLogii has joined ##reddit-android-developers
+[22:28:13] ### anjoyed_busy is now known as anjoyed
+[22:28:14] <Grillon> nightly crew i see
