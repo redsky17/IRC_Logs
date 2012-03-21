@@ -1052,3 +1052,16 @@
 [11:19:44] <red_sky> I saw
 [11:19:56] <wjoe> source for most of them is on git.lc8n.com
 [11:20:03] <wjoe> er, blatech.co.uk actually
+[11:20:36] <anyonethinkingab> member68 have you filled the poll in yourself?
+[11:20:47] <wjoe> tweeting from the channel could be useful for ops maybe
+[11:21:23] <wjoe> I should probably fill in the poll. I don't really mind what we develop really :p
+[11:21:33] <member68> not yet. i'll do it in a few minutes
+[11:21:37] <red_sky> Hogofwar is there any way to reload the config without restarting the bot?
+[11:21:47] <Hogofwar> No
+[11:21:51] <red_sky> okay
+[11:21:51] <Hogofwar> I can make that though
+[11:21:54] <anyonethinkingab> i'll spam it again: https://docs.google.com/spreadsheet/viewform?formkey=dGxpZ21UUTlvSHdPM3U5VWNUb1V3Vmc6MQ
+[11:23:13] ### RadLogii has joined ##reddit-android-developers
+[11:23:32] <red_sky> member68 could you use !upload again?
+[11:23:32] <member68> i removed everybody but redsky from the irc log project
+[11:23:36] <member68> !upload
