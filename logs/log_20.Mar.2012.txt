@@ -3132,3 +3132,20 @@
 [20:40:43] ### blaise| has quit the server. (Read error: Connection reset by peer)
 [20:51:09] ### jcarpenter has quit the server. (Quit: Page closed)
 [20:55:20] ### blaise| has joined ##reddit-android-developers
+[21:00:32] <danopia> why are so many people adding me on G+?
+[21:00:57] ### ballpointcarrot has joined ##reddit-android-developers
+[21:01:05] <blaise|> They probably added the shared circle
+[21:02:55] ### Ben25 has quit the server. (Quit: Page closed)
+[21:05:52] <Navarr> hello friends.
+[21:06:19] <adamell> Ice cream.
+[21:07:06] <Navarr> Sandwich?
+[21:07:12] <adamell> YES
+[21:07:13] <adamell> YES
+[21:07:14] <adamell> YES
+[21:08:00] <adamell> Ice cream sandwiches.
+[21:08:05] <adamell> Obviously our new logo
+[21:08:34] <Navarr> But Android 4.0 is old news.
+[21:08:34] <Navarr> Android 5.0 or bust
+[21:08:50] <Raionic> i have two phone ..and they're both still on 2.3 >_<
+[21:08:53] <Raionic> phones*
+[21:09:48] <Navarr> I have a phone on 2.3 and a tab on 4.0.3.  My place of employment has a Galaxy Nexus on 4.0.2 that I love to test on.  But I also have phones on 2.1 and 2.2
