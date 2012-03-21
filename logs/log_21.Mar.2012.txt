@@ -1901,3 +1901,59 @@
 [15:59:04] <lacop> thanks, will have a look
 [15:59:27] <member68> we also changed all last names on redmine to include people's usernames. that way we can tell who we're talking to
 [15:59:42] <member68> but i think that's pretty much it
+[16:00:43] <lacop> btw, Hogofwar: I was a little bored few hours ago so I started piespy - http://dl.dropbox.com/u/257451/%23reddit-android-developers-current.png
+[16:00:53] <Hogofwar> haha
+[16:00:56] <Hogofwar> oh lacop
+[16:01:01] <Hogofwar> best buddies forever
+[16:01:13] <lacop> but it's just running at my laptop right now and I'll turn that off soon
+[16:01:24] <lacop> so maybe you could run it with the other bot, just for fun :)\
+[16:01:34] <lacop> it's really the most useless statistic ever
+[16:01:36] <Hogofwar> heh, maybe
+[16:01:41] <Grillon> garychencool, thats all I had to do
+[16:01:54] <Hogofwar> maybe i will make the bot collect statistics and make a html page off it
+[16:01:54] <Grillon> maybe just add a local user with name and pass
+[16:02:01] <Grillon> and add permissions to that folder
+[16:02:06] <Hogofwar> !paste 5
+[16:02:31] <Hogofwar> !paste 5
+[16:02:31] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/CIIU
+[16:02:32] <TheNumb> !paste 1337
+[16:02:33] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/iMXE
+[16:02:45] ### aschneid_ is now known as aschneid
+[16:02:53] <Hogofwar> still fucking cutting off
+[16:02:59] <Hogofwar> i think...
+[16:03:01] <danopia> does this require so much testing?
+[16:03:02] <lacop> member68, I'll write a short summary for the mailing list then, with links to redmine, so that everyone knows what we are up to
+[16:03:05] <Hogofwar> I think it's something red_sky said
+[16:03:24] <member68> ok
+[16:03:35] <member68> i'll add a news line to the reddit to
+[16:04:00] <Hogofwar> ;
+[16:04:05] <Hogofwar> !past 5
+[16:04:07] <Hogofwar> !paste 5
+[16:04:08] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/Siab
+[16:04:18] <Hogofwar> THAT IS WHAT IS DOING IT
+[16:04:23] <Hogofwar> fucking semicolons
+[16:04:31] <danopia> i'd just write a quick bot that just does `tail -N {#+1} irc.log | head -N {#} | gist` and returns the output
+[16:04:46] <Hogofwar> danopia, except this is in java
+[16:04:51] <danopia> you can shell out
+[16:04:52] <danopia> :P
+[16:07:12] <lacop> member68, and started discussion on both a Reddit Quick Post app as well as the SimpleCalculator app
+[16:07:15] <garychencool> still not working, tried to turn off firewall too
+[16:07:22] <lacop> I don't see the discussion on redmine, was that just IRC stuff?
+[16:07:33] <lacop> and simplecalc is not in redmine yet
+[16:08:11] <Hogofwar> !paste 5
+[16:08:12] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/KTYj
+[16:08:19] <Hogofwar> !paste 30
+[16:08:19] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/DBNS
+[16:08:54] <CarstenCarsten> member68: I requested a "join" to the reddit quick submit project
+[16:08:56] <TheNumb> !paste this biatch :D
+[16:09:00] <TheNumb> :<
+[16:09:05] <TheNumb> !paste 1
+[16:09:05] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/CQeQ
+[16:09:12] <TheNumb> [16:06:01] ### LogiiBot has joined ##reddit-android-developers
+[16:09:13] <member68> carsten, done
+[16:09:23] <lacop> Hogofwar, can it predict the future?
+[16:09:25] <lacop> !paste -1
+[16:09:33] <TheNumb> !paste +6
+[16:09:49] <Hogofwar> there are exceptions
+[16:09:58] <Hogofwar> I haven't checked the input if it's an integer yet
+[16:09:59] <TheNumb> lacop: u arsed the bot ;<
