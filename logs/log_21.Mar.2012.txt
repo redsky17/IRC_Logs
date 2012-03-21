@@ -1347,3 +1347,22 @@
 [12:44:36] <member68> gerrit is rahter new, too. let's give him the benefit of the doubt ;)
 [12:45:43] <wjoe> hehe, yeah
 [12:46:04] ### Esge has joined ##reddit-android-developers
+[12:52:29] <Hogofwar> Hm
+[12:52:42] <Hogofwar> Trying to figure out how to read a file line by line backwards
+[12:53:18] <vcarl> best i've ever gotten is read it in and read it backwards from memory, or reverse it before re-reading it :|
+[12:53:43] <lacop> Hogofwar, find some file handling class in java that has seek
+[12:53:56] <lacop> seek to the end, then keep moving back for as long as you want
+[12:54:12] ### markerz has joined ##reddit-android-developers
+[12:54:13] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[12:54:52] <lacop> Hogofwar, http://docs.oracle.com/javase/7/docs/api/java/nio/channels/SeekableByteChannel.html#position(long)
+[12:56:01] <member68> going by the preliminary results we'll probably start on the following projects: reddit quick submit, google tasks client, IRC client, alarm clock, as well as 2 simple projects for newbies
+[12:56:05] <lacop> if you are trying to get last x lines from an irc log that should be easy, seek to -x*512 from the end (512 is the maximum command length for IRC, so that will be always enough)
+[12:56:32] <lacop> then split by newlines and take last x (there could be a bit more if it's a lot of short messages)
+[12:56:52] <lacop> member68, 6 projects?
+[12:57:09] <lacop> how many people do we have? there is like 30 in the google group, much less on the redmine
+[12:57:20] ### ballpointcarrot has joined ##reddit-android-developers
+[12:58:35] <Sanit> I have a small bit done already for the RQS project. I'll upload it to my GH later tonight.
+[12:58:35] <member68> that's actually 4 projects + two projects that can be done individually
+[12:59:46] <member68> i put together a quick layout for a calculator app earlier. i'll upload it and people have to add functionality. i'll add comments to point people the right way so they can learn by doing
+[13:00:02] <vcarl> lacop, we have almost 60 people in IRC right now, thats not half bad to work on 4 + 2 projects
+[13:00:16] <lacop> vcarl, most people are inactive here
