@@ -929,3 +929,21 @@
 [10:13:43] ### aschneid has joined ##reddit-android-developers
 [10:15:32] ### markerz has joined ##reddit-android-developers
 [10:15:32] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[10:20:32] ### Ramuh has quit the server. (Ping timeout: 244 seconds)
+[10:21:19] ### Ramuh has joined ##reddit-android-developers
+[10:21:53] ### Hogofwar has joined ##reddit-android-developers
+[10:26:32] ### itsKitsos has joined ##reddit-android-developers
+[10:27:47] <TheNumb> Hey guys (:
+[10:27:56] ### zubsani has joined ##reddit-android-developers
+[10:27:58] <Grillon> hello
+[10:28:10] <anyonethinkingab> hi
+[10:28:27] <TheNumb> (:
+[10:28:36] <anyonethinkingab> btw everyone can I point you guys once more to https://docs.google.com/spreadsheet/viewform?formkey=dGxpZ21UUTlvSHdPM3U5VWNUb1V3Vmc6MQ
+[10:28:39] ### zubsani has quit the server. (Read error: Connection reset by peer)
+[10:28:40] <anyonethinkingab> please fill it in
+[10:28:41] ### zubsani1 has joined ##reddit-android-developers
+[10:28:48] <anyonethinkingab> if you haven't done it yet
+[10:29:33] ### zubsani has joined ##reddit-android-developers
+[10:29:41] ### zubsani1 has quit the server. (Read error: Connection reset by peer)
+[10:29:56] <itsKitsos> anyonethinkingab - how many people have?
+[10:30:02] <itsKitsos> filled it out, that is
