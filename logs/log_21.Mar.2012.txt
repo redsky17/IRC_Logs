@@ -1200,3 +1200,84 @@
 [11:59:39] <lacop> red_sky, well, I agree with a common theme, but lets not make it an unique thing
 [11:59:50] <lacop> just follow the design guidelines and it will be consistent
 [12:00:24] <lacop> we can have our own little things to stand out, but keep the general look of the guidelines
+[12:01:13] ### alextsc has joined ##reddit-android-developers
+[12:02:04] <red_sky> I really like the guidelines
+[12:02:10] <red_sky> but we can follow them and still be unique
+[12:03:19] ### sam___ has quit the server. (Quit: Page closed)
+[12:03:51] <lacop> red_sky, if you are bored and have some ideas you can make sketches / mockups
+[12:03:59] <Raionic> I think it would suffice to require the logo be displayed on all screens
+[12:04:12] ### LogiiBot has joined ##reddit-android-developers
+[12:04:13] <lacop> but it'll probably be better to wait for the app, then do the UI designs
+[12:04:15] <Raionic> Because you would design an app different from a game usually
+[12:04:20] <Hogofwar> !paste 5
+[12:04:20] <LogiiBot> The log has been uploaded and is at: null
+[12:04:24] <Hogofwar> fu
+[12:04:29] <lacop> lol
+[12:04:33] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[12:04:45] <lacop> Hogofwar, your own bot or something opensource?
+[12:04:53] <Hogofwar> lacop, it's the log bot
+[12:04:56] <Hogofwar> just testing a new feature
+[12:04:59] <Hogofwar> and it's my own
+[12:05:02] <red_sky> I could possibly do that... but not soon
+[12:05:09] <red_sky> I have an exam on monday and a speech tuesday
+[12:05:13] <lacop> Hogofwar, java?
+[12:05:17] <red_sky> as well as some other stuff I need to do until then
+[12:05:22] <Hogofwar> lacop, yes
+[12:05:32] ### LogiiBot has joined ##reddit-android-developers
+[12:05:33] <red_sky> bye everyone
+[12:05:34] <red_sky> class time
+[12:05:36] <Hogofwar> !paste 5
+[12:05:36] <LogiiBot> The log has been uploaded and is at:
+[12:05:44] <Hogofwar> dammit
+[12:05:56] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[12:06:01] <member68> i have a list with projects like this
+[12:06:02] <member68> A
+[12:06:03] <member68> A
+[12:06:04] <member68> A
+[12:06:05] <member68> B
+[12:06:05] <member68> B
+[12:06:06] <member68> C
+[12:06:07] <member68> C
+[12:06:08] <member68> C
+[12:06:12] ### LogiiBot has joined ##reddit-android-developers
+[12:06:16] <Hogofwar> !paste 5
+[12:06:17] <LogiiBot> The log has been uploaded and is at:
+[12:06:25] <member68> now i want to count them
+[12:06:28] <lacop> throw in a breakpoint ...
+[12:06:40] <member68> A: 3, B: 2, C: 3
+[12:06:47] <member68> how can i quickly do that?
+[12:06:59] <Hogofwar> !paste 5
+[12:06:59] <LogiiBot> The log has been uploaded and is at:  http://sprunge.us/ZHhB
+[12:07:02] <lacop> so you have a list of integers and want counts?
+[12:07:06] <Raionic> Excel
+[12:07:10] <member68> list of strings
+[12:07:13] <Hogofwar> WOOOO
+[12:07:15] <lacop> use a hashset, increment each key
+[12:07:18] <lacop> like
+[12:07:20] <Hogofwar> !paste 5
+[12:07:21] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/BCAL
+[12:07:22] <lacop> foreach (string key : values) {
+[12:07:29] <lacop> if (hashset.contains(key)){
+[12:07:30] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[12:07:33] <Hogofwar> Anyway
+[12:07:44] <lacop> hashset.set(key, hashset.get(key)+1);} else {
+[12:07:47] <member68> isn't there an app for that?
+[12:07:50] <lacop> hashset.set(key, 1);}
+[12:07:57] <member68> or some excel or word function?
+[12:08:03] <wjoe> excel can, yeah
+[12:08:08] <lacop> oh ... well, there is a unix tool that does that, forgot the name
+[12:08:16] <wjoe> but, I'l rusty on spreadsheet stuff
+[12:08:17] <member68> I'm kinda lazy right now ;)
+[12:08:18] <lacop> but excel should do it
+[12:08:20] <wjoe> *I'm
+[12:08:21] <wjoe> hehe
+[12:08:35] <wjoe> I'm fairly sure the function is just COUNT
+[12:08:40] <wjoe> but you probably need to do something weird to give the total of each
+[12:08:46] <veeti> if you're talking about the spreadsheet
+[12:08:49] <veeti> form -> summary
+[12:08:51] <Raionic> Yes just replace the delimeter with a comma save it as a csv then open in excel
+[12:09:01] <wjoe> grep piped to wc would also do it in linux
+[12:09:09] <lacop> member68, cat file | uniq -c
+[12:09:13] <Raionic> Then you can count all "a" and all "b"
+[12:09:21] <wjoe> ...ok, maybe something can do it even better
+[12:09:53] <wjoe> uniq looks pretty good
