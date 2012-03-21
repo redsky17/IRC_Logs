@@ -673,3 +673,29 @@
 [05:28:03] <zubsani> planning*
 [05:28:09] <zubsani> http://twitter.github.com/bootstrap/examples/hero.html
 [05:28:31] <zubsani> ok, i will see what i can do.
+[05:35:27] <alextsc> argh, git + windows + eclipse; that's the stuff. Wonder if I'll ever get it working. :D
+[05:36:22] <member68> windows + eclipse + egit = piece of cake
+[05:36:35] <alextsc> starts to explode for me once i touch it
+[05:36:49] <alextsc> unknow exception while executing ls-remote command Oo
+[05:36:51] <wjoe> hehe
+[05:36:59] <wjoe> I started using smartgit on windows. it's pretty nice
+[05:37:08] <alextsc> brb googling :P
+[05:37:27] <member68> are you working on a fork? i took away push permissions from everybody
+[05:37:38] <member68> *everybody working on the main project
+[05:37:48] <wjoe> is there actually a project to work on now?
+[05:38:06] <alextsc> working is a bit of an overstatement
+[05:38:06] ### markerz has quit the server. (Read error: Connection reset by peer)
+[05:38:11] ### markerz has joined ##reddit-android-developers
+[05:38:13] <member68> nope, we're figureing out github right now
+[05:38:14] <alextsc> i forked it and try to make changes
+[05:38:17] <alextsc> still cant check it out
+[05:38:27] <alextsc> because of setup issues
+[05:38:48] <wjoe> ah :/
+[05:38:57] <alextsc> maybe i should reboot into my linux install :>
+[05:39:09] <wjoe> I was worried then for a minute. I saw new commits on github, but hadn't seen any on redmine. turns out you just did them between when I checked
+[05:39:12] <wjoe> still working fine \o/
+[05:39:20] <member68> workflow should be: create fork, add fork to eclipse, make changes, commit changes, push changes, create pull-request, have pull-request approved by project maintainers
+[05:39:23] <wjoe> haha. I do find linux easier for development. especially android
+[05:39:56] <alextsc> yeah, also great to have a usable command line
+[05:40:12] <alextsc> but the window manager situation is terrible at the moment  :>
+[05:40:15] <wjoe> yeah, seriously
