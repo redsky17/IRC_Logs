@@ -1430,3 +1430,46 @@
 [13:48:53] <Airheebz> may also want to put the numbers to start at bottom instead of top, seems off to me
 [13:49:14] <RAWR> Yeah like on the numpad
 [13:50:05] <lacop> member68, move the whole keyboard down, make the "display" multiline so that it can show some history
+[13:50:51] <member68> ok, i changed the numbers
+[13:51:07] <tmoskowite> Um
+[13:51:12] <member68> remember guys, this is supposed to be an easy project
+[13:51:18] <tmoskowite> make sure they don't stack activities
+[13:51:30] <member68> it's target are people who have never written an android app before
+[13:51:44] <lacop> well, they can start small
+[13:51:55] <joholz> looks good
+[13:52:00] <tmoskowite> you could have them use a content provider to share
+[13:52:05] ### itsKitsos has joined ##reddit-android-developers
+[13:52:09] <tmoskowite> their mathematical results with the world =)
+[13:52:15] <lacop> lol
+[13:52:17] <itsKitsos> How's it going guys
+[13:52:20] <lacop> put in a facebook button
+[13:52:29] <lacop> "share this number with your friends!"
+[13:52:37] <member68> they'll get the layout, nothing else. some comments and guidelines, but that's pretty much it
+[13:52:42] <tmoskowite> ok
+[13:52:50] <joholz> sounds nice
+[13:52:58] <tmoskowite> is include/merge too much?
+[13:53:04] <member68> yes
+[13:53:09] <tmoskowite> ok
+[13:53:15] <lacop> member68, sounds good :) make sure to provide the basic app structure what will load the layout, with proper configs and setup guide
+[13:53:15] <tmoskowite> Then you are set
+[13:53:23] <tmoskowite> OOOO
+[13:53:27] ### markerz has quit the server. (Read error: Connection reset by peer)
+[13:53:29] <tmoskowite> you could teach them
+[13:53:31] ### markerz| has joined ##reddit-android-developers
+[13:53:36] <tmoskowite> to build it in XML and in the activity itself
+[13:53:41] <lacop> gotta go, be back in a few hours
+[13:53:47] <tmoskowite> do 2 different apps that are indentical, but built differently
+[13:53:49] <joholz> later
+[13:53:51] <tmoskowite> identical
+[13:53:56] <member68> this calculator is the easiest app, i have to think of anther one which is harder. after that they should be able to assist those who are already working on collaborative projects
+[13:54:10] <joholz> you could teach them a ton of different things, which are all basic and all important...but this is a fine start
+[13:54:55] <joholz> imo
+[13:56:27] <member68> looks like there's a lot an android dev should have heard of
+[13:56:39] <member68> let's make a list of it because i like list ;)
+[13:56:40] <member68> https://docs.google.com/spreadsheet/ccc?key=0AvlQFVsQUJEidG9VN2YxQ1JIUmZpV05TY1NlRVcxUkE#gid=0
+[13:56:53] ### garychencool has joined ##reddit-android-developers
+[13:57:11] <joholz> @member68, thats a good idea
+[13:57:29] <garychencool> Back, now using androirc
+[13:57:59] <joholz> we all missed you
+[13:58:19] <garychencool> Not sure if trolling or serious
+[13:58:22] <markerz|> Basic xml structure and activity lifecycle
