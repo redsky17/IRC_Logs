@@ -857,3 +857,11 @@
 [08:26:53] <wjoe> I'm sure git has a way to do it.. probably add another remote or something. not sure
 [08:27:29] <member68> we'll figure it out. first we'd need to set up gerrit though.
 [08:28:15] <wjoe> looking into it now
+[08:31:08] <member68> great
+[08:31:34] <member68> btw, i have to leave in about 30 minutes. I'll be back in 2-3 hours though
+[08:33:09] <wjoe> huh, gerrit is a google thing? didn't know that
+[08:33:38] <member68> i was quite surprised when the getting started doc linked to the android dev guide ;)
+[08:35:27] <wjoe> I didn't realise until it crashed, and the package names were com.google :p
+[08:35:46] <wjoe> http://lc8n.com:8080/ well that's not quite there
+[08:36:27] ### markerz| has joined ##reddit-android-developers
+[08:36:28] ### markerz has quit the server. (Read error: Connection reset by peer)
