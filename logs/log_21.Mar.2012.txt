@@ -2275,3 +2275,34 @@
 [17:29:31] <rapidfyre> member68: will the easy app ideas still be uploaded, or are these all?
 [17:29:49] <rapidfyre> As in on redmine
 [17:30:02] <member68> easy apps are yet to come
+[17:30:19] <member68> haven't had time to write comments yet
+[17:30:31] <member68> does somebody volunteer for that?
+[17:30:52] <rapidfyre> Ah ok, I'll remove myself from the reddit upload team then
+[17:31:43] <veeti> comments?
+[17:32:08] <jaimeh> I am reviewing the permission right now member68
+[17:32:16] <member68> have you seen my simple calculator ui?
+[17:32:17] <jaimeh> Are we going to setup a new role?
+[17:32:47] <wjoe> Sounds like a lot of stuff is happening
+[17:32:59] <ThatPlayer> Seems just to be redmine setup
+[17:33:20] <jaimeh> More like defining roles for people
+[17:33:22] <member68> jaimeh: yes. we need roles for maangers, designers, developers, translators and apprentices
+[17:33:25] <jaimeh> and how teams will be run
+[17:34:01] <member68> they should have rather similar rights (except for managers and apprentices)
+[17:34:31] <Raionic> Can someone add a description to redmine for each of the projects? only 1/4 has a description
+[17:34:37] <member68> managers get all rights they need to manage their projects, apprentices won't be able to edit wikis, etc
+[17:35:09] ### RAWR has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[17:35:14] <Raionic> trying to decided which one to request to join :)
+[17:35:17] <Raionic> decide*
+[17:36:50] ### tmoskowite has quit the server. (Ping timeout: 240 seconds)
+[17:37:05] <rapidfyre> P
+[17:37:25] <rapidfyre> I can't see how to leave a project in redmine
+[17:37:55] <member68> i don't know if you can do that yourself
+[17:37:57] <rapidfyre> Can someone please kick me out of the Reddit upload app?
+[17:38:17] <rapidfyre> I'll join the apprentice queue :P
+[17:38:22] <jaimeh> member68, talking about me?
+[17:38:38] <member68> no, talking to rapidfyre
+[17:38:53] <member68> rapidfyre: i removed you from the project
+[17:39:01] <rapidfyre> Cheers
+[17:39:19] <rapidfyre> There's an open spot there guys!
+[17:39:51] <member68> oh shit....my pc is going down
+[17:39:54] ### member68 has quit the server. ()
