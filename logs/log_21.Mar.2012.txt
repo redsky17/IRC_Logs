@@ -968,3 +968,6 @@
 [10:42:45] <wjoe> one problem with redmine: everything uses real names, which don't always translate well to people's usernames on reddit/IRC
 [10:44:09] <wjoe> so, if Alexander Boden is someone here: I've installed the eclipse connector plugin in redmine that you requested
 [10:44:21] <wjoe> but I don't know if it works, can't test with eclipse right now
+[10:54:17] ### itsKitsos has quit the server. (Ping timeout: 260 seconds)
+[10:55:04] ### markerz has joined ##reddit-android-developers
+[10:55:04] ### markerz| has quit the server. (Read error: Connection reset by peer)
