@@ -1011,3 +1011,6 @@
 [11:15:24] <red_sky> my vps has been dropping connection left and right... so I'm trying this new one out.
 [11:15:38] ### member68 has joined ##reddit-android-developers
 [11:15:47] <member68> !Upload
+[11:15:48] <red_sky> since the transfer, the bot hasn't lost connection AFAIK
+[11:16:06] <red_sky> try lowercase u
+[11:16:13] <member68> !upload
