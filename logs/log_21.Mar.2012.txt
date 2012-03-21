@@ -1749,3 +1749,38 @@
 [15:27:37] <aschneid> But from what member68 was saying, doesn't look like any of the apps that are going to be currently developed would have need of it anyway.
 [15:28:43] <member68> adding an api key later on is very easy. we won't hit the limit during development
 [15:29:38] <anjoyed> not even close during development, the limits are quite generous
+[15:30:23] <Grillon> aschneid, quick upload?
+[15:30:39] <Grillon> or was that canned
+[15:31:14] <aschneid> I'm not seeing where the apikey is mentioned.  In their API docs, they talk about non-auth versus auth.  Authorized uses OAuth or cookies.
+[15:31:51] <anjoyed> sanits app needs upload to imgur
+[15:32:31] <member68> those credits are based on ip adresses btw
+[15:32:37] <anjoyed> https://docs.google.com/document/d/1S3ac4dxseKTFrIhUJ0OWX7jXLvIbTf5ncFhSzLc1VuE/edit?pli=1
+[15:32:40] <aschneid> Yeah.
+[15:32:51] ### red_sky_ has joined ##reddit-android-developers
+[15:33:07] <aschneid> If you look through the conversation from last night/this morning, we talked about schemes to not have to use a server IP
+[15:33:15] <aschneid> Grillon: [09:57] <@member68> going by the preliminary results we'll probably start on the following projects: reddit quick submit, google tasks client, IRC client, alarm clock, as well as 2 simple projects for newbies
+[15:33:18] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[15:33:23] <aschneid> So, quick submit is still there.
+[15:33:35] ### LogiiBot has joined ##reddit-android-developers
+[15:33:37] <Hogofwar> !paste 5
+[15:33:37] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/dYQB
+[15:33:47] <Hogofwar> fookin newlines
+[15:33:52] <Grillon> oh didnt know... i put that as an interest and didnt hear anything
+[15:34:27] <anjoyed> http://rad.lc8n.com/projects/reddit-quick-submit
+[15:34:34] <anjoyed> add yourself there
+[15:35:03] <Hogofwar> !paste 5
+[15:35:04] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/KDIg
+[15:35:10] ### LogiiBot has quit the server. (Read error: Connection reset by peer)
+[15:35:26] ### LogiiBot has joined ##reddit-android-developers
+[15:36:05] <member68> Grillion: you were accepted
+[15:36:06] <Hogofwar> !paste 5
+[15:36:07] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/VULj
+[15:36:09] ### red_sky has quit the server. (Ping timeout: 245 seconds)
+[15:36:19] <Grillon> thanks!
+[15:36:56] <Hogofwar> !paste 5
+[15:36:56] <LogiiBot> The log has been uploaded and is at: http://sprunge.us/WOcI
+[15:38:39] ### kiel3 has quit the server. (Ping timeout: 245 seconds)
+[15:38:53] <Hogofwar> !paste 5
+[15:39:36] <aschneid> So, do we think we want to build an imgur framework along with RQS, on the chance it may get used in the future?
+[15:39:49] <anjoyed> would be wise imo
+[15:40:08] <anjoyed> wrap up some functionality that any project needing it can use
