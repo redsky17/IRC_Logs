@@ -1590,3 +1590,19 @@
 [15:06:33] <member68> jaimeh: we'll get more devs when coding starts (judging by the polls)
 [15:08:10] ### artico has quit the server. (Quit: Leaving)
 [15:08:32] <garychencool> sup
+[15:12:26] <jaimeh> garychencool: que pasa?
+[15:13:24] <member68> I don't want to sit around idle anymore. Why don't we all head to readmine and start adding issues to the tracker? Functionaltiy you want to see, design ideas, etc... From there we can create a basic code construct that people can work on later when we have gerrit running.
+[15:14:11] <member68> I'll merge duplicated issues. You can also comment on every idea posted.
+[15:14:16] <member68> dev.redditandroiddevelopers.com
+[15:14:21] <member68> http://dev.redditandroiddevelopers.com
+[15:14:25] <red_sky> member68 is there a way to comment on things on redmine?
+[15:14:32] <member68> of course.
+[15:14:33] <red_sky> I haven't been able to figure that out
+[15:14:46] <member68> very issue can be commented on by using the "update" button
+[15:14:50] <red_sky> I don't see any obvious "add comment" while on issues list
+[15:14:54] <member68> it's a bit misleading
+[15:14:58] <red_sky> okay, see, I didn't click that because it's misleading
+[15:15:31] <anjoyed_o0O> install mylyn and it will give you a 'add comment' button for each ticket
+[15:16:41] <member68> we have mylyn connector installed. there's a manual in the wiki
+[15:17:21] ### zubsani has quit the server. (Quit: Leaving.)
+[15:18:09] ### Fault has quit the server. (Quit: Leaving)
