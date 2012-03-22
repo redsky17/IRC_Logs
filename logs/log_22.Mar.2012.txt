@@ -1606,3 +1606,12 @@
 [15:16:41] <member68> we have mylyn connector installed. there's a manual in the wiki
 [15:17:21] ### zubsani has quit the server. (Quit: Leaving.)
 [15:18:09] ### Fault has quit the server. (Quit: Leaving)
+[15:21:28] ### Fault has joined ##reddit-android-developers
+[15:21:33] ### Phault has joined ##reddit-android-developers
+[15:21:34] ### Phault has quit the server. (Client Quit)
+[15:22:58] <garychencool> member68: I've applied to join the IRC client project
+[15:24:13] <member68> approved it
+[15:24:39] <garychencool> thanks, first time using redmine, gunna figure it all out brb
+[15:24:45] ### garychencool has quit the server. (Quit: be back in 5 minutes)
+[15:25:19] ### tmoskowite has quit the server. (Remote host closed the connection)
+[15:29:42] ### tmoskowite has joined ##reddit-android-developers
