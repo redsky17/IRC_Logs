@@ -1811,3 +1811,10 @@
 [16:48:32] <Lilday> Data validation is my enemy.
 [16:48:55] <Hogofwar> Isn't c# quite similar to java?
 [16:49:03] <Lilday> relatively
+[16:50:40] <member68> Fault: you can try "int res = getResources().getIdentifier("com.redditandroiddevelopers.simplecalculator:id/btn_"+btn_nr, null, null);" to get the resource ID.
+[16:51:24] <Fault> member68: Ahh thanks
+[16:54:53] ### Strifebringer has quit the server. (Ping timeout: 245 seconds)
+[16:56:52] ### Lilday has quit the server. (Quit: Page closed)
+[16:57:55] ### red_sky has joined ##reddit-android-developers
+[16:58:56] ### lyrch_ has quit the server. (Quit: Bye)
+[16:59:17] ### lyrch has joined ##reddit-android-developers
