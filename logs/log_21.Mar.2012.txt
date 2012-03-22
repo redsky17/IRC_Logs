@@ -2830,3 +2830,55 @@
 [20:39:52] <jaimeh> This project is moving along better than expected
 [20:40:11] <wjoe> yeah, sounds like lots of progress has been made today
 [20:40:23] <sam_> A lot of progress has been made
+[20:40:37] <sam_> We've started a few early projects, and cleaned up our Redmine page
+[20:40:51] <sam_> We're basically all set up.
+[20:41:26] <wjoe> it's very tempting to spend the next 4 days working on this. got a few days off, but I have lots of other things to do :/
+[20:41:30] <smirk> yeah i gotta write the url from wii favorites then type it... i lost my laptop when i was hit by a car brb. im writing your nick down incase i loose the channel
+[20:41:33] <Sanit> what are you guys working on?
+[20:42:00] <wjoe> kk
+[20:42:24] <sam_> YOU WERE HIT BY A CAR
+[20:42:46] <sam_> HOLY SHIT ARE YOU ALRIGHT?!?!?
+[20:42:49] <wjoe> currently, not much. poking around with bits of the redmine page. thinking of joining the IRC client project, but it does have a few people already
+[20:43:22] <sam_> I'm torn lol
+[20:46:10] ### RadLogii has joined ##reddit-android-developers
+[20:46:18] <joholz> depends on pc, i would say
+[20:46:25] <anjoyed_o0O> wjoe, worked oerfectly
+[20:46:26] <Sanit> lyrch: even compared against the same spec PC equivelant?
+[20:46:31] <lyrch> i have an early 2011, i just installed 16GB of RAM, never want another computer
+[20:46:31] <anjoyed_o0O> *perfectly*
+[20:46:35] <lyrch> yup
+[20:46:44] <wjoe> eh, macs don't seem worth the money to me. when you say "PC equivalent", do you mean actual PC, or a laptop?
+[20:46:48] <Sanit> laptop
+[20:46:58] <smirk__> mjoe its the signup page from redditandroiddevelopers.com
+[20:47:03] <anjoyed_o0O> can add tasksm comment and update tasks etc. from eclipse
+[20:47:21] <wjoe> anjoyed_o0O: great :D thanks for testing it
+[20:47:22] <Hogofwar> !paste 50
+[20:47:25] <lyrch> the macs are expensive, but i've never had a problem with one. this is my second
+[20:47:33] <Sanit> and how similar is OSX to say, debian?
+[20:47:45] <Sanit> terminal wise. I live inside the terminal
+[20:47:46] <lyrch> pretty similar
+[20:47:48] ### smirk_ has quit the server. (Ping timeout: 245 seconds)
+[20:47:56] <lyrch> completely then
+[20:48:00] <adamell> Yeah
+[20:48:02] <joholz> If you got the money, why not play with the mac?
+[20:48:25] ### BrandonBolton has joined ##reddit-android-developers
+[20:48:34] <lyrch> i fooled around with fedora on a pc laptop in college, but i wish i had a mac the whole time for dev stuff
+[20:48:36] <jaimeh> Yeah not completely similar
+[20:48:55] <jaimeh> There are many tools on debian that are non-existant on mac
+[20:48:58] <lyrch> i haven't run into anything that was strikingly different
+[20:48:58] <smirk__> u got that joe?
+[20:49:07] <jaimeh> There are many
+[20:49:19] <Sanit> hmm
+[20:49:21] <wjoe> hardware wise, I'm sure you could get a windows laptop with similar specs for much cheaper. software wise, I'm not a fan of macs anyway, but I guess some would say that makes it worth the price, if you like it
+[20:49:24] <Hogofwar> gonna go
+[20:49:26] <Hogofwar> seeya guys
+[20:49:27] <wjoe> smirk__: ah ok
+[20:49:33] <wjoe> the link that says "add your info here"?
+[20:49:33] <joholz> take it easy
+[20:49:35] <lyrch> ah, installable differences
+[20:49:35] <red_sky> lyrch, PCs are infinitely better for developing than mac unless you're doing iOS or mac development
+[20:49:41] <red_sky> why on earth would you want a mac for development
+[20:49:46] <smirk__> ill have to get a new lappy before i can sign up
+[20:49:51] <aschneid_> Lyrch, how did you get 16 gb of ram into a MBP?
+[20:49:51] <wjoe> that's a google docs page, so probably not much that we can do about that :/
+[20:50:02] <lyrch> red_sky: i'm doing a lot of ruby dev right now so a mac is the way to go
