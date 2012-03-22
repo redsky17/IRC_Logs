@@ -135,3 +135,36 @@
 [02:39:25] <joholz> xbmc was F'in revolutionary at that time for me
 [02:39:30] <smirk> im not a member of reddit yet
 [02:39:58] <smirk> couldnt sign up from wii
+[02:40:07] <joholz> you on steam?
+[02:40:27] <smirk> its cool some other time
+[02:40:37] <joholz> yea, ill be on here tmrw
+[02:40:41] <smirk> steam
+[02:40:43] <joholz> *today
+[02:40:49] <smirk> ?
+[02:41:08] <joholz> steam is a pc gaming client
+[02:41:39] <joholz> steam is made by valve
+[02:41:47] <ThatPlayer> pretty much anyone who plays games on pc uses steam
+[02:42:01] <joholz> except.....them....
+[02:42:07] <smirk> found this place today, but im totally gonna be back ery day
+[02:42:37] <joholz> them = ea origin peeps
+[02:42:57] <ThatPlayer> Steam also has steam sales, the worst thing to ever happen to my wallet =P
+[02:43:24] <smirk> i gotta get a pc again, hit by a car with my computer
+[02:44:15] ### vcarl has quit the server. (Ping timeout: 246 seconds)
+[02:44:34] <smirk> thats 3 lappys toasted in 4 years
+[02:44:44] <ThatPlayer> I hope you're not typing on the wii's onscreen keyboard
+[02:44:57] <smirk> loooool
+[02:45:04] <smirk> yup
+[02:45:22] <smirk> no doubt
+[02:45:33] <ThatPlayer> You have a lot of patience
+[02:45:43] <ThatPlayer> I can barely stand touchscreen keyboards on phones these days
+[02:45:55] <smirk> i read i can use a usb keyboard
+[02:46:09] <ThatPlayer> Yeah you can
+[02:47:08] <smirk> word its anoying, but i really wanted to get my foot in the door with you guys today
+[02:47:45] <joholz> ok, can someone tell me what im doing wrong?
+[02:48:03] <joholz> git add myfile1.txt
+[02:48:06] <smirk> its been a long time since i was on a dev team
+[02:48:57] <ThatPlayer> joholz: Does that add the file? Doesn't seem like it commits it
+[02:49:07] <joholz> git commit -m "myfile1 commit" .............. git add .   ................ git commit ...............git push -u origin master
+[02:49:27] <ThatPlayer> smirk: Me too =)
+[02:49:44] <smirk> use to write password crackers and staff account tools for stolen aol account activity
+[02:49:50] <joholz> end result is the exact same (old) commit on every file, including updated
