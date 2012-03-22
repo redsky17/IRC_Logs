@@ -644,3 +644,30 @@
 [07:53:23] ### markerz has quit the server. (Read error: Connection reset by peer)
 [07:57:03] <anyonethinkingab> ill put him in the sheet
 [07:59:54] <member68> ok
+[08:00:55] <member68> he sounds like a good candidate though. sanit can lead the way until tehsusenoh has more time. by then the project has grown and we might need two pms
+[08:01:10] <Hogofwar> Hey
+[08:01:25] <danopia> http://laptop.danopia.net/
+[08:01:27] <danopia> IRC map
+[08:01:36] <danopia> (of a different chan...)
+[08:02:10] <Hogofwar> haha holy shit that looks good
+[08:02:40] <anyonethinkingab> oh sanit is also PM of the quick reddit submit app?
+[08:03:11] <adamell> danopia: that's dope
+[08:03:39] <member68> anyonethinkingab: yes. i think he had the idea too
+[08:04:12] <anyonethinkingab> kk, i edited the sheet again
+[08:05:06] <Hogofwar> Not to be rude, but is there a point for fatal1ty to be a mod?
+[08:05:17] <member68> does anyone know a free dns like freedns?
+[08:05:38] <Hogofwar> as in client dns or one you register your domains to
+[08:06:10] ### RAWR has joined ##reddit-android-developers
+[08:06:16] <Hogofwar> *feroc1ty
+[08:06:28] ### colm has joined ##reddit-android-developers
+[08:06:46] ### colm is now known as Sanit
+[08:07:14] <member68> i have a domain but my hoster won't let me assign an A recored leading to an external host
+[08:07:22] <Hogofwar> that sounds shit
+[08:07:36] <Hogofwar> member68, does that mean you are forced to host with them?
+[08:07:48] <member68> basically i want to go to dev.redditandroiddevelopers.com and see our redmine
+[08:07:58] <member68> my contract expires in autumn
+[08:08:02] <member68> i'll change it then
+[08:08:25] <Hogofwar> Because whoever the nameservers are registered to SHOULD be able to set A records
+[08:09:05] <member68> they allow A records for top level domain. that's why i wanted to set up freedns. but they refuse it because of some error
+[08:09:40] <Hogofwar> member68, and freedns wants you to put their nameservers in?
+[08:09:54] <member68> yes
