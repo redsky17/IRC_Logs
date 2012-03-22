@@ -671,3 +671,56 @@
 [08:09:05] <member68> they allow A records for top level domain. that's why i wanted to set up freedns. but they refuse it because of some error
 [08:09:40] <Hogofwar> member68, and freedns wants you to put their nameservers in?
 [08:09:54] <member68> yes
+[08:10:07] <danopia> <member68> i have a domain but my hoster won't let me assign an A recored leading to an external host
+[08:10:11] <danopia> .....
+[08:10:37] <member68> i get 2x error 118: Inconsistent set of NS RRs (IP, NS host names), 1x error 110: Retry value out of range (expected, found)
+[08:10:48] <member68> whatever that means
+[08:11:01] <danopia> i'd transfer that domain out
+[08:11:06] <Hogofwar> Yeah
+[08:11:10] <Hogofwar> I recommend NameCheap
+[08:11:11] <danopia> if that's intential
+[08:11:13] <Hogofwar> They are good
+[08:11:17] <danopia> ask tech support, if any
+[08:12:04] <member68> what are my dns options with namecheap?
+[08:12:16] <Hogofwar> as in setting nameservers?
+[08:12:20] <Hogofwar> pretty much anything
+[08:12:42] <member68> can i do the above scenario? top level points to my server, sub domain to external server
+[08:12:48] <Hogofwar> Yep
+[08:12:56] <Hogofwar> AT least
+[08:13:01] <Hogofwar> I may not be understanding you
+[08:13:03] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[08:13:06] ### markerz has joined ##reddit-android-developers
+[08:13:14] <Hogofwar> Let me detail what i think setting A records are:
+[08:13:17] <Hogofwar> You have a domain
+[08:13:25] <Hogofwar> You set the nameservers to the host of your website
+[08:13:37] <Hogofwar> On the host of your website you are supposed to set the A records
+[08:13:54] <member68> redditandroiddevelopers.com should point to my server, dev.redditandroiddevelopers.com should point to wjoe's redmine server
+[08:14:14] <Hogofwar> member68, does your HOST support setting A records
+[08:14:37] <member68> yes, but only for top level domains (e.g. redditandroiddevelopers.com)
+[08:14:46] <Hogofwar> So it's your host that's the problem?
+[08:14:50] <member68> yes
+[08:15:09] <Hogofwar> I was thinking it was your domain registrar
+[08:15:14] <Hogofwar> Well, you need a new host then
+[08:15:26] <Hogofwar> Namecheap just registers doman names
+[08:15:29] <Hogofwar> *domain
+[08:15:35] <member68> hoster and domain registrar are the same person in my case. it's a hosting package + 4 domains
+[08:15:39] <Hogofwar> ah
+[08:15:50] <Hogofwar> So, can your nameservers be changed
+[08:16:02] <member68> yes, i can do that
+[08:16:16] <Hogofwar> And it allows the freedns in the nameservers?
+[08:16:38] <member68> nope, that's where i the errors i posted above
+[08:16:49] <Hogofwar> okay
+[08:16:55] <Hogofwar> that sounds like a domain problem
+[08:17:04] <member68> i created a ticket with tech support, they told me the dns wasn't properly configured
+[08:17:05] <Hogofwar> First, i recommend talking to tech support
+[08:17:14] <Hogofwar> okay
+[08:17:30] <Hogofwar> So it might be freedns that is the problem?
+[08:18:11] ### Raion has joined ##reddit-android-developers
+[08:18:18] <member68> maybe. i don't know enough about configuring dns servers to judge on that
+[08:18:47] <Hogofwar> try setting the dns servers to ns2.hostingreborn.com
+[08:18:49] <Hogofwar> and ns3
+[08:18:57] <Hogofwar> It won't do anything, just maybe it will allow you
+[08:19:26] <Hogofwar> Though on second thought it is a stupid idea
+[08:19:44] <Hogofwar> member68, so your host doesn't allow you to do what on the host?
+[08:19:51] <Hogofwar> What do you mean b arecords only for TLDs?
+[08:19:56] <Hogofwar> *a records
