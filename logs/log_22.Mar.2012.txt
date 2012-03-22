@@ -1159,3 +1159,7 @@
 [12:08:50] <adamell> Then I see Tom Cruise's scary smiley face.
 [12:09:13] <adamell> http://4.bp.blogspot.com/_XU9x8G7khv0/SfjHLVZ4XnI/AAAAAAAAClc/5zISXPAK6zc/s400/teeth-tom-cruise-400a071807.jpg
 [12:09:16] <adamell> fml
+[12:13:51] ### zubsani has joined ##reddit-android-developers
+[12:16:09] ### vcarl has joined ##reddit-android-developers
+[12:16:26] ### jaimeh_ has joined ##reddit-android-developers
+[12:18:17] ### jaimeh has quit the server. (Quit: Bye)
