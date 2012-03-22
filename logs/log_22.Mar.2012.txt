@@ -1791,3 +1791,23 @@
 [16:33:46] ### garychencool has joined ##reddit-android-developers
 [16:33:53] <garychencool> Back
 [16:37:38] ### Lilday has quit the server. (Quit: Page closed)
+[16:42:43] ### lunchpointcarrot is now known as ballpointcarrot
+[16:43:16] ### brkastner has quit the server. (Quit: Page closed)
+[16:44:01] <deliwien> if somebody is interested in managing the tamagotchi project with me, let me know. i need an experienced developer to help with the project.
+[16:45:23] ### markerz_ has joined ##reddit-android-developers
+[16:45:38] <Fault> Is there any shorter way to accomplish the same? http://i.imgur.com/pewUH.png
+[16:46:03] <anyonethinkingab> i think not
+[16:46:05] <veeti> well, yes, but that'll work too
+[16:46:29] <markerz_> veeti:  what's the alternative?
+[16:46:31] <Fault> veeti: Please enlighten me :/
+[16:46:42] <anyonethinkingab> can you do R.id.btn_ + i ?
+[16:46:45] <anyonethinkingab> i think not
+[16:46:47] <veeti> there are a couple of ways
+[16:46:50] <veeti> no, but you can get resource id's by string
+[16:46:54] <veeti> so you could have a loop
+[16:46:54] <anyonethinkingab> oh
+[16:47:49] ### Lilday has joined ##reddit-android-developers
+[16:48:19] <Lilday> Any C# ninjas in here want to give me a some help with my homework? :(
+[16:48:32] <Lilday> Data validation is my enemy.
+[16:48:55] <Hogofwar> Isn't c# quite similar to java?
+[16:49:03] <Lilday> relatively
