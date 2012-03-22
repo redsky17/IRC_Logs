@@ -3730,3 +3730,25 @@
 [23:40:17] <joholz> shump, should i try looking for gitk?
 [23:40:22] <shmup> joholz: no, this is what you do
 [23:40:26] <shmup> have you installed git for windows first off?
+[23:40:29] <zubsani> Oh ok, thanks
+[23:40:41] <shmup> i mean continue with that guide. that is separate to what i'm talking about.
+[23:40:44] <joholz> yea, i got eclipse and everything
+[23:40:55] <shmup> http://help.github.com/win-set-up-git/
+[23:40:58] <shmup> no, that. git for windows.
+[23:41:00] <shmup> have you done that?
+[23:41:14] <shmup> it gives you a git bash prompt, and git gui.
+[23:41:14] <jaimeh> Development and project assignments will probably start to move forward tomorrow.
+[23:41:33] <shmup> within the git bash prompt you can navigate to a repository and type "gitk" and see a nice .. map i suppose, if pushes and whatnot
+[23:41:42] <shmup> at least i think i'm explaining that correctly. this is new to me. just doing it now.
+[23:41:44] <joholz> yea i got it
+[23:42:12] <shmup> http://gyazo.com/4789c5040517082f0e7ced47dd5a9701
+[23:42:18] <shmup> there is a screen though, for example
+[23:42:23] <jaimeh> People rarely share that got comes with a GUI. Kind of annoying.
+[23:42:29] <jaimeh> Git*
+[23:43:08] <shmup> follow that windows guide i linked. it sets up your ssh key, has you add ot the config with your api key, name, username, etc
+[23:43:12] <shmup> i'm off though, later/gluck
+[23:43:31] <joholz> ok, thanks
+[23:43:34] <joholz> take it easy
+[23:48:07] <ballpointcarrot> Sanit: think you can move the brainstorming doc from this morning into redmine's wiki?
+[23:48:49] <joholz> for those working on RedditQuickSub, hows it going?
+[23:49:30] ### markerz has quit the server. (Ping timeout: 248 seconds)
