@@ -3630,3 +3630,32 @@
 [23:00:23] <shmup> github mylyn connector
 [23:00:26] <shmup> and egit
 [23:00:31] <shmup> or egit*
+[23:02:16] <wjoe> shmup: there's a tutorial on setting up mylyn here: http://rad.lc8n.com/projects/general-organization/wiki/Mylyn_setup
+[23:02:23] <wjoe> I've not done it myself, but it doesn't sound too hard
+[23:02:25] <shmup> oh i'm reading that now actualy
+[23:02:28] <shmup> http://rad.lc8n.com/projects/general-organization/wiki/Github
+[23:02:29] <wjoe> ahh, ok
+[23:02:32] <shmup> and i did that guide, wjoe
+[23:02:38] <wjoe> right
+[23:02:39] <brkastner> I'm out, g'night guys
+[23:02:45] <shmup> i just thought that was for tasks, i need to look into it more heh
+[23:02:50] <shmup> later
+[23:02:51] <adamell> brkastner: Is your fork the mangoman2?
+[23:03:02] <Sanit> brkastner: yeah, there is no hurry. I'm busy tomorrow myself, so you can work away with whatever you want then
+[23:03:06] <wjoe> hehe. I'm a bit behind the curve, haven't set that all up myself yet. looks really useful though
+[23:03:35] <shmup> wjoe: http://gyazo.com/417682a760af0757d8358f109d511fc2.png?1332384822
+[23:03:47] <shmup> its neat, tasks can be opened internally as such, all streamlines nicely i think
+[23:03:54] <wjoe> nice :D
+[23:03:58] <adamell> +1 for eclipse
+[23:04:03] <adamell> that looks sweet
+[23:04:24] <wjoe> anyway, I'm gonna get some sleep. good luck with the coding :)
+[23:04:30] <wjoe> night all
+[23:04:40] <shmup> i hope i like eclipse. only ever used visual studio. if intellisense is similar, i'll be happy i think
+[23:05:00] <adamell> night
+[23:05:03] <shmup> night
+[23:06:57] <Sanit> fuuuuuuuuuuuuuuu
+[23:06:58] ### brkastner has quit the server. (Ping timeout: 245 seconds)
+[23:07:37] <Sanit> working on a new activity and wondering why nothing is working, crashing all the time etc..
+[23:07:53] <Sanit> ..I forgot to declare the activity in the manifest
+[23:08:43] <danopia> yea, that'll do that
+[23:09:50] ### vcarl has quit the server. (Read error: Connection reset by peer)
