@@ -849,3 +849,22 @@
 [09:07:28] <Hogofwar> can it handle it
 [09:07:57] <member68> 1 gig ram, 2 gig ram max, 25gig hdd, no traffic limit, plesk 10 as management software
 [09:08:31] <member68> should be enough for 50 users. we don't want to compile code on it so it should be fine i think
+[09:10:57] <Sanit> woke up today and had 3 pull requests on RQS, 1 which fixed a bug and 1 which added functionality.
+[09:11:06] ### zubsani has quit the server. (Quit: Leaving.)
+[09:11:06] <Sanit> coming along nicely
+[09:11:46] <rapidfyre> Nice
+[09:12:43] ### markerz has quit the server. (Read error: Connection reset by peer)
+[09:12:51] ### markerz has joined ##reddit-android-developers
+[09:12:54] <member68> just realized a v-server would be cheaper for me
+[09:13:01] <member68> i'll upgrade now
+[09:13:29] <rapidfyre> member68: can we subtract costs for hosting etc before the money goes to charity? Like this it would be fair on you, too.
+[09:15:29] ### markerz| has joined ##reddit-android-developers
+[09:15:29] ### markerz has quit the server. (Read error: Connection reset by peer)
+[09:17:11] <veeti> hi
+[09:17:14] ### zubsani has joined ##reddit-android-developers
+[09:17:34] <veeti> member68: i think that the package name on the projects should be com.redditandroiddevelopers and not com.rad
+[09:17:37] <veeti> since we don't own that domain
+[09:17:59] <danopia> veeti, it doesn't matter, as long as it's unique
+[09:18:25] <veeti> it's a standard
+[09:18:29] <member68> I'll change it later
+[09:18:54] <member68> rapydfire: i guess so. we'll discuss that later
