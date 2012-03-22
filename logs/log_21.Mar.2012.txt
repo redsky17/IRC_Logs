@@ -2706,3 +2706,19 @@
 [20:08:59] ### itsKitsos has joined ##reddit-android-developers
 [20:09:22] ### sam_ has quit the server. (Quit: Page closed)
 [20:09:36] ### sam__1 has quit the server. (Client Quit)
+[20:10:26] <joholz> hows it goin
+[20:10:31] ### sam_ has joined ##reddit-android-developers
+[20:10:40] <adamell> VERY BAD. THE FEDS HAVE TAKEN ALL OF OUR JOKES>
+[20:11:20] ### markerz_ has joined ##reddit-android-developers
+[20:11:59] ### smirk has quit the server. (Ping timeout: 245 seconds)
+[20:12:08] <anjoyed_o0O> member68, it won't authenticate with username/password
+[20:12:18] <joholz> feds are aaliens
+[20:12:25] <anjoyed_o0O> says http authentications needs an api-key from redmine
+[20:13:47] <anjoyed_o0O> 'HTTP-Auth needs an API-Key instead of Username and Password.'
+[20:14:01] ### smirk has joined ##reddit-android-developers
+[20:16:17] ### pigeon[ca] has quit the server. ()
+[20:16:57] <smirk> hi
+[20:17:22] ### Ramuh has quit the server. (Ping timeout: 252 seconds)
+[20:17:43] ### itsKitsos has quit the server. ()
+[20:19:41] <joholz> yo smirk
+[20:19:57] <Hogofwar> http://redditandroiddev.github.com/
