@@ -1615,3 +1615,16 @@
 [15:24:45] ### garychencool has quit the server. (Quit: be back in 5 minutes)
 [15:25:19] ### tmoskowite has quit the server. (Remote host closed the connection)
 [15:29:42] ### tmoskowite has joined ##reddit-android-developers
+[15:30:09] ### ballpointcarrot is now known as lunchpointcarrot
+[15:33:20] ### tmoskowi_ has joined ##reddit-android-developers
+[15:33:40] ### tmoskowite has quit the server. (Read error: Connection reset by peer)
+[15:33:59] ### tmoskowi_ is now known as tmoskowite
+[15:34:36] ### tngyn has joined ##reddit-android-developers
+[15:37:10] <joholz> im trying thw wiki to get egit:http://rad.lc8n.com/projects/general-organization/wiki/Github
+[15:37:22] <joholz> getting an error saying duplicat location, any ideas?
+[15:38:36] <member68> while cloning the repo?
+[15:38:47] <joholz> no, trying to install egit
+[15:38:52] <joholz> step 3
+[15:39:30] <joholz> I see an EGit on eclipse marketplace, going to see if i can just download form there
+[15:39:47] <joholz> from
+[15:39:53] ### tngyn has quit the server. (Quit: Page closed)
