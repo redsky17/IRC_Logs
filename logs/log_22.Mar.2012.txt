@@ -1129,3 +1129,22 @@
 [11:36:38] <jaimeh> Hogofwar: sexy.
 [11:37:01] <RAWR> Hogofwar: rawr
 [11:40:20] <Hogofwar> red_sky,
+[11:41:14] <member68> not sure if end of message or invisible text
+[11:41:26] ### tngyn has joined ##reddit-android-developers
+[11:42:03] <Hogofwar> member68, trying to check if he is here or not :P
+[11:42:09] ### ballpointcarrot has quit the server. (Quit: Quit.)
+[11:42:20] ### markerz has quit the server. (Ping timeout: 260 seconds)
+[11:42:26] <Hogofwar> or she, i dunno
+[11:42:27] ### tngyn has quit the server. (Client Quit)
+[11:43:40] <wjoe> added github integration to all the current projects on redmine, btw
+[11:43:50] <red_sky> what's up hogofwar
+[11:44:01] <member68> red_sky's a guy
+[11:44:26] <member68> !logs
+[11:45:08] <Hogofwar> red_sky, did a small update to logbot, considering I am updating it like this and I have to ask you each time, is it possible for you to set up an auto-compiler from git, or failing that... and more likely just download the compiled jar from git and run it if it is new
+[11:46:17] <red_sky> Yeah, I can definitely set something like that up
+[11:46:22] <red_sky> I'll have to remember to do it in a bit
+[11:46:30] <red_sky> I'm doing some serious code-crunching at work atm
+[11:46:46] <Hogofwar> Okay, also member68 requested an upload at user join, so I implemented that
+[11:46:59] <Hogofwar> Though in config you can turn it off if needed
+[11:47:10] <red_sky> ok
+[11:47:19] <Hogofwar> have fun with numbers!
