@@ -71,3 +71,24 @@
 [02:09:43] <danopia> joholz, what do you mean by "on every file"?
 [02:09:48] <smirk> so i can google more easier
 [02:09:56] <danopia> you're free to address every file in your message
+[02:10:44] <joholz> danopia, so it would be git add Blah.... and then i would just do git commit ?
+[02:10:55] <smirk> car hit me n fucked all me and it up
+[02:10:57] <danopia> joholz, yes
+[02:11:06] <joholz> that would make commit to that file, and do that for all files i want to make custom messages?
+[02:11:26] <joholz> smirk: sry to hear that
+[02:11:29] <smirk> cussing offensive?
+[02:11:45] <smirk> its cool
+[02:11:46] <joholz> I am 10 what is this?
+[02:12:21] <smirk> im just happy to live
+[02:12:38] <joholz> living is cool
+[02:12:51] <smirk> broke me legs
+[02:13:33] <ballpointcarrot> joholz: you're trying to just commit the changes on one file?
+[02:14:09] <smirk> yea im happy to find this dev resource and i cant wait to jump back into programming
+[02:14:30] <joholz> ballpointcarrot, well I am just adding a ton of files, and would like to make custom commits to specific files
+[02:15:24] <smirk> what ar e commits?
+[02:15:30] <joholz> make sense at all?
+[02:15:46] <joholz> smirk: messages added to changed files
+[02:17:50] <smirk> i cant wait to have the sdk on a machine im pissed about the wreck
+[02:18:47] <smirk> i woulnt have found this place i suppose
+[02:19:50] ### MooseEh has quit the server. (Read error: Connection reset by peer)
+[02:19:57] <smirk> messages?like a comment section in a file attributes?
