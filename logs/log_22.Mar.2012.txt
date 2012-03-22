@@ -1818,3 +1818,51 @@
 [16:57:55] ### red_sky has joined ##reddit-android-developers
 [16:58:56] ### lyrch_ has quit the server. (Quit: Bye)
 [16:59:17] ### lyrch has joined ##reddit-android-developers
+[17:00:39] ### lyrch_ has joined ##reddit-android-developers
+[17:01:07] ### Fizile has joined ##reddit-android-developers
+[17:02:59] ### lyrch_ has quit the server. (Client Quit)
+[17:02:59] ### garychencool has quit the server. (Read error: Connection reset by peer)
+[17:03:01] <Fault> Can't stop myself from closing the emulator every time I've tested something :(
+[17:03:51] <tmoskowite> Fault:
+[17:03:58] ### lyrch has quit the server. (Ping timeout: 276 seconds)
+[17:04:01] <tmoskowite> Fault: you could find the Layout that contains your buttons
+[17:04:18] <tmoskowite> Fault: and get all the children within the layout and only pull out the buttons
+[17:04:45] ### member68 has quit the server. (Quit: quick reboot)
+[17:04:52] <veeti> Fault: considering how long it takes to start up you'll probably learn soon enough
+[17:04:59] <lacop> or even better, you could somehow group the buttons you want and get all the children
+[17:05:19] <tmoskowite> lacop: that would be the ideal way to do it
+[17:05:36] <lacop> baby steps...
+[17:05:47] <Hogofwar> Any requests for the logging bot?
+[17:05:49] <lacop> make it work first, make it pretty next, make it fast later
+[17:06:32] <lacop> Hogofwar, !links will give you some generic links to github, redmine, ...
+[17:06:38] <tmoskowite> lacop: then you could create a single xml file with just that layout, and include it in your main layout =)
+[17:06:42] ### jaimeh has joined ##reddit-android-developers
+[17:06:45] ### member68 has joined ##reddit-android-developers
+[17:06:48] <tmoskowite> modulation!
+[17:06:50] <Hogofwar> lacop, should I implement a message system?
+[17:06:50] ### garychencool has joined ##reddit-android-developers
+[17:06:50] <lacop> !links quickreddit will give you all links related to the quick submit app project
+[17:07:05] <lacop> but make it a /NOTICE, so that it doesn't spam the channel
+[17:07:18] <Fault> Yeah... I think I'll pass and just make it work first. ^
+[17:07:30] <Hogofwar> Looks like I'm gonna have to bring in sqlite
+[17:07:31] <ThatPlayer> Morning people
+[17:07:31] <tmoskowite> Fault: sounds good
+[17:07:40] <Hogofwar> Goddammit, I didn't want to add any more libraries
+[17:07:41] <veeti> ThatPlayer: hi
+[17:07:49] <tmoskowite> Hogofwar: but you must
+[17:07:52] <jaimeh> back
+[17:08:02] <lacop> tmoskowite, then you could make a custom button control and generate the layout based on some const int number_of_buttons = 9;
+[17:08:20] <lacop> Hogofwar, just do textfiles
+[17:08:28] <lacop> !links will dump links.txt over notice
+[17:08:39] <lacop> !links <project> will dump links_project.txt
+[17:08:40] <tmoskowite> lacop: i like how you think
+[17:08:47] <Fault> Yay for once I didn't accidently close the emulator after a test. I'm making progress!
+[17:09:10] <Hogofwar> lacop, I was gonna do so that users could set things to call up later
+[17:09:12] <tmoskowite> Fault: test on your phone if you can
+[17:09:17] <Hogofwar> like !set test fuck you
+[17:09:22] <adamell> ‡°·‚—±—‚·°‡
+[17:09:32] <Hogofwar> and the user can then do ?test
+[17:09:32] <lacop> Hogofwar, not sure what that would be for
+[17:09:39] <Hogofwar> and the bot says fuck you
+[17:09:46] <lacop> well ... you don't want everyone editing that
+[17:09:57] <lacop> just do a quick !links thing so that we can have som quick reference
