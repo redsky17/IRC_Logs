@@ -1096,3 +1096,14 @@
 [11:08:06] <veeti> try signing in at https://android-review.googlesource.com/ and it'll show up
 [11:09:42] ### RAWR has quit the server. (Ping timeout: 272 seconds)
 [11:09:57] <wjoe> just me, you, and veeti registered (in that order). as far as I can tell from the database though, no one is assigned to any groups. I tried adding myself to the administrator group manually, it didn't do anything
+[11:10:37] <wjoe> I dunno, something's probably not set up right. I got past the error setting it up by manually adding a file, but it should have made it itself. think there's some deeper problem
+[11:12:18] <veeti> maybe you need to restart gerrit for the change to take effect
+[11:13:04] <member68> the only requirement is jdk 1.6
+[11:13:30] <member68> and a mysql db
+[11:13:48] <member68> not really what I'd call complicated requirements
+[11:14:07] ### red_sky has joined ##reddit-android-developers
+[11:14:23] <member68> at least that should make it easier to find an error ;)
+[11:17:02] ### garychencool has joined ##reddit-android-developers
+[11:17:37] ### Raionic- has joined ##reddit-android-developers
+[11:17:41] ### rapidfyre has joined ##reddit-android-developers
+[11:18:29] ### RAWR has joined ##reddit-android-developers
