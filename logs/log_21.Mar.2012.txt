@@ -3563,3 +3563,19 @@
 [22:37:22] <brkastner> Nvm, Import seems to be what I wanted.
 [22:40:01] ### adamell has joined ##reddit-android-developers
 [22:40:20] ### anjoyed_o0O has quit the server. (Ping timeout: 245 seconds)
+[22:40:32] <danopia> http://i.imgur.com/GFNmW.png
+[22:40:40] <danopia> 4.0 handles my site nicely
+[22:41:17] <brkastner> Okay I'm giving up for tonight, I'm getting bullshit errors ont he source, I'll try again tomorrow.
+[22:41:34] <brkastner> The method onClick(View) of type new View.OnClickListener(){} must override a superclass method
+[22:41:54] ### jaimeh has joined ##reddit-android-developers
+[22:42:42] <adamell> You have to write the superclass method
+[22:43:17] <adamell> it's blank as is, and requires that you write it.
+[22:44:12] <adamell> @Override stuff
+[22:44:30] <brkastner> It has @Override
+[22:44:42] <brkastner> I haven't touched the source, and nothing looks wrong with it.
+[22:45:25] <Sanit> what SDK version is installed?
+[22:45:43] <adamell> http://stackoverflow.com/questions/3982673/force-base-method-call
+[22:45:44] <brkastner> I installed 7, but I just saw online what might fix it hold on.
+[22:46:24] <brkastner> Needed to change my Java Compiler compliance level from 1.5 to 1.6
+[22:46:34] <brkastner> That error message wasn't very helpful it seems lol :P
+[22:49:02] <adamell> if the super class is abstract (which it should be for @Overrides), all the methods would be blank. They'd just be 'template' methods that you would have to include in your own class.
