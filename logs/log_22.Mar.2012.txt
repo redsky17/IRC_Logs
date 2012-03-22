@@ -1764,3 +1764,19 @@
 [16:18:41] <member68> for blocking input to the edittext
 [16:19:20] <jaymax|> Fault: you can set the input type for the editbox in the layout xml
 [16:19:48] <Fault> member68: Already did but wouldn't I only be able to allow numbers for example and not numbers AND  +-*/
+[16:20:36] <Fault> But nevermind about my question, I didn't think it through. If I block onKeyDown it'll never make it to onKeyUp I'm guessing?
+[16:21:29] <member68> try onkeydown and see if it works. in theory it should work
+[16:21:50] <Fault> Yeah what I thought
+[16:22:09] <member68> jaymax|, the tamagotchi app has been postpones. i think it's too hard for people at the moment
+[16:24:43] <anyonethinkingab> deliwien is bizzy with that, i think he might pull it off
+[16:24:51] <anyonethinkingab> oh he's online :D
+[16:24:56] <deliwien> *she :D
+[16:25:00] <anyonethinkingab> ohhh
+[16:25:10] <anyonethinkingab> excuse me miss
+[16:25:15] <deliwien> no problem :)
+[16:25:19] <anyonethinkingab> i'm messaging you right now btw
+[16:25:37] <deliwien> alright
+[16:25:42] <Fault> Oh gawd, keep accidently closing the emulator. <.<
+[16:25:54] <jaymax|> member68, I thought the point of the group was because there's a bunch of people at all levels.
+[16:27:06] ### vcarl has quit the server. (Ping timeout: 246 seconds)
+[16:28:24] <anyonethinkingab> deliwien:  check your messages
