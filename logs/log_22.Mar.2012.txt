@@ -2041,3 +2041,24 @@
 [17:48:15] ### Fizile has quit the server. (Ping timeout: 245 seconds)
 [17:48:47] ### c0smic has joined ##reddit-android-developers
 [17:49:22] ### Esge has quit the server. (Quit: You can tell the size of a man by the size of the thing that makes him mad.)
+[17:50:40] ### lyrch has quit the server. (Remote host closed the connection)
+[17:51:26] ### lyrch has joined ##reddit-android-developers
+[17:53:04] ### Hannesver has joined ##reddit-android-developers
+[17:53:38] <Hannesver> Hello
+[17:53:59] <scary_tom_cruise> does anybody have any experience with using google-api-java-client-1.7.0-beta
+[17:54:01] <ThatPlayer> Hi
+[17:54:43] <scary_tom_cruise> or importing com.google.api
+[17:55:35] <Hannesver> So, is anything exciting going on?
+[17:55:48] <ballpointcarrot> compiling ruby. :)
+[17:56:03] <jaimeh> internet at work is soooo slow.
+[17:56:07] <scary_tom_cruise> too many errors to compile
+[17:56:25] <ThatPlayer> I've setup http://thatplayer.com/irc.html waiting for the hour to see if I've setup the cron job correctly
+[17:56:27] ### scary_tom_cruise is now known as adamell
+[17:56:28] <jaimeh> scary_tom_cruise, downloading sdk for 2.2 but its taking a while
+[17:57:44] <anyonethinkingab> Hannesver:  where you from?
+[17:58:14] <adamell> I'm still lost. I've tried reinstalling all the APIs and changing the properties and it's still throwing an error.
+[17:58:38] <Hannesver> anyonethinkingab: Belgium, why?
+[17:59:23] <anyonethinkingab> yeah me too, but where exactly?
+[17:59:39] <Hannesver> Around Ghent.
+[17:59:45] <jaimeh> ghent is boring
+[17:59:55] <anyonethinkingab> oh
