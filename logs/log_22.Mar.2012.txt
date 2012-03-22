@@ -1206,3 +1206,29 @@
 [12:39:13] <jaimeh_> Looks like we may see a rage comic from danopia soon...
 [12:39:29] <danopia> sorry, i don't make them
 [12:39:49] <joholz> y u no make comics
+[12:41:04] ### markerz has joined ##reddit-android-developers
+[12:41:18] ### paddy has joined ##reddit-android-developers
+[12:41:44] ### paddy is now known as Guest39575
+[12:42:07] <markerz> HAHA!  Googling "Reddit Android Development" finally gets me to the subreddit!
+[12:42:34] ### Guest39575 has quit the server. (Client Quit)
+[12:42:54] <danopia> whelp, i guess i might as well go to bed for real now...
+[12:43:41] <jaimeh_> Do we have gerrit setup?
+[12:43:47] <joholz> for the repo on redmine, that repo will sync to the git one?
+[12:44:07] <joholz> or a push needs to be made to both git/redmine?
+[12:44:29] <member68> redmine syncs from github automatically
+[12:44:32] <joholz> danopia: laters
+[12:44:42] <jaimeh_> danopia: sleep of butterflys and tests
+[12:44:58] ### lacop has joined ##reddit-android-developers
+[12:45:26] <joholz> @member68, so I just have to focus on pushing to git?
+[12:45:27] <lacop> hey
+[12:45:33] <joholz> lcaop wassap
+[12:45:34] <lacop> what's new today?
+[12:45:45] ### margosmark has quit the server. (Remote host closed the connection)
+[12:45:48] <lacop> funny how everyone mispells it the same way :)
+[12:45:55] <jaimeh_> Everyone quit, project is over lacop.
+[12:46:14] <joholz> im trying to get my git stuff together
+[12:46:17] <lacop> philosoraptor - then why is everyone still here
+[12:46:47] ### ballpointcarrot has joined ##reddit-android-developers
+[12:46:59] <member68> joholz: everybody will push to gerrit and pull from github
+[12:47:27] <member68> gerrit is being configured as we speak
+[12:48:47] <joholz> alright, another thing I need to get familiar with
