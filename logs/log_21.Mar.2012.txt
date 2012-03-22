@@ -2882,3 +2882,104 @@
 [20:49:51] <aschneid_> Lyrch, how did you get 16 gb of ram into a MBP?
 [20:49:51] <wjoe> that's a google docs page, so probably not much that we can do about that :/
 [20:50:02] <lyrch> red_sky: i'm doing a lot of ruby dev right now so a mac is the way to go
+[20:50:10] <red_sky> ah, yeah
+[20:50:10] <lyrch> newegg :)
+[20:50:13] <red_sky> you're right about that
+[20:50:14] <markerz_> I actually wanted to develop for iOs but then I found out you needed a mac
+[20:50:16] <joholz> it probably boils down to what your going todo the most on computer
+[20:50:24] <Sanit> I heard somewhere that you aren't allowed to develop on windows if you are working for Google
+[20:50:28] <smirk__> nah the main signup so i can login
+[20:50:33] <Sanit> all their employees use Macs or Linux
+[20:50:34] <aschneid_> I have never seen single stick 8 gb laptop memory
+[20:50:41] <sam_> I'm sure it's all linux distro Sanit
+[20:50:41] <red_sky> Sanit, you can use whatever you want at Google
+[20:50:44] <anjoyed_o0O> wjoe, I updated that task and set it to resolved (from eclipse, woot)
+[20:50:47] <markerz_> I've noticed that.  All the google demonstrations use Mac and Firefox.
+[20:50:48] <anjoyed_o0O> cheers for help
+[20:50:54] <red_sky> but linux makes the most sense, honestly
+[20:50:56] <lyrch> red_sky: i had serious issues setting up dev environments in windows in college, it was a pain and not worth the hassle
+[20:50:58] <joholz> markerz_ thats what drove me to android
+[20:51:10] <wjoe> anjoyed_o0O: nice. on which project?
+[20:51:11] <Sanit> can't remember where I read that, but it's somewhere
+[20:51:14] <lyrch> linux is the best if you have a desktop
+[20:51:34] <wjoe> same, dev seems much easier on linux. though, visual studio is hard to beat for the relevant languages
+[20:51:41] <jaimeh> I have linux on my laptop and desktop. Well really on everything.
+[20:51:43] <anjoyed_o0O> general organisation. ticket that was open for mylyn integration
+[20:51:47] <lyrch> but you can't beat a mbp for a lap top
+[20:51:47] <joholz> which you like better as a distro?
+[20:51:56] <joholz> im usually fedora
+[20:51:57] <red_sky> visual studio is definitely the best IDE I've ever used
+[20:51:58] <ballpointcarrot> arch, hands down.
+[20:52:02] <Sanit> http://www.ft.com/cms/s/2/d2f3f04e-6ccf-11df-91c8-00144feab49a.html#axzz1pnp3o34D
+[20:52:04] <smirk__> i cant click to submit the sign up it aint all viewable
+[20:52:05] <red_sky> there's a reason it's more expensive than anything else
+[20:52:18] <lyrch> i'm running ubuntu right now, simply because of driver support
+[20:52:20] <Sanit> I'm on Mint at the moment. Fairly nice but I'm thinking of switching
+[20:52:23] <red_sky> lyrch, I'd go Windows on a laptop
+[20:52:26] <sam_> Personally, I've used mainly Ubuntu.
+[20:52:30] <red_sky> 2x better specs, half the cost
+[20:52:31] <red_sky> win-win
+[20:52:32] <joholz> have you guys seen the, ubuntu for android, presentation?
+[20:52:38] <jaimeh> smirk__, you will just have to use another computer if you can.
+[20:52:42] <red_sky> I have joholz
+[20:52:44] <wjoe> aha, I see it. nice
+[20:52:56] <joholz> yea i thought it was cool
+[20:53:08] <adamell> No emacs love?
+[20:53:10] <lyrch> red_sky, i still can't stand the problems setting up a dev envrionment. plus i'm addicted to the unix terminal
+[20:53:20] <lyrch> adamell, vim all the way!
+[20:53:26] <jaimeh> unix terminal... *swoon*
+[20:53:34] <red_sky> there's always cygwin!
+[20:53:41] <joholz> red_sky its still in dev right?
+[20:53:49] <red_sky> yes, joholz
+[20:53:53] <wjoe> smirk__: still not entirely sure which page you mean. redditandroiddevelopers.com doesn't have a signup page on the home page, but it links to the redmine page and other things
+[20:53:58] <lyrch> red_sky, no that is a travesty
+[20:54:06] <red_sky> it actually works really well
+[20:54:11] ### Hogofwar has quit the server. (Ping timeout: 260 seconds)
+[20:54:13] <lyrch> it needs to burn in a fiery pit
+[20:54:24] <smirk__> watch change resolution to 600 by 800 or 480 by whatever i forgot. and try on other platforms... like the wii obviously :)
+[20:54:27] <lyrch> i've used it, and i nearly broke my computer
+[20:54:35] <red_sky> sounds like user error
+[20:54:38] <markerz_> lollllllll
+[20:54:40] <red_sky> just like anything that breaks your computer
+[20:54:46] <lyrch> haha
+[20:54:53] <sam_> OHHHH
+[20:55:09] <red_sky> well, with the exception of shitty drivers that sometimes plague Windows with BSODs
+[20:55:13] ### ballpointcarrot has quit the server. (Quit: Well, I'm done.)
+[20:55:17] <jaimeh> I hate being a developer being called for support. 99% of the time, user error.
+[20:55:19] <lyrch> i was trying to setup some wierd software that didn't come in the package, it wasn't worth the trouble
+[20:55:36] <lyrch> i just went back to linux
+[20:55:56] <Sanit> we use Suse on the machines in college, and is has extremely wobbely compiz windows with no way of disabling them. Pain in the ass.
+[20:56:06] <wjoe> oh dear
+[20:56:06] <red_sky> the thing I would do is, run Windows on my laptop, have linux in a VirtualPC
+[20:56:13] <markerz_> I've recently started to browse read-me's and man-pages just for fun.  I've bastardized so many programs--it's sad.
+[20:56:18] <adamell> I started using typewriters about a year ago and programming never was more fun and less productive.
+[20:56:18] <red_sky> or just dual boot
+[20:56:49] <wjoe> I just switch between linux and windows. these days, I mostly use windows for games, and linux for everything else
+[20:56:50] <red_sky> adamell that's how I feel about mechanical keyboards
+[20:56:54] <red_sky> except they are productive as well
+[20:56:55] <smirk__> you see what im saying bro?
+[20:57:09] <wjoe> smirk__: I still don't know what page you mean :/
+[20:57:23] <joholz> i usually am on VMs
+[20:57:32] <lyrch> red_sky, yeah this was a work machine that had 2GB RAM and a 1.2 Core duo processor, last year. it was bad, not good enough to reliably run a virtual machine
+[20:57:43] <red_sky> ah, yeah
+[20:57:48] <red_sky> definitely not
+[20:57:54] <red_sky> linux LiveCD!
+[20:58:01] <red_sky> (which are seriously awesome, btw)
+[20:58:11] ### pocus has joined ##reddit-android-developers
+[20:58:24] <jaimeh> liveUSB
+[20:58:29] <lyrch> well i don't have a need for windows really, so when i built my desktop i just tossed ubuntu on and said "see ya" to windows
+[20:58:38] <red_sky> jaimeh doesn't work as flawlessly as livecd
+[20:58:45] <joholz> liveFloppy
+[20:58:47] <red_sky> computers pre-2005 don't even support booting from USB
+[20:59:06] <sam_> livePunchCard
+[20:59:12] <lyrch> aha
+[20:59:12] ### aschneid_ has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[20:59:13] <sam_> ^Best thing ever
+[20:59:15] <red_sky> lyrch, I like Windows because it always just works, and it has the best game support of any OS
+[20:59:52] <joholz> ahh yess, where else would i buy all my steam games i dont play
+[20:59:55] <jaimeh> 2005... 7 years...
+[21:00:22] <red_sky> you make it sound like it's a long time
+[21:00:25] <lyrch> red_sky, yeah games...i have a copy of windows 7 to run my steam games on, but i haven't installed it to dual boot on my machine because so far everything runs flawlessly in wine(which is a very strange phenomenon)
+[21:00:25] <wjoe> joholz: on their website, of course!
+[21:00:28] <red_sky> maybe in the personal computer market
+[21:00:33] <red_sky> but not as far as computers at work
