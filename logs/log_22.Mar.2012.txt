@@ -1454,3 +1454,29 @@
 [14:09:46] <tmoskowite> then start it
 [14:09:57] <aschneid> tmoskowite: it's been postponed.
 [14:10:05] <tmoskowite> ok
+[14:10:19] <aschneid> Which is why I'm asking about when we think that will be started
+[14:10:30] <member68> alright. I'll keep your name on my list and will drop you a message
+[14:10:35] <member68> is that ok for you?
+[14:10:40] <jaimeh_> red_sky: gmail has tasks. It should sync to that.
+[14:10:43] <red_sky> aschneid, perhaps you could join the IRC Client team, if you want to do something harder
+[14:11:00] <red_sky> member68, I would also like to be put on that list.  After all, I was the one who suggested the Reddit App
+[14:11:10] <red_sky> ah, okay, thanks jaimeh_
+[14:11:11] <aschneid> red_sky: I considered it.  I'm just not that invested in IRC at this point.
+[14:11:22] <aschneid> member68: yeah, that's fine.
+[14:12:03] <member68> i put your names on my whiteboard
+[14:12:23] <jaimeh_> Ooh on member68's whiteboard. Exciting :P
+[14:12:26] <red_sky> thanks
+[14:12:34] <red_sky> I want to make a whiteboard / clearboard at some point
+[14:12:35] <member68> that way i see it everyday and don't forget it
+[14:12:36] <aschneid> OK. I'll keep an eye here periodically and keep up to date on the quick submit since we think that will be included
+[14:12:50] <red_sky> I'll brb
+[14:12:54] <red_sky> have to go test some code
+[14:13:01] <tmoskowite> red_sky: The google task app will allow you to sync google tasks to a super easy to use task list
+[14:13:19] <jaimeh_> Are any of the included developers here?
+[14:13:29] ### lyrch_ has joined ##reddit-android-developers
+[14:13:29] <tmoskowite> included evelopers?
+[14:13:38] ### Sanit has quit the server. (Ping timeout: 245 seconds)
+[14:14:42] <jaimeh_> for the google task application. The ones listed as developers on the redmine project.
+[14:17:24] <red_sky> I didn't know what it was, so I didn't sign up for it
+[14:19:36] <jaimeh_> wjoe: How is it going?
+[14:20:21] <Hogofwar> hey red_sky
