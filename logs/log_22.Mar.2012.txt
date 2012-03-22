@@ -1271,3 +1271,28 @@
 [13:08:21] <Hogofwar> A vps?
 [13:08:30] <TheNumb> I don't think so.
 [13:08:53] <jaimeh_> I believe he has a dedicated server.
+[13:10:10] <member68> vps should be the same as a vserver
+[13:11:12] ### markerz| has joined ##reddit-android-developers
+[13:12:11] <lacop> vserver can be confused with the webserver meaning, where you run multiple sites from the same IP
+[13:12:29] <member68> my server will have a ip on its own
+[13:13:06] <lacop> no I mean like different things for subdomains or even different domains ... nevermind
+[13:13:43] <member68> my goal is to have everything on one server one day, with subdomains pointing to the individual systems we use. possibly even have a synchronized user database between systems
+[13:13:44] <jaimeh_> lacop: virtual host?
+[13:14:04] <member68> for know we can use wjoe's setup which should be fine
+[13:14:05] <lacop> yes, but some people call it virtual server
+[13:14:21] <lacop> member68, how's the gerrit going?
+[13:14:52] <wjoe> slowly
+[13:14:59] <wjoe> it exists but it's not really working
+[13:15:10] <jaimeh_> What is not working?
+[13:16:18] <wjoe> the first account registered should have had admin permissions, but it doesn't. I can't change any settings/projects/etc
+[13:16:44] <wjoe> also can't use the ssh interface to set up projects
+[13:16:49] <jaimeh_> member68: if you plan on hosting all of it on one vps, it better have a lot of memory. Redmine/ruby, gerrit/java
+[13:17:12] <member68> define a lot
+[13:17:53] <jaimeh_> At least 1 gigs for the kind of hits we may be getting for now.
+[13:18:12] <member68> got 1 gig at the moment, can upgrade to 2 anytime
+[13:18:45] <jaimeh_> Just don't go off spending money like crazy.
+[13:19:02] <wjoe> well, I don't mind hosting it for however long. my server isn't doing much, and I've spent most of this week setting it up :p
+[13:19:03] <jaimeh_> We should probably figure this out better as we grow.
+[13:19:15] <member68> the v-server costs 2 dollars less per month than my current hosting package
+[13:19:30] <jaimeh_> $40/month?
+[13:20:01] <member68> close: 10$/month
