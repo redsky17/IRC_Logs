@@ -312,3 +312,16 @@
 [03:55:38] ### markerz has quit the server. (Read error: Connection reset by peer)
 [03:55:59] <joholz> heyy,, i think i got it
 [03:59:05] ### Decker has quit the server. (Ping timeout: 245 seconds)
+[04:00:22] ### zubsani has joined ##reddit-android-developers
+[04:02:33] <adamell> it takes a while to get used to the way it works but once you do it's really fun
+[04:04:25] ### Decker has joined ##reddit-android-developers
+[04:07:28] <adamell> What's the target SD card size for 2.1 or greater?
+[04:07:52] <joholz> i heard 8gb was pretty good
+[04:07:57] <adamell> k
+[04:09:06] <joholz> spent a nice chunck of today playing w/ git.....still got a lot more to go though
+[04:09:31] <joholz> got some basics down, which is good....hopefully i can get that eclipse plugin working tmrw
+[04:09:40] <member68> i have to get used to making commits after every change but besides that it's pretty straightforward
+[04:09:49] <joholz> but im going to sleep now though
+[04:09:56] <adamell> night
+[04:10:03] <joholz> thanks for help guys
+[04:10:05] <member68> sleep tight joholz. see you tomorrow
