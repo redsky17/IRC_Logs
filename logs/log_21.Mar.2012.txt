@@ -3232,3 +3232,53 @@
 [21:29:11] <red_sky> having a good evening
 [21:29:27] <ThatPlayer> I'm jeff too :|
 [21:29:39] <lyrch> red_sky, ah. it was "and the unit tests don't make it to the apk"
+[21:30:13] <red_sky> ah, that's what I thought you were referring to.  What I meant by that is that the tests themselves aren't in the final code that gets packaged
+[21:30:14] <smirk__> i am accept my legs hurt from a car breaking my bones
+[21:30:38] <red_sky> damn cars
+[21:30:41] <smirk__> heh
+[21:30:43] <red_sky> they just hate us pedestrians
+[21:30:48] <lyrch> red_sky, i may have missed some of the context to that, my client lagged and i suddenly was bombarded with messages
+[21:31:02] <smirk__> sup jeff :D
+[21:31:30] <lyrch> alright, later guys. this guy has a 4am wakeup
+[21:31:32] <red_sky> <smirk__> the size of the app effects the way its runnning?
+[21:31:32] <red_sky> <red_sky> app size isn't really an issue
+[21:31:32] <red_sky> <red_sky> google increased the limits to 2GB for an apk, I think
+[21:31:32] <red_sky> <lyrch> yup
+[21:31:32] <red_sky> <red_sky> and the unit tests don't make it to the apk
+[21:31:38] <smirk__> my accident was sooo f ing scary
+[21:31:47] <red_sky> later lyrch
+[21:31:52] ### lyrch has quit the server. (Remote host closed the connection)
+[21:31:59] ### joholz has quit the server. (Ping timeout: 245 seconds)
+[21:33:16] <jaimeh> We really should find a way to organize timezones somewhere
+[21:34:41] <sam_> MOAR POLLS
+[21:35:01] <smirk__> i did a complete flip a would have landed it if my legs werent going to fall out from under me. then i laid there looking at another car coming from the other direction and a dude ran out and helped
+[21:35:26] <adamell> sam_: http://www.texasescapes.com/TexasGhostTowns/CodmanTexas/CodmanTexasElectricalPole404EWhetstone.jpg
+[21:35:37] <adamell> close enough
+[21:35:40] <sam_> Lol
+[21:36:00] ### aschneid__ has joined ##reddit-android-developers
+[21:36:06] <red_sky> where's all the information about setting up mylyn and whatnot with eclipse?
+[21:36:17] <wjoe> wow. sounds like a scary experience. break anything?
+[21:36:21] <Sanit> need a bit of help with this app if anyone has a second
+[21:36:25] <adamell> mylyn is already in eclipse
+[21:36:28] <red_sky> yeah
+[21:36:34] <red_sky> doesn't it need to connect to a server somewhere?
+[21:36:38] <adamell> you mean the redmine connecter?
+[21:36:44] <red_sky> sure
+[21:37:01] <wjoe> we probably need a guide for this
+[21:37:21] <wjoe> you need to install the plugin for one. I haven't tried it yet though
+[21:37:36] <adamell> go: help>install new software
+[21:38:02] <adamell> then put http://redmin-mylyncon.sourceforge.net/update-site/N/
+[21:38:15] <smirk__> chipped bone in left knee and broke tibia and fibia completely on right ... had surgury. they put in a rod
+[21:38:41] <red_sky> thanks
+[21:38:48] <wjoe> ouch. how long does that take to heal?
+[21:38:57] <red_sky> I swear there's a page on the redmine with all of the information about eclipse plugins to install
+[21:39:01] <red_sky> but I can't seem to find it
+[21:39:18] <adamell> http://sourceforge.net/apps/wordpress/redmin-mylyncon/
+[21:39:20] <anjoyed_o0O> just add that update site adamell linked
+[21:39:33] <anjoyed_o0O> install both thingies from there
+[21:39:46] <adamell> ^ this, for the first link
+[21:40:04] <adamell> Then just configure with your API key and whatnot
+[21:40:16] <red_sky> thanks
+[21:40:24] <red_sky> what about the git gui plugin?
+[21:40:31] <anjoyed_o0O> in eclipse go window->show view->other
+[21:40:41] <anjoyed_o0O> select mylyn and add repo
