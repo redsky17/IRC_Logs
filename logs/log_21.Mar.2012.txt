@@ -2690,3 +2690,19 @@
 [19:58:27] <anjoyed_o0O> or something
 [19:58:42] <anjoyed_o0O> and -> an
 [19:59:02] <adamell> in my mind they're the same thing, unless the descriptions differ.
+[20:03:14] ### joholz has quit the server. (Ping timeout: 245 seconds)
+[20:04:03] <member68> we decided earlier that a reddit client will be done at some point. it won't be one of the first projects though. We'd like to get everbody familiar with the general workflow before attempting a project that is as important to many of us as a reddit client
+[20:04:21] <sam_> choose the google tasks app :)
+[20:04:52] <Hogofwar> Done
+[20:05:11] <Hogofwar> https://github.com/hogofwar/LogBot - is now fully, if not mostly commentated
+[20:05:36] <adamell> LogBot is fun to say out loud
+[20:05:42] ### smirk has joined ##reddit-android-developers
+[20:05:51] <ThatPlayer> adamell: Lol
+[20:06:42] <member68> anjoyed: you need an api key?
+[20:07:20] ### joholz has joined ##reddit-android-developers
+[20:07:42] <smirk> i cant sign up from a wii beacause it doesnt support the mailto protocol. may i have the email?
+[20:08:11] ### sam__1 has joined ##reddit-android-developers
+[20:08:21] <Sanit> usernames look good on Redmine
+[20:08:59] ### itsKitsos has joined ##reddit-android-developers
+[20:09:22] ### sam_ has quit the server. (Quit: Page closed)
+[20:09:36] ### sam__1 has quit the server. (Client Quit)
