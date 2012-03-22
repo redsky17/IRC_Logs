@@ -2131,3 +2131,15 @@
 [18:32:05] <jaimeh> No
 [18:33:58] <anyonethinkingab> oh
 [18:38:39] <deliwien> if someone wants to join the Tamagotchi project: /join ##RAD_Tamagotchi
+[18:40:18] <veeti> whoa
+[18:40:23] <veeti> the redmine just blew up
+[18:40:45] <anyonethinkingab> yeah i noticed it too
+[18:40:52] <anyonethinkingab> some pages still work though
+[18:40:56] <anyonethinkingab> who maintains it?
+[18:40:58] <anyonethinkingab> member?
+[18:41:02] <veeti> wjoe: ping
+[18:45:21] ### mikeniek192 has joined ##reddit-android-developers
+[18:45:32] <anyonethinkingab> how is the gerrit?
+[18:45:55] ### mikeniek192 has quit the server. (Client Quit)
+[18:47:15] <jaimeh> If redmine is down, I doubt gerrit will be working.
+[18:47:36] <jaimeh> wjoe is not responding.
