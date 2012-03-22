@@ -633,3 +633,14 @@
 [07:33:34] ### markerz| has quit the server. (Read error: Connection reset by peer)
 [07:47:15] ### anjoyed is now known as anjoyed_work
 [07:47:40] <TheNumb> !paste 8
+[07:50:06] <anyonethinkingab> member68:  someone has responded to become a PM for the reddit quick submit app
+[07:50:08] ### zubsani has quit the server. (Quit: Page closed)
+[07:50:32] <member68> who is it?
+[07:51:36] <anyonethinkingab> tehsusenoh
+[07:51:56] <member68> sounds good. i'll talk to both him and Sanit later
+[07:52:21] <anyonethinkingab> I've lead a few, but not for Android.  Most of my work has been individual, but teamwork was also part of learning Java.
+[07:52:37] <anyonethinkingab> is what he put in the poll
+[07:53:23] ### markerz| has joined ##reddit-android-developers
+[07:53:23] ### markerz has quit the server. (Read error: Connection reset by peer)
+[07:57:03] <anyonethinkingab> ill put him in the sheet
+[07:59:54] <member68> ok
