@@ -3172,3 +3172,63 @@
 [21:20:12] <lyrch> and headache
 [21:20:14] <joholz> np
 [21:20:24] <red_sky> that's why I think it's better for larger apps anjoyed, because smaller apps are super easy to debug
+[21:20:38] <red_sky> generally less abstraction, less complexity, less code
+[21:20:51] <lyrch> never assume that something will be super easy to debug, it won't be
+[21:20:55] <jaimeh> IF we do TDD, somebody needs to write a wiki page for it.
+[21:21:02] <red_sky> I'm not assuming
+[21:21:08] <red_sky> I'm comparing it to larger app development
+[21:21:19] <anjoyed_o0O> its a good practise to get used to though. If you get in the habit of well tested code, you will struggle less on bigger projects
+[21:21:21] <red_sky> it will always be easier to debug smaller amounts of code than larger
+[21:21:49] <lyrch> true, but the need for practice is still there, and just as important
+[21:22:00] <jaimeh> Beginner developers... test driven development is getting more popular. Learn if you plan on getting a job.
+[21:22:08] <smirk__> the size of the app effects the way its runnning?
+[21:22:20] <lyrch> jaimeh, very true
+[21:22:22] <red_sky> app size isn't really an issue
+[21:22:31] <red_sky> google increased the limits to 2GB for an apk, I think
+[21:22:36] <lyrch> yup
+[21:22:38] <red_sky> and the unit tests don't make it to the apk
+[21:22:41] <lyrch> for game devs
+[21:23:07] <lyrch> red_sky, still important for adding features, fixing bugs
+[21:23:24] <jaimeh> Lyrch do you have plenty of experience with TDD on android?
+[21:23:32] <lyrch> also the tests are a great way to learn a project if you are coming into an existing project
+[21:23:34] <red_sky> lyrch, I'm not sure what you're referring to
+[21:23:36] <smirk__> is it the location of like the `do events if such and such happens?
+[21:23:46] <red_sky> "still important for adding features, fixing bugs"
+[21:23:50] <lyrch> jaimeh, i've been giving it a try
+[21:23:56] <smirk__> in the xode?
+[21:24:07] <smirk__> code
+[21:24:11] <jaimeh> Does anybody do TDD professionally here on android?
+[21:24:11] <aschneid_> Jaimeh: you can still unit test without TDD
+[21:24:32] <smirk__> whats tdd?
+[21:24:47] <lyrch> red_sky, when adding new features and fixing bugs the tests will tell you if your new code will work properly with the existing code base, and for bugs it shows you where the code is healthy, and every bug should get a test to prevent it in the future
+[21:25:13] <smirk__> ohhh
+[21:25:20] <lyrch> jaimeh, my company is really pushing it, and i'm incorporating it more and more personally
+[21:25:22] <smirk__> thnx
+[21:25:44] <red_sky> hmm, I feel like either your response was really delayed or you misinterpreted something I said
+[21:25:51] <red_sky> because I never denied that point
+[21:25:51] <Sanit> got a bit of work done on Reddit Quick Submit. Activity switching works now and the XML layouts are roughly done
+[21:25:52] <lyrch> perhaps
+[21:26:12] <jaimeh> Do you think you can write a wiki page for everyone planning to develop. At least for unit tests. At least we can seed the idea to getting it done on our projects
+[21:26:16] <aschneid_> Lyrch do you use tools to measure coverage too?
+[21:26:17] <lyrch> i'm still pretty new to irc, so i lose context pretty fast
+[21:26:19] <smirk__> well thats enough for me for now i dont wanna get anoying
+[21:26:25] <red_sky> could you tell me what I said that prompted that response?
+[21:26:31] <danopia> whoa, the linux cluster has eclipse
+[21:26:34] <smirk__> thanks folks
+[21:26:40] <lyrch> aschneid_, we have some, but the basic stuff that works in jenkins
+[21:26:49] <red_sky> jenkins is pretty cool
+[21:26:52] <red_sky> where is that hosted?
+[21:26:58] <joholz> smirk_ we all bros here
+[21:27:13] <aschneid_> Another good tool is to measure cyclomatic complexity
+[21:27:34] <joholz> red_sky, anything for irc atm? or just installing eclipse?
+[21:27:36] <lyrch> red_sky, when you asked about what i was talking about with "still important for adding features, fixing bugs"
+[21:28:20] <red_sky> no, I meant what prompted you to say "still important for adding features, fixing bugs"
+[21:28:29] <red_sky> I'm trying to see if there was a misunderstanding so I can try to clear it up
+[21:28:45] <red_sky> joholz uhh... what are you referring to exactly?
+[21:28:55] <smirk__> word im gonna eat dinne and watch married with children. so i gotta switch inputs from my wii. peace. im jeff btw.
+[21:29:02] <lyrch> jaimeh, i'll see what i can do. i'm still a bit of an apprentice at my company right now in terms of tdd, but i've been graduated to journeyman apprentice and started to teach others
+[21:29:04] <red_sky> nice to meet you jeff
+[21:29:07] <red_sky> I'm Joe
+[21:29:11] <red_sky> having a good evening
+[21:29:27] <ThatPlayer> I'm jeff too :|
+[21:29:39] <lyrch> red_sky, ah. it was "and the unit tests don't make it to the apk"
