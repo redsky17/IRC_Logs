@@ -434,3 +434,31 @@
 [05:28:04] <adamell> There's a Google Tasks API too
 [05:28:15] ### Avid has quit the server. (Ping timeout: 245 seconds)
 [05:28:57] <adamell> could you sign me up for PM on rm/gh?
+[05:30:52] <adamell> But introducing a new dependency (google api) would require Maven for the devs. I'll get to writing the wiki on it as soon as the RM page is up.
+[05:30:58] <member68> added you on rm. github won't have PMs. only admins and gerrit will be able to push code
+[05:31:26] <adamell> thanks
+[05:32:04] <Archelaus> member68, I'm unsure if you're currently adding developers, but I'd like to be one on the IRC Project for when you are
+[05:33:35] <member68> have you created an account on redmine and applied for the project?
+[05:33:43] <anyonethinkingab> adamell what are you PM for now?
+[05:33:57] <Archelaus> I'm Archelaus on the RM, I'm yes
+[05:33:58] <adamell> Kony Liberation Councel
+[05:34:06] <anyonethinkingab> oh that's cool
+[05:34:14] <adamell> google-tasks-app
+[05:34:17] <anyonethinkingab> ok
+[05:34:44] ### markerz| has joined ##reddit-android-developers
+[05:34:44] ### markerz has quit the server. (Read error: Connection reset by peer)
+[05:35:25] <Archelaus> and yes*
+[05:35:43] <anyonethinkingab> adamell:  is your reddit username the same?
+[05:35:55] <adamell> no, it's maplesyrupismajestic
+[05:35:58] <adamell> because it is
+[05:36:03] <anyonethinkingab> ok
+[05:36:08] <adamell> also its tasty
+[05:36:31] <anyonethinkingab> k, i added you on the spreadsheet
+[05:36:32] ### danopia has joined ##reddit-android-developers
+[05:36:32] ### danopia has quit the server. (Changing host)
+[05:36:32] ### danopia has joined ##reddit-android-developers
+[05:37:56] <anyonethinkingab> Archelaus:  are you the pm of the IRC client?
+[05:38:02] <Archelaus> Nope
+[05:38:05] <anyonethinkingab> oh
+[05:38:25] <Archelaus> Just want to be a dev, project management isn't something someone of my experience should be doing
+[05:39:43] <anyonethinkingab> kk
