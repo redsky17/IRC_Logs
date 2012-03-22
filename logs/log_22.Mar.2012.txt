@@ -1112,3 +1112,20 @@
 [11:22:47] ### zubsani has quit the server. (Quit: Page closed)
 [11:25:39] <member68> what do you want to update?
 [11:27:48] ### jaimeh has joined ##reddit-android-developers
+[11:30:22] <RAWR> What happened to the SimpleCalculator? Is it going on redmine?
+[11:31:41] <Sanit> back later.. college
+[11:32:11] ### garychencool has quit the server. (Quit: Page closed)
+[11:32:26] <member68> RAWR: it's there
+[11:33:15] <RAWR> member68: Am I blind? I can't see it in the projects page. :S
+[11:34:08] <RAWR> Oh but I can see it's on github now
+[11:34:21] <member68> ups, no you're not. you're just not an admin who can see all project no matter if it's public or nor ;)
+[11:34:28] <member68> i set it to public
+[11:34:28] <RAWR> Ahh there it is!
+[11:34:59] <RAWR> Thanks
+[11:35:28] <Hogofwar> http://i.imgur.com/hHBEl.gif
+[11:35:40] ### colm has quit the server. (Ping timeout: 272 seconds)
+[11:36:16] <member68> is it really necessary that you send us naked pictures of yourself? ;)
+[11:36:18] ### Sanit has quit the server. (Ping timeout: 272 seconds)
+[11:36:38] <jaimeh> Hogofwar: sexy.
+[11:37:01] <RAWR> Hogofwar: rawr
+[11:40:20] <Hogofwar> red_sky,
