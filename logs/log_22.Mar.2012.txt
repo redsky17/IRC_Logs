@@ -305,3 +305,6 @@
 [03:37:38] <ballpointcarrot> since git questions have been a common event tonight, I highly recommend taking a look at this: http://book.git-scm.com/index.html
 [03:37:46] <ballpointcarrot> also, if anyone has questions, I'll be willing to answer them.
 [03:37:48] <member68> sure, go ahead. anybody can add their suggestions
+[03:43:52] ### markerz has joined ##reddit-android-developers
+[03:43:53] <adamell> that feel when you delete your .bash_profile without backing up
+[03:44:53] <markerz> I have all that feel.
