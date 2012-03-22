@@ -1908,3 +1908,53 @@
 [17:17:01] <adamell> (/|ı˘ııı◊ıı(-•-›(o)‹-•-)ıı◊ııı◊˘ı|\)
 [17:18:50] ### lyrch has quit the server. (Client Quit)
 [17:19:32] ### lyrch has joined ##reddit-android-developers
+[17:20:52] <member68> wjoe: are you there?
+[17:22:53] <member68> everybody: if wjoe shows up, please ask him for a status update on the gerrit installation. tell him i asked. I'll read the logs tomorrow.
+[17:23:09] <jaimeh> member68, will do.
+[17:23:19] <member68> thank you
+[17:23:35] <member68> I'm going to bed, that's why I ask ;)
+[17:23:54] <jaimeh> I figured.
+[17:23:59] <jaimeh> Good night.
+[17:24:04] <veeti> bye
+[17:24:07] <ThatPlayer> Cya
+[17:24:08] ### markerz has quit the server. (Ping timeout: 244 seconds)
+[17:24:11] <member68> I'll be back in 8-10 hours I guess. See you then :)
+[17:24:13] <anyonethinkingab> bye
+[17:24:23] <ThatPlayer> I just woke up, I'll still be here =]
+[17:24:37] <jaimeh> ThatPlayer, timezone?
+[17:24:41] <member68> good to know ;)
+[17:24:48] <ThatPlayer> Pacfic
+[17:24:55] <member68> somewhere central canada
+[17:24:55] <jaimeh> just woke up?
+[17:24:59] <ThatPlayer> Yeah
+[17:25:01] <Raionic> it's 2pm there isn't it??
+[17:25:03] <anyonethinkingab> http://laptop.danopia.net/
+[17:25:06] <jaimeh> lol
+[17:25:11] <ThatPlayer> Uhh actually that's wrong
+[17:25:24] <ThatPlayer> =)
+[17:25:30] <Raionic> 2:30?
+[17:25:34] <ThatPlayer> My VPS is located in San Jose California, but it's got a canadian IP
+[17:25:37] <jaimeh> damn it has me pin pointed!
+[17:25:46] <ThatPlayer> Raionic: Yeah
+[17:26:08] ### markerz_ has quit the server. (Ping timeout: 245 seconds)
+[17:26:08] ### joholz has quit the server. (Ping timeout: 245 seconds)
+[17:26:13] <danopia> poke
+[17:26:15] <danopia> pong*
+[17:26:16] <Raionic> wow
+[17:26:16] <ballpointcarrot> testing map.
+[17:26:16] <anyonethinkingab> we just made a huge A
+[17:26:21] <lyrch> man, my phone is coming up as in the middle of the US
+[17:26:38] <ballpointcarrot> adamell: you seem nearby.
+[17:26:41] <danopia> wow, that's a cool A
+[17:26:42] <member68> have fun everybody. bye
+[17:26:57] ### member68 has quit the server. (Quit: going to bed. later guys)
+[17:27:04] <jaimeh> Fault breaks the straight line
+[17:27:05] <Raionic> So didn't have a chance to keep up with the chat at work .....anything big news?
+[17:27:14] <Raionic> any*
+[17:27:21] <anyonethinkingab> jaimeh:
+[17:28:05] <adamell> ballpointcarrot: perhaps too nearby.
+[17:28:57] <jaimeh> anyonethinkingab, ?
+[17:29:02] <adamell> (‹›)·-|—·°·\_/·°·—|·-(‹›)
+[17:29:45] <adamell> It's an x wing, without the x
+[17:29:57] <anyonethinkingab> jaimeh http://laptop.danopia.net/
+[17:29:58] <anjoyed_o0O> so, a wing?
