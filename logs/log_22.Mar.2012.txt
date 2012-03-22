@@ -41,3 +41,15 @@
 [01:32:59] <danopia> hey
 [01:33:16] <joholz> hellooo
 [01:35:03] ### markerz has joined ##reddit-android-developers
+[01:43:17] ### markerz| has joined ##reddit-android-developers
+[01:43:17] ### markerz has quit the server. (Read error: Connection reset by peer)
+[01:43:43] <joholz> im getting an error when i try to commit, saying "non-fast-forward" updates will get rejected
+[01:44:02] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[01:44:05] <joholz> this is Git
+[01:44:13] ### markerz has joined ##reddit-android-developers
+[01:44:52] <joholz> would solving the problem mean, git push --force?
+[01:44:53] ### markerz has quit the server. (Read error: Connection reset by peer)
+[01:45:03] ### markerz has joined ##reddit-android-developers
+[01:47:43] ### markerz has quit the server. (Read error: Connection reset by peer)
+[01:49:29] <ballpointcarrot> joholz: make sure you've pulled so you have the most up-to-date code in your tree first.
+[01:49:47] <ballpointcarrot> chances are, someone pushed between the last time you pulled and your push.
