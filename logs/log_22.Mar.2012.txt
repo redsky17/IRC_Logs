@@ -882,3 +882,35 @@
 [09:28:21] <Sanit> *described
 [09:29:39] <adamell> I wonder why Wave didn't replace IRC?
 [09:29:57] <danopia> because it was too heavy
+[09:30:18] <danopia> and because it was not what IRC needs
+[09:30:57] <Sanit> irc is so basic and simple, and wave was more featured and more for collaberation
+[09:31:12] <Sanit> the rewinding time was cool.
+[09:31:33] <danopia> hah
+[09:31:44] <danopia> my wargames server just get GET-scanned
+[09:32:25] <danopia> Sanit, as i said, it's not what IRC needs. many people still on IRC enjoy it because it's simple
+[09:32:47] <Sanit> that's why I love it too. I'm inside a console at the moment
+[09:32:54] <danopia> most of hte people i konw like how simple it is to hack up a bot or nc into a server
+[09:33:25] <danopia> rewinding time on IRC is simple as well
+[09:33:27] <danopia> scroll up
+[09:33:31] ### RAWR has joined ##reddit-android-developers
+[09:33:53] <Sanit> i meant for the collaberation aspect
+[09:33:58] <Hogofwar> ooh
+[09:34:10] <Hogofwar> A multiplayer notepad app :D
+[09:34:42] <Sanit> there is already an IRC project ;-)
+[09:34:57] ### itsKitsos has joined ##reddit-android-developers
+[09:34:57] <Hogofwar> irc isn't multiplayer notepad though
+[09:35:13] <Sanit> so like a google docs app?
+[09:35:13] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[09:35:16] ### pocus has quit the server. (Quit: Page closed)
+[09:35:18] <garychencool> IRC is good enough as it is, I wouldn't want better graphics or whatever
+[09:35:19] ### markerz has joined ##reddit-android-developers
+[09:35:24] <danopia> you mean like google docs writer?
+[09:36:15] <itsKitsos> member68, you there?
+[09:38:11] <itsKitsos> Anyway, I have something I'd like to discuss for anyone who would like to provide input
+[09:38:16] <member68> yeah
+[09:38:32] <itsKitsos> oh good, alright quick question/request
+[09:38:44] <itsKitsos> is there oging ot be any type of guideline list for project managers?
+[09:38:49] <itsKitsos> to ensure consistent project management
+[09:38:55] <itsKitsos> good practices, etc.
+[09:39:08] <itsKitsos> just so we dont have 50 different projects being managed completely differently
+[09:39:32] <veeti> what do you exactly mean by good practices
