@@ -1480,3 +1480,12 @@
 [14:17:24] <red_sky> I didn't know what it was, so I didn't sign up for it
 [14:19:36] <jaimeh_> wjoe: How is it going?
 [14:20:21] <Hogofwar> hey red_sky
+[14:22:11] <red_sky> hey Hogofwar
+[14:22:55] ### Fizile has quit the server. (Ping timeout: 264 seconds)
+[14:23:13] ### Raionic- has quit the server. (Quit: Bye)
+[14:28:12] ### Fault has joined ##reddit-android-developers
+[14:28:13] ### markerz_ has quit the server. (Ping timeout: 245 seconds)
+[14:28:54] <member68> jaimeh_: i don't see any obvious changes on the gerrit website. i guess it's quite complicated to fix it
+[14:29:21] <jaimeh_> Should we help him?
+[14:29:24] ### tmoskowite has quit the server. (Ping timeout: 244 seconds)
+[14:29:36] ### vcarl has joined ##reddit-android-developers
