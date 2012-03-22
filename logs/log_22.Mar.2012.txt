@@ -988,3 +988,36 @@
 [09:58:55] <member68> ok
 [09:59:13] <member68> done
 [09:59:20] <anyonethinkingab> top
+[10:00:15] <anyonethinkingab> thanks
+[10:00:50] <adamell> what SDK version is 7 again?
+[10:01:03] <veeti> 2.1
+[10:01:08] <adamell> Thanks
+[10:02:30] <anyonethinkingab> member68:  can you say logs! please?
+[10:02:31] <Hogofwar> Okay
+[10:02:36] <Hogofwar> !logs
+[10:02:41] <anyonethinkingab> thanks
+[10:02:47] <Hogofwar> anyonethinkingab, you coulda said it...
+[10:02:56] <anyonethinkingab> oh
+[10:02:58] <Hogofwar> Only !upload is op only
+[10:03:03] <anyonethinkingab> oh ok :D
+[10:03:36] <wjoe> ok... I -think- gerrit is working now
+[10:04:00] <Hogofwar> doesn't egit integrate with gerrir
+[10:04:03] <Hogofwar> *gerrit
+[10:06:25] <anyonethinkingab> oh there he is lol
+[10:06:40] <veeti> wjoe: works for me
+[10:07:27] <wjoe> wha. I didn't say the URL yet
+[10:07:57] <Sanit> why was the target in RQS changed to 15? shouldn't it be 8?[C
+[10:08:04] <veeti> i know all your secrets
+[10:08:05] <Sanit> threw a load of errors when I pulled
+[10:08:14] <wjoe> scary
+[10:08:22] <veeti> Sanit: it was already 15 in the manifest but not project.properties so i thought that was the intention
+[10:08:27] <veeti> builds fine for me
+[10:08:32] <veeti> do you have 15 installed?
+[10:08:34] <wjoe> well it's lc8n.com:8080 at the moment, but I need to get it working behind apache so I can give it a nicer URL
+[10:09:10] <Sanit> nope, only up to 14.. but 8 should be the highest, right?
+[10:09:18] <veeti> why?
+[10:09:36] <Sanit> 2.1
+[10:09:42] <Sanit> instead of 4.0.3
+[10:09:47] <veeti> oh
+[10:09:50] <veeti> the minimum is still set to 8
+[10:09:58] <Sanit> what is the target?
