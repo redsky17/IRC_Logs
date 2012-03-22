@@ -1049,3 +1049,10 @@
 [10:16:48] <veeti> probably connection problems
 [10:17:11] <Hogofwar> woudn't like to have that connection
 [10:18:58] <member68> maybe he's using is school's wifi on his phone. i have the same problem at my university
+[10:21:56] <member68> wjoe: can i help somehow? like start setting up projects?
+[10:23:13] <deliwien> anyonethinkingab, just responded to your pm on reddit
+[10:23:17] <wjoe> sure. just working on server side stuff at the moment. feel free to add/change anything on the site
+[10:24:04] <Hogofwar> http://fan.4tnz.com/files/eyebrowextensions.jpg
+[10:25:05] <member68> i'm just a regular user at the moment. not much i can do ;)
+[10:26:14] <wjoe> oh right :p I'll go fix that
+[10:27:48] ### Esge has quit the server. (Quit: Personally its not God I dislike, its his fan club I cant stand)
