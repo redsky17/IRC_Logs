@@ -3381,3 +3381,63 @@
 [22:00:09] <red_sky> 8GB ram, i7 CPU
 [22:00:27] <danopia> now i'm using it on 66GB RAM, 32-core..
 [22:00:38] <wjoe> cheater
+[22:00:51] <sam_> 10 SSD's
+[22:01:01] <danopia> but for class last term we were doing NXT robots
+[22:01:15] <danopia> and i used java for mine, so i had my tiny Atom running eclipse all term
+[22:01:19] <aschneid> red_sky: did you just install the classic version (and what release)?
+[22:01:19] <Sanit> any way of waiting for an Activity to close before running the next line of code?
+[22:01:31] <aschneid> I run it on the same config everywhere and have never had any problems.
+[22:01:32] <danopia> i hit compile and waited like 30 seconds for hte robot to start running
+[22:01:46] <Sanit> for example: when the camera takes a picture, open a new activity
+[22:01:54] <ThatPlayer> Those are those lego things right?
+[22:01:56] <danopia> yes
+[22:01:59] <red_sky> I got Indigo
+[22:02:01] <danopia> but it's not classic legos at all
+[22:02:04] <red_sky> for Java Developers
+[22:02:16] <danopia> i don't konw what i have
+[22:02:19] <danopia> about says Version: 3.5.2
+[22:02:28] <wjoe> I'm not sure if you have some crazy setup that's making it slow, or if you just have high standards
+[22:02:31] <ThatPlayer> I like old legos when you could get a tub for like 10$ or something
+[22:02:40] <red_sky> I just installed it
+[22:02:43] <aschneid> Hmmm...not sure why you are having problems.  I only use it on Windows and MacOS though.  Been a long time since I've used Linux version.
+[22:02:48] <red_sky> it doesn't understand threading, apparently
+[22:02:54] <red_sky> don't ever lock up the GUI, ever.
+[22:02:55] <red_sky> period
+[22:02:55] ### markerz_ has quit the server. (Quit: Page closed)
+[22:03:05] <red_sky> nothing should happen that might take some time on the gui thread
+[22:03:18] <danopia> i still love how "Install new software" is under "Help"
+[22:03:18] <wjoe> well, it is java, it's not exactly snappy. I've only been hugely frustrated when on horribly underspecced machines though
+[22:03:24] <wjoe> haha
+[22:03:32] <red_sky> so the plugin filtering sucks
+[22:03:35] <red_sky> as does intellisense
+[22:03:38] <red_sky> it always freezes
+[22:03:38] <danopia>   Missing requirement: Android Traceview 17.0.0.v201203161636-291853 (com.android.ide.eclipse.traceview.feature.group 17.0.0.v201203161636-291853) requires 'org.eclipse.ui 3.6.2' but it could not be found
+[22:03:39] <anjoyed_o0O> http://rad.lc8n.com/projects/general-organization/wiki/Mylyn_setup
+[22:03:41] <danopia> FUUUUUUUUUUUUUUUUUUUUUUUU
+[22:03:44] <red_sky> I have a feeling linux won't make it any different
+[22:03:51] <wjoe> yeah, it's a bit odd. oh, and yeah, I do hate their plugin system. it doesn't seem to understand how to resolve dependencies at all
+[22:04:03] <aschneid> I use all of that and it is very fast on my machines.
+[22:04:35] <anjoyed_o0O> yeah, I use them all fine
+[22:04:38] <markerz> I find the plugin and updating to be.... lacking.
+[22:04:52] <aschneid> I've been using Eclipse since the 1.x and 2.x days....had some problems with those, but the 3.x and beyond have been solid.
+[22:05:03] ### cigarsquid has joined ##reddit-android-developers
+[22:05:13] <cigarsquid> hey
+[22:05:24] <aschneid> markerz: in the newer 3.x versions they have made progress there.
+[22:05:34] <aschneid> Just don't use update sites if possible.
+[22:05:47] <jaimeh> I am using 3.7
+[22:06:10] <aschneid> Use the Eclipse Market Place...that is actually pretty quick.
+[22:07:15] <aschneid> I'm on Indigo myself.  Haven't tried the new 4 releases
+[22:07:45] ### pocus1 has parted (left) the channel.
+[22:08:22] <aschneid> Juno is it's name....supposed to be pretty nice though.
+[22:08:28] <jaimeh> Ugh have to update sdk
+[22:08:32] <wjoe> galileo here... apparently that's still the most recent that my distro's package manager has
+[22:08:50] <jaimeh> I don't like using the package manager version
+[22:08:53] <ThatPlayer> wjoe: What distro?
+[22:08:54] <red_sky> galileo doesn't work with newer ADT, I don't think
+[22:08:59] ### markerz_ has joined ##reddit-android-developers
+[22:09:01] <wjoe> sabayon. gentoo based
+[22:09:13] <red_sky> I couldn't update ADT on my windows machine until I upgraded to Indigo
+[22:09:25] <red_sky> some dependencies couldn't be met or something
+[22:09:48] <wjoe> I do remember just installing it from source before because something wasn't right with the package manager version. maybe just because it's a very basic version, and you can download the ones with some plugins included on the site
+[22:09:51] <wjoe> weird
+[22:09:56] <wjoe> well, that sounds like eclipse
