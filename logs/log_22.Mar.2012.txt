@@ -168,3 +168,32 @@
 [02:49:27] <ThatPlayer> smirk: Me too =)
 [02:49:44] <smirk> use to write password crackers and staff account tools for stolen aol account activity
 [02:49:50] <joholz> end result is the exact same (old) commit on every file, including updated
+[02:50:10] <ThatPlayer> Do you have an android phone?
+[02:50:23] <joholz> ThetPlayer, yea i didnt finish writing, i just decided to put all of it in one line
+[02:50:35] <joholz> ThatPlayer talking to me? yea i gotta G2
+[02:50:44] <ThatPlayer> joholz: Haha, sorry but I'm not too sure about git either, I don't know much about it =P
+[02:50:51] <smirk> credit card stealers, spammers, scrollers, etc
+[02:51:08] <joholz> ThatPlayer, thats cool no probs
+[02:51:22] <ThatPlayer> Was asking smirk
+[02:51:26] <ThatPlayer> You setup the android sdk and all that yet?
+[02:52:52] <smirk> i dont even have an android fone but my momhas a tablet and i can use an emulator for development
+[02:53:10] ### MooseEh has quit the server. (Quit: Leaving)
+[02:53:32] <smirk> askin me what?
+[02:53:40] <ThatPlayer> About the phone =P
+[02:53:54] <ThatPlayer> I was thinking if you had one, it'd be easier to go on IRC than on the wii and the horrible keyboard
+[02:54:20] <smirk> i was hit by a car i broke my legs and my lappy
+[02:54:38] <smirk> might just need a screen
+[02:55:23] <smirk> it beeps once when i turn on a dell inspiron
+[02:55:43] <joholz> guessing no insurance on lappy?
+[02:55:51] <smirk> ima double check tomarrow
+[02:56:02] <ThatPlayer> See if you can hook it up to a normal computer monitor? I have my old netbook setup like that
+[02:56:53] <smirk> nah bought it from momz ehen the county jail property bitches stole my last one
+[02:57:22] <smirk> i never insure computers
+[02:57:37] <smirk> i can fix em
+[02:58:03] <smirk> i got some money commin
+[02:58:57] <smirk> i got a computer in the garage... just need a monitor and a keyboard
+[02:59:02] <joholz> hey, it seems like the commits were always working
+[02:59:21] <joholz> does git take a coule min to update the front page or something?
+[02:59:25] <joholz> *couple
+[02:59:47] <joholz> https://github.com/Joholz/TestGit/commits/master is working
+[03:00:04] <joholz> but https://github.com/Joholz/TestGit is not
