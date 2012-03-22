@@ -103,3 +103,35 @@
 [02:29:03] <joholz> did you hack the wii yet?
 [02:29:17] <smirk> whats a git repo ?
 [02:29:58] <ballpointcarrot> git is a source code management system. repo is short for repository (where the code goes)
+[02:30:11] <smirk> you mean for pirated games?
+[02:30:30] <ballpointcarrot> nope.
+[02:30:45] <ThatPlayer> I think he was talking to joholz =P
+[02:31:06] <ballpointcarrot> no, I'm just confused at this point. :)
+[02:31:21] <joholz> lol me too
+[02:31:27] <ThatPlayer> Well I could be wrong, I'm constantly distracted =)
+[02:31:31] <smirk> so what he wants to do with file is for programmer and not an actual user yet?
+[02:32:42] <smirk> im not confused at all :p
+[02:33:07] <ballpointcarrot> smirk's "you mean for pirated games?" I interpreted as talking about git (hence, 'Nope.') he was actually talking about the wii hacking.
+[02:34:02] <joholz> lol no necessarily for pirated games... theme change, flow covers, dvd player
+[02:34:10] <ThatPlayer> But who does that? =P
+[02:34:42] <smirk> only thing i hacked with a wii is myself up into a freenode channel
+[02:34:49] <joholz> lolz, well of course you can BACKUP your games
+[02:35:12] <ThatPlayer> Well it loads faster off a USB than disc
+[02:35:35] <smirk> lol@ backup games
+[02:35:38] <joholz> my hacked wii is screwing up playing sports resort, i need to fix that
+[02:36:09] <smirk> oh i got sports resort too
+[02:36:22] ### adamell has joined ##reddit-android-developers
+[02:36:44] <smirk> you chipped your wii or sumthin?
+[02:37:25] <smirk> lemmi geet your wii number
+[02:37:35] <smirk> msg me
+[02:37:55] <joholz> add me on reddit, ill pass it to you later
+[02:37:55] <smirk> u got mario kart?
+[02:37:59] <ThatPlayer> Wii hacking doesn't even need chips anymore
+[02:38:13] <joholz> its 2:30am verything is dark but my pc atm
+[02:38:23] <joholz> yea i got MK
+[02:38:47] <joholz> i remember the good old xbox 1, when i hard-modded that
+[02:38:52] <smirk> wii boot disk?
+[02:39:03] <joholz> no, sd card
+[02:39:25] <joholz> xbmc was F'in revolutionary at that time for me
+[02:39:30] <smirk> im not a member of reddit yet
+[02:39:58] <smirk> couldnt sign up from wii
