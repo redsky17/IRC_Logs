@@ -3683,3 +3683,50 @@
 [23:29:30] <joholz> haha alright, looking for it now
 [23:29:37] <shmup> i have that set up but also am trying out egit
 [23:29:41] <shmup> so i can just do things within eclipse
+[23:30:16] <joholz> jaimeh, yea ive worked with that, I thought it would have been easier in eclipse though.
+[23:30:19] <jaimeh> Also gitk if you want to see all commits and the tree
+[23:30:20] <joholz> pretty much the same?
+[23:31:41] <jaimeh> No git gui is to manage commits, reset, whatever. Gitk is more of an overview.
+[23:31:50] <shmup> have to say its a good feeling for a noob when you pull reddit quick submit and run it while the phone is plugged in
+[23:31:57] <shmup> and bam, running on my phone. i was just hoping it'd work that smoothly
+[23:33:10] <joholz> yea, there are times when being a dev is really fun...and there are other times...
+[23:33:22] <jaimeh> Tedious
+[23:33:29] <shmup> a noob to android is really all i meant i suppose
+[23:33:42] <joholz> usually the fun is worth it though
+[23:33:46] <shmup> i do c# software development for a living, still learning and still in school, just never done anything with mobile devices
+[23:34:05] <shmup> so its just really interesting to me, that when i click build, it can be ran straight to the phone
+[23:34:08] <shmup> or an emulator
+[23:34:09] <joholz> cool, there was a way for c# to work on android
+[23:34:20] <shmup> yeah, monodroid, and a 400 dollar license for it if i ever would want to publish :P
+[23:34:30] <shmup> i'm happy to play with java though really
+[23:34:33] <joholz> haha yea, student discount!
+[23:34:39] <shmup> yep! lol
+[23:35:05] <joholz> friends pitched in and we all shared it, its alright....def not the best for android dev imo
+[23:35:35] ### zubsani has joined ##reddit-android-developers
+[23:35:49] <jaimeh> Really? Ugh. 400 seems like a waste for a language that is not native.
+[23:35:59] <zubsani> Hi guys
+[23:36:18] <zubsani> How to join the project ?
+[23:36:47] <jaimeh> Go to the website and sign up.
+[23:37:21] <zubsani> I already sign up there!
+[23:37:26] <jaimeh> We will help to assign you to an open project if you develop, design, translate, manage
+[23:37:45] <joholz> jaimeh, student discount brought it down to around 100, between 3ppl
+[23:37:50] <zubsani> I like to develop.
+[23:38:10] <shmup> oh wow, gitk is neat
+[23:38:15] <joholz> jaimeh,$33 each, i know math
+[23:38:20] <jaimeh> Beginner zubsani?
+[23:38:33] ### ballpointcarrot has quit the server. (Quit: Leaving)
+[23:38:35] <jaimeh> 33.333333333333
+[23:38:39] <zubsani> I think intermediate
+[23:38:46] <shmup> joholz: did you try gitk?
+[23:38:51] <zubsani> I have one app on android market
+[23:38:52] <shmup> or maybe you weren't the one asking about it
+[23:38:58] <zubsani> Two app Om
+[23:39:06] <zubsani> Two app on iTunes app store
+[23:39:44] <jaimeh> Join the general project on redmine and ask to join one of the open projects
+[23:39:51] <joholz> shmup, im following this wiki http://rad.lc8n.com/projects/general-organization/wiki/Basic_Android_SDK_Setup_Guide
+[23:39:59] ### MooseEh has joined ##reddit-android-developers
+[23:40:01] <joholz> so i think its giving me EGit
+[23:40:02] ### ballpointcarrot has joined ##reddit-android-developers
+[23:40:17] <joholz> shump, should i try looking for gitk?
+[23:40:22] <shmup> joholz: no, this is what you do
+[23:40:26] <shmup> have you installed git for windows first off?
