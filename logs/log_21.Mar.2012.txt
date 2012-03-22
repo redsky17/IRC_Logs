@@ -2722,3 +2722,59 @@
 [20:17:43] ### itsKitsos has quit the server. ()
 [20:19:41] <joholz> yo smirk
 [20:19:57] <Hogofwar> http://redditandroiddev.github.com/
+[20:20:15] <adamell> Finally!
+[20:21:06] <adamell> I like how it lacks any html.
+[20:21:06] <Sanit> :D
+[20:21:09] ### smirk has quit the server. (Ping timeout: 245 seconds)
+[20:21:12] <adamell> real pros
+[20:21:18] <sam_> ^Why do we need this?
+[20:21:19] <danopia> oh yea, that
+[20:21:24] <danopia> i need to do the site
+[20:21:28] <danopia> but it's finals week
+[20:21:34] <danopia> tomorrow i'll have actual programming time
+[20:22:14] <adamell> i was commenting not on the content but on the lack of any html tags anywhere. its just text in the source file.
+[20:22:40] <danopia> i'll just pass it off as HTML4
+[20:22:45] <adamell> lol
+[20:22:52] <danopia> adamell, you know you can apply CSS without adding any HTML?
+[20:23:01] <wjoe> anjoyed_o0O: hmm, I'll look into it. I set up the plugin earlier but wasn't able to test with eclipse at the time. not sure where the API key comes from
+[20:23:07] <adamell> nope i didn't
+[20:23:14] <adamell> makes sense though.
+[20:23:15] <danopia> you can apply i.e. a logo image
+[20:23:22] <danopia> you specify the .css file via HTTP header
+[20:24:11] <Sanit> ayone here work in the programming industry?
+[20:24:33] <jaimeh> I do it for a living
+[20:24:37] <aschneid_> i do
+[20:24:44] <jaimeh> anjoyed_o0O, did you figure out the api key?
+[20:25:04] <wjoe> yeah. well, technically I quit my job today, and start my new one on monday :p but yeah, professional programmer, supposedly
+[20:25:28] <Sanit> nice. Just wondering if we were all hobbists or not
+[20:25:29] <adamell> What's your new job going to be?
+[20:25:46] <jaimeh> I doubt it
+[20:25:51] <wjoe> java/C++ stuff for a financial software company in london
+[20:26:07] <jaimeh> Well I hope we have more professionals in here
+[20:26:12] <Sanit> me too
+[20:26:20] ### Ramuh has joined ##reddit-android-developers
+[20:26:58] <wjoe> well I'm still a bit of a noob :p graduated in 2010, been in a boring job since. honestly I've learnt more in side projects like this than I did in my job or degree
+[20:27:09] <lyrch> i'm a professional dev, some java, ruby, and c++ for a search company in pitt
+[20:27:37] <jaimeh> I feel old already. 26 and have been developing for a few years
+[20:27:45] <lyrch> same here
+[20:27:48] <jaimeh> developing professionally
+[20:28:02] <markerz_> I feel young an inexperienced. :(
+[20:28:04] <Sanit> wjoe: nice. thas what im hoping for too. Plus a nice addition to the CV
+[20:28:10] <joholz> im self taught java. i still haveto learn
+[20:28:14] <Hogofwar> markerz_, heh, how young?
+[20:28:22] ### smirk has joined ##reddit-android-developers
+[20:28:55] <jaimeh> self taught is great. I like to see people with a passion, but also critical thinking.
+[20:29:20] <markerz_> Hogofwar:  STRANGER_DANGER!
+[20:29:23] <member68> good night everybody. see you in a few hours. need some sleep
+[20:29:23] <wjoe> yeah, definitely. I probably wouldn't have got my new job if it wasn't for the stuff I've worked on in my own time. nothing big, but just showing that you're interested in learning and coding is something
+[20:29:32] <Hogofwar> markerz_, yes little kiddie
+[20:29:33] <wjoe> night member68
+[20:29:38] <Hogofwar> tell me how OOOLLLDDDD you are
+[20:29:45] <Sanit> later member68. thanks for all the help
+[20:29:51] <Hogofwar> you are a big boy, you can tell me
+[20:29:53] <adamell> night
+[20:29:53] <member68> nP
+[20:29:57] <lyrch> later
+[20:29:58] <markerz_> Haha. 18.  I'm just a freshman in college.
+[20:30:04] <Hogofwar> i'm younger
+[20:30:07] <Hogofwar> BAM
