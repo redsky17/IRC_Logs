@@ -3465,3 +3465,73 @@
 [22:20:16] <brkastner> I prefer spoons?
 [22:20:16] <adamell> Always fork and push
 [22:20:22] <adamell> fork and push
+[22:20:43] <adamell> seriously, always fork.
+[22:21:02] <anjoyed_o0O> yeah, sanit has access but thats it. everything else has to wait till tomorrow
+[22:21:13] <adamell> anjoyed_o0O
+[22:21:16] <adamell> fork
+[22:21:24] <brkastner> Sanit is ThisIsColm?
+[22:21:38] <anjoyed_o0O> aye
+[22:21:45] <adamell> anjoyed_o0O: fork, update, push, etc. it's the beauty of git
+[22:21:52] <jaimeh> Sanit, are you online?
+[22:21:58] <anjoyed_o0O> but what adamell daid
+[22:22:03] <anjoyed_o0O> *said
+[22:22:19] <Sanit> yep
+[22:22:24] <Sanit> brkastner: yep
+[22:22:32] <adamell> Git is made so you can safely work on your own branch without disturbing the sanctity and security of the master branch
+[22:22:34] <Sanit> sorry.. in and out of here
+[22:22:54] <brkastner> Alright, I'll just fork the Quick-Submit app and push a change or too tonight or tomorrow.
+[22:23:05] <Sanit> Fork the repo and then push any changes
+[22:23:06] <jaimeh> Sanit, shouldn't we have one namespace for all projects?
+[22:23:23] <wjoe> I was wondering about namespaces
+[22:23:30] <Sanit> probably, thats just the usual one I use and used it without thinking
+[22:23:35] <danopia> 4.0 is all cool and such
+[22:23:36] <wjoe> com.redditandroiddevelopers is so long, but com.rad doesn't follow our actual domain
+[22:23:41] <anjoyed_o0O> com.rad
+[22:23:52] <Sanit> is there a length limit?
+[22:23:53] <jaimeh> We don't really need to have the domain, just beat them to the punch
+[22:23:54] <jaimeh> lol
+[22:23:54] <brkastner> com.radteam
+[22:23:58] <red_sky> it doesn't need to follow your actually domain
+[22:24:01] <red_sky> that's just a suggestion
+[22:24:08] <wjoe> probably not, but it makes it very difficult to read in eclipse etc if it's very long
+[22:24:13] <wjoe> well yeah, but it just seems right :p
+[22:24:23] <jaimeh> But needs to be unique to avoid market collisions
+[22:24:28] <wjoe> ah right
+[22:24:32] <red_sky> it's just a really easy way out for people who can't think of package names
+[22:24:57] <Sanit> jaimeh: sorry for the mess in advance. I'm just trying to get the interface up and running
+[22:24:58] <red_sky> I'm pretty sure com.rad.quick_submit won't be taken
+[22:25:12] <Sanit> there is an update coming soon too, once I figure something out
+[22:25:18] <red_sky> and it uses the signing key, too
+[22:25:23] <red_sky> not just the package name
+[22:25:27] <jaimeh> Ill be back in an hour. Is the log bot still working?
+[22:25:31] <red_sky> yeah
+[22:25:31] <Sanit> sorry, not jaimeh, i meant brkastner
+[22:25:39] <danopia> if not, i'm running logs too
+[22:25:40] <anjoyed_o0O> !logs
+[22:25:47] <wjoe> I probably have some code around that will let you use the app from the 'share' menu in the gallery etc, if that's useful for the quick submit app
+[22:25:49] <jaimeh> Awesome
+[22:25:53] <jaimeh> bye
+[22:25:57] <wjoe> did it before with an FTP app, it's not too difficult
+[22:25:58] ### Hiver has quit the server. (Ping timeout: 276 seconds)
+[22:26:06] <brkastner> Sanit: Do we have any plans for the actual Quick-Submit, or how is the group of developers on the program going to communicate and plan?
+[22:26:13] <Sanit> wjoe: very useful. I haven't even looked at that
+[22:26:13] <brkastner> Sanit: Any meeting time or anything
+[22:26:21] <red_sky> okay, bed time for me
+[22:26:22] <red_sky> night all\
+[22:26:23] <danopia> when you run `top` on my current node
+[22:26:31] <danopia> the first 5 processes are mine
+[22:26:35] <danopia> two emulators, eclipse, firefox
+[22:26:39] <Sanit> brkastner: I added a few features to the redmine page
+[22:26:49] ### jaimeh has quit the server. (Quit: Leaving)
+[22:27:02] <brkastner> Sanit: Just start working on those?
+[22:27:11] <Sanit> and we have this: https://docs.google.com/document/d/1S3ac4dxseKTFrIhUJ0OWX7jXLvIbTf5ncFhSzLc1VuE/edit
+[22:27:20] <anjoyed_o0O> take ownership if you do
+[22:27:27] <anjoyed_o0O> save people working on the same tickets
+[22:27:44] <Sanit> I haven't worked on a project plan yet.
+[22:28:00] <Sanit> I'm just in the mood for a bit of programming so here I am!
+[22:28:59] <Sanit> I'm working on the camera/image submit at the moment btw. Just incase you start work on it too
+[22:29:13] <brkastner> I'll leave to you then
+[22:29:41] ### joholz has joined ##reddit-android-developers
+[22:29:53] <danopia> http://i.imgur.com/KYfJr.png
+[22:30:06] <anjoyed_o0O> stick a ticket up with a little description saying that, then assign it to yourself
+[22:30:07] <Sanit> you want to try implement the gallery submission?
