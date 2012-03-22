@@ -2983,3 +2983,101 @@
 [21:00:25] <wjoe> joholz: on their website, of course!
 [21:00:28] <red_sky> maybe in the personal computer market
 [21:00:33] <red_sky> but not as far as computers at work
+[21:00:38] <jaimeh> All I have to say is: daz loader
+[21:00:47] <red_sky> just last year, at work, I saw a windows nt machine still doing important things
+[21:01:03] <red_sky> lyrch I always get graphics issues and sound issues with Wine
+[21:01:04] <lyrch> oh dear god
+[21:01:06] <smirk__> theres a link after i enter to 'sign up or sign in' and on the popup window which i believe is an applet is where i cant see the whole textbox of the one where in suppose to enter text from a graphic
+[21:01:09] <wjoe> wine mostly works... but even when it works, it usually doesn't work perfectly. I usually still end up rebooting into windows
+[21:01:27] <joholz> whats horrible is the amount of people forced into IE6 in work.
+[21:01:32] <red_sky> Wine with guildwars runs abysmally
+[21:01:41] <red_sky> one of my favorite games... :(
+[21:01:44] <anjoyed_o0O> all linux boxes for me
+[21:01:44] <wjoe> I did go through a phase of trying to get everything working in linux, and never using windows, but in the end it was too much time and effort
+[21:01:49] <jaimeh> wine with diabloII works amazing
+[21:01:56] <anjoyed_o0O> haven't used windows in years
+[21:01:59] <lyrch> i've seen horrors like that, i'm glad that's behind me though
+[21:02:00] <red_sky> anjoyed_o00 how old are they
+[21:02:04] <red_sky> the boxes at work
+[21:02:04] <wjoe> easier to just boot back into windows for games, then back again after
+[21:02:10] <anjoyed_o0O> old as santa
+[21:02:17] <smirk__> theres a signup and or sign in link once i enter from main page
+[21:02:19] <wjoe> I'm looking forward to my new job, linux at work \o/
+[21:02:35] <red_sky> linux is much less fun without root / sudo ability, though :(
+[21:02:37] <joholz> anjoyed_o0O: you should try it, they bring a nice style to your home
+[21:02:56] <anjoyed_o0O> bright light :O
+[21:03:07] <lyrch> my last job had a computer that the made an image of and put on a VM because the hardware was dying and the OS was no longer supported. the company that made it had died off 10 years ago, but it was a crucial piece of equipment
+[21:04:32] ### aschneid_ has joined ##reddit-android-developers
+[21:04:38] <red_sky> okay, I guess I should install eclipse now... :(
+[21:04:51] <joholz> y u no have it installed?
+[21:04:54] <red_sky> it's such a shitty IDE, but works really well with Android Development
+[21:04:57] <red_sky> I have it installed in Windows
+[21:04:59] <markerz_> o_O no eclipse et?
+[21:04:59] <markerz_> yet*
+[21:04:59] <anjoyed_o0O> i have much love for eclipse
+[21:05:01] <red_sky> haven't needed it on linux yet
+[21:05:14] <jaimeh> manually install eclipse
+[21:05:19] <jaimeh> don't do the package
+[21:05:21] <red_sky> anjoyed, it's *the* slowest IDE I've ever used
+[21:05:35] <wjoe> I don't think I have it installed at all at the moment. reinstalled both my linux and windows recently, haven't done any home dev since then
+[21:05:37] <anjoyed_o0O> really? flies for me
+[21:05:38] <wjoe> red_sky: used netbeans?
+[21:05:45] <red_sky> eclipse is just as bad, wjoe
+[21:05:47] <joholz> anyone else get eclipse ocasional crash when loading javadoc/functions?
+[21:05:51] <wjoe> not for me
+[21:05:52] ### pocus has quit the server. (Quit: Page closed)
+[21:05:53] <red_sky> both failed me during very important times
+[21:05:58] <jaimeh> joholz, no
+[21:05:58] <red_sky> when I needed them for final projects
+[21:06:05] <smirk__> well i look foward to developing once i get a new computer. like i said i was hit by a car while walking
+[21:06:16] <red_sky> eclipse always freezes for several seconds any time I let intellisense pop up
+[21:06:16] <wjoe> netbeans at work was just painfully slow. eclipse was ok, but still a bit frustrating
+[21:06:18] <anjoyed_o0O> used eclipse for years, no probs
+[21:06:27] <anjoyed_o0O> last couple of jobs it was mandatory to use
+[21:06:28] <red_sky> note the several
+[21:06:31] <red_sky> like 10-20
+[21:06:32] <joholz> red_sky, thats what i meant to say
+[21:06:37] <smirk__> im on a fuckin wii right now
+[21:06:51] <joholz> your playin wii?
+[21:06:58] <red_sky> hey, smirk_ there's a car, look out
+[21:07:00] <red_sky> *boom*
+[21:07:11] <joholz> to soon?
+[21:07:20] <red_sky> shit
+[21:07:23] <red_sky> this download should be fast
+[21:07:27] ### pocus1 has joined ##reddit-android-developers
+[21:07:29] <red_sky> apparently my university hosts eclipse
+[21:07:32] <jaimeh> red_sky, :/
+[21:07:49] <aschneid_> Red_sky, have you used the newer 3.x or 4.x versions?
+[21:07:53] <red_sky> yes
+[21:07:55] <jaimeh> smirk__, get off the wii man.
+[21:08:04] <sam_> Eclipse is the best IMO
+[21:08:05] <red_sky> I've done android development extensively at this point, always using eclipse
+[21:08:10] <aschneid_> They have taken care of a lot of those issues
+[21:08:11] <anjoyed_o0O> for RAD stuff, eclipse + egit + mylyn redmine plugin
+[21:08:11] <red_sky> all java IDEs suck
+[21:08:15] <red_sky> because they're all written in java
+[21:08:17] <smirk__> no im using wii's browser to access this channel through my verizon internet router
+[21:08:21] <red_sky> which is a slow language
+[21:08:34] <joholz> what i dont like is the android emulator
+[21:08:34] <jaimeh> git gui people. It is built in
+[21:08:43] <aschneid_> Never had any probkems with slowness
+[21:08:44] <lyrch> red_sky, just throw enough ram at it and it's fine
+[21:08:52] <red_sky> joholz the android emulator is a real emulator
+[21:08:54] <red_sky> which is why it's slow
+[21:08:58] ### markerz has quit the server. (Ping timeout: 248 seconds)
+[21:09:01] <joholz> whats ram you usually throw?
+[21:09:08] <red_sky> lyrch I have 8GB
+[21:09:10] <red_sky> should be plenty
+[21:09:11] <smirk__> my lappy is broke along with my legs
+[21:09:12] <sam_> I usually just grab a chunk
+[21:09:17] <sam_> And throw it at the screen
+[21:09:18] <lyrch> yup
+[21:09:19] <red_sky> if an IDE uses more than a gig, it's doing something wrong
+[21:09:24] <wjoe> you'd probably do better using your phone for IRC than a wii
+[21:09:25] <lyrch>  8GB and no less
+[21:09:26] <aschneid_> Have you seen the new x86 based emulator?
+[21:09:26] <joholz> haha ill try
+[21:09:33] <wjoe> (assuming you have an android phone if you're here anyway)
+[21:09:47] <red_sky> I can't get the system image to load, aschneid_
+[21:09:55] <red_sky> for the x86 image
+[21:10:07] <red_sky> the emulator is the same, it just has a different system image than the typical arm ones
