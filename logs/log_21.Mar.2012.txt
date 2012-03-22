@@ -3579,3 +3579,54 @@
 [22:46:24] <brkastner> Needed to change my Java Compiler compliance level from 1.5 to 1.6
 [22:46:34] <brkastner> That error message wasn't very helpful it seems lol :P
 [22:49:02] <adamell> if the super class is abstract (which it should be for @Overrides), all the methods would be blank. They'd just be 'template' methods that you would have to include in your own class.
+[22:50:34] <adamell> You should just be able to go 'right click->add unimplemeted methods'. If you've done that and it still eats bagels, then yes, that error message really sucks
+[22:51:14] <adamell> I'd say then just add some nil returns to them.
+[22:51:30] <adamell> if they require returns
+[22:54:04] <brkastner> I figured it out, the actual code was fine it was the compiler compliance level
+[22:54:13] <shmup> which project are you workong on brkastner?
+[22:54:13] <adamell> oh
+[22:54:18] <brkastner> :P
+[22:54:18] <adamell> now i feel silly
+[22:54:22] <brkastner> Haha no worries
+[22:54:35] <brkastner> Reddit-Quick-Submit
+[22:54:49] <shmup> ah hah
+[22:54:51] <brkastner> Nothing big tonight though, just added a pull request for something trivial, about all I have time for tonight.
+[22:55:06] <Sanit> looks good
+[22:55:14] <Sanit> will merge it soon
+[22:55:20] <brkastner> Sounds dandy.
+[22:55:30] <wjoe> well it sounds like we have a collaborative project on our hands
+[22:55:42] <adamell> Oh snap!
+[22:55:49] <brkastner> I'll probably do a quick little implementation of logging in tomorrow, I started a reddit app a month or two ago and kinda stopped because it was so complex to take on really quick.
+[22:55:51] <wjoe> things are progressing nicely :D
+[22:56:13] <brkastner> But I got a shotty implementation of logging in which will at least let us progress forward with developing other features, until a more concrete and efficient way is implemented.
+[22:56:39] <brkastner> My knowledge of JSON in general is sketchy, so I feel it may not be the best way of reading if the login was successful or not.
+[22:56:56] <wjoe> when I worked with json, I used a java library for it
+[22:57:00] <wjoe> within android
+[22:57:07] <wjoe> just imported some standard java library
+[22:57:11] <wjoe> I'll have a look
+[22:57:35] <wjoe> that deals with putting all the json stuff into java objects automatically
+[22:57:50] <wjoe> jackson
+[22:57:55] <wjoe> that's the name of the library I used
+[22:58:00] <shmup> god i love this
+[22:58:11] <wjoe> http://jackson.codehaus.org/
+[22:58:14] <shmup> 3 semesters of c#, no java experience and never worked in eclipse
+[22:58:19] <wjoe> hehe
+[22:58:22] <shmup> just set up the mylyn in eclipse
+[22:58:27] <brkastner> I don't really like Java, always liked c# more
+[22:58:38] <brkastner> I wish MonoDroid or whatever it's called was free and just as powerful
+[22:58:42] <Sanit> brkastner: Do you have any experience with the reddit API?
+[22:58:42] <brkastner> But alas, it is not.
+[22:58:48] <shmup> yeah, 400 bucks at the minimum
+[22:58:51] <shmup> for a single license, right?
+[22:58:53] <brkastner> I've read into parts of it, not so much submitting but logging in yes.
+[22:59:13] <wjoe> really? I thought the whole point of mono was a free alternative. guess it's just a more compatible alternative
+[22:59:19] <shmup> so just for conversation, i could go google all of this i know..
+[22:59:22] <Sanit> great
+[22:59:31] <shmup> within eclipse mylyn will help me stay aware of tasks.. add to them, and whatnot?
+[22:59:49] <shmup> if i'm wrong, tell me. but also, is there a nice way to do git pulls pushes from eclipse? i read about uh..
+[22:59:58] <shmup> or wait is that what this does, heh
+[23:00:02] ### tngyn has joined ##reddit-android-developers
+[23:00:06] <brkastner> Sanit: I'm looking at my implementation of logging in and although it isn't perfect, it should work great while still in development. I'll assign the issue to myself and hopefully get it at least partially implemented tomorrow, sound good?
+[23:00:23] <shmup> github mylyn connector
+[23:00:26] <shmup> and egit
+[23:00:31] <shmup> or egit*
