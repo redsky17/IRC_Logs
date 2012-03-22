@@ -284,3 +284,24 @@
 [03:29:11] <smirk_> its cool i wanna get a computer first i dont wanna load up moms wii with my bookmarks
 [03:29:31] <adamell> joholz: could you go to your terminal and type 'git status' then pastebin the results?
 [03:29:56] <adamell> *$ git status
+[03:30:12] <adamell> or just paste it here, it shouldn't be more than one line
+[03:30:32] <member68> try using "git commit -a"
+[03:30:42] <member68> that adds all changed files
+[03:30:45] <joholz> http://pastebin.com/pQiJSF9D
+[03:30:48] <smirk_> yall have a good night ima watch some movies on netflix. see yall in the morning
+[03:30:54] <joholz> yea its telling me to use git commit -a
+[03:31:19] <adamell> yeah. git status usually points you in the right direction
+[03:32:03] <joholz> right after file delete, "branch is ahead of origin/master by 1 commit"
+[03:33:02] <adamell> $ git remote show origin
+[03:33:11] ### Billd has quit the server. (Ping timeout: 260 seconds)
+[03:33:50] <adamell> better yet
+[03:33:51] <adamell> http://stackoverflow.com/questions/277077/why-is-git-telling-me-your-branch-is-ahead-of-origin-master-by-11-commits-a
+[03:34:07] <adamell> that should help
+[03:34:33] <joholz> ok, lemme read up
+[03:35:25] ### RAWR has joined ##reddit-android-developers
+[03:35:48] <adamell> member68: going through the reddit-quick-submit there are a few ideas/notes i'd like submit to redmine if you don't mind.
+[03:36:08] ### smirk_ has quit the server. (Ping timeout: 245 seconds)
+[03:37:29] ### markerz_ has quit the server. (Quit: Page closed)
+[03:37:38] <ballpointcarrot> since git questions have been a common event tonight, I highly recommend taking a look at this: http://book.git-scm.com/index.html
+[03:37:46] <ballpointcarrot> also, if anyone has questions, I'll be willing to answer them.
+[03:37:48] <member68> sure, go ahead. anybody can add their suggestions
