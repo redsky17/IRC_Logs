@@ -428,3 +428,9 @@
 [05:18:09] <adamell> too many bugs because google kept updating everything to it
 [05:18:37] <adamell> then they eventually made their own API.
 [05:18:50] <anjoyed> added a bit more info to the mylyn page
+[05:20:17] <member68> thanks
+[05:26:40] <adamell> I looked through the reddit submissions for the description of the g-t-app but couldn't find one
+[05:27:24] <adamell> Is it just syncing your google tasks (gmail, calendar, etc) to your phone?
+[05:28:04] <adamell> There's a Google Tasks API too
+[05:28:15] ### Avid has quit the server. (Ping timeout: 245 seconds)
+[05:28:57] <adamell> could you sign me up for PM on rm/gh?
