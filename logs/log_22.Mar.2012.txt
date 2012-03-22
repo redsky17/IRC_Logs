@@ -1296,3 +1296,47 @@
 [13:19:15] <member68> the v-server costs 2 dollars less per month than my current hosting package
 [13:19:30] <jaimeh_> $40/month?
 [13:20:01] <member68> close: 10$/month
+[13:20:32] <wjoe> were you not able to change the DNS stuff?
+[13:20:32] <jaimeh_> who is hosting 2 gigs for $10?
+[13:21:04] <Hogofwar> member68, keeping the domains on the same place?
+[13:21:34] <member68> 1 core, 1 gig ram, 25 gig hdd, unlimited traffic, plesk 10 for 10 bucks, same but with 2 gig: $17/month
+[13:21:41] <member68> Hogofwar, yes
+[13:21:53] <member68> at least for the next 60 days
+[13:22:08] <Hogofwar> do you even need 1 gig of ram for systems like what I guess youa re gonna use
+[13:22:19] ### smirk has joined ##reddit-android-developers
+[13:22:57] <smirk> goodmorning eryone
+[13:23:07] <TheNumb> smirk: good evening (:
+[13:23:17] <member68> redmine needs ruby, gerrit needs java, besides that: php, a mysql database
+[13:23:18] <Raionic-> Good afternoon
+[13:23:22] <Raionic-> :)
+[13:23:25] <TheNumb> Raionic-: ;D
+[13:23:30] <TheNumb> member68: + java for jenkins :P
+[13:23:44] <jaimeh_> Hogofwar: not for the most part, but ruby tends to use a good amount of memory with redmine. Not a big deal but he is using multiple languages for other things.
+[13:23:47] <smirk> night in your location?
+[13:24:06] <smirk> numb
+[13:24:24] <jaimeh_> jenkins, what a sexy man that is right?
+[13:24:28] <member68> it should be able to run all the things we need for now
+[13:24:42] <member68> I'm ordering tomorrow, btw
+[13:24:53] <wjoe> well, is there much point in me spending time setting things up on my server then?
+[13:24:57] <TheNumb> smirk: not yet ;-)
+[13:25:05] ### vcarl has quit the server. (Ping timeout: 246 seconds)
+[13:25:28] <member68> actually yes. i hope to copy everything over to my system without chaning much of the settings
+[13:25:33] <member68> what os do you have?
+[13:25:41] <wjoe> gentoo linux on my server
+[13:25:49] <smirk> what time is itthere thenumb?
+[13:26:00] <wjoe> surely it would be easier to sort out the DNS stuff than to set up a new server?
+[13:26:15] <TheNumb> smirk: 18:28
+[13:26:23] <jaimeh_> wjoe: I would say so.
+[13:26:24] <TheNumb> smirk: at my location?
+[13:26:54] <smirk> where u at?
+[13:26:58] <member68> i called them and explained my situation. they told me it didn't make any sense and that it was impossible
+[13:27:22] <jaimeh_> just point the nameservers elsewhere?
+[13:27:22] <TheNumb> smirk: somewhere in central europe.
+[13:27:26] <wjoe> impossible to change the nameservers? I think they just want your money :p
+[13:27:44] <member68> the v-server costs less than my current hosting package
+[13:28:11] <jaimeh_> Where are you getting hosting? Apparently, I pay too much at linode.
+[13:28:26] <member68> it's a small german hoster called 1blu
+[13:28:46] <smirk> is there ghetto areas there like gangs and spraypaint on walls?
+[13:29:15] <member68> jaimeh: terrible support though. used to have a friend working there who toke care of things. he quit some time ago though
+[13:29:25] ### markerz_ has joined ##reddit-android-developers
+[13:30:06] <jaimeh_> smirk: try to stay on topic please.
