@@ -1021,3 +1021,31 @@
 [10:09:47] <veeti> oh
 [10:09:50] <veeti> the minimum is still set to 8
 [10:09:58] <Sanit> what is the target?
+[10:10:03] <veeti> target is 15
+[10:10:07] <Sanit> as in, what does it do?
+[10:10:19] <veeti> it defines the android sdk version it's built against
+[10:10:29] <adamell> veeti: member68: would you like the min SDK for Google Tasker to be 8 as well?
+[10:10:43] <Sanit> right
+[10:10:50] <Sanit> i'll install 15 and put it back
+[10:10:55] <adamell> With all the reworking I bumped it down to 7
+[10:11:16] <veeti> i think that its the project manager's decision
+[10:11:31] <adamell> fair enough
+[10:11:35] <veeti> i'd advise all projects to target and design for ics since backwards compatibility is easy with actionbarsherlock
+[10:12:29] <member68> adamell: yes, target is 15, min is 8
+[10:13:24] <Hogofwar> is the action bar the thing that comes up when you press the minu button?
+[10:13:29] <Hogofwar> menu
+[10:13:41] <veeti> no, the action bar is a replacement for the menu
+[10:13:48] <veeti> in android 3.0 and above
+[10:13:59] <Hogofwar> I hate it
+[10:14:09] <Hogofwar> wait no
+[10:14:11] <Hogofwar> not that
+[10:14:13] <member68> wjoe: i just signed up. works so far
+[10:14:29] <Hogofwar> The list of options that pops up when i press menu I hate
+[10:14:40] <Hogofwar> I much preffered the old style of icons along the bottom of the screen
+[10:14:44] <Hogofwar> much easier to touch
+[10:14:56] <wjoe> ok. let me know if there's any problems, still setting some things up
+[10:15:20] ### markerz has quit the server. (Read error: Connection reset by peer)
+[10:15:59] <Hogofwar> why does markerz keep quitting/joining
+[10:16:48] <veeti> probably connection problems
+[10:17:11] <Hogofwar> woudn't like to have that connection
+[10:18:58] <member68> maybe he's using is school's wifi on his phone. i have the same problem at my university
