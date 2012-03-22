@@ -541,3 +541,29 @@
 [06:29:31] <adamell> \o/
 [06:29:51] <ThatPlayer> Yeah, had to update the name and all taht
 [06:29:52] <member68> john doe is legal name, so we should be fine
+[06:30:08] <adamell> we're only allotted 5,000 queries a day
+[06:30:20] <adamell> Let's hope it doesn't get too popular
+[06:30:22] <ThatPlayer> Are you setting up a Google Apps account?
+[06:30:27] <adamell> Yeah
+[06:31:07] <ThatPlayer> Are we going to get a marketplace license thing on the same account?
+[06:31:19] <anyonethinkingab> member68:  i sent all the messaged
+[06:31:21] <adamell> Not sure
+[06:31:33] <member68> great
+[06:31:54] <member68> i created redditandroiddevelopers@googlemail.comw
+[06:32:08] <member68> we can use it for apis, a market accout, etc
+[06:32:17] <adamell> added
+[06:33:11] <ThatPlayer> Why not use the domain?
+[06:33:55] <ThatPlayer> rad@redditandroiddeveloers.com or something
+[06:34:04] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[06:34:11] ### markerz has joined ##reddit-android-developers
+[06:34:12] <anyonethinkingab> because that's not a google e-mail address?
+[06:34:16] ### lyrch has joined ##reddit-android-developers
+[06:34:42] <adamell> ^this
+[06:34:54] <ThatPlayer> It is if you use google apps for it
+[06:34:55] <adamell> They need to control all the data
+[06:35:05] <member68> i created admin@redditandroiddevelopers 2 days ago but my hoster probably hates me now because i flooded them with 10 calls and 25 emails in 3 days ;)
+[06:35:25] <ThatPlayer> http://www.google.com/apps/intl/en/group/index.html I use this
+[06:35:42] <ThatPlayer> me@thatplayer.com because why not =P
+[06:38:28] <member68> that's 3,4 querries a second, doubt we reach that anytime soon
+[06:39:14] <ThatPlayer> member68: What host do you use?
+[06:39:55] <ThatPlayer> A german host appearnently
