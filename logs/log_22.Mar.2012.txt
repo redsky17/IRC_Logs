@@ -224,3 +224,34 @@
 [03:07:27] <smirk> i grew up in pico rivera
 [03:07:50] <smirk> los angeles?
 [03:08:41] <smirk> im in lbc w/ momz
+[03:10:45] <member68> Good morning everybody
+[03:10:52] <ThatPlayer> Morning
+[03:11:01] <ThatPlayer> 12 midnight, that's morning =]
+[03:11:19] <joholz> haha morning
+[03:11:22] <joholz> 3am here
+[03:11:49] <smirk> i  wrote a riddle for my kid:  Q:how do you take a shower without a towel? A:you dont shower with a towel, u use it after u get out duhhh
+[03:12:07] <joholz> lol
+[03:12:25] <ThatPlayer> Wet towels hardly useful
+[03:12:27] <smirk> mornin 68
+[03:12:36] <joholz> @member68, think you can help me out with git?
+[03:13:24] <smirk> playah... la louisianna?
+[03:13:25] <member68> joholz: sure. what are you trying to do?
+[03:14:07] <joholz> i have been trying to commit(message) a specific file out of the batch of files
+[03:14:07] <ThatPlayer> smirk: la los angeles
+[03:14:26] <joholz> here is my progress so far: https://github.com/Joholz/TestGit
+[03:14:32] <smirk> word
+[03:14:41] <adamell> the min is 2.1 now?
+[03:14:47] <joholz> although all the commits seem to be hitting: https://github.com/Joholz/TestGit/commits/master
+[03:15:00] <smirk> you blaze it?
+[03:15:10] <joholz> am i just misunderstanding what a commit is?
+[03:16:55] ### smirk_ has joined ##reddit-android-developers
+[03:17:23] <smirk_> damn hit the wrongbutton
+[03:17:26] <adamell> joholz: What are you having trouble with?
+[03:17:51] <adamell> joholz: oh, nm. I see it above
+[03:18:04] <smirk_> so you party or what player?
+[03:18:28] <joholz> the commits you see in my commit history...shouldnt they be showing in the repo home page as messages?
+[03:19:06] <adamell> joholz: you don't really ever commit one file. you can, but when you command it to commit it usually figures out what's changed and what hasn't and commits only the necessary files for you anyway
+[03:19:19] <smirk_> n/m
+[03:19:28] ### smirk has quit the server. (Ping timeout: 245 seconds)
+[03:19:45] <adamell> joholz: but that didn't really answer your question
+[03:20:01] <joholz> adamell, lol not really
