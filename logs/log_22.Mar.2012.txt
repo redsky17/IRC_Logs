@@ -1548,3 +1548,37 @@
 [14:48:55] <member68> I'm wondering what all the people do that are idle in this channel
 [14:49:25] <adamell> Eat sandwiches and watch Die Heart 7: Bloody Mary
 [14:49:25] <Fault> Lurking
+[14:50:11] <member68> they are missing out on making their ideas heard.
+[14:50:23] ### adamell is now known as HANZ_MCCLANE
+[14:51:11] <jaimeh> gonwild?
+[14:51:16] <jaimeh> gonewild*
+[14:51:17] <Fault> Perhaps I shouldn't had signed up for SimpleCalculator, I'll be gone from monday to friday next week. :/
+[14:51:39] <jaimeh> Fault: I am sure there are devs to cover for each other.
+[14:51:39] ### HANZ_MCCLANE is now known as adamell
+[14:51:43] <member68> dont worry. it's not a group project
+[14:51:44] <jaimeh> That is the purpose of a PM
+[14:51:48] <Fault> Oh good
+[14:52:10] <member68> everybody should do it on his/her own. when you run into problems, we can help
+[14:52:20] ### itsKitsos has quit the server. (Ping timeout: 240 seconds)
+[14:52:27] <Fault> Sounds good
+[14:52:32] ### colm____ has quit the server. (Ping timeout: 260 seconds)
+[14:53:07] ### Sanit has quit the server. (Ping timeout: 260 seconds)
+[14:53:42] <jaimeh> adamell: I was "chosen" for PM on reddit, should I add myself?
+[14:53:55] <jaimeh> for the Google Tasks project
+[14:54:41] <adamell> I don't know if you can. I'll go put you on Redmine though.
+[14:55:39] <adamell> done
+[14:56:06] <jaimeh> member68: are you going to be PM as well?
+[14:56:14] <member68> looks like all permissions are working as intended:)
+[14:56:20] <member68> i don't know yet
+[14:56:48] <member68> i'll probably help in every project, however won't be a "full" PM
+[14:56:53] ### itsKitsos has joined ##reddit-android-developers
+[14:58:11] <itsKitsos> I'm in classes all day
+[14:58:17] <jaimeh> I like hats
+[14:58:18] <itsKitsos> so i just watch the conversation between taking notes :)
+[14:58:25] <anjoyed_o0O> :)
+[14:58:30] <jaimeh> Can I trade it on TF2?
+[14:58:34] <jaimeh> :P
+[14:58:41] <itsKitsos> my disconnects are when I close my laptop to go to my next class :p
+[14:58:48] <anjoyed_o0O> only if you get 2 back
+[14:59:35] <jaimeh> adamell: Do we have more developers that want to join us, or is this the extent of those that want to be involved?
+[14:59:39] ### markerz has joined ##reddit-android-developers
