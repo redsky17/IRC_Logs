@@ -308,3 +308,7 @@
 [03:43:52] ### markerz has joined ##reddit-android-developers
 [03:43:53] <adamell> that feel when you delete your .bash_profile without backing up
 [03:44:53] <markerz> I have all that feel.
+[03:55:38] ### markerz| has joined ##reddit-android-developers
+[03:55:38] ### markerz has quit the server. (Read error: Connection reset by peer)
+[03:55:59] <joholz> heyy,, i think i got it
+[03:59:05] ### Decker has quit the server. (Ping timeout: 245 seconds)
