@@ -617,3 +617,5 @@
 [06:59:26] <adamell> The RAD GTasker app is plenty
 [06:59:34] <anyonethinkingab> ok ok
 [07:00:17] <adamell> The dependencies are a nightmare. They haven't integrated the Tasks API into the regular Google API yet and it's all very messy.
+[07:02:21] ### rapidfyre has joined ##reddit-android-developers
+[07:05:33] <member68> !Upload
