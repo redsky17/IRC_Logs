@@ -34,3 +34,4 @@
 [00:32:15] ### ballpointcarrot has quit the server. (Quit: Quit.)
 [00:34:25] ### zubsani has joined ##reddit-android-developers
 [00:38:39] ### ballpointcarrot has joined ##reddit-android-developers
+[00:59:09] ### zubsani has quit the server. (Quit: Leaving.)
