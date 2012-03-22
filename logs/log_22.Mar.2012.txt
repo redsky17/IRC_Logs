@@ -1780,3 +1780,14 @@
 [16:25:54] <jaymax|> member68, I thought the point of the group was because there's a bunch of people at all levels.
 [16:27:06] ### vcarl has quit the server. (Ping timeout: 246 seconds)
 [16:28:24] <anyonethinkingab> deliwien:  check your messages
+[16:30:39] <deliwien> anyonethinkingab, done, and i'll do what you told me to do, thanks for the information :)
+[16:32:30] ### Lilday has joined ##reddit-android-developers
+[16:32:42] ### tngyn has quit the server. (Quit: Page closed)
+[16:32:42] <member68> jaymax|, so far we only had one professional dev step forward.
+[16:32:59] <member68> a project for one person doesn't make much sense
+[16:33:28] <veeti> Lilday: hi
+[16:33:30] <member68> if we get a few people together, we can discuss setting up a more advanced project
+[16:33:32] <Lilday> hey
+[16:33:46] ### garychencool has joined ##reddit-android-developers
+[16:33:53] <garychencool> Back
+[16:37:38] ### Lilday has quit the server. (Quit: Page closed)
