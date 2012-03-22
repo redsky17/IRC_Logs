@@ -3081,3 +3081,94 @@
 [21:09:47] <red_sky> I can't get the system image to load, aschneid_
 [21:09:55] <red_sky> for the x86 image
 [21:10:07] <red_sky> the emulator is the same, it just has a different system image than the typical arm ones
+[21:10:14] <aschneid_> I havent tried it yet either. Will have to give it a try
+[21:10:17] <wjoe> and I don't know how eclipse is so slow for you. only time I run into major problems like that is when I'm out of RAM (which was often when trying to do dev on a machine with 2GB)
+[21:10:28] <lyrch> ouch
+[21:10:51] <anjoyed_o0O> aye, flies for me
+[21:10:54] <wjoe> yeah. firefox, eclipse, netbeans, tomcat server, and that's pretty much all gone already
+[21:11:06] <red_sky> maybe it will be better on linux
+[21:11:06] <smirk__> oh shit.... is there an android emulator for windows or do i have to partition ?
+[21:11:11] <red_sky> but on windows it is slow
+[21:11:13] <lyrch> nope
+[21:11:13] <red_sky> and fucking useless
+[21:11:17] <lyrch> still slow
+[21:11:21] <wjoe> yeah, the emulator works on windows
+[21:11:29] <anjoyed_o0O> i think i see the problem :)
+[21:11:30] ### persona83 has quit the server. (Quit: Page closed)
+[21:11:33] <red_sky> I'm talking about eclipse, btw
+[21:11:46] <wjoe> crossed conversations :p
+[21:11:52] <lyrch> yup
+[21:11:59] <smirk__> what do i use for a touch screen?
+[21:12:08] <joholz> mouse
+[21:12:08] <lyrch> red_sky 8GB is plenty for eclipse in linux
+[21:12:10] <wjoe> in the emulator? the mouse
+[21:12:23] <smirk__> i see
+[21:12:27] <joholz> now and then it enjoys tounge
+[21:12:34] <Sanit> i am running eclipse in linux with 2GB with only miiiiinor glitchs
+[21:13:21] <anjoyed_o0O> windows build must be bit shit
+[21:13:23] <smirk__> thatll be perfect till i get an android device
+[21:13:44] <joholz> yea, should def be enough
+[21:13:51] <smirk__> thanks whoever brought that up
+[21:14:28] <wjoe> well, it's quite slow. depends what sort of app you're working on too, you can't test everything in the emulator, but usually it does the job
+[21:15:01] <lyrch> test in the emulator, tsk tsk. unit testing is the way to go
+[21:15:24] <Sanit> anyone else use adbWireless?
+[21:15:26] <red_sky> unit testing is a PITA to set up
+[21:15:31] <red_sky> Sanit I have in the past
+[21:15:33] <lyrch> most logic can be tested outside the emulator
+[21:15:47] <lyrch> sometimes, but always worth the effort
+[21:15:50] <sam_> I've used adbWireless
+[21:15:56] <sam_> Pretty damn useful
+[21:15:56] <anjoyed_o0O> androids test suite based on junit?
+[21:16:01] <Sanit> love it. Pratically no battery drain and worked with no hassle
+[21:16:04] <lyrch> yup
+[21:16:07] <wjoe> well, unit testing doesn't work for everything
+[21:16:07] <anjoyed_o0O> have yet to use the android stuff
+[21:16:12] <smirk__> word, i just need something so i aint gotta use my mommas tablet every time i go debugging
+[21:16:18] <red_sky> unit testing would be extremely stupid for anything we do
+[21:16:23] <lyrch> it's interesting to learn, but you can also run regular junit tests as well
+[21:16:27] <red_sky> it's better for bigger programs
+[21:16:32] <wjoe> android is another thing that seems to work much, much better in linux
+[21:16:38] <red_sky> definitely wjoe
+[21:16:45] <red_sky> you can't even compile android on windowsw
+[21:16:48] <anjoyed_o0O> unit testing is always a good idea
+[21:17:04] <wjoe> half of the time, I can't even tether my phone on windows. it doesn't play nice with the drivers
+[21:17:05] <anjoyed_o0O> can be a bit of a pain but worth the hassle
+[21:17:15] <wjoe> on linux, I don't think I even needed to install drivers
+[21:17:17] <red_sky> not when it would take just as long to set up the unit testing as it would be to finish the app in question
+[21:17:20] <red_sky> then it's stupid
+[21:17:23] <smirk__> so i should use the emulator in linux
+[21:17:25] <red_sky> resources better spent elsewhere
+[21:17:30] <smirk__> ?
+[21:17:32] <aschneid_> Anjoyed: agree. Especially if people ewamt to learn
+[21:17:33] <lyrch> for anyone with a tablet checkut AIDE in the market(Play Store)
+[21:17:43] <aschneid_> Want. Damn phone
+[21:17:54] <joholz> smirk_ i think emul comes with sdk lib
+[21:17:56] <lyrch> it's a ide that works on android so you can develope in it
+[21:17:58] <anjoyed_o0O> dont know about that. bette to write the tests before the classes in all honesty
+[21:18:03] <anjoyed_o0O> *better
+[21:18:06] <lyrch> ^ this
+[21:18:15] <wjoe> smirk__: you don't have to, it's all cross platform. if you know linux, then it's probably better to do android dev in linux, but don't worry about learning linux just for that
+[21:18:15] <lyrch> TDD is the way to go
+[21:18:19] <aschneid_> Tdd is very good
+[21:18:36] <lyrch> it's hard to get used to if you've learned bad habits though
+[21:18:55] <anjoyed_o0O> aye, bit of a brainmelt at first
+[21:19:02] <red_sky> I don't agree with taking the time to do something when the time is better spent elsewhere
+[21:19:03] <smirk__> soooo you caaan dev android from in an android?
+[21:19:10] <red_sky> in larger products, it's a good idea
+[21:19:12] <lyrch> smirk__ yup
+[21:19:12] <joholz> someone inform me of tdd?
+[21:19:20] <anjoyed_o0O> test driven development
+[21:19:22] <lyrch> red_sky, it's always a good idea
+[21:19:22] <jaimeh> Good luck getting a group of random developers to do it. If we commit to TDD we need something in the wiki, explaining like were 5.
+[21:19:29] <red_sky> in smaller products, like what we're probably going to do, you'll spend just as much if not more time setting up unit testing
+[21:19:31] <lyrch> use gerrit
+[21:19:33] <wjoe> it's possible, but I don't know how well it works
+[21:19:33] <red_sky> than making the product
+[21:19:33] <joholz> thx anjoyed
+[21:19:47] <lyrch> no commit makes it through gerrit without tests
+[21:19:49] <joholz> smirk_ lookup AIDE
+[21:20:01] <smirk__> thanx for the infoz guys
+[21:20:04] <anjoyed_o0O> aye red_sky, but you save much time later
+[21:20:12] <lyrch> and headache
+[21:20:14] <joholz> np
+[21:20:24] <red_sky> that's why I think it's better for larger apps anjoyed, because smaller apps are super easy to debug
