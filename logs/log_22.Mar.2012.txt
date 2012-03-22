@@ -868,3 +868,17 @@
 [09:18:25] <veeti> it's a standard
 [09:18:29] <member68> I'll change it later
 [09:18:54] <member68> rapydfire: i guess so. we'll discuss that later
+[09:20:18] ### Fizile has joined ##reddit-android-developers
+[09:20:50] <garychencool> veeti: I agree with you, no one would really know what com.rad is but com.redditandroiddevelopers? yep
+[09:21:32] <veeti> member68: i can do it in a bit
+[09:22:31] <member68> make sure you test the app first. i got some nasty errors the first time i tried it
+[09:22:55] <veeti> ofc
+[09:22:56] <veeti> brb
+[09:25:44] <Sanit> Haha, someone on reddit rescribed IRC as "Multiplayer Notepad"
+[09:26:16] ### kiel3 has joined ##reddit-android-developers
+[09:26:38] ### danogame has joined ##reddit-android-developers
+[09:26:38] ### danogame has quit the server. (Remote host closed the connection)
+[09:27:26] <garychencool> Well it does look like notepad but with a bunch of people on it
+[09:28:21] <Sanit> *described
+[09:29:39] <adamell> I wonder why Wave didn't replace IRC?
+[09:29:57] <danopia> because it was too heavy
