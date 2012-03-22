@@ -404,3 +404,27 @@
 [05:08:02] <member68> it's just cosmetics but it's better than an empty html file
 [05:09:41] <anyonethinkingab> haha i just noticed this in the results
 [05:09:58] <adamell> Oh you have the g-tasks repo  up too
+[05:10:14] <anyonethinkingab> Mobile Reddit app got 34 % of the public votes, but only 14% from PMS
+[05:10:47] <anyonethinkingab> while "Reddit Client" got only 25% from the public but did get 27% from PMS
+[05:12:13] <member68> might have something to do with the order in which apps were show. also as a PM voting for an app includes a bigger commitment than for a developer. developers can do multiple apps, PMs will probably do 1-2 projects only
+[05:12:27] <anyonethinkingab> hmm yes
+[05:12:36] <anyonethinkingab> unlike you lol
+[05:12:41] ### alextsc has joined ##reddit-android-developers
+[05:12:50] <anyonethinkingab> 4 projects
+[05:13:43] <member68> i'll pitch in whereever i can help. don't know if i will really be a PM or if I can direct that to somebody else who has more time
+[05:14:01] <member68> organzing everything takes up a lot of time right now
+[05:14:12] <member68> maybe it'll get better with time ;)
+[05:14:17] <adamell> Where's the submission description for the g-task-client app?
+[05:14:23] <anyonethinkingab> should i add to the spreadsheet that a PM is still needed?
+[05:14:41] <member68> sure
+[05:14:44] <anyonethinkingab> k
+[05:14:50] ### markerz has quit the server. (Read error: Connection reset by peer)
+[05:14:59] ### markerz has joined ##reddit-android-developers
+[05:15:00] <member68> i didn't add a description yet because I couldn't come up with one last night
+[05:17:22] <adamell> We'll if it's what I think it is and there are the proper API's available I'll PM it.
+[05:17:39] <adamell> I remember trying to create a google reader API once open source
+[05:17:42] <adamell> it was hell
+[05:17:47] <adamell> and it never really got going
+[05:18:09] <adamell> too many bugs because google kept updating everything to it
+[05:18:37] <adamell> then they eventually made their own API.
+[05:18:50] <anjoyed> added a bit more info to the mylyn page
