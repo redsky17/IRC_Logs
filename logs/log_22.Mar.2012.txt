@@ -524,3 +524,20 @@
 [06:13:00] <c0smic> Sounds good
 [06:14:23] ### markerz| has joined ##reddit-android-developers
 [06:14:23] ### markerz has quit the server. (Read error: Connection reset by peer)
+[06:20:28] <member68> i'll create an official RAD google accout at some point
+[06:22:29] <adamell> what's a google account of yours that I can add to the RAD Google Tasker API access list?
+[06:22:32] <Hiver> :) I love it when I go to bed after banging my head against the desk, wake up, write a few lines, and my code suddenly works as expected.
+[06:25:37] <ThatPlayer> Sleeping is always good, I'm going tod o taht soon =P
+[06:25:49] <anjoyed> Human equivalent of kicking electrical gear that won't work
+[06:25:56] <anjoyed> :)
+[06:26:37] <member68> they want a real name for a new google account. which one should i use?
+[06:27:14] <anjoyed> John Smith
+[06:27:36] <ThatPlayer> I like John Doe better
+[06:27:45] <anjoyed> that works too
+[06:27:51] <c0smic> ThatPlayer: +1 lol
+[06:28:23] <c0smic> I wonder how companies do it?
+[06:29:10] <ThatPlayer> I remember getting a Google+ account disabled because I used asdf as my name
+[06:29:20] <adamell> lol
+[06:29:31] <adamell> \o/
+[06:29:51] <ThatPlayer> Yeah, had to update the name and all taht
+[06:29:52] <member68> john doe is legal name, so we should be fine
