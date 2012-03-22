@@ -724,3 +724,12 @@
 [08:19:44] <Hogofwar> member68, so your host doesn't allow you to do what on the host?
 [08:19:51] <Hogofwar> What do you mean b arecords only for TLDs?
 [08:19:56] <Hogofwar> *a records
+[08:21:04] <Hogofwar> member68, does the host use something like CPANEL?
+[08:23:21] ### RAWR has quit the server. (Quit: Leaving)
+[08:23:51] <member68> no cpanel. just a complicated web interface
+[08:23:59] <member68> looks custom built
+[08:24:15] <member68> i need a new hoster + new domain
+[08:24:24] <Hogofwar> so, what do you mean you are limited by what the A records are set to?
+[08:24:26] <member68> *new domain registar
+[08:26:57] <Hogofwar> member68, and can I have a screenie of your A record input page?
+[08:27:17] <member68> hold on
