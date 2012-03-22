@@ -1582,3 +1582,11 @@
 [14:58:48] <anjoyed_o0O> only if you get 2 back
 [14:59:35] <jaimeh> adamell: Do we have more developers that want to join us, or is this the extent of those that want to be involved?
 [14:59:39] ### markerz has joined ##reddit-android-developers
+[15:01:12] <joholz> terminals make me feel like i know something
+[15:01:19] <adamell> ^ this
+[15:01:44] ### garychencool has joined ##reddit-android-developers
+[15:02:19] <jaimeh> joholz: wait until you start piping everything
+[15:06:18] <danopia> hi
+[15:06:33] <member68> jaimeh: we'll get more devs when coding starts (judging by the polls)
+[15:08:10] ### artico has quit the server. (Quit: Leaving)
+[15:08:32] <garychencool> sup
