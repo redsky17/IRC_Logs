@@ -828,3 +828,24 @@
 [08:59:06] <member68> 1 gig ram, 2 gig ram max, 25gig hdd, no traffic limit, plesk 10 as management software
 [08:59:15] <member68> thoughts on that guys?
 [08:59:37] <member68> 8 euro per month (10,50 usd)
+[09:00:16] <adamell> With all the sites already freely available I don't really find it necessary
+[09:00:42] <adamell> reddit+redmine+github seem to do the job just fine
+[09:01:15] ### alextsc has quit the server. (Ping timeout: 252 seconds)
+[09:01:42] <garychencool> agreed
+[09:01:50] <member68> we need gerrit, too. i'd like to have it all running on one server
+[09:01:59] ### pocus has joined ##reddit-android-developers
+[09:02:03] <adamell> [INFO] ------------------------------------------------------------------------
+[09:02:03] <adamell> [INFO] BUILD FAILURE
+[09:02:03] <adamell> [INFO] ------------------------------------------------------------------------
+[09:02:05] <adamell> FUCK
+[09:03:11] <member68> redmine + gerrit on a single server. that way i can create subdomains to the individual systems, like review.redditandroiddevelopers.com for gerrit
+[09:05:32] ### zubsani has joined ##reddit-android-developers
+[09:06:04] <member68> danopia, hogofwar: still around?
+[09:06:15] <danopia> hi
+[09:06:34] <member68> what are your thoughts on getting a v-server to set up all systems on one host
+[09:06:45] <danopia> you'd pay for it?
+[09:06:57] <member68> it's a dollar more than i pay now per month
+[09:07:12] <member68> i think i can handle that financialy
+[09:07:28] <Hogofwar> can it handle it
+[09:07:57] <member68> 1 gig ram, 2 gig ram max, 25gig hdd, no traffic limit, plesk 10 as management software
+[09:08:31] <member68> should be enough for 50 users. we don't want to compile code on it so it should be fine i think
