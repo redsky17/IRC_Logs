@@ -3282,3 +3282,56 @@
 [21:40:24] <red_sky> what about the git gui plugin?
 [21:40:31] <anjoyed_o0O> in eclipse go window->show view->other
 [21:40:41] <anjoyed_o0O> select mylyn and add repo
+[21:41:12] <red_sky> god it
+[21:41:14] <red_sky> got*
+[21:41:17] <smirk__> well food is almost ready... ima switch from wii to tv...im in bed for a month and i dunno how long. i see doc in a month... talk to you guy later k
+[21:41:31] <wjoe> ahh. good luck! later
+[21:41:35] <adamell> cheers
+[21:41:38] <smirk__> :)
+[21:41:45] <anjoyed_o0O> actually is you use the task list view it works bit nicer
+[21:41:48] <sam_> Feelsbadman.jpg
+[21:41:54] <sam_> Good luck sir
+[21:42:13] ### aschneid has quit the server. (Quit: Page closed)
+[21:42:26] <wjoe> ah, http://rad.lc8n.com/projects/general-organization/wiki/Basic_Android_SDK_Setup_Guide has some bits about eclipse
+[21:42:54] <adamell> That's a well done wiki
+[21:43:07] <anjoyed_o0O> I put some bits on the git page about setting up eclipse/egit
+[21:43:08] <Sanit> anyone know how to open an Activity without using a button
+[21:43:14] <adamell> whoever authored it should be proud
+[21:43:16] <Sanit> basically inside an 'if' clause
+[21:43:20] <wjoe> but the redmine plugin is new as of today anyway, and I don't know if the git stuff is the same
+[21:43:31] <red_sky> the same way you'd launch an activitiy if you pressed a button
+[21:43:46] <red_sky> just without the event handler as the parent function
+[21:44:15] <Sanit> where does the "View v" (for example) come from then
+[21:44:16] <Sanit> ?
+[21:44:22] ### aschneid__ is now known as aschneid
+[21:44:25] <anjoyed_o0O> http://rad.lc8n.com/projects/general-organization/wiki/Github
+[21:44:32] <markerz_> you mean simulate a click on a button?
+[21:44:55] <Sanit> nope, just if(something){ open activity }
+[21:45:12] <markerz_> startActivity(Intent);
+[21:45:14] <Sanit> problem I am running into is the v.getContext()
+[21:45:31] <markerz_> Context should be from the activity
+[21:45:43] <red_sky> 		Intent settingsIntent = new Intent(Fog.this, Preferences.class); //opens up the preferences activity.
+[21:45:51] <red_sky> that's an example from some code I wrote
+[21:45:54] <Sanit> ah, so 'this'?
+[21:46:00] <red_sky> Fog.this is the current class
+[21:46:01] <Sanit> yeah
+[21:46:02] <Sanit> thanks
+[21:46:08] ### aschneid has parted (left) the channel.
+[21:46:08] <markerz_> Mmmm.  Activities are a sub class of context, I believe.
+[21:46:19] <red_sky> Preferences.class is the view you want to go to
+[21:46:31] <red_sky> and then you just use startActivity(settingsIntent)
+[21:46:33] ### c0smic has quit the server. (Read error: Connection reset by peer)
+[21:46:54] ### c0smic has joined ##reddit-android-developers
+[21:46:56] ### Hayes has joined ##reddit-android-developers
+[21:46:58] <Sanit> yep, got it
+[21:46:59] <Sanit> thanks man
+[21:47:02] <red_sky> np
+[21:47:06] <markerz_> Fucking eclipse takes FOREVER to start if you do an update.
+[21:47:27] ### aschneid has joined ##reddit-android-developers
+[21:47:55] <red_sky> this redmine plugin is taking days to install
+[21:48:10] <Raionic> this android sdk update is taking forever to install lol
+[21:48:40] <markerz_> 100% CPU usage............................................................. :(
+[21:49:00] <Raionic> wow
+[21:49:50] ### aschneid_ has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
+[21:49:56] <danopia> where's the docs for setting up eclipse?
+[21:50:04] <danopia> or at least, the app URL for eclipse
