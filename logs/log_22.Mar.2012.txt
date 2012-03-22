@@ -53,3 +53,5 @@
 [01:47:43] ### markerz has quit the server. (Read error: Connection reset by peer)
 [01:49:29] <ballpointcarrot> joholz: make sure you've pulled so you have the most up-to-date code in your tree first.
 [01:49:47] <ballpointcarrot> chances are, someone pushed between the last time you pulled and your push.
+[01:54:20] <joholz> ballointcarrot: thanks
+[01:54:36] <joholz> *ballpointcarrot
