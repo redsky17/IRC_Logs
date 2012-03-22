@@ -361,3 +361,25 @@
 [04:48:50] <member68> http://dev.redditandroiddevelopers.com
 [04:49:23] ### deliwien has joined ##reddit-android-developers
 [04:49:31] <Archelaus> Ah, redmine, this is something I've very much so familiar with
+[04:50:51] <member68> I'll remember that if I run into problems ;)
+[04:52:26] <anjoyed> don't think the alpha is necessary any more really
+[04:53:08] <anjoyed> well
+[04:53:22] <anjoyed> is it still the only repo hooked up to redmine?
+[04:53:53] <adamell> Reddit-Quick-Submit is too
+[04:54:05] <anyonethinkingab> member68:  have you started any other projects since the release of the poll results 10 hours ago?
+[04:55:04] <member68> anjoyed: yes. I'll get to that later.
+[04:55:05] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[04:55:10] ### markerz has joined ##reddit-android-developers
+[04:55:21] <member68> anyonethinkingab: to redmine or to github?
+[04:55:32] <anyonethinkingab> both
+[04:56:12] <member68> redmine, i don't think so, github, yes, just a few minutes ago
+[04:56:41] <anyonethinkingab> is the calculator a project?
+[04:57:03] <anyonethinkingab> or just something to learn from?
+[04:57:35] <member68> it's a project for beginners
+[04:57:54] <member68> everybody can work on it, but it won't be collaborative
+[04:58:00] <anyonethinkingab> oh ok
+[04:58:08] <anyonethinkingab> so it's not actually a project
+[04:59:03] <member68> i added it so that people can join it and start discussions if they need help. but it's not something that will be worked on together
+[04:59:14] <anyonethinkingab> should i begin contacting the PM's, or do you think the current amount of project is alright?
+[05:00:03] <anyonethinkingab> or will you do that?
+[05:00:13] <member68> i think it's a good start. we can add projects anytime anyway
