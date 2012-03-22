@@ -1151,3 +1151,11 @@
 [11:51:34] <adamell> This world needs more cuban music in the mornings.
 [11:53:17] <member68> It needs more cuban music all day ;)
 [11:53:34] <adamell> http://www.youtube.com/watch?v=XZHF6SDWtU8
+[12:01:24] ### Esge has joined ##reddit-android-developers
+[12:03:34] ### pocus has joined ##reddit-android-developers
+[12:05:55] ### joholz has joined ##reddit-android-developers
+[12:08:02] <adamell> Every time I go to the Github admin page and see the DangerZone thing I hear that fucking song.
+[12:08:30] <adamell> And briefly see two young men half naked playing volleyball.
+[12:08:50] <adamell> Then I see Tom Cruise's scary smiley face.
+[12:09:13] <adamell> http://4.bp.blogspot.com/_XU9x8G7khv0/SfjHLVZ4XnI/AAAAAAAAClc/5zISXPAK6zc/s400/teeth-tom-cruise-400a071807.jpg
+[12:09:16] <adamell> fml
