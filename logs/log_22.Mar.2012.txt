@@ -92,3 +92,14 @@
 [02:18:47] <smirk> i woulnt have found this place i suppose
 [02:19:50] ### MooseEh has quit the server. (Read error: Connection reset by peer)
 [02:19:57] <smirk> messages?like a comment section in a file attributes?
+[02:20:17] ### MooseEh has joined ##reddit-android-developers
+[02:23:15] <smirk> sorry if it seems stupid of me to be asking. im on a wii and if i google i loose channel window
+[02:23:57] <ballpointcarrot> smirk: a commit is a list of changes submitted to a git repo.
+[02:24:54] <joholz> smirk: the commit helps other users who are looking at the project understand what you changed, by only taking a quick glance
+[02:25:28] <joholz> smirk: what games you got for wii?
+[02:26:53] <smirk> shit im gonna have to wait for my computer. i wont ask no more newb q's. hope its cool if i still kick back. i eventually will participate and not be so lame
+[02:27:44] <joholz> feel free to ask q's
+[02:28:15] <smirk> mario kart n wii sports... its my moms.. shes kinda helping me while im hurt
+[02:29:03] <joholz> did you hack the wii yet?
+[02:29:17] <smirk> whats a git repo ?
+[02:29:58] <ballpointcarrot> git is a source code management system. repo is short for repository (where the code goes)
