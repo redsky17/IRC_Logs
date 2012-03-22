@@ -1660,3 +1660,16 @@
 [15:49:22] <TheNumb> aschneid: Github for Mac is like... meh, it works.
 [15:49:23] <TheNumb> ;D
 [15:49:50] <aschneid> TheNumb: yeah...but some of the details you can get looked pretty good.
+[15:50:14] <jaimeh> Be back a bit later
+[15:50:22] <aschneid> It was nice to quickly clone the repos without a whole lot of clicking like you have to do in SourceTree.
+[15:50:39] ### jaimeh has quit the server. (Quit: Page closed)
+[15:51:11] <TheNumb> aschneid: well, git clone in commandline is also pretty fast ;p
+[15:51:16] <TheNumb> No clicking involved.
+[15:51:17] <TheNumb> ^^
+[15:52:44] <aschneid> Yeah.  I don't mind the command line either.  Sometimes I like to see the merging and that graphically though.
+[15:55:13] ### Lerc has quit the server. (Read error: Connection reset by peer)
+[15:58:31] ### danogame has joined ##reddit-android-developers
+[15:58:51] <danopia> http://laptop.danopia.net/
+[15:59:00] <danopia> someone say something
+[15:59:44] ### brkastner has joined ##reddit-android-developers
+[15:59:55] <deliwien> something
