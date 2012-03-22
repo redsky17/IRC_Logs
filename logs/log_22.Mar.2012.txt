@@ -1232,3 +1232,23 @@
 [12:46:59] <member68> joholz: everybody will push to gerrit and pull from github
 [12:47:27] <member68> gerrit is being configured as we speak
 [12:48:47] <joholz> alright, another thing I need to get familiar with
+[12:50:09] <member68> it's quite easy actually. used it before while working on cyanogenmod
+[12:50:26] <lacop> you just commit to a different place, and wait for approval
+[12:50:45] <jaimeh_> Are going to use the RC or current stable?
+[12:50:52] <jaimeh_> I am talking about gerrit.
+[12:51:00] <Hogofwar> I swear github has something like that
+[12:51:10] <lacop> btw, do we have some guidelines for branching? should everyone make a branch for their thing, then push it to gerrit when it's done
+[12:51:20] <lacop> and then it'll be merged to master
+[12:51:34] <jaimeh_> EVERYONE FORKS
+[12:52:52] <jaimeh_> Hogofwar: Yes they do have something like that. You submit a patch and it gets added as an issue to be reviewed.
+[12:54:02] <jaimeh_> The person running master does a merge once the patch is accepted.
+[12:56:12] <RAWR> Anyone know of a good pdf reader (on linux) that has support for annotations?
+[12:56:55] <danopia> what are annotatoins?
+[12:57:14] <RAWR> Like comments, add shapes, underline and all that
+[12:57:23] <TheNumb> RAWR: adobe reader does that.
+[12:57:25] <danopia> don't think i've ever seen that before....
+[12:57:40] <TheNumb> danopia: you can underline some text etc.
+[12:57:40] <jaimeh_> danopia: I believe evince does it.
+[12:58:45] <RAWR> Alright thanks, gonna reboot to linux and try them out. Brb.
+[12:59:14] <TheNumb> danopia: why?
+[12:59:22] ### RAWR has quit the server. (Quit: Leaving)
