@@ -2180,3 +2180,43 @@
 [19:29:28] ### D-Lon has quit the server. (Ping timeout: 245 seconds)
 [19:35:06] ### Hannesver has quit the server. (Quit: Leaving)
 [19:37:51] ### jaimeh has quit the server. (Quit: Leaving)
+[19:41:07] <shmup> curious about pulling from github
+[19:41:46] <shmup> yesterday i pulled the reddit-android-app
+[19:41:58] ### Will2k3 has joined ##reddit-android-developers
+[19:41:59] <shmup> if changes were made on the repo, and i just wanna grab the latest
+[19:42:14] <shmup> is it okay to just repull? replace what i have
+[19:42:16] ### anyonethinkingab has quit the server. (Quit: Ex-Chat)
+[19:42:22] ### Raionic has quit the server. (Disconnected by services)
+[19:42:23] ### smirk has quit the server. (Ping timeout: 245 seconds)
+[19:42:27] ### Will2k3 is now known as Raionic
+[19:42:29] <shmup> actually stupid question. if i haven't done anything i'm sure thats fine heh.
+[19:43:06] <Raionic> !paste 5
+[19:43:21] <Raionic> cool he got it working
+[19:43:24] <Raionic> !paste 20
+[19:44:12] <Raionic> shump you can pull as many times as you want
+[19:44:49] <shmup> Raionic: more specific question..
+[19:44:55] <shmup> if i do like.. a git diff and see there are changes
+[19:44:59] <veeti> uh
+[19:45:05] <veeti> do you mean clone or pull
+[19:45:14] <shmup> see i dont even know the diff. never used clone.
+[19:45:21] <shmup> or maybe i have and i've never used pull hah.
+[19:45:26] <lyrch> do a git pull
+[19:45:31] <shmup> yes i originally did a git clone right duh
+[19:45:38] <veeti> clone is for getting a copy of the repo
+[19:45:40] <shmup> oh neat
+[19:45:42] <veeti> pull is for pulling new changes
+[19:45:43] <shmup> git pull just grabs the latest
+[19:47:17] <shmup> one more question: http://gyazo.com/c0f6cc251f40f6c33128796de2b6ff57.png?1332459441
+[19:47:31] <shmup> how do you abort? heh. ctrl c isn't working
+[19:47:39] <veeti> hm
+[19:47:44] <veeti> ctrl + c definitely should work
+[19:47:50] <shmup> it seems to work, showing me my prompt --> $
+[19:47:59] <shmup> as soon as i type it shows (END) again
+[19:48:07] <veeti> oh
+[19:48:08] <veeti> try q
+[19:48:32] <shmup> naw, yeah c really should work
+[19:48:40] <shmup> whatever, opened a new terminal
+[19:48:48] ### jaimeh has joined ##reddit-android-developers
+[19:49:02] <shmup> i'm gonna be spammy for a bit but i mean, no noe is chatting really ;p
+[19:49:11] <shmup> if i do a git pull, and get latest, should gitt diff still show differences?
+[19:49:12] ### ballpointcarrot has quit the server. (Ping timeout: 244 seconds)
