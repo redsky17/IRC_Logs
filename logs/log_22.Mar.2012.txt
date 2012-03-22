@@ -1107,3 +1107,8 @@
 [11:17:37] ### Raionic- has joined ##reddit-android-developers
 [11:17:41] ### rapidfyre has joined ##reddit-android-developers
 [11:18:29] ### RAWR has joined ##reddit-android-developers
+[11:20:34] <rapidfyre> Hi guys, any idea when the list of apps will be updated in redmine and github?
+[11:20:45] ### Raion has quit the server. (Ping timeout: 245 seconds)
+[11:22:47] ### zubsani has quit the server. (Quit: Page closed)
+[11:25:39] <member68> what do you want to update?
+[11:27:48] ### jaimeh has joined ##reddit-android-developers
