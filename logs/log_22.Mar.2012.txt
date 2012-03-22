@@ -2113,3 +2113,10 @@
 [18:19:31] <jaimeh> malik, what user name on redmine?
 [18:19:45] <malik> malikb979. why?
 [18:19:49] <malik> shit
+[18:20:46] ### Hannesver has joined ##reddit-android-developers
+[18:20:48] <jaimeh> malik, looks like you are already registered
+[18:27:03] <anyonethinkingab> !los
+[18:27:05] <anyonethinkingab> !logs
+[18:27:13] <anyonethinkingab> thanks
+[18:28:23] <anyonethinkingab> adamell somebody asked to be your sidekick as PM for the google tasks thing
+[18:28:25] <Hogofwar> wha
