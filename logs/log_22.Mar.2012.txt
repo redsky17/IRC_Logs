@@ -1079,3 +1079,8 @@
 [10:43:12] <member68> we already got redmine, gerrit and github. but thanks for the suggestion :)
 [10:44:02] <aesptux> you're welcome :) I just found it and seems pretty good
 [10:49:11] ### colm has joined ##reddit-android-developers
+[10:50:20] ### markerz| has quit the server. (Ping timeout: 240 seconds)
+[10:52:35] ### markerz has joined ##reddit-android-developers
+[10:53:26] ### itsKitsos has quit the server. (Ping timeout: 244 seconds)
+[10:56:23] ### rapidfyre has quit the server. (Quit: Bye)
+[10:59:37] ### aschneid has quit the server. (Quit: Page closed)
