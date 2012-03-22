@@ -1432,3 +1432,25 @@
 [13:59:56] <anyonethinkingab> ok ok
 [14:00:06] <anyonethinkingab> i got a couple reaction
 [14:00:07] <anyonethinkingab> s
+[14:00:35] <member68> yes, it's much easier and can be integrated into a reddit client later if we want to
+[14:01:46] ### smirk has joined ##reddit-android-developers
+[14:01:51] ### markerz| has quit the server. (Ping timeout: 246 seconds)
+[14:02:33] <aschneid> I'm assuming there will be an announcement when we start on the more complicated apps?
+[14:02:57] <anyonethinkingab> deliwien is in for tamagotchi, but needs an experienced pm by his side
+[14:04:06] <member68> a tamagotchi app includes creating a lot of graphics which is better suited for experienced devs
+[14:05:38] <aschneid> So, do we have a time estimate, or will there be an announcement, for when you are looking for devs for some of the more complicated apps?
+[14:06:19] <member68> there will be an announcement. i have no idea how much we need for the current projects
+[14:06:55] <tmoskowite> aschneid
+[14:07:37] <tmoskowite> aschneid: what is your background?
+[14:08:01] <aschneid> I'm a professional Java/JEE developer.
+[14:08:18] <aschneid> And have been working on my own Android app for about a year now.
+[14:08:20] <aschneid> In my spare time
+[14:08:28] <member68> do you have experience with writing games?
+[14:09:12] <jaimeh_> Do we need him to have experience. As of this point, much of this is a learning experience for many people
+[14:09:13] <aschneid> I'm actually not too interested in the Tamagotchi game
+[14:09:24] <tmoskowite> aschneid: how about a Google Task App?
+[14:09:36] <aschneid> I'm more interested when you start on the full Reddit app
+[14:09:44] <red_sky> could someone explain the Google Task App to me?
+[14:09:46] <tmoskowite> then start it
+[14:09:57] <aschneid> tmoskowite: it's been postponed.
+[14:10:05] <tmoskowite> ok
