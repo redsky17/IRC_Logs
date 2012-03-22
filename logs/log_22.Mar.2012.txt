@@ -588,3 +588,32 @@
 [06:48:00] <Hiver> hot sauce. Core functionality of my personal thingie is done as of 5 minutes ago, now I'm adding features. I will not have to twiddle my thumbs at all.
 [06:48:57] <member68> Hiver: what are you working on?
 [06:49:31] <Hiver> A tool to help DMs manage combat in Dungeons and Dragons. Keeps track of who's turn it is, what their hp is, etc.
+[06:50:12] <c0smic> No way?  I'd be willing to test that for you.  I play D&D :P
+[06:50:55] <member68> sounds gun
+[06:51:02] ### zubsani has joined ##reddit-android-developers
+[06:51:03] <member68> *sounds fun
+[06:51:25] <Hiver> Right on. I've got to hook up some textviews and such before I've got something usable. Should be ready this evening.
+[06:52:03] <anyonethinkingab> wjoe:  are you online?
+[06:52:25] <Hiver> Also, I'm in dire need of a front end person. It looks like crap dipped in green slime.
+[06:52:25] <c0smic> Hiver: Sounds very cool.  I'll try it out sometime.  It's an app right?
+[06:52:36] <Hiver> Yea, 1.6+ compatable.
+[06:53:01] <Hiver> The previous version is on the store now, dMinion. Don't buy it.
+[06:53:01] <c0smic> Nice
+[06:53:03] <anyonethinkingab> I can give you a list Hiver
+[06:53:44] <anyonethinkingab> of people who said they could help in interface design
+[06:53:51] ### markerz has quit the server. (Read error: Connection reset by peer)
+[06:53:58] ### markerz has joined ##reddit-android-developers
+[06:54:23] <Hiver> I've gotta run for now. If you'd like to shoot it over to bill.strait@gmail.com that'd be awesome anyonethinkingab
+[06:54:41] <anyonethinkingab> Hiver it's coming at you
+[06:56:00] <Hiver> Awesome, thanks! Be back in 8-10 hours.
+[06:56:05] ### Hiver is now known as Hiver-Work
+[06:57:14] <c0smic> I'll be getting off too now, be back in ~8 or 9 hours
+[06:57:39] ### c0smic has quit the server. (Quit: Leaving.)
+[06:58:36] <anyonethinkingab> who is maplesyripismajestic again?
+[06:58:45] <anyonethinkingab> adamell?
+[06:58:53] <adamell> yup
+[06:59:10] <anyonethinkingab> so you want another PM with you or is alone ok?
+[06:59:24] <anyonethinkingab> do*
+[06:59:26] <adamell> The RAD GTasker app is plenty
+[06:59:34] <anyonethinkingab> ok ok
+[07:00:17] <adamell> The dependencies are a nightmare. They haven't integrated the Tasks API into the regular Google API yet and it's all very messy.
