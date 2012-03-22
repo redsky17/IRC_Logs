@@ -3752,3 +3752,9 @@
 [23:48:07] <ballpointcarrot> Sanit: think you can move the brainstorming doc from this morning into redmine's wiki?
 [23:48:49] <joholz> for those working on RedditQuickSub, hows it going?
 [23:49:30] ### markerz has quit the server. (Ping timeout: 248 seconds)
+[23:51:52] <ballpointcarrot> they had a decent start earlier (i was at work, couldn't hack on it)
+[23:52:56] ### jselk has joined ##reddit-android-developers
+[23:54:06] <Sanit> ballpointcarrot: will do, after I finish what I'm working on here
+[23:54:25] <jselk> So what's the action? Are we making this quick submit app?
+[23:54:39] <jaimeh> Its happening now
+[23:56:44] <joholz> how does team dev work? just go to your proj managers?
