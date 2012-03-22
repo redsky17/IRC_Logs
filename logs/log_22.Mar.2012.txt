@@ -2178,3 +2178,5 @@
 [19:28:18] ### D-Lon_ has joined ##reddit-android-developers
 [19:29:02] <markerz> Nah, I missed it a couple of times the first time around.
 [19:29:28] ### D-Lon has quit the server. (Ping timeout: 245 seconds)
+[19:35:06] ### Hannesver has quit the server. (Quit: Leaving)
+[19:37:51] ### jaimeh has quit the server. (Quit: Leaving)
