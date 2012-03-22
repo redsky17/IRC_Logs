@@ -2097,3 +2097,19 @@
 [18:07:50] <veeti> you can sign up at http://rad.lc8n.com/ and join projects you're interested in
 [18:09:57] <malik> the registration doesn't work
 [18:10:10] <veeti> what's wrong
+[18:11:34] ### anjoyed_o0O has quit the server. (Ping timeout: 276 seconds)
+[18:13:51] <malik> I register and it said I was registered but now it won't let me log in
+[18:14:00] <ThatPlayer> Did you confirm your email?
+[18:14:22] <adamell> malik: you mean on Redmine?
+[18:15:02] <malik> they haven't sent me an email yet :/
+[18:15:15] <veeti> check your spam inbox
+[18:18:04] <Hiver-Work> This is my first time in a project like this. Where would I put my suggestion for a feature on the IRC app?
+[18:18:09] ### Hiver-Work is now known as Hiver
+[18:18:37] <jaimeh> wjoe, how is gerrit setup going?
+[18:18:39] <veeti> not really sure
+[18:18:41] <veeti> maybe post in the subreddit
+[18:18:46] <malik> meh, stupid live took forever to forward to gmail. #firstworldproblems
+[18:19:00] ### Hannesver has quit the server. (Quit: Leaving)
+[18:19:31] <jaimeh> malik, what user name on redmine?
+[18:19:45] <malik> malikb979. why?
+[18:19:49] <malik> shit
