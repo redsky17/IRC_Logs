@@ -255,3 +255,32 @@
 [03:19:28] ### smirk has quit the server. (Ping timeout: 245 seconds)
 [03:19:45] <adamell> joholz: but that didn't really answer your question
 [03:20:01] <joholz> adamell, lol not really
+[03:20:09] <adamell> joholz: which repo are you talking about?
+[03:20:20] <joholz> https://github.com/Joholz/TestGit
+[03:20:55] <smirk_> commits are associated with online files? not files at the machine?
+[03:21:17] <joholz> i do git add "specific file or whatever" .... git commit -m "this is the specific file or whatever" ... git push origin master
+[03:21:23] <adamell> They're all there up to 10 minutes ago
+[03:21:34] <member68> smirk: please read our wiki at http://rad.lc8n.com/projects/general-organization/wiki
+[03:22:04] <joholz> but the messages are 2 hours ago. the "test commit for git"
+[03:22:16] <member68> this might help you understand a lot of the terms we use a whole lot better
+[03:22:43] <adamell> oh you mean on the front page? not the commit history page?
+[03:22:52] <member68> joholz: walk me through your workflow real quick
+[03:23:04] <smirk_> i will soon as i get me puter running again. i cant even sign up to that site from my wii
+[03:23:42] <c0smic> smirk_: You don't need to sign up for it, just browse the wiki for answers
+[03:23:47] <adamell> joholz: go to terminal (if on mac) and type 'git status'
+[03:23:48] <joholz> hold on, im getting a pastebin setup
+[03:24:03] <smirk_> someone said i could ask q's when i apollogized for newb questions
+[03:24:36] <adamell> No worries. This is much a place to learn as it is to do anything else.
+[03:24:44] <smirk_> oh yea wiki im tripin bro
+[03:25:16] <smirk_> brb ill book mark that
+[03:26:19] ### Billd has joined ##reddit-android-developers
+[03:26:28] <smirk_> said i have to login
+[03:26:35] <smirk_> wtf?
+[03:27:28] <joholz> http://pastebin.com/fgGZjC9p
+[03:27:29] <member68> joholz: i forked it, tried my workflow and the commit showed up on the main page
+[03:27:35] <smirk_> that aint wiki thats a rad url
+[03:28:22] <joholz> workflow different from the one i just pasted, i assume?
+[03:28:38] <member68> well, i'm using egit in eclipse :P
+[03:29:11] <smirk_> its cool i wanna get a computer first i dont wanna load up moms wii with my bookmarks
+[03:29:31] <adamell> joholz: could you go to your terminal and type 'git status' then pastebin the results?
+[03:29:56] <adamell> *$ git status
