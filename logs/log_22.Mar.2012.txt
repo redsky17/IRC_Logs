@@ -479,3 +479,38 @@
 [05:58:40] ### Billd is now known as Hiver
 [05:59:33] <member68> his music's on spotify too
 [06:00:09] <Hiver> Huh. Am I the only one who codes to drum and bass and deathmetal?
+[06:00:21] <anjoyed> haven't heard new album yet, bought soldier after he did an AMA
+[06:00:22] <adamell> only you and Kony
+[06:00:38] <Hiver> 2012, we're taking it back.
+[06:00:50] <member68> i code to cuban music, bueno vista social club and stuff like that ;)
+[06:01:14] <member68> besides that jazz, soul and some blues ;)
+[06:01:23] <c0smic> I like to code to electronica, like Com Truise: http://soundcloud.com/com-truise
+[06:01:36] <Hiver> I dig on BVSC, but they let my mind drift too much. I prefer something driven.
+[06:01:57] <adamell> another ghostly fan
+[06:02:06] <anjoyed> member68, you tried Manu Chao?
+[06:02:17] <adamell> I usually listen to Loscil or Lusine
+[06:02:38] <Hiver> C0smic, this would work. Thanks for the link.
+[06:02:46] <c0smic> adamell: Nice, I also listen to Mux Mool
+[06:02:58] <member68> anjoyed: love them :)
+[06:03:03] <c0smic> Hiver: np!
+[06:03:10] <anjoyed> good stuff :)
+[06:03:58] <member68> problem is while coding i have to focus on text, i can't have music with english or german lyrics
+[06:04:26] <c0smic> Same, that's why most of what I listen to is electronica :)
+[06:04:36] <anjoyed> aye, usually go for jazz if doing heavy coding. jon coltran type tsuff
+[06:04:39] <c0smic> I also like rainymood
+[06:05:19] <member68> solo piano music + rainymood ;)
+[06:06:06] <c0smic> I should try listening to some Miles Davis or maybe Art Blakey..
+[06:06:22] <anjoyed> miles davis is excellent
+[06:06:53] <c0smic> Dave Brubeck too
+[06:07:06] <c0smic> ahh, so much good music
+[06:07:23] ### paddy has joined ##reddit-android-developers
+[06:07:49] ### paddy is now known as Guest33332
+[06:08:17] ### Guest33332 has quit the server. (Client Quit)
+[06:08:31] <adamell> I'm currently registering the Google Tasks App for an API key with google. What should the 'product name' be?
+[06:08:46] <adamell> I was thinking Reddit Android Developers Google Task Client
+[06:08:52] <adamell> but it seems lengthy
+[06:09:02] <anjoyed> RAD Google Task List?
+[06:09:08] <anjoyed> *Client
+[06:09:13] <adamell> We also get a logo!
+[06:09:52] <adamell> RAD GTL?
+[06:09:58] <adamell> no
