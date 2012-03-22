@@ -2778,3 +2778,55 @@
 [20:29:58] <markerz_> Haha. 18.  I'm just a freshman in college.
 [20:30:04] <Hogofwar> i'm younger
 [20:30:07] <Hogofwar> BAM
+[20:30:26] <member68> !update
+[20:30:31] <Hogofwar> Also, freshman is the first year of college, right?
+[20:30:40] ### member68 has quit the server. (Quit: hello bed, here I come)
+[20:30:57] ### deliwien has quit the server. ()
+[20:31:12] <jaimeh> All of the great developers I have met have been messing with code around 16
+[20:31:29] <Sanit> Sweet. I've a good start so!
+[20:31:38] <Hogofwar> Apparently so do i
+[20:31:41] <Hogofwar> *I
+[20:31:45] <sam_> Means I'm on track for greatness.
+[20:31:50] <Hogofwar> Or at least, starting to have a good start?
+[20:31:57] <wjoe> meh, age doesn't mean much. I wasted my college years playing games :p wish I'd spent them doing stuff like these projects
+[20:32:04] <Sanit> starting to start a good start
+[20:32:13] <lyrch> same here wjoe
+[20:32:38] <Hogofwar> Doing something is a good start
+[20:33:35] <markerz_> <insert political joke about congress>
+[20:33:35] <lyrch> yeah i figured i needed to give myself a swift kick to do something
+[20:34:15] <wjoe> anjoyed_o0O: you should be able to get your API key from the account page now
+[20:34:23] <wjoe> http://rad.lc8n.com/my/account
+[20:34:27] <wjoe> just enabled it
+[20:34:30] <jaimeh> anjoyed_o0O, go to my account page
+[20:34:31] <adamell> Thank you
+[20:34:41] <jaimeh> yeah
+[20:35:20] <smirk> the window on your signup/signin websheet aint floating right hopefully not at too many screen settings. i can bareky view the top half of the textbox where i should enter the security string from the graphic. anything below that is gone on a wii internet viewing the page and prolly any 480 by 800 resolution and any phones
+[20:35:49] <wjoe> let me know if it actually works. haven't even got eclipse installed right now myself, and it's getting late
+[20:36:03] <smirk> bareley*
+[20:36:05] <red_sky> hellooooo
+[20:36:06] <anjoyed_o0O> cheers wjoe will check it out in a sec
+[20:36:09] <wjoe> kk
+[20:36:31] <anjoyed_o0O> member68 gave me a key to try few minutes ago
+[20:36:51] <anjoyed_o0O> mylyn plugin is fecked since trying it, cant even read tasks anymore
+[20:36:55] <Hogofwar> red_sky, fixed the bot
+[20:36:59] <Hogofwar> red_sky, YOU BROKE IT
+[20:37:00] <wjoe> ruh roh :(
+[20:37:08] <wjoe> I've never used mylyn before. looks interesting
+[20:37:08] <anjoyed_o0O> trying to remove the plugin and reinstall now
+[20:37:11] <Hogofwar> red_sky, you said a ; in your text
+[20:37:17] <anjoyed_o0O> its dead useful
+[20:37:18] <Hogofwar> which didn't work in post
+[20:37:20] <red_sky> oops
+[20:37:23] <wjoe> this project is more organised than my job was
+[20:37:24] <Hogofwar> utf-8 encoded now
+[20:37:26] <wjoe> already
+[20:37:31] <Hogofwar> red_sky, want the newest version?
+[20:37:34] <smirk> you guys should try out your signup page on multiple platforms and resolutions
+[20:37:35] <red_sky> sure
+[20:37:43] <wjoe> smirk: which signup page?
+[20:38:34] <smirk> hold up im on a wii
+[20:38:36] <wjoe> ok
+[20:38:50] <wjoe> we've got quite a few things set up, so not sure which you're referring to
+[20:39:52] <jaimeh> This project is moving along better than expected
+[20:40:11] <wjoe> yeah, sounds like lots of progress has been made today
+[20:40:23] <sam_> A lot of progress has been made
