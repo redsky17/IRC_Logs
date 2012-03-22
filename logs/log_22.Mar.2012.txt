@@ -1489,3 +1489,44 @@
 [14:29:21] <jaimeh_> Should we help him?
 [14:29:24] ### tmoskowite has quit the server. (Ping timeout: 244 seconds)
 [14:29:36] ### vcarl has joined ##reddit-android-developers
+[14:30:03] <member68> wjoe: can we help you somehow?
+[14:30:45] ### tmoskowi_ has joined ##reddit-android-developers
+[14:31:06] ### tmoskowi_ is now known as tmoskowite
+[14:32:27] <Hogofwar> I would like to help somehow too
+[14:32:30] <Hogofwar> somewhere
+[14:32:34] ### jaimeh_ is now known as jaimeh
+[14:32:48] <tmoskowite> Hogofwar: help me
+[14:32:59] <Hogofwar> Do what?
+[14:33:11] <jaimeh> tmoskowite is stuck in a ditch with a rock on his leg.
+[14:33:33] <jaimeh> cut it off for him...
+[14:33:49] <tmoskowite> lol
+[14:33:55] <tmoskowite> build the Google Task app
+[14:34:35] <jaimeh> Are we going to start development tmoskowite? Are you on the team?
+[14:34:43] <tmoskowite> I am the team
+[14:34:46] <tmoskowite> It is my project
+[14:35:12] <tmoskowite> well the project i am overseeing
+[14:35:17] <tmoskowite> and the project i suggested =)
+[14:35:28] <member68> you sounded like gollum for a moment :p
+[14:35:29] <jaimeh> watch-out-badass-over-here.gif
+[14:35:43] <tmoskowite> my precious
+[14:36:43] <aschneid> tmoskowite: I'm not really a user of google tasks....what exactly do you envision the app to do?
+[14:36:44] <zubsani> i'm on the team also!
+[14:36:48] <jaimeh> tmoskowite: what is your nick on redmine?
+[14:37:01] <tmoskowite> jaimeh: i don't have one yet
+[14:37:03] ### anjoyed_work is now known as anjoyed_o0O
+[14:37:12] <tmoskowite> jaimeh: not had time to sign up
+[14:37:20] <jaimeh> Well like we need to start brainstorming.
+[14:37:28] <tmoskowite> jaimeh: link me
+[14:37:47] <jaimeh> I am waiting for adamell to come back, as he chose me for a PM on the project
+[14:38:01] <tmoskowite> aschneid: it's a todo app
+[14:38:08] <jaimeh> tmoskowite: http://rad.lc8n.com/projects/google-tasks-client
+[14:38:18] <zubsani> i need to finish my assignment first, i will start working tomorrow if you guys start today.
+[14:38:49] <aschneid> tmoskowite: Yeah, I know what it is....just wasn't sure exactly what you wanted the app to do.
+[14:38:50] <jaimeh> I am at work, so I can't do too much until the evening. But I will be here to brainstorm if anything.
+[14:38:56] <jaimeh> 11:40 here
+[14:39:00] <jaimeh> am
+[14:39:12] <zubsani> 02.40am here
+[14:39:20] <jaimeh> get some sleep man
+[14:39:32] <tmoskowite> aschneid: talk in a few, in a meeting
+[14:39:38] <aschneid> OK.
+[14:39:49] <zubsani> i need to finish this assignment first. :(
