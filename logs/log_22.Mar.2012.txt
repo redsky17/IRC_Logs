@@ -819,3 +819,12 @@
 [08:49:02] <danopia> irc.ubuntu.com.		600	IN	CNAME	chat.freenode.net.
 [08:49:02] <danopia> chat.freenode.net.	60	IN	A	174.143.119.91
 [08:49:03] <danopia> etc.
+[08:52:46] ### markerz has joined ##reddit-android-developers
+[08:52:46] ### markerz| has quit the server. (Read error: Connection reset by peer)
+[08:55:01] ### garychencool has joined ##reddit-android-developers
+[08:56:49] <member68> just called my hoster. i could upgrade to a v-server for 10. that would cost me 10 bucks more per year
+[08:57:34] <adamell> Maven used to be more simple before android came along.
+[08:58:14] ### alextsc_ has joined ##reddit-android-developers
+[08:59:06] <member68> 1 gig ram, 2 gig ram max, 25gig hdd, no traffic limit, plesk 10 as management software
+[08:59:15] <member68> thoughts on that guys?
+[08:59:37] <member68> 8 euro per month (10,50 usd)
