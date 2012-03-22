@@ -619,3 +619,10 @@
 [07:00:17] <adamell> The dependencies are a nightmare. They haven't integrated the Tasks API into the regular Google API yet and it's all very messy.
 [07:02:21] ### rapidfyre has joined ##reddit-android-developers
 [07:05:33] <member68> !Upload
+[07:06:35] <member68> !logs
+[07:06:56] <anyonethinkingab> that's just really cool
+[07:07:00] <anyonethinkingab> who made that?
+[07:08:58] <adamell> who made what?
+[07:09:29] <anyonethinkingab> RadLogi
+[07:09:57] <Archelaus> It's a simple PircBot
+[07:10:03] <anyonethinkingab> ohhhhh ok :p
