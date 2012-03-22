@@ -567,3 +567,24 @@
 [06:38:28] <member68> that's 3,4 querries a second, doubt we reach that anytime soon
 [06:39:14] <ThatPlayer> member68: What host do you use?
 [06:39:55] <ThatPlayer> A german host appearnently
+[06:41:34] <c0smic> Was it 1&1? Can't remember..
+[06:41:37] <member68> they are called 1blu
+[06:41:43] <c0smic> ahh
+[06:41:44] <member68> small company from berlin
+[06:42:06] <ThatPlayer> IP lookups are suprishingly easy
+[06:42:15] <member68> i used to know a guy there who did everything for me i asked for
+[06:42:24] <member68> he quit a few months ago though
+[06:42:43] ### Hogofwar has joined ##reddit-android-developers
+[06:42:44] <ThatPlayer> Haha having friends is always nice
+[06:42:53] <anyonethinkingab> hahahaha
+[06:43:10] <ThatPlayer> I've got a dedicated server because my work hosts a small site on it
+[06:43:13] <ThatPlayer> And my boss is cool
+[06:45:17] <ThatPlayer> Well it's almost 4 am, nite people
+[06:45:49] <Hiver> Night ThatPlayer.
+[06:46:14] <c0smic> cya
+[06:46:25] <Hiver> Are we on track to start coding projects this weekend?
+[06:47:02] <c0smic> Yep, we just need gerrit finished and we can start coding
+[06:47:54] <member68> i think so. i hope wjoe gets to finish gerrit today. we can start right after that
+[06:48:00] <Hiver> hot sauce. Core functionality of my personal thingie is done as of 5 minutes ago, now I'm adding features. I will not have to twiddle my thumbs at all.
+[06:48:57] <member68> Hiver: what are you working on?
+[06:49:31] <Hiver> A tool to help DMs manage combat in Dungeons and Dragons. Keeps track of who's turn it is, what their hp is, etc.
