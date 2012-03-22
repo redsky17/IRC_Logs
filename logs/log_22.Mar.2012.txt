@@ -1530,3 +1530,21 @@
 [14:39:32] <tmoskowite> aschneid: talk in a few, in a meeting
 [14:39:38] <aschneid> OK.
 [14:39:49] <zubsani> i need to finish this assignment first. :(
+[14:40:08] <jaimeh> What are you doing on here? Finish him!
+[14:40:45] <zubsani> will do
+[14:40:59] <zubsani> i can't wait to start developing software as a team.
+[14:41:00] <zubsani> hehe
+[14:42:05] <aschneid> jaimeh: where are you at on the west coast?
+[14:43:25] ### colm____ has joined ##reddit-android-developers
+[14:44:06] ### colm___ has joined ##reddit-android-developers
+[14:44:15] ### colm___ is now known as Sanit
+[14:44:38] <ballpointcarrot> wb Sanit
+[14:45:37] <jaimeh> aschneid: socal
+[14:45:51] <aschneid> Cool...I'm in norcal myself.
+[14:46:00] <lacop> hmm, Sanit ... wanted to ask you something, but now I can't remember what
+[14:46:10] <jaimeh> Oregon?
+[14:46:28] <jaimeh> nevermind
+[14:48:35] ### rapidfyre has joined ##reddit-android-developers
+[14:48:55] <member68> I'm wondering what all the people do that are idle in this channel
+[14:49:25] <adamell> Eat sandwiches and watch Die Heart 7: Bloody Mary
+[14:49:25] <Fault> Lurking
