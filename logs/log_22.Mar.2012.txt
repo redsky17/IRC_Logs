@@ -1073,3 +1073,9 @@
 [10:37:16] <aesptux> Guys, did you know this webpage? http://gitimmersion.com/ So useful for git begginers
 [10:37:48] ### kiel3 has quit the server. (Ping timeout: 245 seconds)
 [10:38:20] <Sanit> test
+[10:40:34] ### Sanit has quit the server. (Quit: leaving)
+[10:41:31] ### Sanit has joined ##reddit-android-developers
+[10:42:32] <aesptux> Just in case anyone is interested: With Clinker you can download its Virtual Appliance, with has already installed Subversion, trac, redmine, nexus, sonar, jenkins and alfresco (with posibility of installing more things of course) http://clinkerhq.com/
+[10:43:12] <member68> we already got redmine, gerrit and github. but thanks for the suggestion :)
+[10:44:02] <aesptux> you're welcome :) I just found it and seems pretty good
+[10:49:11] ### colm has joined ##reddit-android-developers
