@@ -383,3 +383,24 @@
 [04:59:14] <anyonethinkingab> should i begin contacting the PM's, or do you think the current amount of project is alright?
 [05:00:03] <anyonethinkingab> or will you do that?
 [05:00:13] <member68> i think it's a good start. we can add projects anytime anyway
+[05:00:26] <member68> why do you want to contact the PMs?
+[05:00:43] <anyonethinkingab> ok. I just don't have the feeling that they know they can/should start
+[05:00:55] <anyonethinkingab> because i can't really do much elso for the moment
+[05:01:04] <member68> problem is: we don't have gerrit set up yet
+[05:01:04] <anyonethinkingab> and i want to be involved
+[05:01:08] <anyonethinkingab> oh
+[05:01:20] <member68> so for now, we can only do planning but no actual coding
+[05:01:26] <anyonethinkingab> kk
+[05:01:48] <anyonethinkingab> I'll pm them on reddit throughout the day
+[05:02:36] <c0smic> member68: Who is setting up gerrit?
+[05:02:45] <member68> wjoe
+[05:03:02] <anyonethinkingab> right now or...?
+[05:03:31] <c0smic> Gotcha
+[05:03:38] <member68> haven't talked to him yet today. i asked him quite often yesterday and don't want to piss him off
+[05:03:49] <c0smic> anyonethinkingab: He's started it, not sure if he's working now
+[05:03:55] <anyonethinkingab> oh ok
+[05:03:59] <member68> yesterday he sais something about getting it done today
+[05:07:38] <member68> i updated the github info page at http://redditandroiddev.github.com
+[05:08:02] <member68> it's just cosmetics but it's better than an empty html file
+[05:09:41] <anyonethinkingab> haha i just noticed this in the results
+[05:09:58] <adamell> Oh you have the g-tasks repo  up too
