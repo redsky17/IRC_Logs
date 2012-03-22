@@ -3335,3 +3335,49 @@
 [21:49:50] ### aschneid_ has quit the server. (Quit: AndroIRC - Android IRC Client ( http://www.androirc.com ))
 [21:49:56] <danopia> where's the docs for setting up eclipse?
 [21:50:04] <danopia> or at least, the app URL for eclipse
+[21:51:19] <wjoe> some stuff in here http://rad.lc8n.com/projects/general-organization/wiki/Basic_Android_SDK_Setup_Guide
+[21:51:46] <wjoe> you can get eclipse from eclipse.org
+[21:52:10] <danopia> i have eclipse, it's on the cluster
+[21:52:19] <danopia> i want to see what using eclipse on a 32core is like
+[21:52:25] <wjoe> oh. sorry, wasn't sure what you meant by app URL
+[21:52:25] <wjoe> haha
+[21:52:35] <wjoe> probably still slow :p
+[21:54:32] <Sanit> fuck man, this progress is really satisfying. I hadn't touched android since the start of the college year, and now after 1.5 semesters, it is a breeze
+[21:54:33] ### margosmark has joined ##reddit-android-developers
+[21:54:35] <Sanit> (so far)
+[21:55:19] <wjoe> nice :D I'm looking forward to getting back into it. I haven't done much in the past year. some minor things, but nothing big
+[21:55:47] <wjoe> also working with a community is going to be good. doing stuff on your own is pretty frustrating
+[21:56:12] <wjoe> I did an android app for my university project, 2 years ago. android wasn't nearly as big then, it was pretty difficult to find any good resources
+[21:56:14] ### Hayes has quit the server. (Quit: Page closed)
+[21:56:25] <red_sky> heh
+[21:56:27] <danopia> 17.9M/s   in 1.6s
+[21:56:31] <danopia> so slow
+[21:56:37] <wjoe> haha
+[21:56:41] <red_sky> you can resize the eclipse splashscreen in ubuntu
+[21:56:44] <red_sky> with gnome 3
+[21:56:45] <red_sky> odd
+[21:56:48] <danopia> and move it
+[21:57:01] <danopia> a bunch of splashscreens are movable
+[21:57:22] <danopia> because they have no borders, devs don't care about fixing the location
+[21:57:44] <red_sky> moving is okay
+[21:57:51] <red_sky> resizing actually does weird graphical things
+[21:57:53] ### markerz has joined ##reddit-android-developers
+[21:58:08] <danopia> like the tiling image :P
+[21:58:14] <red_sky> yeah
+[21:58:25] <danopia> progress bar stays sane though
+[21:58:55] <red_sky> it knows.
+[21:59:05] <red_sky> eclipse *still* sucks
+[21:59:06] <red_sky> on linux
+[21:59:16] <red_sky> typed to filter the softwrae stuff
+[21:59:26] <danopia> eclipse isn't bad
+[21:59:27] <red_sky> hit g, wait 10 seconds, finally lets the i go... wait another 10 seconds
+[21:59:37] <red_sky> and then the t I typed finally goes
+[21:59:37] <danopia> what are you on, a netbook?
+[21:59:42] <danopia> (which i've used eclipse on, btw)
+[21:59:44] <red_sky> a powerful laptop
+[21:59:59] <danopia> i've never used eclipse on anything more than a 1.2GHz AMD dualcore
+[22:00:02] <red_sky> (for a laptop)
+[22:00:03] <danopia> until now, of course
+[22:00:09] <red_sky> 8GB ram, i7 CPU
+[22:00:27] <danopia> now i'm using it on 66GB RAM, 32-core..
+[22:00:38] <wjoe> cheater
