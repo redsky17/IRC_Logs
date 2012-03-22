@@ -1340,3 +1340,29 @@
 [13:29:15] <member68> jaimeh: terrible support though. used to have a friend working there who toke care of things. he quit some time ago though
 [13:29:25] ### markerz_ has joined ##reddit-android-developers
 [13:30:06] <jaimeh_> smirk: try to stay on topic please.
+[13:30:18] ### markerz has quit the server. (Ping timeout: 245 seconds)
+[13:30:26] <smirk> ok
+[13:30:34] <wjoe> I just think it's a bit silly to set everything up again on another server when I've spent the better part of a week doing it. but I guess I'm biased :p
+[13:30:56] <smirk> just trying to make frinds too
+[13:31:13] <smirk> friends
+[13:31:44] <member68> it'll take at least 1-2 weeks till i get the server. but i'd rather not wait that long before starting development
+[13:31:54] <joholz> member68, do we have the gerrit link for repo somewhere?
+[13:32:12] <joholz> or just working on it?
+[13:32:18] <wjoe> still working on it
+[13:32:20] <member68> gerrit doesn't work yet
+[13:32:25] <joholz> ok
+[13:32:38] <wjoe> I guess you get the fun of doing all this setup again in a week or two then ;)
+[13:32:41] <jaimeh_> At this point we probably should just use patch pushes on github.
+[13:34:06] <member68> what do you think, wjoe? it's a lot of work you do (i haven't forgotten that) so you should have a saying in this as well
+[13:34:32] <smirk> well im gonna watch tv then while my computer is being hit by that fuck ass in his car who left his lights off
+[13:35:09] <jaimeh_> It will be okay, wjoe
+[13:36:10] <wjoe> it does make sense to have this centralised, but the setup has been quite awkward, and I'm not certain everything will transfer across easily
+[13:36:53] <wjoe> not sure how much control you get with a virtual server, but it's probably adequate. and I think they're talking nonsense about not being able to change the nameservers :p
+[13:37:13] <TheNumb> wjoe: apparently that vserver is just a vps.
+[13:38:08] <jaimeh_> It is not too hard to host all of it on one server
+[13:38:18] <jaimeh_> just use apache vhosts
+[13:38:27] <TheNumb> apache ;o
+[13:39:25] <jaimeh_> I mean apache through passenger for redmine, php is default, and java is through a reverse proxy
+[13:39:44] <member68> I'd say we continue to use wjoe's server. when the time comes we can decide again if we want to centralise the systems
+[13:40:03] <member68> i'm getting the server no matter what as it's cheaper than my current hosting package
+[13:40:08] <wjoe> makes sense
