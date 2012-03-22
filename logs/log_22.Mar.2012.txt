@@ -1171,3 +1171,38 @@
 [12:27:18] <joholz> jaimeh, not sure.. maybe the just forgot it
 [12:29:10] <member68> reverted to the old page. i'll work on the new one later when i have time
 [12:30:02] <jaimeh_> Who is anyonethinkingabout on reddit?
+[12:30:12] <danopia> ffffffffffffffffffffffffffff
+[12:31:02] <member68> if you can fix it now danopia, go ahead. it don't have the time atm
+[12:31:32] ### tmoskowite has joined ##reddit-android-developers
+[12:31:44] <danopia> i had a math exam 2 hour ago....
+[12:32:01] <member68> it
+[12:32:12] <danopia> i was tired but i wasn't goign to sleep. but 2.5 hours ago, someone i manage to fall asleep
+[12:32:16] <member68> nevermind then. the old page will do for now
+[12:32:30] <danopia> i wake up just now, 60 seconds after the exam ended
+[12:32:35] <member68> oh shit
+[12:32:52] <danopia> as if sleep's trying to rub it in my face
+[12:32:52] <jaimeh_> danopia: :(
+[12:32:53] ### rapidfyre has quit the server. (Quit: Bye)
+[12:33:08] <vcarl> daniopia, i did that for a final last semester :(
+[12:33:11] <vcarl> i feel your pain
+[12:33:13] <red_sky> oh no :(
+[12:33:23] <danopia> the sad part is before i fell asleep, i thought something about how i shuold be setting an alarm just in case
+[12:33:30] <danopia> and then thought it was stuipd
+[12:33:39] <danopia> stupid tiredness
+[12:34:03] <jaimeh_> I have done the setting alarm part and still woke up an hour after a test. Sleep 8 hours before a test is my lesson
+[12:34:15] <jaimeh_> That was a quite a while ago
+[12:34:32] <member68> when is the next time you get a chance to take that test?
+[12:34:48] <danopia> member68, i'm pretty sure it doesn't work like that
+[12:34:56] <danopia> so i think i just failed this class...
+[12:35:12] <jaimeh_> danopia: Will have to get A's on all other parts of the class to pull out a C
+[12:35:14] <tmoskowite> My buddy slept through his final
+[12:35:22] <tmoskowite> he walked in and everyone was turning in their exams
+[12:35:37] <tmoskowite> he has never done anything like that before....i think he cried
+[12:35:55] <tmoskowite> He is one of those A+++ students
+[12:36:21] <jaimeh_> Well danopia, you are not alone. Remember to get your sleep next time.
+[12:36:26] <danopia> heh
+[12:36:38] <danopia> my mistake was definately being less than 5 feet from the bed
+[12:37:16] <TheNumb> Bed y u so comfy? :<
+[12:39:13] <jaimeh_> Looks like we may see a rage comic from danopia soon...
+[12:39:29] <danopia> sorry, i don't make them
+[12:39:49] <joholz> y u no make comics
