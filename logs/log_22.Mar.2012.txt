@@ -2153,3 +2153,11 @@
 [19:04:17] ### markerz| has joined ##reddit-android-developers
 [19:06:44] ### Hannesver has quit the server. (Quit: Leaving)
 [19:09:53] ### Hannesver has joined ##reddit-android-developers
+[19:12:54] ### Hannesver has quit the server. (Client Quit)
+[19:12:59] ### Hannesver has joined ##reddit-android-developers
+[19:18:43] <wjoe> sorry, guess the server had a momentary blip. seems fine now. haven't managed to get gerrit working yet, should be done tomorrow
+[19:19:00] <veeti> wjoe: did you ever try restarting gerrit after adding yourself as admin?
+[19:19:22] <wjoe> yeah. no luck yet
+[19:19:28] <veeti> hm
+[19:19:39] <wjoe> I can't get ssh access to it, which is how you're supposed to do some of the admin
+[19:19:47] <wjoe> set it up for my user, but it doesn't have rights
