@@ -3659,3 +3659,6 @@
 [23:07:53] <Sanit> ..I forgot to declare the activity in the manifest
 [23:08:43] <danopia> yea, that'll do that
 [23:09:50] ### vcarl has quit the server. (Read error: Connection reset by peer)
+[23:13:08] ### vcarl has joined ##reddit-android-developers
+[23:17:16] ### ballpointcarrot has joined ##reddit-android-developers
+[23:19:10] <shmup> hm, set up egit. don't see import under file, to do this: http://gyazo.com/b55fa808a39048ae7563db9587f24eee
