@@ -733,3 +733,43 @@
 [08:24:26] <member68> *new domain registar
 [08:26:57] <Hogofwar> member68, and can I have a screenie of your A record input page?
 [08:27:17] <member68> hold on
+[08:31:38] <member68> it's all in german, sorry about that. i hope you can figure out the words using leo or the context
+[08:31:39] <member68> http://awesomescreenshot.com/09622fnba
+[08:31:44] <member68> http://awesomescreenshot.com/0ce22fm34
+[08:31:47] <member68> http://awesomescreenshot.com/04322fr07
+[08:31:51] <member68> http://awesomescreenshot.com/04e22ft08
+[08:32:28] <member68> i'm testing on my personal domain btw. didn't want redditandroiddevelopers to go down for some reason
+[08:32:58] ### markerz| has joined ##reddit-android-developers
+[08:32:58] ### markerz has quit the server. (Read error: Connection reset by peer)
+[08:33:35] <danopia> anything that takes URLs and paths as the target of a subdomain is NOT what you want
+[08:33:59] <member68> that's the only option my hoster presents to me
+[08:34:15] <Hogofwar> shit hoster
+[08:34:18] <danopia> so you're trying afraid?
+[08:34:41] <member68> any alternatives to hosting with them? i don't really care anymore if i have to change hosters
+[08:34:57] <Hogofwar> member68, I use Hostingreborn
+[08:35:08] <Hogofwar> It's pay as you go and can be quite cheap with small amounts of traffic
+[08:35:25] <Hogofwar> Ituses cpanel so you get the A record adder: http://i.imgur.com/NwIxB.png
+[08:36:23] <Hogofwar> I also use namecheap for my domain
+[08:36:33] <Hogofwar> Their transfer is quite easy
+[08:36:47] <Hogofwar> it costs a tiny bit but by no means a fortune
+[08:36:54] <Hogofwar> danopia, what are cnames for anyway
+[08:37:21] <member68> is hostingreborn just domain registrar or do they provide hosting too? if they offer hosting, what kind of servers do they provide? i'd like to have java on there if possible
+[08:37:30] <danopia> Hogofwar, this: http://i.imgur.com/jibIf.png
+[08:37:37] <Hogofwar> member68, only hosting
+[08:37:46] <danopia> basically if you use lots of cloud hosts and dyndns, you'll use cnames
+[08:37:57] <danopia> i only use A's at the root because that's required by the DNS system
+[08:38:02] <Hogofwar> danopia, do you use namcheap as hosting?
+[08:38:13] <danopia> only for a domain
+[08:38:20] <danopia> i don't pay for anything except the domain
+[08:38:32] <Hogofwar> where the hell is that menu then
+[08:38:36] <Hogofwar> I havent' seen it before
+[08:38:46] <danopia> "All Host Records" under manage domain
+[08:38:47] <member68> namcheap looks good for my domain name. I'll look into hosting in a few minutes after calling my current hoster
+[08:38:49] <Hogofwar> member68, redditandroiddevelopers.com cannot be transfered
+[08:38:49] <Hogofwar> This domain is not yet 60 days old
+[08:39:00] <danopia> Home > My Account > Manage Domains > Modify Domain
+[08:39:05] <member68> damn it
+[08:39:29] <danopia> member68, i saw you using afraiddns in the panel
+[08:39:33] <danopia> how'd that work?
+[08:39:46] <Hogofwar> danopia, where is modify domain
+[08:39:58] <member68> first it said "in progress", then it reverted back to the 1blu-dns server
