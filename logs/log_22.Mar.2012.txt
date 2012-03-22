@@ -340,3 +340,24 @@
 [04:35:16] ### markerz| has joined ##reddit-android-developers
 [04:35:17] ### markerz has quit the server. (Read error: Connection reset by peer)
 [04:39:01] ### ballpointcarrot has quit the server. (Quit: Quit.)
+[04:40:42] ### Archelaus has joined ##reddit-android-developers
+[04:41:26] <Archelaus> \o/
+[04:43:14] <Archelaus> I was wondering how I would go about getting into one of the many teams you guys have goin'
+[04:44:34] ### RAWR has joined ##reddit-android-developers
+[04:44:41] <adamell> Send a $50 made out to C.A.S.H. and send it to the prince of Nigeria
+[04:45:15] ### anjoyed is now known as prince_of_nigeri
+[04:45:39] <Archelaus> unfortunately i do not fall for that
+[04:45:50] <prince_of_nigeri> nuts
+[04:45:52] <Archelaus> not to brag, i did get an email from the queen of tibet
+[04:45:54] <adamell> lol
+[04:46:07] ### prince_of_nigeri is now known as anjoyed
+[04:46:21] <member68> do we still need the alpha project on github?
+[04:46:22] <Archelaus> she needs 1,000 pounds to feed the hungry and will pay me back as soon as she can
+[04:47:30] <member68> Archelaus: click on the project and you should see a sign up link on the right
+[04:48:06] <Archelaus> https://docs.google.com/spreadsheet/viewform?formkey=dHFNdllONnVlMWNnQ095M0VaRkxBMFE6MQ ?
+[04:48:28] <Archelaus> ensure I have the correct part, the amount of times I've accidentally signed up for gmail is redic ;) ;P
+[04:48:35] <Archelaus> ensuring*
+[04:48:43] <member68> try dev.redditandroiddevelopers.com
+[04:48:50] <member68> http://dev.redditandroiddevelopers.com
+[04:49:23] ### deliwien has joined ##reddit-android-developers
+[04:49:31] <Archelaus> Ah, redmine, this is something I've very much so familiar with
