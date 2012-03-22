@@ -2143,3 +2143,9 @@
 [18:45:55] ### mikeniek192 has quit the server. (Client Quit)
 [18:47:15] <jaimeh> If redmine is down, I doubt gerrit will be working.
 [18:47:36] <jaimeh> wjoe is not responding.
+[18:52:19] ### jaymax| has quit the server. (Quit: Bye)
+[18:52:47] <Raionic> redmine works for me?
+[18:53:23] <jaimeh> Well it is back up.
+[18:55:03] ### pocus has joined ##reddit-android-developers
+[18:55:10] ### adamell has quit the server. (Quit: Computer has gone to sleep.)
+[18:56:45] ### malik has quit the server. (Quit: Page closed)
