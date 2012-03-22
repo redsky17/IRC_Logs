@@ -2161,3 +2161,20 @@
 [19:19:28] <veeti> hm
 [19:19:39] <wjoe> I can't get ssh access to it, which is how you're supposed to do some of the admin
 [19:19:47] <wjoe> set it up for my user, but it doesn't have rights
+[19:20:37] <shmup> djl75: curious, do you see many errors on the server console?
+[19:20:40] <shmup> for wargames
+[19:21:10] <Hogofwar> g'night guys
+[19:21:20] <veeti> bye
+[19:21:47] ### D-Lon has joined ##reddit-android-developers
+[19:24:25] <D-Lon> How do I log into the redmine site?
+[19:24:36] <veeti> http://rad.lc8n.com/
+[19:24:38] <veeti> register
+[19:25:18] <D-Lon> wow, I'm blind, I must have looked at that page 5 times without seeing that register link
+[19:26:04] ### jaimeh has quit the server. (Remote host closed the connection)
+[19:26:19] <veeti> well it is pretty small
+[19:26:25] <veeti> and hidden away in the top bar
+[19:26:37] ### jaimeh has joined ##reddit-android-developers
+[19:26:38] ### Hogofwar has quit the server. (Ping timeout: 246 seconds)
+[19:28:18] ### D-Lon_ has joined ##reddit-android-developers
+[19:29:02] <markerz> Nah, I missed it a couple of times the first time around.
+[19:29:28] ### D-Lon has quit the server. (Ping timeout: 245 seconds)
