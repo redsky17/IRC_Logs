@@ -1084,3 +1084,15 @@
 [10:53:26] ### itsKitsos has quit the server. (Ping timeout: 244 seconds)
 [10:56:23] ### rapidfyre has quit the server. (Quit: Bye)
 [10:59:37] ### aschneid has quit the server. (Quit: Page closed)
+[11:00:26] ### ballpointcarrot has joined ##reddit-android-developers
+[11:03:46] <wjoe> sorry, working on it, I think something's not set up right though :/ I can't even add anything myself at the moment
+[11:05:23] <member68> i read something about the first user that registers is given admin rights
+[11:05:52] ### aesptux has quit the server. (Quit: Leaving)
+[11:06:03] <member68> mmh...my account id is "2". means you would be "1" which should be admin
+[11:06:51] <wjoe> yeah. should be. well, I have an 'Administration' tab, which has 'Groups' and 'Projects' links, but I can't do anything within that
+[11:07:04] <member68> same for me
+[11:07:28] <member68> check the database, maybe someone was faster and registered as "0"
+[11:07:58] <veeti> i think that admin thing is visible to anyone
+[11:08:06] <veeti> try signing in at https://android-review.googlesource.com/ and it'll show up
+[11:09:42] ### RAWR has quit the server. (Ping timeout: 272 seconds)
+[11:09:57] <wjoe> just me, you, and veeti registered (in that order). as far as I can tell from the database though, no one is assigned to any groups. I tried adding myself to the administrator group manually, it didn't do anything
