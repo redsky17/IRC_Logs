@@ -55,3 +55,19 @@
 [01:49:47] <ballpointcarrot> chances are, someone pushed between the last time you pulled and your push.
 [01:54:20] <joholz> ballointcarrot: thanks
 [01:54:36] <joholz> *ballpointcarrot
+[02:02:16] ### Esge has joined ##reddit-android-developers
+[02:03:31] ### smirk has joined ##reddit-android-developers
+[02:04:06] <smirk> sup?
+[02:05:20] <smirk> how yall doin ... i miss my computer i hate this wii no real keyboard shit
+[02:05:55] <smirk> but freenode is the shiz
+[02:06:24] <joholz> im doing alright, playing around with git atm
+[02:07:10] <joholz> is it possible to write a commit on every file (custom commits for files)
+[02:07:45] <smirk> whats that?
+[02:08:13] <smirk> git atm?
+[02:08:25] <joholz> GitHub at the moment
+[02:09:09] <smirk> i cant wait till i get another computer
+[02:09:29] <joholz> haha i can tell, what happened to you old one?
+[02:09:32] <joholz> just too old?
+[02:09:43] <danopia> joholz, what do you mean by "on every file"?
+[02:09:48] <smirk> so i can google more easier
+[02:09:56] <danopia> you're free to address every file in your message
