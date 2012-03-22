@@ -514,3 +514,13 @@
 [06:09:13] <adamell> We also get a logo!
 [06:09:52] <adamell> RAD GTL?
 [06:09:58] <adamell> no
+[06:10:39] <c0smic> RAD Google Tasker?
+[06:10:45] <adamell> Oooooo
+[06:10:49] <adamell> i like that
+[06:11:39] <adamell> Does everybody else?
+[06:11:48] <anjoyed> +1
+[06:12:41] <adamell> done
+[06:12:57] <c0smic> By unanimous vote ;)
+[06:13:00] <c0smic> Sounds good
+[06:14:23] ### markerz| has joined ##reddit-android-developers
+[06:14:23] ### markerz has quit the server. (Read error: Connection reset by peer)
