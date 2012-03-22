@@ -1,2 +1,11 @@
 [00:00:05] <ballpointcarrot> Sanit has taken point for the most part; put together the inital github repo. It was forked to the RAD org, and looks like there's an issue and a pull request waiting.
 [00:00:40] ### aschneid has quit the server. (Quit: Leaving)
+[00:02:23] <Sanit> pull request is merged
+[00:07:14] <Sanit> Right, I pushed what I have done so far
+[00:07:49] ### jselk has quit the server. (Quit: Page closed)
+[00:08:00] <Sanit> not working fully, I'm fairly tired so I will have a look at it tomorrow if no one fixes it while I'm away.
+[00:08:01] <jaimeh> Sanit did we figure out what a name space for all projects?
+[00:08:13] <Sanit> it was either the long one or the short one
+[00:08:20] <Sanit> I don't think we decided
+[00:08:48] <jaimeh> Tomorrow morning should be better as all the international people should be on.
+[00:09:46] <Sanit> international relative to who?
