@@ -1958,3 +1958,60 @@
 [17:29:45] <adamell> It's an x wing, without the x
 [17:29:57] <anyonethinkingab> jaimeh http://laptop.danopia.net/
 [17:29:58] <anjoyed_o0O> so, a wing?
+[17:30:05] <adamell> lull
+[17:30:11] <anyonethinkingab> haha
+[17:30:20] <anjoyed_o0O> :)
+[17:30:25] ### markerz has joined ##reddit-android-developers
+[17:30:54] <jaimeh> hmm... markerz lives nearby
+[17:31:32] <ThatPlayer> http://thatplayer.com/irc.html
+[17:31:33] <ThatPlayer> =]
+[17:31:34] <adamell> Has anybody else had trouble with importing com.google.api
+[17:31:35] <adamell> ?
+[17:31:39] <ThatPlayer> Now to figure out how to setup a cronjob thing
+[17:31:54] <anjoyed_o0O> crontab -e
+[17:32:09] <ThatPlayer> What that really means is I'm procrastinating while I eat breakfast
+[17:32:41] <anyonethinkingab> Raionic:  i just ruined the map
+[17:32:42] <adamell> Breakfast? It cant be more than midnight where you are?
+[17:32:56] <Raionic> Which map?
+[17:33:01] <anyonethinkingab> http://laptop.danopia.net/
+[17:33:05] <ThatPlayer> It's 2 pm, but I just woke up. So it's breakfast =)
+[17:33:30] <Raionic> That's awesome
+[17:33:40] <anyonethinkingab> no nba today... fck
+[17:33:46] <adamell> anjoyed_o0O: anyonethinkingab: Raionic: ThatPlayer: jaimeh: ballpointcarrot: danopia:
+[17:33:56] <adamell> sorry
+[17:34:01] <adamell> i couldn't resist
+[17:34:02] <ThatPlayer> lol
+[17:34:08] <anyonethinkingab> that didn;t even work
+[17:34:10] <ThatPlayer> Do it again I wasn't watching
+[17:34:13] <ballpointcarrot> take 2
+[17:34:18] <anjoyed_o0O> I'm omnipresent
+[17:34:20] <danopia> it only does the first one
+[17:34:24] <adamell> damnit
+[17:34:25] <danopia> and anjoyed_o0O doesn't have a location
+[17:34:37] <danopia> hence, no result
+[17:34:38] <ballpointcarrot> sad pandas.
+[17:34:39] <anjoyed_o0O> black magic!
+[17:34:45] <danopia> anjoyed_o0O, just your cloak :P
+[17:34:52] <anjoyed_o0O> bah
+[17:34:54] <anjoyed_o0O> :)
+[17:34:54] <danopia> i don't have coords either
+[17:34:57] <danopia> i can fix that
+[17:35:05] ### danopia has parted (left) the channel.
+[17:35:05] ### danopia has joined ##reddit-android-developers
+[17:35:07] <anyonethinkingab> oh :D
+[17:35:08] <danopia> hi?
+[17:35:10] <danopia> nope
+[17:35:11] ### danopia has parted (left) the channel.
+[17:35:21] ### danopia` has joined ##reddit-android-developers
+[17:35:23] <danopia`> hi
+[17:35:26] <danopia`> FUUU
+[17:35:29] <anyonethinkingab> danopia`:
+[17:35:39] <anyonethinkingab> haha
+[17:35:40] <danopia`> still have my darn cloak
+[17:36:01] ### djl75 has joined ##reddit-android-developers
+[17:36:08] <djl75> hi
+[17:36:11] <djl75> there i go
+[17:37:05] <anyonethinkingab> nice
+[17:37:25] <Raionic> looks like 3 of us nearby
+[17:37:45] <adamell> Was it done in Ruby?
+[17:37:48] <markerz> I like the line across Europe
