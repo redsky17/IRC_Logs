@@ -3535,3 +3535,31 @@
 [22:29:53] <danopia> http://i.imgur.com/KYfJr.png
 [22:30:06] <anjoyed_o0O> stick a ticket up with a little description saying that, then assign it to yourself
 [22:30:07] <Sanit> you want to try implement the gallery submission?
+[22:30:08] <danopia> 2.1 vs. 4.0... i use 2.3 personally, so all the stuff on the 4.0 sim is new to me
+[22:30:14] <Sanit> anjoyed_o0O: will do
+[22:30:40] <anjoyed_o0O> best way to let people know what is being worked on and what is still open/to do
+[22:30:44] <joholz> most people are 2.3 according to pie chart anyways
+[22:30:57] <anjoyed_o0O> pie is never wrong
+[22:30:57] <Sanit> i.e. select image from gallery using the app, have it bring you to a new Activity with a title field, thumbnail and a submit button
+[22:31:50] ### red_sky has quit the server. (Ping timeout: 240 seconds)
+[22:31:58] <wjoe> for that, you need to set the intent in AndroidManifest.xml
+[22:32:03] <wjoe> http://blatech.co.uk/?p=blauploader.git;a=blob;f=AndroidManifest.xml;h=ea526c35b332585c658a7374a3fc798d0ec40e79;hb=HEAD
+[22:32:11] <wjoe> ^ see the FileShare activity there
+[22:32:23] ### sam_ has quit the server. (Ping timeout: 245 seconds)
+[22:34:10] ### adamell has quit the server. (Quit: Computer has gone to sleep.)
+[22:34:41] <brkastner> Alright, I'm having some issues here, I forgot how to open a project from github in eclipse
+[22:35:01] <brkastner> do I create a new android project from existing source? It's been awhile that I've had to create a project based on existing source.
+[22:35:27] <Sanit> looking at it now. bookmarked for later
+[22:35:32] <anjoyed_o0O> Not sure if this is 100% accurate as I had it installed before writing it, but for mylyn setup:
+[22:35:39] <anjoyed_o0O> http://rad.lc8n.com/projects/general-organization/wiki/Mylyn_setup
+[22:35:43] <Sanit> brkastner: the git fetch command
+[22:35:48] <Sanit> *i think
+[22:35:53] <anjoyed_o0O> if any mistakes just fix em up
+[22:36:02] <anjoyed_o0O> g'night
+[22:36:02] <brkastner> I mean I've cloned the source and everything, do I do Import or New project from existing source/
+[22:36:35] <Sanit> hmmm.. have you tried either?
+[22:36:38] <Sanit> never did it myself
+[22:36:49] <danopia> you open
+[22:37:22] <brkastner> Nvm, Import seems to be what I wanted.
+[22:40:01] ### adamell has joined ##reddit-android-developers
+[22:40:20] ### anjoyed_o0O has quit the server. (Ping timeout: 245 seconds)
