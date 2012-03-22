@@ -31,3 +31,6 @@
 [00:20:59] <ballpointcarrot> bye Sanit
 [00:25:06] ### adamell has quit the server. (Quit: Computer has gone to sleep.)
 [00:26:14] ### Sanit has quit the server. (Ping timeout: 272 seconds)
+[00:32:15] ### ballpointcarrot has quit the server. (Quit: Quit.)
+[00:34:25] ### zubsani has joined ##reddit-android-developers
+[00:38:39] ### ballpointcarrot has joined ##reddit-android-developers
