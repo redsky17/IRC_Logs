@@ -1056,3 +1056,20 @@
 [10:25:05] <member68> i'm just a regular user at the moment. not much i can do ;)
 [10:26:14] <wjoe> oh right :p I'll go fix that
 [10:27:48] ### Esge has quit the server. (Quit: Personally its not God I dislike, its his fan club I cant stand)
+[10:30:19] ### jaymax has joined ##reddit-android-developers
+[10:30:42] ### aschneid has joined ##reddit-android-developers
+[10:30:53] <itsKitsos> does the reddit mobile app have a pm atm?
+[10:32:09] ### markerz has joined ##reddit-android-developers
+[10:32:27] <member68> we decided to work on that later when we have all the systems figured out. we all want a good reddit app, something which is difficult to make if you don't understand the systems yet
+[10:32:51] <itsKitsos> nice, can't wait to have that final product  installed then
+[10:33:41] <TheNumb> Anyone testing Photoshop CS6? <:
+[10:34:00] <member68> tried it earlier ;)
+[10:34:02] <Hogofwar> adobe programs got shit after cs3
+[10:34:07] <TheNumb> member68: and? :P
+[10:35:07] ### markerz| has joined ##reddit-android-developers
+[10:35:07] ### markerz has quit the server. (Read error: Connection reset by peer)
+[10:35:45] <member68> i like it. i work at lot with raw files which makes the changes in camera raw really interesting to me
+[10:36:01] <member68> have you seen the video on this page? http://video.golem.de/foto/7605/adobe-stellt-kernfunktionen-von-photoshop-cs6-vor.html ignore the german article
+[10:37:16] <aesptux> Guys, did you know this webpage? http://gitimmersion.com/ So useful for git begginers
+[10:37:48] ### kiel3 has quit the server. (Ping timeout: 245 seconds)
+[10:38:20] <Sanit> test
