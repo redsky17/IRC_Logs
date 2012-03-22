@@ -2062,3 +2062,38 @@
 [17:59:39] <Hannesver> Around Ghent.
 [17:59:45] <jaimeh> ghent is boring
 [17:59:55] <anyonethinkingab> oh
+[18:00:11] <anyonethinkingab> Hasselt here, if you'd like to know
+[18:00:20] <Hannesver> Oh, alright.
+[18:00:37] <Hannesver> And how do you know I'm from Belgium?
+[18:00:47] <jaimeh> whois Hannesver
+[18:00:48] <anyonethinkingab> http://laptop.danopia.net/
+[18:01:24] <Hannesver> Okay, that's slightly awesome.
+[18:01:53] <jaimeh> wjoe?
+[18:02:36] <shmup> hah, very cool man
+[18:02:45] ### malik has joined ##reddit-android-developers
+[18:02:54] <malik> hi all
+[18:03:08] <shmup> danopia`: you made this i assume?
+[18:03:41] <malik> I saw that there's a pm for the restaurant tab app and wanted to know how are we supposed to get in touch with them to let them know we'd like to commit?
+[18:03:45] <djl75> shmup, i found it
+[18:03:48] <djl75> and got it working again
+[18:03:59] <shmup> djl75: is it on your github?
+[18:04:03] <shmup> i'd like to use it for a slashnet channel
+[18:04:19] <djl75> actually yes, because i forked it to commit like 2 things
+[18:04:23] <djl75> it uses node.js
+[18:05:04] <djl75> shmup, are cloaks common on slashnet?
+[18:05:30] <shmup> nope, well not in my channel
+[18:05:36] <shmup> #mefi, the metifilter channel
+[18:05:38] <veeti> malik: work hasn't actually started on anything yet
+[18:05:39] <djl75> good, because they break it :P
+[18:05:45] <shmup> yeah makes sense :P
+[18:05:48] <Raionic> Ah i just noticed the lines on the map lol
+[18:05:48] <veeti> i'd recommend you stick around here
+[18:06:02] <djl75> those are mentions :P
+[18:06:03] <malik> @veeti I know, I just wanna stay in the loop
+[18:06:20] <malik> @veeti will there be any app specific mailing lists?
+[18:06:37] <veeti> well something like that hasn't been decided yet at least
+[18:07:06] <malik> Okie doke
+[18:07:24] <malik> so what's actually happening right now?
+[18:07:50] <veeti> you can sign up at http://rad.lc8n.com/ and join projects you're interested in
+[18:09:57] <malik> the registration doesn't work
+[18:10:10] <veeti> what's wrong
