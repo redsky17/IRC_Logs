@@ -2120,3 +2120,14 @@
 [18:27:13] <anyonethinkingab> thanks
 [18:28:23] <anyonethinkingab> adamell somebody asked to be your sidekick as PM for the google tasks thing
 [18:28:25] <Hogofwar> wha
+[18:30:22] <adamell> jaimeh did
+[18:30:25] <jaimeh> Yeah
+[18:30:29] <jaimeh> already on
+[18:30:51] <jaimeh> c0smic, where is the RestaurantTab project?
+[18:31:13] <jaimeh> adamell, alright I think I have everything I need downloaded.
+[18:31:37] <anyonethinkingab> jaimeh are you D-Lon?
+[18:31:56] <jaimeh> Oh, no.
+[18:32:03] <jaimeh> On Reddit?
+[18:32:05] <jaimeh> No
+[18:33:58] <anyonethinkingab> oh
+[18:38:39] <deliwien> if someone wants to join the Tamagotchi project: /join ##RAD_Tamagotchi
