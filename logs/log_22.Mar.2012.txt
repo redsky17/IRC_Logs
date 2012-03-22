@@ -1393,3 +1393,42 @@
 [13:48:54] <jaimeh_> danopia: seems like you need to sleep more to get your wits
 [13:49:01] <danopia> member68, everything
 [13:49:27] <danopia> i got to the lounge then realized i needed it to 1) get in 2) print 3) get food when i was done 4) getting into my room after that
+[13:50:32] <Hogofwar> uh
+[13:50:39] <Hogofwar> finding nemo 2?
+[13:50:53] <Hogofwar> wait no
+[13:50:56] <Hogofwar> remade for 3d
+[13:50:58] <Hogofwar> idiots
+[13:51:03] <anyonethinkingab> haha
+[13:51:07] <danopia> well, i /thought/ i left it in my room. can't find it though
+[13:51:09] <cgarcia>  /quit
+[13:51:13] ### cgarcia has parted (left) the channel.
+[13:51:37] <anyonethinkingab> woops 5 reddit messages ^^ party!
+[13:52:00] <danopia> ok, go it.... take 2
+[13:52:03] <danopia> got*
+[13:52:26] <danopia> jaimeh_, thing is i often run on low sleep, or sleep every other day
+[13:52:46] <danopia> but the past 4 days i've been getting full nights, except last night
+[13:52:48] ### Sanit has joined ##reddit-android-developers
+[13:52:50] <jaimeh_> danopia: apparently not well
+[13:52:55] ### generic has joined ##reddit-android-developers
+[13:53:07] <danopia> normally i'm not bad, unless i haev a morning/long math class
+[13:54:30] ### alextsc_ has quit the server. (Read error: Connection reset by peer)
+[13:54:35] <Hogofwar> a borrowers by anime?
+[13:54:53] ### generic has quit the server. (Client Quit)
+[13:56:24] ### aschneid has joined ##reddit-android-developers
+[13:56:48] <anyonethinkingab> member68:  are the mobile reddit client and the tamagotchi postponed?
+[13:57:04] <Hogofwar> anyonethinkingab, both quite complicated?
+[13:57:17] <anyonethinkingab> i don't know, if there are good pm's?
+[13:58:10] <Hogofwar> Anyone here getting a raspberry pi?
+[13:58:25] <jaimeh_> I plan to, but not for a couple months
+[13:58:31] <jaimeh_> Is it out yet?
+[13:58:37] <member68> they are postpone. i want everybody to know the systems before working on an app that is as important to many of us as a reddit client
+[13:58:45] <Hogofwar> jaimeh_, it had one manufacturing run but sold out within minutes
+[13:59:09] <Hogofwar> They are yet to get another shipment out and AFAIK you have to register your interest to get a chance to get one
+[13:59:16] <wjoe> I ordered one on the day it was announced, but still going to be waiting at least a month
+[13:59:19] <jaimeh_> That is okay with me then. Ill get it when they have more.
+[13:59:35] <anyonethinkingab> member68:  the quick submit app stays?
+[13:59:38] <wjoe> delivery estimate was supposedly 14th april, but I wouldn't count on it
+[13:59:53] <Hogofwar> anyonethinkingab, that's easy though
+[13:59:56] <anyonethinkingab> ok ok
+[14:00:06] <anyonethinkingab> i got a couple reaction
+[14:00:07] <anyonethinkingab> s
