@@ -3441,3 +3441,27 @@
 [22:09:48] <wjoe> I do remember just installing it from source before because something wasn't right with the package manager version. maybe just because it's a very basic version, and you can download the ones with some plugins included on the site
 [22:09:51] <wjoe> weird
 [22:09:56] <wjoe> well, that sounds like eclipse
+[22:10:15] <wjoe> that's the thing that I dislike about it. if it's missing a dependency when you go install a plugin, it just gives up
+[22:10:21] <wjoe> as far as I remember, anyway
+[22:11:26] <jaimeh> I have always had trouble with eclipse installed from the package manager. Mainly because of file ownership problems
+[22:11:42] <danopia> is it resource abuse to run an android simlatuor on the uni cluster?.... hmm
+[22:12:14] <anjoyed_o0O> the plugins are all hosted by their developers, usually on update sites. No central repo so no way to resolve a lot of dependancy problems
+[22:12:40] ### cigarsquid has quit the server. (Quit: Page closed)
+[22:12:51] <wjoe> ahh, that explains some things
+[22:13:59] <anjoyed_o0O> would be nice if it checked all the update sites you had added, and checked them for missing dependencies but it is messy
+[22:15:39] ### brkastner has joined ##reddit-android-developers
+[22:15:55] <brkastner> Is github user ThisIsColm online?
+[22:16:28] <danopia> awww
+[22:16:41] <danopia> AVD doesn't allocate devices their own IPs with DHCP
+[22:17:41] <brkastner> How do I get write access to a specific project that I'm a part of in the organization? (I'm an organization member but do not have access to Reddit-Quick-Submit which I am a part of on redmine)
+[22:18:48] <jaimeh> The project manager I would hope
+[22:18:54] <anjoyed_o0O> no write access on github yet
+[22:19:31] <jaimeh> You should be doing it in your own fork anyway
+[22:19:33] <wjoe> brkastner: you mean on github? not sure, but I don't think they're letting people push changes to it at the moment anyway, until we set up some sort of code review system
+[22:20:05] <brkastner> Well there is an application that's been receiving updates (Reddit-Quick-Submit) and I'd like to start contributing as well. So at the moment only the person who created the project is allowed to commit to it?
+[22:20:08] <adamell> FORK
+[22:20:12] <adamell> FORK
+[22:20:12] <adamell> FORK
+[22:20:16] <brkastner> I prefer spoons?
+[22:20:16] <adamell> Always fork and push
+[22:20:22] <adamell> fork and push
