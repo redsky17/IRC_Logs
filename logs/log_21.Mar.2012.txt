@@ -2657,3 +2657,36 @@
 [19:48:23] ### Billd is now known as Hiver
 [19:49:45] <anyonethinkingab> i think we'll need 2 PMs for the reddit client
 [19:49:57] <anjoyed_o0O> mylyn redmine connector is allowing tasks to be pulled from the site, but won't authenticate to update them from eclipse
+[19:50:10] <adamell> If someone on the  creates a master branch one https://github.com/RedditAndroidDev (probably just a blank project) I'll fork it and get to work right away.
+[19:50:16] ### BrandonBolton has quit the server. (Read error: Connection reset by peer)
+[19:51:03] <Sanit> you accidentally a word
+[19:51:56] <adamell> Yes I did and I feel very silly.
+[19:52:05] <Hogofwar> member68, kick RadLogii
+[19:52:15] ### RadLogii was kicked from ##reddit-android-developers by member68 (RadLogii)
+[19:52:15] ### RadLogii has joined ##reddit-android-developers
+[19:52:21] <Hogofwar> heh
+[19:52:23] <Hogofwar> still works
+[19:52:25] <anjoyed_o0O> lol
+[19:52:46] ### RadLogii was kicked from ##reddit-android-developers by member68 (RadLogii)
+[19:52:46] ### RadLogii has joined ##reddit-android-developers
+[19:52:55] <member68> not a very creative bot ;=
+[19:52:57] <member68> ;)
+[19:53:04] <Hogofwar> :P
+[19:53:11] <member68> but it works ;)
+[19:53:20] <Hogofwar> Not exactly going to great lengths if it is kicked
+[19:53:29] <Hogofwar> which it shouldn't be in the first place
+[19:54:07] <anyonethinkingab> haha
+[19:54:27] <anyonethinkingab> i'm gonna go, ig you want to be PM, contact 68, see you tomorrow
+[19:54:38] <adamell> cheers
+[19:54:42] <Raionic> i wonder how frequent IRC Flooding is now a days........i remember back when i was on IRC frequently (mid 90s) that was a common thing
+[19:54:50] ### markerz has joined ##reddit-android-developers
+[19:55:36] ### anyonethinkingab has quit the server. (Quit: Ex-Chat)
+[19:56:03] <member68> adamell, coding won't start until tommorrow as far as i can tell
+[19:56:13] <member68> you can start locally tough if you want
+[19:56:30] <member68> just pick a project, I'll add you as PM and you can start
+[19:57:28] ### persona83 has joined ##reddit-android-developers
+[19:58:22] <anjoyed_o0O> http authentication from mylyn needs and api key from redmine
+[19:58:24] <adamell> Mobile Reddit App or Reddit Client would be fine.
+[19:58:27] <anjoyed_o0O> or something
+[19:58:42] <anjoyed_o0O> and -> an
+[19:59:02] <adamell> in my mind they're the same thing, unless the descriptions differ.
