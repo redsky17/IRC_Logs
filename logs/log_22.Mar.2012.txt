@@ -1366,3 +1366,30 @@
 [13:39:44] <member68> I'd say we continue to use wjoe's server. when the time comes we can decide again if we want to centralise the systems
 [13:40:03] <member68> i'm getting the server no matter what as it's cheaper than my current hosting package
 [13:40:08] <wjoe> makes sense
+[13:41:07] <member68> is that ok with you, wjoe?
+[13:42:01] <jaimeh_> wjoe does have a dedicated server, but with an atom processor. It seems it has been running decently. Although redmine seems to lag at times.
+[13:42:23] ### smirk has quit the server. (Ping timeout: 245 seconds)
+[13:42:42] <TheNumb> Redmine tends to be cpu & memory intensive
+[13:42:48] <member68> i think he also runs some other stuff on there like minecraft
+[13:42:55] <member68> or was that someone else?
+[13:42:59] <wjoe> sure. don't want to make a fuss about it, just not got much free time in the next few days, so I don't want to spend loads of time on things if it's not going to be useful
+[13:43:04] <wjoe> oh, I shut down the minecraft server, but yeah
+[13:43:24] <wjoe> there's not much running on there, IRC and some other things. but yeah, the CPU is a bit weak
+[13:44:34] ### Strifebringer has joined ##reddit-android-developers
+[13:45:27] ### Avid has joined ##reddit-android-developers
+[13:45:46] <Hogofwar> oh god more tim burton movies
+[13:46:00] <wjoe> starring the same people as the others?
+[13:46:05] <Hogofwar> claymation
+[13:46:36] <Hogofwar> everybody seems to have huge eyes and look really tired
+[13:46:56] <TheNumb> Yup, Tim Burton ;d
+[13:46:59] <jaimeh_> Are you talking about this channel or the movie?
+[13:47:08] <TheNumb> jaimeh_: both I suppose.
+[13:47:13] <TheNumb> ;D
+[13:47:27] <Hogofwar> seqeuls to animated films nobody wanted
+[13:48:14] <danopia> today is not my day
+[13:48:18] <danopia> let my ID in my room
+[13:48:21] <danopia> left*
+[13:48:49] <member68> what do you need your id for? going out?
+[13:48:54] <jaimeh_> danopia: seems like you need to sleep more to get your wits
+[13:49:01] <danopia> member68, everything
+[13:49:27] <danopia> i got to the lounge then realized i needed it to 1) get in 2) print 3) get food when i was done 4) getting into my room after that
