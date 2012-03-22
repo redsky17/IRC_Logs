@@ -37,3 +37,7 @@
 [00:59:09] ### zubsani has quit the server. (Quit: Leaving.)
 [01:12:38] ### zubsani has joined ##reddit-android-developers
 [01:13:48] ### tngyn has quit the server. (Quit: Page closed)
+[01:31:32] ### zubsani has quit the server. (Quit: Leaving.)
+[01:32:59] <danopia> hey
+[01:33:16] <joholz> hellooo
+[01:35:03] ### markerz has joined ##reddit-android-developers
