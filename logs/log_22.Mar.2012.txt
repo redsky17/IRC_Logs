@@ -35,3 +35,5 @@
 [00:34:25] ### zubsani has joined ##reddit-android-developers
 [00:38:39] ### ballpointcarrot has joined ##reddit-android-developers
 [00:59:09] ### zubsani has quit the server. (Quit: Leaving.)
+[01:12:38] ### zubsani has joined ##reddit-android-developers
+[01:13:48] ### tngyn has quit the server. (Quit: Page closed)
