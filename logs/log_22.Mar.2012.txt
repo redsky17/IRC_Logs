@@ -950,3 +950,41 @@
 [09:49:38] <member68> *rest
 [09:49:38] <Hogofwar> member68, pushed to my repo
 [09:49:47] <Hogofwar> member68, will now upload when user joins
+[09:50:18] <adamell> is kentoe here?
+[09:50:37] <member68> great. that should be it for now. it logs everything and pushes it from time to time. good work :)
+[09:50:56] <Hogofwar> member68, gotta wait for red_sky to come back so he can run the updated version
+[09:51:27] <Hogofwar> might ask him to make an auto-compiler
+[09:51:33] <Hogofwar> so it's always up to date :D
+[09:51:40] <garychencool> I agree, the dev manage shouldn't have any kind of real communication problem
+[09:51:52] <adamell> member68: The project I'm going to ask you to merge with the master is drastically different. Integrating Maven with Android is hell and nothing will ever be the same until the sun explodes and frees me from this hell
+[09:52:27] <member68> what do we need maven for=
+[09:52:32] <veeti> i started using maven with my app a while back
+[09:52:33] <veeti> what's wrong?
+[09:52:39] <veeti> it was pretty easy
+[09:52:40] <garychencool> It would be better if the projects were localized more, as in the people who are working on it are remotely nearby, like in the same city, county or something like that
+[09:52:45] <adamell> Google Tasks API
+[09:52:53] <garychencool> later
+[09:52:57] ### garychencool has quit the server. (Quit: them classes)
+[09:53:33] <adamell> Tasks API = dependencies = maven
+[09:53:36] <anyonethinkingab> can i edit my redmine name?
+[09:54:06] <member68> i don't know. if it doesn't work, tell me. i can do it
+[09:54:31] <member68> adamell: why can't things just be simple for once ;)
+[09:54:41] <adamell> NEVER
+[09:54:53] <zubsani> hi member68
+[09:55:00] ### markerz has quit the server. (Read error: Connection reset by peer)
+[09:55:03] <zubsani> why we still using the old site ?
+[09:55:04] <zubsani> heheh
+[09:55:06] ### markerz has joined ##reddit-android-developers
+[09:57:08] <anyonethinkingab> member can you delete/rename my account?
+[09:57:10] <anyonethinkingab> brambram
+[09:57:12] <member68> are we? looks like i forgot tp change it
+[09:57:42] <veeti> fixed the package names
+[09:57:44] <zubsani> boom
+[09:57:49] <zubsani> that was fast!
+[09:58:25] <zubsani> thanks
+[09:58:40] <member68> brambran --> anyonethinkingab
+[09:58:45] <anyonethinkingab> -out
+[09:58:50] <anyonethinkingab> anyonethinkingabout
+[09:58:55] <member68> ok
+[09:59:13] <member68> done
+[09:59:20] <anyonethinkingab> top
