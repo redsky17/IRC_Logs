@@ -914,3 +914,39 @@
 [09:38:55] <itsKitsos> good practices, etc.
 [09:39:08] <itsKitsos> just so we dont have 50 different projects being managed completely differently
 [09:39:32] <veeti> what do you exactly mean by good practices
+[09:40:47] <garychencool> I believe he means to manage the whole projects the same as the same coding style, based on the Android Development Guidelines
+[09:40:59] <Hogofwar> oh cool
+[09:41:07] <itsKitsos> well if I were to manage a project
+[09:41:17] <Hogofwar> member68, planning anything for logbot?
+[09:41:20] <itsKitsos> i would have video-based conferences/meetings
+[09:41:24] <itsKitsos> like through skype
+[09:41:35] <danopia> (or G+)
+[09:41:47] <itsKitsos> I'm just wondering how we are going to coordinate (yes G+) consistent management styles
+[09:42:07] <itsKitsos> some managers may tend to be more involved with the group
+[09:42:10] <member68> hogofwar: automated upload to github when somebody joins?
+[09:42:15] <itsKitsos> some might tend to micromanage
+[09:42:18] <member68> the general workflow is set by redmine, gerrit and github. but PMs can decide themselves how they want to run their project. i can't tell all PMs how to do their work.
+[09:42:21] <Hogofwar> member68, heh
+[09:42:21] <adamell> Does anyone know how to start 4.0.3 via the terminal?
+[09:42:44] <veeti> my personal opinion is that project managers should have the most control of their project
+[09:42:45] <adamell> the emulator-arm, that is
+[09:42:55] <veeti> coding guidelines are something that need to be set by each project though
+[09:43:02] <veeti> the quick submit thing has spaces and tabs all mixed up already
+[09:44:38] <danopia> how many people have submitted?
+[09:45:07] <danopia> commited*
+[09:45:18] <Sanit> 3 I think
+[09:45:25] <danopia> heh
+[09:45:36] <veeti> https://github.com/RedditAndroidDev/Reddit-Quick-Submit/contributors
+[09:47:34] <Sanit> the spaces and tabs are mostly copy/pasta's by me from the web. I plan on cleaning it up soon. It is rough but working
+[09:47:48] <Sanit> what should the standard comment style be?
+[09:48:03] <Sanit> new line above what you are commenting on, or same line to the right?
+[09:48:23] <veeti> btw
+[09:48:30] <veeti> you can autoformat files in eclipse according to the ide settings
+[09:48:37] <veeti> select all and ctrl + shift + f or something
+[09:48:43] <veeti> if i remember correctly
+[09:49:02] <member68> https://github.com/taoufix/Android
+[09:49:16] <Sanit> yep, that did it
+[09:49:35] <member68> that way we all use the same formatting. just auto format and eclipse will do the rst
+[09:49:38] <member68> *rest
+[09:49:38] <Hogofwar> member68, pushed to my repo
+[09:49:47] <Hogofwar> member68, will now upload when user joins
