@@ -1673,3 +1673,67 @@
 [15:59:00] <danopia> someone say something
 [15:59:44] ### brkastner has joined ##reddit-android-developers
 [15:59:55] <deliwien> something
+[16:00:15] <danopia> there, you're on the map now :P
+[16:00:16] <aschneid> deliwien: beat me to it
+[16:00:25] <deliwien> :)
+[16:00:26] <member68> i feel like i'm being watched...
+[16:00:30] <danopia> you are
+[16:00:35] <veeti> aaaaaaaaaaa
+[16:00:40] <danopia> when you mention each other, it draws lines
+[16:00:43] <anyonethinkingab> bla bla bla
+[16:00:53] <veeti> a couple of thousand kilometers off
+[16:00:56] <anyonethinkingab> verrry nice
+[16:01:07] <danopia> i have a cloak so it can't place me
+[16:01:13] <anyonethinkingab> member68:  where are you from?
+[16:01:18] <member68> germany
+[16:01:25] <anyonethinkingab> yeah i got that by now :D
+[16:01:29] <danopia> aw, that's a cute little patch cable
+[16:01:31] <anyonethinkingab> where exactly
+[16:01:35] ### cvitullo has joined ##reddit-android-developers
+[16:01:41] <member68> nuremberg
+[16:01:43] <brkastner> I'm working on the Quick Submit project, will I always be doing development from my own fork, or will I at some point receive direct access?
+[16:01:58] <TheNumb> .
+[16:02:11] <anyonethinkingab> that's pretty far from her
+[16:02:12] <anyonethinkingab> e
+[16:02:16] <anjoyed_o0O> ..
+[16:02:34] <anyonethinkingab> brkastner
+[16:02:34] <TheNumb> It can't find me :(
+[16:02:35] <danopia> if you have a cloak or similar, it won't work
+[16:02:41] ### red_sky has quit the server. (Quit: Page closed)
+[16:02:42] <danopia> Failed update, TheNumb lacks coordinates.
+[16:02:43] <anyonethinkingab> cvitullo
+[16:02:48] <TheNumb> :D
+[16:02:49] <anyonethinkingab> danogame
+[16:02:49] <member68> brkastner, we're trying to set up gerrit. using that system everybody can push code, which is review and once it is approved, pushed back into the main code repo
+[16:02:57] <anjoyed_o0O> *Black Magic!*
+[16:02:58] <anyonethinkingab> aschneid
+[16:03:04] <brkastner> Oh okay, I had forgotten about using gerrit, my bad. Thanks for the info member68!
+[16:03:04] <anyonethinkingab> veeti
+[16:03:10] <danopia> TheNumb, you're @unaffiliated/thenumb. i twon't work
+[16:03:10] <TheNumb> Damn you, cloak :P
+[16:03:15] <anyonethinkingab> deliwien
+[16:03:20] <TheNumb> danopia: I know, I know... I have a cloak...
+[16:03:23] <danopia> TheNumb, you can remove it but i don't think the bot is smart enough to figure it out
+[16:03:29] <danopia> because it caches
+[16:03:42] <TheNumb> danopia: I'm too lazy to ask staff to remove it.
+[16:03:49] <danopia> TheNumb, no i't sjust a umode
+[16:03:53] <anyonethinkingab> what user logs that? is radlogii as well?
+[16:03:53] <TheNumb> nope
+[16:04:01] <TheNumb> danopia: you need to ask freenode staff
+[16:04:11] <danopia> oh
+[16:04:16] <danopia> TheNumb, you just log uot, is what i mean
+[16:04:20] <deliwien> can someone please remove me from the reddit quick submit app, don't have enough time for it if i'm going to be a pm for some other project and don't want to take someone elses place. :)
+[16:04:24] <anjoyed_o0O> very cool danogame
+[16:04:33] <anjoyed_o0O> danogame? danopia..
+[16:04:41] <danopia> danogame is the bot :P
+[16:04:53] ### vcarl has quit the server. (Ping timeout: 265 seconds)
+[16:05:00] ### cvitullo is now known as vcarl
+[16:05:00] <member68> deliwien, done
+[16:05:01] <anjoyed_o0O> ah. autocomplete new that :)
+[16:05:01] <danopia> i'll leave that up for a bit so you can see where everyone is
+[16:05:06] <anjoyed_o0O> *knew
+[16:05:09] <deliwien> thanks
+[16:05:23] <danopia> everything fades eventually, btw
+[16:06:08] ### rapidfyre has quit the server. (Quit: Bye)
+[16:07:35] <member68> wjoe: can you give us a status update?
+[16:08:04] ### aschneid has quit the server. (Quit: Page closed)
