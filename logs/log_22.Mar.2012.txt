@@ -197,3 +197,13 @@
 [02:59:25] <joholz> *couple
 [02:59:47] <joholz> https://github.com/Joholz/TestGit/commits/master is working
 [03:00:04] <joholz> but https://github.com/Joholz/TestGit is not
+[03:00:40] <ThatPlayer> Does show your latest commit
+[03:00:47] <joholz> unless what im looking for is to add a message instead of commit to file
+[03:00:54] <smirk> as soon as i get my general relief money ill get atleast that because i wanna give momz money for helpin me
+[03:01:20] <ThatPlayer> smirk: Nothing wrong with giving back to people who help you
+[03:01:30] <ThatPlayer> I'd know of some people of wouldn't think of doing the same
+[03:02:20] ### danopia has quit the server. (Remote host closed the connection)
+[03:02:26] <smirk> im working on a cartoon too
+[03:03:05] ### member68 has joined ##reddit-android-developers
+[03:03:11] <smirk> hope i get rich some day atleast enough to pay for a house
+[03:03:22] <member68> !Upload
