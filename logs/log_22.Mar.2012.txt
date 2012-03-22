@@ -207,3 +207,20 @@
 [03:03:05] ### member68 has joined ##reddit-android-developers
 [03:03:11] <smirk> hope i get rich some day atleast enough to pay for a house
 [03:03:22] <member68> !Upload
+[03:03:33] <member68> !Logs
+[03:03:35] <ThatPlayer> joholz: Looks like the history might take a while to update, that test copy you just added is there
+[03:04:11] <smirk> i need a computer to animate... iwas just getting started
+[03:04:14] <joholz> ThatPlayer: yea, but it should read "this si test copy"
+[03:04:38] <ThatPlayer> History of the file shows up fine though
+[03:04:38] <joholz> \i think i did it right when i did.. git commit -m "this is a test copy"
+[03:04:52] <smirk> was even gonna see my kid in fresno till i got hit
+[03:05:25] <ThatPlayer> smirk: You in California?
+[03:05:25] <joholz> ThatPlayer: yea thats true... maybe it does just take some time
+[03:06:15] <smirk> out of jail and still cant see her. but her mom is letting me write my kid letters now
+[03:06:38] <smirk> yeah long beach
+[03:06:43] <smirk> u
+[03:06:52] <smirk> ?
+[03:06:59] <ThatPlayer> la
+[03:07:27] <smirk> i grew up in pico rivera
+[03:07:50] <smirk> los angeles?
+[03:08:41] <smirk> im in lbc w/ momz
