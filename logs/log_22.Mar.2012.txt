@@ -1252,3 +1252,22 @@
 [12:58:45] <RAWR> Alright thanks, gonna reboot to linux and try them out. Brb.
 [12:59:14] <TheNumb> danopia: why?
 [12:59:22] ### RAWR has quit the server. (Quit: Leaving)
+[13:00:44] <danopia> nvm
+[13:01:07] <danopia> i shuold stop complaining here :P
+[13:03:13] <member68> finally: i can now write emails via admin@redditandroiddevelopers.com
+[13:03:35] <danopia> gmail?
+[13:04:00] <member68> no, it's part of my hosting deal
+[13:04:06] <member68> comes with the domain
+[13:05:55] <jaimeh_> member68: get subdomains working yet to use for redmine?
+[13:07:04] <member68> no, i guess we have to do without them for now. I'm in the process of upgrading to a v-server and I'll probably host all systems on one server in the future
+[13:07:24] <jaimeh_> Same host?
+[13:07:41] <member68> either that or we wait 60 days before I can transfer my domain to another registrar
+[13:07:51] <member68> v-server will be quicker though
+[13:08:06] <TheNumb> 60 days?
+[13:08:06] <TheNumb> wat?
+[13:08:07] <TheNumb> oO
+[13:08:10] <Hogofwar> (what's a v-server)
+[13:08:16] <TheNumb> Hogofwar: virtual server
+[13:08:21] <Hogofwar> A vps?
+[13:08:30] <TheNumb> I don't think so.
+[13:08:53] <jaimeh_> I believe he has a dedicated server.
