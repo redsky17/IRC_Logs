@@ -2015,3 +2015,29 @@
 [17:37:25] <Raionic> looks like 3 of us nearby
 [17:37:45] <adamell> Was it done in Ruby?
 [17:37:48] <markerz> I like the line across Europe
+[17:40:12] <jaimeh> markerz, are the girls really in competition to look the best at your school?
+[17:41:01] <adamell> jaimeh: you just described every co-ed school ever
+[17:41:21] <jaimeh> ucsb is especially bad
+[17:41:31] <djl75> adamell, NodeJS
+[17:41:39] <djl75> it's a random thing i found and fixed up a little
+[17:42:44] <ThatPlayer> http://thatplayer.com/irc.html Added more stuff becase why nont
+[17:42:52] <markerz> Yeah.  UCSB is... high up there in the rankings.  We have a quarterly Undie Run that just occurred a day or two go.  http://sbsnapshot.com/?p=1029
+[17:43:54] <djl75> anjoyed is a very aggressive person. He/She attacked others 3 times.
+[17:44:17] <adamell> we also had an undie run
+[17:44:20] <anjoyed_o0O> :)
+[17:44:23] <adamell> http://4.bp.blogspot.com/_XU9x8G7khv0/SfjHLVZ4XnI/AAAAAAAAClc/5zISXPAK6zc/s400/teeth-tom-cruise-400a071807.jpg
+[17:44:28] <djl75> top word: "think"
+[17:44:37] <anjoyed_o0O> im irish, goes with the territory
+[17:44:44] <adamell> no, it's just tom cruise
+[17:44:54] <adamell> scary tom cruise
+[17:45:01] ### adamell is now known as scary_tom_cruise
+[17:45:04] <ThatPlayer> It's a good top word =)
+[17:45:08] <jaimeh> What do the scotts do, as they all wear kilts?
+[17:45:10] ### red_sky has quit the server. (Ping timeout: 260 seconds)
+[17:45:22] <jaimeh> nude run?
+[17:46:20] <scary_tom_cruise> we have a nude bicycle thing in seattle
+[17:46:58] <scary_tom_cruise> a bunch of hippies get naked and ride bikes
+[17:47:39] <markerz> Santa Cruz has the nude run on the first rainy day or something.
+[17:48:15] ### Fizile has quit the server. (Ping timeout: 245 seconds)
+[17:48:47] ### c0smic has joined ##reddit-android-developers
+[17:49:22] ### Esge has quit the server. (Quit: You can tell the size of a man by the size of the thing that makes him mad.)
