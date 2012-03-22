@@ -1737,3 +1737,30 @@
 [16:06:08] ### rapidfyre has quit the server. (Quit: Bye)
 [16:07:35] <member68> wjoe: can you give us a status update?
 [16:08:04] ### aschneid has quit the server. (Quit: Page closed)
+[16:11:24] <smirk> anjoyed lol thats a cool name for an android developer
+[16:11:25] ### itsKitsos has quit the server. ()
+[16:11:54] <anjoyed_o0O> :)
+[16:12:17] <smirk> what u up to?
+[16:12:32] <anjoyed_o0O> right now? working on own project
+[16:12:49] <Hogofwar> http://pornfortheblind.org/
+[16:12:57] <anjoyed_o0O> android/opengl thingumebob
+[16:13:17] <smirk> word. i'll let u do that. ima watch tv
+[16:13:28] <smirk> anjoy
+[16:13:33] <anjoyed_o0O> :)
+[16:13:42] <smirk> :)
+[16:13:47] <Fault> If I want to block a key with a KeyListener, should I do it in onKeyDown or onKeyUp?
+[16:14:06] <smirk> :p
+[16:14:07] <Fault> I mean blocking from getting added to an EditText
+[16:14:23] ### jaymax has joined ##reddit-android-developers
+[16:15:59] <member68> why not use onkey ?
+[16:16:22] <joholz> fault: what you doing? trying to block eddittext?
+[16:16:53] ### lyrch has quit the server. (Remote host closed the connection)
+[16:16:56] ### Lerc has joined ##reddit-android-developers
+[16:17:42] <Fault> Trying to block input from getting to the edittext, like I only want numbers and * / - +
+[16:17:51] <Fault> But nevermind I'll figure it out
+[16:18:22] <Fault> member68: There's no keyUp method to override, only those I specified + onKeyOther
+[16:18:27] <member68> have a look at the InputType property
+[16:18:33] <jaymax|> So why isn't the tamagotchi app on the website?
+[16:18:41] <member68> for blocking input to the edittext
+[16:19:20] <jaymax|> Fault: you can set the input type for the editbox in the layout xml
+[16:19:48] <Fault> member68: Already did but wouldn't I only be able to allow numbers for example and not numbers AND  +-*/
