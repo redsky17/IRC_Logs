@@ -2256,3 +2256,10 @@
 [20:08:02] <adamell> Everything else was just icing and cookies and milk
 [20:08:27] ### Ardy_ has joined ##reddit-android-developers
 [20:09:13] ### tmoskowite has quit the server. (Ping timeout: 276 seconds)
+[20:11:50] <Ardy_> RestaurantTab = Tip Calculator?
+[20:13:26] ### c0smic has quit the server. (Quit: Leaving.)
+[20:13:57] <adamell> I remember the description being slightly more complicated than that but I can't find the original post.
+[20:14:31] <jaimeh> The biggest reason why I can't use mac is the ability to set windows always on top
+[20:14:41] <adamell> ?
+[20:18:01] <veeti> sleep ->
+[20:19:28] ### jaymax has quit the server. (Quit: Leaving)
