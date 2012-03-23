@@ -2220,3 +2220,29 @@
 [19:49:02] <shmup> i'm gonna be spammy for a bit but i mean, no noe is chatting really ;p
 [19:49:11] <shmup> if i do a git pull, and get latest, should gitt diff still show differences?
 [19:49:12] ### ballpointcarrot has quit the server. (Ping timeout: 244 seconds)
+[19:50:17] <veeti> git diff shows the changes that you've made in the repo and haven't commited
+[19:50:29] <veeti> you can use git log
+[19:50:40] <veeti> and git show (commit id) or just plain git show for the newest commit to see what it changed
+[19:51:23] <shmup> oh, hm. ah hah. it's adding in ^M to the end of my files
+[19:51:29] <shmup> or did on this one area, hm
+[19:51:33] <shmup> its showing that as a change
+[19:51:45] <shmup> silly windows. wonder which editor that was
+[19:51:47] ### WackyApples has joined ##reddit-android-developers
+[19:52:14] <veeti> eclipse uses the platform default
+[19:52:21] <WackyApples> Hi, so quick question: I'm new to the whole development process, what exactly does a project manager do?
+[19:52:24] <shmup> yeah it should have been eclipse
+[19:52:54] <veeti> uh
+[19:52:56] <veeti> you know
+[19:52:58] <veeti> manages development
+[19:52:59] <veeti> makes decisions
+[19:53:17] ### adamell has joined ##reddit-android-developers
+[19:53:31] <WackyApples> Ok, I didn't know if like, there was some like, I don't know.
+[19:53:41] ### adamell is now known as unstable_tom_cru
+[19:53:53] <jaimeh> Organizes the team, especially in these projects. The teams will most likely be international
+[19:53:57] ### unstable_tom_cru is now known as adamell
+[19:53:59] <WackyApples> That sound like more my skill set rather than, you know, Java.
+[19:55:19] <jaimeh> Well you also have to know Java to know what the developers are doing in your project
+[19:56:18] <WackyApples> I guess that's true. I suppose I'll observe until I can hit the books and understand it more.
+[19:58:03] <WackyApples> As my Java skills are barely above nill. I'm *ok* at Python.
+[19:58:05] <veeti> brb
+[19:58:59] ### lacop has quit the server. (Quit: Leaving)
