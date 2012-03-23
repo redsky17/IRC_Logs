@@ -2269,3 +2269,8 @@
 [20:34:30] ### Lonnie has joined ##reddit-android-developers
 [20:36:09] ### Lonnie is now known as LonnieC
 [20:36:22] ### phonepointcarrot has joined ##reddit-android-developers
+[20:45:28] ### red_sky has joined ##reddit-android-developers
+[20:46:13] ### c0smic has joined ##reddit-android-developers
+[20:46:38] <c0smic> hey guys
+[20:47:07] <adamell> cheers
+[20:47:56] <phonepointcarrot> Hey
