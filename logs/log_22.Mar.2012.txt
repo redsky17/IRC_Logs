@@ -2274,3 +2274,14 @@
 [20:46:38] <c0smic> hey guys
 [20:47:07] <adamell> cheers
 [20:47:56] <phonepointcarrot> Hey
+[20:50:55] <red_sky> Hey c0smic
+[20:51:51] ### markerz| has quit the server. (Ping timeout: 252 seconds)
+[20:52:51] <red_sky> My location: State College, United States
+[20:52:56] <red_sky> Whoops
+[20:53:00] ### lyrch has quit the server. (Remote host closed the connection)
+[20:53:45] <c0smic> gerrit is still getting set up, right?
+[20:54:04] <adamell> does anybody know anything about lint.xml?
+[20:54:08] ### phonepointcarrot has quit the server. (Quit: Exit, stage left.)
+[20:54:36] <adamell> nm
+[20:54:37] <adamell> http://tools.android.com/tips/lint
+[20:54:51] <red_sky> !logs
