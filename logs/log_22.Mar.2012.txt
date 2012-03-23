@@ -2264,3 +2264,8 @@
 [20:18:01] <veeti> sleep ->
 [20:19:28] ### jaymax has quit the server. (Quit: Leaving)
 [20:29:14] ### Ardy_ has quit the server. (Quit: Page closed)
+[20:30:39] ### Ramuh has quit the server. (Ping timeout: 260 seconds)
+[20:31:03] ### Ramuh has joined ##reddit-android-developers
+[20:34:30] ### Lonnie has joined ##reddit-android-developers
+[20:36:09] ### Lonnie is now known as LonnieC
+[20:36:22] ### phonepointcarrot has joined ##reddit-android-developers
