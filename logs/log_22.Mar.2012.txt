@@ -2287,3 +2287,19 @@
 [20:54:51] <red_sky> !logs
 [21:00:31] <jaimeh> How is gerrit coming along wjoe?
 [21:16:57] ### malik has joined ##reddit-android-developers
+[21:22:12] ### vcarl has joined ##reddit-android-developers
+[21:23:34] <Raionic> Sweet got my eclipse fully updated and mylyn setup
+[21:23:43] <Raionic> I'm ready
+[21:23:49] <Hiver> ugh, why does debug run so slowly? I swear I could do this on paper faster.
+[21:24:41] <Raionic> Moar RAM!
+[21:26:17] <Hiver> 6gb isn't enough for a <2k jar?!
+[21:26:49] <jaimeh> Yes... yes it is.
+[21:27:04] <jaimeh> Hiver, are you talking about running the emulator?
+[21:27:11] <Hiver> yea
+[21:27:23] <Hiver> in debug mode
+[21:27:26] <jaimeh> its a real emulator... it will always be slow ;)
+[21:27:32] <malik> The emulator is always gonna be slow
+[21:27:48] <Hiver> When I do it in regular 'run' mode it's acceptable.
+[21:27:51] <Raionic> Use your phone instead
+[21:27:53] <malik> They were working on a fix back at I/O 11 and it's still not out
+[21:28:20] <jaimeh> It is not too bad on linux for me.
