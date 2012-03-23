@@ -2285,3 +2285,4 @@
 [20:54:36] <adamell> nm
 [20:54:37] <adamell> http://tools.android.com/tips/lint
 [20:54:51] <red_sky> !logs
+[21:00:31] <jaimeh> How is gerrit coming along wjoe?
