@@ -2263,3 +2263,4 @@
 [20:14:41] <adamell> ?
 [20:18:01] <veeti> sleep ->
 [20:19:28] ### jaymax has quit the server. (Quit: Leaving)
+[20:29:14] ### Ardy_ has quit the server. (Quit: Page closed)
