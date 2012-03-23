@@ -2246,3 +2246,13 @@
 [19:58:03] <WackyApples> As my Java skills are barely above nill. I'm *ok* at Python.
 [19:58:05] <veeti> brb
 [19:58:59] ### lacop has quit the server. (Quit: Leaving)
+[20:00:18] ### markerz has quit the server. (Ping timeout: 245 seconds)
+[20:00:36] ### deliwien has quit the server. ()
+[20:01:16] <djl75> shmup, hi
+[20:01:36] <shmup> i actually forget what i said, but it's working fine now heh :)
+[20:03:55] <djl75> ok :)
+[20:04:02] <djl75> it needs a bit of work
+[20:07:43] <adamell> The #1 improvement in Lion is the auto-transparency when the terminal looses focus.
+[20:08:02] <adamell> Everything else was just icing and cookies and milk
+[20:08:27] ### Ardy_ has joined ##reddit-android-developers
+[20:09:13] ### tmoskowite has quit the server. (Ping timeout: 276 seconds)
